@@ -1,0 +1,23 @@
+# 15 - Laerm
+
+# County Title
+title = c_laerm
+
+# Settlements
+max_settlements = 7
+
+b_laerm_1 = castle
+b_laerm_2 = city
+#b_laerm_3 = temple
+#b_laerm_4 = castle
+#b_laerm_5 = city
+#b_laerm_6 = temple
+#b_laerm_7 = castle
+#b_laerm_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

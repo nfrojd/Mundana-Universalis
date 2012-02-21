@@ -1,0 +1,23 @@
+# 8 - Nol
+
+# County Title
+title = c_nol
+
+# Settlements
+max_settlements = 7
+
+b_nol_1 = castle
+b_nol_2 = city
+#b_nol_3 = temple
+#b_nol_4 = castle
+#b_nol_5 = city
+#b_nol_6 = temple
+#b_nol_7 = castle
+#b_nol_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

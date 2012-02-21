@@ -1,0 +1,23 @@
+# 59 - Eovir
+
+# County Title
+title = c_eovir
+
+# Settlements
+max_settlements = 7
+
+b_eovir_1 = castle
+b_eovir_2 = city
+#b_eovir_3 = temple
+#b_eovir_4 = castle
+#b_eovir_5 = city
+#b_eovir_6 = temple
+#b_eovir_7 = castle
+#b_eovir_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

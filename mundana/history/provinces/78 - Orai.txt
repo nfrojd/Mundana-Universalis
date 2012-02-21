@@ -1,0 +1,23 @@
+# 78 - Orai
+
+# County Title
+title = c_orai
+
+# Settlements
+max_settlements = 7
+
+b_orai_1 = castle
+b_orai_2 = city
+b_orai_3 = temple
+#b_orai_4 = castle
+#b_orai_5 = city
+#b_orai_6 = temple
+#b_orai_7 = castle
+#b_orai_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

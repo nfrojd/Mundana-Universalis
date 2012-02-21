@@ -1,0 +1,23 @@
+# 20 - Cralo
+
+# County Title
+title = c_cralo
+
+# Settlements
+max_settlements = 7
+
+b_cralo_1 = castle
+b_cralo_2 = city
+#b_cralo_3 = temple
+#b_cralo_4 = castle
+#b_cralo_5 = city
+#b_cralo_6 = temple
+#b_cralo_7 = castle
+#b_cralo_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

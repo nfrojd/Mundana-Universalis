@@ -1,0 +1,23 @@
+# 69 - Horta
+
+# County Title
+title = c_horta
+
+# Settlements
+max_settlements = 7
+
+b_horta_1 = castle
+b_horta_2 = city
+#b_horta_3 = temple
+#b_horta_4 = castle
+#b_horta_5 = city
+#b_horta_6 = temple
+#b_horta_7 = castle
+#b_horta_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

@@ -1,0 +1,3014 @@
+e_rebels = {
+	rebel = yes
+	landless = yes
+	primary = yes
+
+	culture = swedish
+	tribe = yes
+
+	color = { 0 0 0 }
+	color2 = { 0 0 0 }
+}
+
+e_pirates = {
+	pirate = yes
+	landless = yes
+	primary = yes
+
+	culture = swedish
+	tribe = yes
+
+	color = { 0 0 0 }
+	color2 = { 0 0 0 }
+}
+
+# SPECIAL TITLES
+
+k_papal_state = {
+	color = { 255 249 198 }
+	color2 = { 220 220 0 }
+	
+	capital = 1 #Colm
+	
+	title = "POPE"
+	foa = "POPE_FOA"
+	short_name = yes
+	location_ruler_title = yes
+	
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = catholic
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Regnal names
+	male_names = {
+		John Gregory Benedict Clement Innocent Leo Pius Stephen Boniface Urban Alexander Adrian Paul
+		Celestine Martin Nicholas Sixtus Felix Sergius Anastasius Honorius Eugene Sylvester Victor
+		Lucius Callixtus Julius Pelagius Adeodatus Theodore Marinus Agapetus Damasus Paschal
+		Gelasius Marcellus "John Paul" Anacletus Evaristus Telesphorus Hyginus Anicetus Mark Hilarius 
+		Simplicius Symmachus Hormisdas Silverius Vigilius Sabinian Severinus Vitalian Donus Agatho
+		Conon Sisinnius Constantine Zachary Valentine Formosus Romanus Lando
+	}
+}
+
+k_orthodox = {
+	color = { 255 198 249 }
+	color2 = { 220 220 0 }
+	
+	capital = 1 #Colm
+	
+	title = "ECUMENICAL_PATRIARCH"
+	foa = "ECUMENICAL_PATRIARCH_FOA"
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = orthodox
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Regnal names
+	male_names = {
+		Alexios Antonios Athanasios Basileios Chariton Dionysios Dositheos Eustathios Eustratios Euthymios
+		Gennadios Georgios Gerasimos Germanos Gregoras Ioannes Iosephos Isidoros Kallistos Konstantinos
+		Kosmas Leon Leontios Loukas Makarios Manuel Maximos Metrophanes Michael Neophytos Nephon Niketas
+		Nikolaos Nilos Matthaios Paulos Sergios Sisinnios Symeon Theodoros Theodosios Theodotos
+	}
+}
+
+e_sunni = {
+	color = { 40 160 40 }
+	color2 = { 220 220 0 }
+	
+	capital = 1 #Colm
+	
+	title = "CALIPH"
+	foa = "CALIPH_FOA"
+	short_name = yes
+	
+	religion = sunni
+	
+	# Controls a religion
+	controls_religion = sunni
+	
+	caliphate = yes
+}
+
+e_shiite = {
+	color = { 60 190 60 }
+	color2 = { 220 220 0 }
+	
+	capital = 1 #Colm
+	
+	title = "CALIPH"
+	foa = "CALIPH_FOA"
+	short_name = yes
+	
+	religion = shiite
+	
+	# Controls a religion
+	controls_religion = shiite
+
+	caliphate = yes
+}
+
+e_golden_horde = {
+	color = { 243 180 17 }
+	
+	capital = 1 #Colm
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+e_il-khanate = {
+	color = { 120 180 20 }
+	
+	capital = 1 #Colm
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = tengri_pagan
+}
+
+e_timurids = {
+	color = { 120 20 20 }
+	
+	capital = 1 #Colm
+	
+	# Always exists
+	landless = yes
+	
+	tribe = yes
+	
+	culture = mongol
+	religion = shiite
+}
+
+# EMPIRES
+
+e_colonian_empire = {
+	color = { 255 155 255 }
+	color2 = { 220 220 20 }
+	
+	capital = 49 #Colonan
+	
+	religion = catholic
+	culture = german
+	short_name = yes
+	
+	k_thalamur = {
+		color = { 7 6 162 }
+		color2 = { 120 255 120 }
+
+		capital = 63 #Dubaral
+
+		religion = orthodox
+		culture = russian
+
+		d_colonan = {
+			color = { 83 68 235 }
+			color2 = { 0 255 0 }
+			
+			capital = 49 #Colonan
+
+			c_colonan = {
+				color = { 105 36 214 }
+				color2 = { 0 255 0 }
+			
+				b_colonan_1 = {}
+				b_colonan_2 = {}
+				b_colonan_3 = {}
+				b_colonan_4 = {}
+				b_colonan_5 = {}
+				b_colonan_6 = {}
+				b_colonan_7 = {}
+				b_colonan_8 = {}
+			}
+			c_victaron = {
+				color = { 78 104 226 }
+				color2 = { 0 255 0 }
+			
+				b_victaron_1 = {}
+				b_victaron_2 = {}
+				b_victaron_3 = {}
+				b_victaron_4 = {}
+				b_victaron_5 = {}
+				b_victaron_6 = {}
+				b_victaron_7 = {}
+				b_victaron_8 = {}
+			}
+			c_rubis = {
+				color = { 124 74 204 }
+				color2 = { 0 255 0 }
+			
+				b_rubis_1 = {}
+				b_rubis_2 = {}
+				b_rubis_3 = {}
+				b_rubis_4 = {}
+				b_rubis_5 = {}
+				b_rubis_6 = {}
+				b_rubis_7 = {}
+				b_rubis_8 = {}
+			}
+			c_draktemplet = {
+				color = { 87 64 225 }
+				color2 = { 0 255 0 }
+			
+				b_draktemplet_1 = {}
+				b_draktemplet_2 = {}
+				b_draktemplet_3 = {}
+				b_draktemplet_4 = {}
+				b_draktemplet_5 = {}
+				b_draktemplet_6 = {}
+				b_draktemplet_7 = {}
+				b_draktemplet_8 = {}
+			}
+			c_kholon = {
+				color = { 126 126 228 }
+				color2 = { 0 255 0 }
+			
+				b_kholon_1 = {}
+				b_kholon_2 = {}
+				b_kholon_3 = {}
+				b_kholon_4 = {}
+				b_kholon_5 = {}
+				b_kholon_6 = {}
+				b_kholon_7 = {}
+				b_kholon_8 = {}
+			}
+			c_balon = {
+				color = { 93 5 201 }
+				color2 = { 0 255 0 }
+			
+				b_balon_1 = {}
+				b_balon_2 = {}
+				b_balon_3 = {}
+				b_balon_4 = {}
+				b_balon_5 = {}
+				b_balon_6 = {}
+				b_balon_7 = {}
+				b_balon_8 = {}
+			}
+
+		}
+		d_pereine = {
+			color = { 3 68 160 }
+			color2 = { 0 255 0 }
+			
+			capital = 54 #Perina
+			
+			c_perina = {
+				color = { 113 69 178 }
+				color2 = { 0 255 0 }
+			
+				b_perina_1 = {}
+				b_perina_2 = {}
+				b_perina_3 = {}
+				b_perina_4 = {}
+				b_perina_5 = {}
+				b_perina_6 = {}
+				b_perina_7 = {}
+				b_perina_8 = {}
+			}
+			c_ireda = {
+				color = { 112 60 136 }
+				color2 = { 0 255 0 }
+			
+				b_ireda_1 = {}
+				b_ireda_2 = {}
+				b_ireda_3 = {}
+				b_ireda_4 = {}
+				b_ireda_5 = {}
+				b_ireda_6 = {}
+				b_ireda_7 = {}
+				b_ireda_8 = {}
+			}
+		}
+		d_ivani = {
+			color = { 118 44 164 }
+			color2 = { 0 255 0 }
+			
+			capital = 52 #El'ivani
+			
+			c_qatada = {
+				color = { 118 47 133 }
+				color2 = { 0 255 0 }
+			
+				b_qatada_1 = {}
+				b_qatada_2 = {}
+				b_qatada_3 = {}
+				b_qatada_4 = {}
+				b_qatada_5 = {}
+				b_qatada_6 = {}
+				b_qatada_7 = {}
+				b_qatada_8 = {}
+			}
+			c_el_ivani = {
+				color = { 37 96 223 }
+				color2 = { 0 255 0 }
+			
+				b_el_ivani_1 = {}
+				b_el_ivani_2 = {}
+				b_el_ivani_3 = {}
+				b_el_ivani_4 = {}
+				b_el_ivani_5 = {}
+				b_el_ivani_6 = {}
+				b_el_ivani_7 = {}
+				b_el_ivani_8 = {}
+			}
+			c_adaluth = {
+				color = { 49 114 195 }
+				color2 = { 0 255 0 }
+			
+				b_adaluth_1 = {}
+				b_adaluth_2 = {}
+				b_adaluth_3 = {}
+				b_adaluth_4 = {}
+				b_adaluth_5 = {}
+				b_adaluth_6 = {}
+				b_adaluth_7 = {}
+				b_adaluth_8 = {}
+			}
+		}
+		d_ara = {
+			color = { 68 96 180 }
+			color2 = { 0 255 0 }
+			
+			capital = 56 #Arakh
+
+			c_ikrem = {
+				color = { 32 125 179 }
+				color2 = { 0 255 0 }
+			
+				b_ikrem_1 = {}
+				b_ikrem_2 = {}
+				b_ikrem_3 = {}
+				b_ikrem_4 = {}
+				b_ikrem_5 = {}
+				b_ikrem_6 = {}
+				b_ikrem_7 = {}
+				b_ikrem_8 = {}
+			}
+			c_arakh = {
+				color = { 77 3 216 }
+				color2 = { 0 255 0 }
+			
+				b_arakh_1 = {}
+				b_arakh_2 = {}
+				b_arakh_3 = {}
+				b_arakh_4 = {}
+				b_arakh_5 = {}
+				b_arakh_6 = {}
+				b_arakh_7 = {}
+				b_arakh_8 = {}
+			}
+			c_qarom = {
+				color = { 5 93 151 }
+				color2 = { 0 255 0 }
+			
+				b_qarom_1 = {}
+				b_qarom_2 = {}
+				b_qarom_3 = {}
+				b_qarom_4 = {}
+				b_qarom_5 = {}
+				b_qarom_6 = {}
+				b_qarom_7 = {}
+				b_qarom_8 = {}
+			}
+			c_abin_ramadh = {
+				color = { 81 124 234 }
+				color2 = { 0 255 0 }
+			
+				b_abin_ramadh_1 = {}
+				b_abin_ramadh_2 = {}
+				b_abin_ramadh_3 = {}
+				b_abin_ramadh_4 = {}
+				b_abin_ramadh_5 = {}
+				b_abin_ramadh_6 = {}
+				b_abin_ramadh_7 = {}
+				b_abin_ramadh_8 = {}
+			}
+		}
+		d_sava = {
+			color = { 123 61 160 }
+			color2 = { 0 255 0 }
+			
+			capital = 60 #Savirah
+			c_eovir = {
+				color = { 142 142 142 }
+				color2 = { 0 255 0 }
+			
+				b_eovir_1 = {}
+				b_eovir_2 = {}
+				b_eovir_3 = {}
+				b_eovir_4 = {}
+				b_eovir_5 = {}
+				b_eovir_6 = {}
+				b_eovir_7 = {}
+				b_eovir_8 = {}
+			}
+			c_savirah = {
+				color = { 52 19 129 }
+				color2 = { 0 255 0 }
+			
+				b_savirah_1 = {}
+				b_savirah_2 = {}
+				b_savirah_3 = {}
+				b_savirah_4 = {}
+				b_savirah_5 = {}
+				b_savirah_6 = {}
+				b_savirah_7 = {}
+				b_savirah_8 = {}
+			}
+			c_parash = {
+				color = { 102 93 218 }
+				color2 = { 0 255 0 }
+			
+				b_parash_1 = {}
+				b_parash_2 = {}
+				b_parash_3 = {}
+				b_parash_4 = {}
+				b_parash_5 = {}
+				b_parash_6 = {}
+				b_parash_7 = {}
+				b_parash_8 = {}
+			}
+		}
+		d_ifka = {
+			color = { 107 70 183 }
+			color2 = { 0 255 0 }
+			
+			capital = 63 #Dubaral
+			c_dubaral = {
+				color = { 16 74 253 }
+				color2 = { 0 255 0 }
+			
+				b_dubaral_1 = {}
+				b_dubaral_2 = {}
+				b_dubaral_3 = {}
+				b_dubaral_4 = {}
+				b_dubaral_5 = {}
+				b_dubaral_6 = {}
+				b_dubaral_7 = {}
+				b_dubaral_8 = {}
+			}
+			c_vastra_dubaral = {
+				color = { 99 42 221 }
+				color2 = { 0 255 0 }
+			
+				b_vastra_dubaral_1 = {}
+				b_vastra_dubaral_2 = {}
+				b_vastra_dubaral_3 = {}
+				b_vastra_dubaral_4 = {}
+				b_vastra_dubaral_5 = {}
+				b_vastra_dubaral_6 = {}
+				b_vastra_dubaral_7 = {}
+				b_vastra_dubaral_8 = {}
+			}
+			c_ifkhor = {
+				color = { 72 72 150 }
+				color2 = { 0 255 0 }
+			
+				b_ifkhor_1 = {}
+				b_ifkhor_2 = {}
+				b_ifkhor_3 = {}
+				b_ifkhor_4 = {}
+				b_ifkhor_5 = {}
+				b_ifkhor_6 = {}
+				b_ifkhor_7 = {}
+				b_ifkhor_8 = {}
+			}
+		}
+		d_taga = {
+			color = { 15 104 230 }			color2 = { 0 255 0 }
+			
+			capital = 67 #Tagada
+			c_sidra = {
+				color = { 60 47 195 }
+				color2 = { 0 255 0 }
+			
+				b_sidra_1 = {}
+				b_sidra_2 = {}
+				b_sidra_3 = {}
+				b_sidra_4 = {}
+				b_sidra_5 = {}
+				b_sidra_6 = {}
+				b_sidra_7 = {}
+				b_sidra_8 = {}
+			}
+			c_khor = {
+				color = { 120 29 249 }
+				color2 = { 0 255 0 }
+			
+				b_khor_1 = {}
+				b_khor_2 = {}
+				b_khor_3 = {}
+				b_khor_4 = {}
+				b_khor_5 = {}
+				b_khor_6 = {}
+				b_khor_7 = {}
+				b_khor_8 = {}
+			}
+			c_tagada = {
+				color = { 60 103 185 }
+				color2 = { 0 255 0 }
+			
+				b_tagada_1 = {}
+				b_tagada_2 = {}
+				b_tagada_3 = {}
+				b_tagada_4 = {}
+				b_tagada_5 = {}
+				b_tagada_6 = {}
+				b_tagada_7 = {}
+				b_tagada_8 = {}
+			}
+			c_ifar = {
+				color = { 83 117 252 }
+				color2 = { 0 255 0 }
+			
+				b_ifar_1 = {}
+				b_ifar_2 = {}
+				b_ifar_3 = {}
+				b_ifar_4 = {}
+				b_ifar_5 = {}
+				b_ifar_6 = {}
+				b_ifar_7 = {}
+				b_ifar_8 = {}
+			}
+		}
+		d_kovos	= {
+			color = { 51 59 210 }
+			color2 = { 0 255 0 }
+			
+			capital = 72 #Khovsosh
+			c_horta = {
+				color = { 94 91 178 }
+				color2 = { 0 255 0 }
+			
+				b_horta_1 = {}
+				b_horta_2 = {}
+				b_horta_3 = {}
+				b_horta_4 = {}
+				b_horta_5 = {}
+				b_horta_6 = {}
+				b_horta_7 = {}
+				b_horta_8 = {}
+			}
+			c_mashoro = {
+				color = { 69 113 250 }
+				color2 = { 0 255 0 }
+			
+				b_mashoro_1 = {}
+				b_mashoro_2 = {}
+				b_mashoro_3 = {}
+				b_mashoro_4 = {}
+				b_mashoro_5 = {}
+				b_mashoro_6 = {}
+				b_mashoro_7 = {}
+				b_mashoro_8 = {}
+			}
+			c_ivida = {
+				color = { 36 44 148 }
+				color2 = { 0 255 0 }
+			
+				b_ivida_1 = {}
+				b_ivida_2 = {}
+				b_ivida_3 = {}
+				b_ivida_4 = {}
+				b_ivida_5 = {}
+				b_ivida_6 = {}
+				b_ivida_7 = {}
+				b_ivida_8 = {}
+			}
+			c_khovsosh = {
+				color = { 1 118 175 }
+				color2 = { 0 255 0 }
+			
+				b_khovsosh_1 = {}
+				b_khovsosh_2 = {}
+				b_khovsosh_3 = {}
+				b_khovsosh_4 = {}
+				b_khovsosh_5 = {}
+				b_khovsosh_6 = {}
+				b_khovsosh_7 = {}
+				b_khovsosh_8 = {}
+			}
+			c_arah = {
+				color = { 6 84 172 }
+				color2 = { 0 255 0 }
+			
+				b_arah_1 = {}
+				b_arah_2 = {}
+				b_arah_3 = {}
+				b_arah_4 = {}
+				b_arah_5 = {}
+				b_arah_6 = {}
+				b_arah_7 = {}
+				b_arah_8 = {}
+			}
+			c_ragash = {
+				color = { 30 1 227 }
+				color2 = { 0 255 0 }
+			
+				b_ragash_1 = {}
+				b_ragash_2 = {}
+				b_ragash_3 = {}
+				b_ragash_4 = {}
+				b_ragash_5 = {}
+				b_ragash_6 = {}
+				b_ragash_7 = {}
+				b_ragash_8 = {}
+			}
+		}
+		d_egor = {
+			color = { 74 88 177 }
+			color2 = { 0 255 0 }
+			
+			capital = 81 #Abin-Thukor
+			c_tav_sezhi = {
+				color = { 91 49 194 }
+				color2 = { 0 255 0 }
+			
+				b_tav_sezhi_1 = {}
+				b_tav_sezhi_2 = {}
+				b_tav_sezhi_3 = {}
+				b_tav_sezhi_4 = {}
+				b_tav_sezhi_5 = {}
+				b_tav_sezhi_6 = {}
+				b_tav_sezhi_7 = {}
+				b_tav_sezhi_8 = {}
+			}
+			c_es_holi = {
+				color = { 84 23 195 }
+				color2 = { 0 255 0 }
+			
+				b_es_holi_1 = {}
+				b_es_holi_2 = {}
+				b_es_holi_3 = {}
+				b_es_holi_4 = {}
+				b_es_holi_5 = {}
+				b_es_holi_6 = {}
+				b_es_holi_7 = {}
+				b_es_holi_8 = {}
+			}
+			c_el_egor = {
+				color = { 30 22 190 }
+				color2 = { 0 255 0 }
+			
+				b_el_egor_1 = {}
+				b_el_egor_2 = {}
+				b_el_egor_3 = {}
+				b_el_egor_4 = {}
+				b_el_egor_5 = {}
+				b_el_egor_6 = {}
+				b_el_egor_7 = {}
+				b_el_egor_8 = {}
+			}
+			c_orai = {
+				color = { 66 76 132 }
+				color2 = { 0 255 0 }
+			
+				b_orai_1 = {}
+				b_orai_2 = {}
+				b_orai_3 = {}
+				b_orai_4 = {}
+				b_orai_5 = {}
+				b_orai_6 = {}
+				b_orai_7 = {}
+				b_orai_8 = {}
+			}
+			c_valash = {
+				color = { 33 51 165 }
+				color2 = { 0 255 0 }
+			
+				b_valash_1 = {}
+				b_valash_2 = {}
+				b_valash_3 = {}
+				b_valash_4 = {}
+				b_valash_5 = {}
+				b_valash_6 = {}
+				b_valash_7 = {}
+				b_valash_8 = {}
+			}
+			c_sirmon = {
+				color = { 27 64 184 }
+				color2 = { 0 255 0 }
+			
+				b_sirmon_1 = {}
+				b_sirmon_2 = {}
+				b_sirmon_3 = {}
+				b_sirmon_4 = {}
+				b_sirmon_5 = {}
+				b_sirmon_6 = {}
+				b_sirmon_7 = {}
+				b_sirmon_8 = {}
+			}
+			c_abin_thukor = {
+				color = { 66 37 177 }
+				color2 = { 0 255 0 }
+			
+				b_abin_thukor_1 = {}
+				b_abin_thukor_2 = {}
+				b_abin_thukor_3 = {}
+				b_abin_thukor_4 = {}
+				b_abin_thukor_5 = {}
+				b_abin_thukor_6 = {}
+				b_abin_thukor_7 = {}
+				b_abin_thukor_8 = {}
+			}
+		}
+	}
+	k_consaber = {
+		color = { 208 83 121 }
+		color2 = { 220 220 20 }
+
+		capital = 17 #Calnia
+
+		d_uriens = {
+			color = { 212 109 4 }
+			color2 = { 0 255 0 }
+			
+			capital = 26 #Cretén
+			c_alni = {
+				color = { 165 114 74 }
+				color2 = { 0 255 0 }
+			
+				b_alni_1 = {}
+				b_alni_2 = {}
+				b_alni_3 = {}
+				b_alni_4 = {}
+				b_alni_5 = {}
+				b_alni_6 = {}
+				b_alni_7 = {}
+				b_alni_8 = {}
+			}
+			c_baton = {
+				color = { 143 49 12 }
+				color2 = { 0 255 0 }
+			
+				b_baton_1 = {}
+				b_baton_2 = {}
+				b_baton_3 = {}
+				b_baton_4 = {}
+				b_baton_5 = {}
+				b_baton_6 = {}
+				b_baton_7 = {}
+				b_baton_8 = {}
+			}
+			c_creten = {
+				color = { 194 16 89 }
+				color2 = { 0 255 0 }
+			
+				b_creten_1 = {}
+				b_creten_2 = {}
+				b_creten_3 = {}
+				b_creten_4 = {}
+				b_creten_5 = {}
+				b_creten_6 = {}
+				b_creten_7 = {}
+				b_creten_8 = {}
+			}
+			c_uriens = {
+				color = { 185 95 69 }
+				color2 = { 0 255 0 }
+			
+				b_uriens_1 = {}
+				b_uriens_2 = {}
+				b_uriens_3 = {}
+				b_uriens_4 = {}
+				b_uriens_5 = {}
+				b_uriens_6 = {}
+				b_uriens_7 = {}
+				b_uriens_8 = {}
+			}
+			c_firina = {
+				color = { 220 125 15 }
+				color2 = { 0 255 0 }
+			
+				b_firina_1 = {}
+				b_firina_2 = {}
+				b_firina_3 = {}
+				b_firina_4 = {}
+				b_firina_5 = {}
+				b_firina_6 = {}
+				b_firina_7 = {}
+				b_firina_8 = {}
+			}
+			c_nantien = {
+				color = { 173 3 73 }
+				color2 = { 0 255 0 }
+			
+				b_nantien_1 = {}
+				b_nantien_2 = {}
+				b_nantien_3 = {}
+				b_nantien_4 = {}
+				b_nantien_5 = {}
+				b_nantien_6 = {}
+				b_nantien_7 = {}
+				b_nantien_8 = {}
+			}
+			c_seredan = {
+				color = { 186 16 120 }
+				color2 = { 0 255 0 }
+			
+				b_seredan_1 = {}
+				b_seredan_2 = {}
+				b_seredan_3 = {}
+				b_seredan_4 = {}
+				b_seredan_5 = {}
+				b_seredan_6 = {}
+				b_seredan_7 = {}
+				b_seredan_8 = {}
+			}
+			c_rinya = {
+				color = { 246 83 19 }
+				color2 = { 0 255 0 }
+			
+				b_rinya_1 = {}
+				b_rinya_2 = {}
+				b_rinya_3 = {}
+				b_rinya_4 = {}
+				b_rinya_5 = {}
+				b_rinya_6 = {}
+				b_rinya_7 = {}
+				b_rinya_8 = {}
+			}
+		}
+		d_calana = {
+			color = { 205 125 48 }
+			color2 = { 0 255 0 }
+			
+			capital = 17 #Calnia
+			c_calnia = {
+				color = { 226 116 17 }
+				color2 = { 0 255 0 }
+			
+				b_calnia_1 = {}
+				b_calnia_2 = {}
+				b_calnia_3 = {}
+				b_calnia_4 = {}
+				b_calnia_5 = {}
+				b_calnia_6 = {}
+				b_calnia_7 = {}
+				b_calnia_8 = {}
+			}
+			c_uter = {
+				color = { 165 65 33 }
+				color2 = { 0 255 0 }
+			
+				b_uter_1 = {}
+				b_uter_2 = {}
+				b_uter_3 = {}
+				b_uter_4 = {}
+				b_uter_5 = {}
+				b_uter_6 = {}
+				b_uter_7 = {}
+				b_uter_8 = {}
+			}
+			c_agant = {
+				color = { 134 81 17 }
+				color2 = { 0 255 0 }
+			
+				b_agant_1 = {}
+				b_agant_2 = {}
+				b_agant_3 = {}
+				b_agant_4 = {}
+				b_agant_5 = {}
+				b_agant_6 = {}
+				b_agant_7 = {}
+				b_agant_8 = {}
+			}
+			c_cralo = {
+				color = { 243 12 74 }
+				color2 = { 0 255 0 }
+			
+				b_cralo_1 = {}
+				b_cralo_2 = {}
+				b_cralo_3 = {}
+				b_cralo_4 = {}
+				b_cralo_5 = {}
+				b_cralo_6 = {}
+				b_cralo_7 = {}
+				b_cralo_8 = {}
+			}
+			c_narec = {
+				color = { 212 117 12 }
+				color2 = { 0 255 0 }
+			
+				b_narec_1 = {}
+				b_narec_2 = {}
+				b_narec_3 = {}
+				b_narec_4 = {}
+				b_narec_5 = {}
+				b_narec_6 = {}
+				b_narec_7 = {}
+				b_narec_8 = {}
+			}
+			c_skywif = {
+				color = { 140 59 118 }
+				color2 = { 0 255 0 }
+			
+				b_skywif_1 = {}
+				b_skywif_2 = {}
+				b_skywif_3 = {}
+				b_skywif_4 = {}
+				b_skywif_5 = {}
+				b_skywif_6 = {}
+				b_skywif_7 = {}
+				b_skywif_8 = {}
+			}
+			c_felosi = {
+				color = { 175 60 102 }
+				color2 = { 0 255 0 }
+			
+				b_felosi_1 = {}
+				b_felosi_2 = {}
+				b_felosi_3 = {}
+				b_felosi_4 = {}
+				b_felosi_5 = {}
+				b_felosi_6 = {}
+				b_felosi_7 = {}
+				b_felosi_8 = {}
+			}
+		}
+		d_turina = {
+			color = { 153 22 20 }
+			color2 = { 0 255 0 }
+			
+			capital = 9 #Turin
+			c_turin = {
+				color = { 157 118 47 }
+				color2 = { 0 255 0 }
+			
+				b_turin_1 = {}
+				b_turin_2 = {}
+				b_turin_3 = {}
+				b_turin_4 = {}
+				b_turin_5 = {}
+				b_turin_6 = {}
+				b_turin_7 = {}
+				b_turin_8 = {}
+			}
+			c_nol = {
+				color = { 253 36 103 }
+				color2 = { 0 255 0 }
+			
+				b_nol_1 = {}
+				b_nol_2 = {}
+				b_nol_3 = {}
+				b_nol_4 = {}
+				b_nol_5 = {}
+				b_nol_6 = {}
+				b_nol_7 = {}
+				b_nol_8 = {}
+			}
+			c_ebrin = {
+				color = { 200 110 2 }
+				color2 = { 0 255 0 }
+			
+				b_ebrin_1 = {}
+				b_ebrin_2 = {}
+				b_ebrin_3 = {}
+				b_ebrin_4 = {}
+				b_ebrin_5 = {}
+				b_ebrin_6 = {}
+				b_ebrin_7 = {}
+				b_ebrin_8 = {}
+			}
+		}
+		d_negaidh = {
+			color = { 152 98 59 }
+			color2 = { 0 255 0 }
+			
+			capital = 13 #Tresna
+			c_alcheg = {
+				color = { 163 50 106 }
+				color2 = { 0 255 0 }
+			
+				b_alcheg_1 = {}
+				b_alcheg_2 = {}
+				b_alcheg_3 = {}
+				b_alcheg_4 = {}
+				b_alcheg_5 = {}
+				b_alcheg_6 = {}
+				b_alcheg_7 = {}
+				b_alcheg_8 = {}
+			}
+			c_laerm = {
+				color = { 129 55 9 }
+				color2 = { 0 255 0 }
+			
+				b_laerm_1 = {}
+				b_laerm_2 = {}
+				b_laerm_3 = {}
+				b_laerm_4 = {}
+				b_laerm_5 = {}
+				b_laerm_6 = {}
+				b_laerm_7 = {}
+				b_laerm_8 = {}
+			}
+			c_negin = {
+				color = { 174 70 49 }
+				color2 = { 0 255 0 }
+			
+				b_negin_1 = {}
+				b_negin_2 = {}
+				b_negin_3 = {}
+				b_negin_4 = {}
+				b_negin_5 = {}
+				b_negin_6 = {}
+				b_negin_7 = {}
+				b_negin_8 = {}
+			}
+			c_tresna = {
+				color = { 131 55 39 }
+				color2 = { 0 255 0 }
+			
+				b_tresna_1 = {}
+				b_tresna_2 = {}
+				b_tresna_3 = {}
+				b_tresna_4 = {}
+				b_tresna_5 = {}
+				b_tresna_6 = {}
+				b_tresna_7 = {}
+				b_tresna_8 = {}
+			}
+			c_flarne = {
+				color = { 177 81 97 }
+				color2 = { 0 255 0 }
+			
+				b_flarne_1 = {}
+				b_flarne_2 = {}
+				b_flarne_3 = {}
+				b_flarne_4 = {}
+				b_flarne_5 = {}
+				b_flarne_6 = {}
+				b_flarne_7 = {}
+				b_flarne_8 = {}
+			}
+			c_arsacke = {
+				color = { 128 44 3 }
+				color2 = { 0 255 0 }
+			
+				b_arsacke_1 = {}
+				b_arsacke_2 = {}
+				b_arsacke_3 = {}
+				b_arsacke_4 = {}
+				b_arsacke_5 = {}
+				b_arsacke_6 = {}
+				b_arsacke_7 = {}
+				b_arsacke_8 = {}
+			}
+		}
+		d_nensema = {
+			color = { 171 125 119 }
+			color2 = { 0 255 0 }
+			
+			capital = 2 #Vimna
+
+			c_colm = {
+				color = { 214 72 43 }
+				color2 = { 0 255 0 }
+			
+				b_colm_1 = {}
+				b_colm_2 = {}
+				b_colm_3 = {}
+				b_colm_4 = {}
+				b_colm_5 = {}
+				b_colm_6 = {}
+				b_colm_7 = {}
+				b_colm_8 = {}
+			}
+			c_rim = {
+				color = { 162 120 104 }
+				color2 = { 0 255 0 }
+			
+				b_rim_1 = {}
+				b_rim_2 = {}
+				b_rim_3 = {}
+				b_rim_4 = {}
+				b_rim_5 = {}
+				b_rim_6 = {}
+				b_rim_7 = {}
+				b_rim_8 = {}
+			}
+			c_vimna = {
+				color = { 212 67 79 }
+				color2 = { 0 255 0 }
+			
+				b_vimna_1 = {}
+				b_vimna_2 = {}
+				b_vimna_3 = {}
+				b_vimna_4 = {}
+				b_vimna_5 = {}
+				b_vimna_6 = {}
+				b_vimna_7 = {}
+				b_vimna_8 = {}
+			}
+			c_tarna = {
+				color = { 199 6 54 }
+				color2 = { 0 255 0 }
+			
+				b_tarna_1 = {}
+				b_tarna_2 = {}
+				b_tarna_3 = {}
+				b_tarna_4 = {}
+				b_tarna_5 = {}
+				b_tarna_6 = {}
+				b_tarna_7 = {}
+				b_tarna_8 = {}
+			}
+			c_nensen = {
+				color = { 210 19 35 }
+				color2 = { 0 255 0 }
+			
+				b_nensen_1 = {}
+				b_nensen_2 = {}
+				b_nensen_3 = {}
+				b_nensen_4 = {}
+				b_nensen_5 = {}
+				b_nensen_6 = {}
+				b_nensen_7 = {}
+				b_nensen_8 = {}
+			}
+			c_prowe = {
+				color = { 242 110 37 }
+				color2 = { 0 255 0 }
+			
+				b_prowe_1 = {}
+				b_prowe_2 = {}
+				b_prowe_3 = {}
+				b_prowe_4 = {}
+				b_prowe_5 = {}
+				b_prowe_6 = {}
+				b_prowe_7 = {}
+				b_prowe_8 = {}
+			}
+			c_ramnesney = {
+				color = { 231 39 89 }
+				color2 = { 0 255 0 }
+			
+				b_ramnesney_1 = {}
+				b_ramnesney_2 = {}
+				b_ramnesney_3 = {}
+				b_ramnesney_4 = {}
+				b_ramnesney_5 = {}
+				b_ramnesney_6 = {}
+				b_ramnesney_7 = {}
+				b_ramnesney_8 = {}
+			}
+		}
+	}
+	k_tokon = {
+		color = { 117 237 40 }
+		color2 = { 220 220 20 }
+
+		capital = 32 #Intouk
+
+		d_tokon = {
+			color = { 116 162 17 }
+			color2 = { 0 255 0 }
+			
+			capital = 32 #Intouk
+			c_intouk = {
+				color = { 114 155 83 }
+				color2 = { 0 255 0 }
+			
+				b_intouk_1 = {}
+				b_intouk_2 = {}
+				b_intouk_3 = {}
+				b_intouk_4 = {}
+				b_intouk_5 = {}
+				b_intouk_6 = {}
+				b_intouk_7 = {}
+				b_intouk_8 = {}
+			}
+			c_debhean = {
+				color = { 4 226 67 }
+				color2 = { 0 255 0 }
+			
+				b_debhean_1 = {}
+				b_debhean_2 = {}
+				b_debhean_3 = {}
+				b_debhean_4 = {}
+				b_debhean_5 = {}
+				b_debhean_6 = {}
+				b_debhean_7 = {}
+				b_debhean_8 = {}
+			}
+			c_ailleidh = {
+				color = { 47 140 73 }
+				color2 = { 0 255 0 }
+			
+				b_ailleidh_1 = {}
+				b_ailleidh_2 = {}
+				b_ailleidh_3 = {}
+				b_ailleidh_4 = {}
+				b_ailleidh_5 = {}
+				b_ailleidh_6 = {}
+				b_ailleidh_7 = {}
+				b_ailleidh_8 = {}
+			}
+			c_feleidh = {
+				color = { 2 169 89 }
+				color2 = { 0 255 0 }
+			
+				b_feleidh_1 = {}
+				b_feleidh_2 = {}
+				b_feleidh_3 = {}
+				b_feleidh_4 = {}
+				b_feleidh_5 = {}
+				b_feleidh_6 = {}
+				b_feleidh_7 = {}
+				b_feleidh_8 = {}
+			}
+			c_eirach = {
+				color = { 106 208 116 }
+				color2 = { 0 255 0 }
+			
+				b_eirach_1 = {}
+				b_eirach_2 = {}
+				b_eirach_3 = {}
+				b_eirach_4 = {}
+				b_eirach_5 = {}
+				b_eirach_6 = {}
+				b_eirach_7 = {}
+				b_eirach_8 = {}
+			}
+			c_tain = {
+				color = { 19 189 39 }
+				color2 = { 0 255 0 }
+			
+				b_tain_1 = {}
+				b_tain_2 = {}
+				b_tain_3 = {}
+				b_tain_4 = {}
+				b_tain_5 = {}
+				b_tain_6 = {}
+				b_tain_7 = {}
+				b_tain_8 = {}
+			}
+			c_drakskogarna = {
+				color = { 0 234 90 }
+				color2 = { 0 255 0 }
+			
+				b_drakskogarna_1 = {}
+				b_drakskogarna_2 = {}
+				b_drakskogarna_3 = {}
+				b_drakskogarna_4 = {}
+				b_drakskogarna_5 = {}
+				b_drakskogarna_6 = {}
+				b_drakskogarna_7 = {}
+				b_drakskogarna_8 = {}
+			}
+		}
+		d_alarinn = {
+			color = { 78 136 116 }
+			color2 = { 0 255 0 }
+		
+			capital = 41 #Västlanden
+			
+			c_nordlanden = {
+				color = { 18 173 74 }
+				color2 = { 0 255 0 }
+			
+				b_nordlanden_1 = {}
+				b_nordlanden_2 = {}
+				b_nordlanden_3 = {}
+				b_nordlanden_4 = {}
+				b_nordlanden_5 = {}
+				b_nordlanden_6 = {}
+				b_nordlanden_7 = {}
+				b_nordlanden_8 = {}
+			}
+			c_hoglanden = {
+				color = { 119 198 106 }
+				color2 = { 0 255 0 }
+			
+				b_hoglanden_1 = {}
+				b_hoglanden_2 = {}
+				b_hoglanden_3 = {}
+				b_hoglanden_4 = {}
+				b_hoglanden_5 = {}
+				b_hoglanden_6 = {}
+				b_hoglanden_7 = {}
+				b_hoglanden_8 = {}
+			}
+			c_siana = {
+				color = { 30 227 32 }
+				color2 = { 0 255 0 }
+			
+				b_siana_1 = {}
+				b_siana_2 = {}
+				b_siana_3 = {}
+				b_siana_4 = {}
+				b_siana_5 = {}
+				b_siana_6 = {}
+				b_siana_7 = {}
+				b_siana_8 = {}
+			}
+			c_vastlanden = {
+				color = { 113 164 104 }
+				color2 = { 0 255 0 }
+			
+				b_vastlanden_1 = {}
+				b_vastlanden_2 = {}
+				b_vastlanden_3 = {}
+				b_vastlanden_4 = {}
+				b_vastlanden_5 = {}
+				b_vastlanden_6 = {}
+				b_vastlanden_7 = {}
+				b_vastlanden_8 = {}
+			}
+			c_sydlanden = {
+				color = { 47 159 106 }
+				color2 = { 0 255 0 }
+			
+				b_sydlanden_1 = {}
+				b_sydlanden_2 = {}
+				b_sydlanden_3 = {}
+				b_sydlanden_4 = {}
+				b_sydlanden_5 = {}
+				b_sydlanden_6 = {}
+				b_sydlanden_7 = {}
+				b_sydlanden_8 = {}
+			}
+		}
+	}
+}
+
+# TITULAR DUCHIES
+	d_abbasid = {
+		color = { 19 180 16 }
+	}
+	d_arabs = {
+		color = { 38 157 35 }
+		culture = bedouin_arabic
+	}
+	d_assassin = {
+		color = { 58 97 57 }
+	}
+	d_balearic = {
+		color = { 13 170 54 }
+	}
+	d_belgrade = {
+		color = { 151 125 62 }
+	}
+	d_bergen = {
+		color = { 47 27 255 }
+	}
+	d_bordeaux = {
+		color = { 59 15 248 }
+	}
+	d_braganza = {
+		color = { 219 195 35 }
+	}
+	d_butrinto = {
+		color = { 148 68 154 }
+	}
+	d_campania = {
+		color = { 226 204 228 }
+	}
+	d_catalonia = {
+		color = { 255 210 57 }
+	}
+	d_chaldea = {
+		color = { 107 159 41 }
+	}
+	d_cumberland = {
+		color = { 31 186 244 }
+	}
+	d_curonian = {
+		color = { 141 55 29 }
+		
+		tribe = yes
+		
+		capital = 1 #Colm
+		culture = lettigallish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_don = {
+		color = { 247 211 116 }
+	}
+	d_dorostotum = {
+		color = { 163 48 206 }
+	}
+	d_el_rif = {
+		color = { 29 241 64 }
+	}
+	d_el-arish = {
+		color = { 148 206 13 }
+	}
+	d_erzerum = {
+		color = { 103 84 255 }
+	}
+	d_estonia = {
+		color = { 94 60 22 }
+		
+		capital = 1 #Colm
+		
+		tribe = yes
+		
+		culture = ugricbaltic
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_galatia = {
+		color = { 244 75 185 }
+	}
+	d_georgia = {
+		color = { 251 184 184 }
+	}
+	d_gilan = {
+		color = { 65 90 137 }
+	}
+	d_hellas = {
+		color = { 213 73 165 }
+	}
+	d_ikonion = {
+		color = { 179 28 127 }
+	}
+	d_ingers = {
+		color = { 125 125 40 }
+		
+		tribe = yes
+		
+		culture = finnish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_kajaneborg = {
+		color = { 123 73 13 }
+		
+		tribe = yes
+		
+		culture = finnish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_kappadokia = {
+		color = { 255 3 170 }
+	}
+	d_karnten = {
+		color = { 229 254 242 }
+	}
+	d_kexholm = {
+		color = { 121 98 20 }
+		
+		tribe = yes
+		
+		culture = finnish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_khazars = {
+		color = { 246 217 137 }
+	}
+	d_kirkuk = {
+		color = { 142 182 255 }
+	}
+	d_kola = {
+		color = { 146 36 36 }
+		
+		tribe = yes
+		
+		culture = lappish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+		
+	}
+	d_krakow = {
+		color = { 253 129 129 }
+	}
+	d_laodikeia = {
+		color = { 163 52 125 }
+	}
+	d_lettigalians = {
+		color = { 126 51 51 }
+		
+		tribe = yes
+		
+		culture = lettigallish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_luristan = {
+		color = { 77 114 183 }
+	}
+	d_lut = {
+		color = { 119 170 29 }
+	}
+	d_lykia = {
+		color = { 121 42 93 }
+	}
+	d_mar = {
+		color = { 16 211 246 }
+	}
+	d_medina = {
+		color = { 163 254 56 }
+	}
+	d_milano = {
+		color = { 252 238 227 }
+	}
+	d_minsk = {
+		color = { 175 44 44 }
+	}
+	d_mordvins = {
+		color = { 128 133 104 }
+	}
+	d_nikomedeia = {
+		color = { 209 108 174 }
+	}
+	d_pechenegs = {
+		color = { 173 150 43 }
+		color2 = { 0 128 128 }
+		
+		tribe = yes
+		culture = pecheneg
+	}
+	d_pressburg = {
+		color = { 218 70 70 }
+	}
+	d_pronsk = {
+		color = { 23 132 81 }
+	}
+	d_pruthenians = {
+		color = { 159 195 75 }
+		
+		tribe = yes
+		
+		capital = 1 #Colm
+		culture = prussian
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+		
+	}
+	d_qom = {
+		color = { 188 229 116 }
+	}
+	d_romagna = {
+		color = { 243 234 157 }
+	}
+	d_the_isles = {
+		color = { 10 48 243 }
+		color2 = { 0 255 0 }
+	}
+	d_salamanca = {
+		color = { 251 229 34 }
+	}
+	
+	d_sames = {
+		# Actually Samoyeds
+		color = { 91 60 24 }
+		
+		tribe = yes
+		
+		culture = komi
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+		
+	}
+	d_sandomiersk = {
+		color = { 253 137 137 }
+	}
+	d_satakunta = {
+		color = { 117 47 47 }
+		
+		tribe = yes
+		
+		culture = finnish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+		
+	}
+	d_shiraz = {
+		color = { 155 189 97 }
+	}
+	d_sinope = {
+		color = { 255 6 172 }
+	}
+	d_sistan = {
+		color = { 103 123 68 }
+	}
+	d_slovakia = {
+		color = { 209 61 61 }
+	}
+	d_swiss = {
+		color = { 255 1 1 }
+	}
+	d_tavasts = {
+		color = { 131 21 21 }
+		
+		tribe = yes
+		
+		culture = finnish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_turkmens = {
+		color = { 143 121 33 }
+		culture = turkish
+	}
+	d_ural = {
+		color = { 208 178 78 }
+	}
+	d_varna = {
+		color = { 208 93 251 }
+	}
+	d_wielkopolska = {
+		color = { 252 144 144 }
+	}
+	d_vlachs = {
+		color = { 239 193 70 }
+	}
+	d_volga = {
+		color = { 168 135 47 }
+	}
+	d_votes = {
+		color = { 0 193 119 }
+		
+		tribe = yes
+		
+		culture = finnish
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+		
+	}
+	d_yatviags = {
+		color = { 149 97 97 }
+		
+		tribe = yes
+		
+		culture = lithuanian
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+	}
+	d_zara = {
+		color = { 203 217 255 }
+	}
+	d_zaragoza = {
+		color = { 80 220 10 }
+	}
+	d_zemigalians = {
+		color = { 183 21 21 }
+		culture = lettigallish
+		tribe = yes
+		
+		title = "HIGH_CHIEF"
+		foa = "HIGH_CHIEF_FOA"
+		title_prefix = "TRIBE_OF"
+		
+	}
+	
+# TITULAR KINGDOMS
+
+	k_almohad = {
+		color = { 0 105 56 }
+	}
+	k_al-murabitids = {
+		color = { 10 105 56 }
+	}
+	k_aydin = {
+		color = { 238 43 172 }
+	}
+	k_cyprus = {
+		color = { 85 138 236 }
+	}
+	k_beni_helal = {
+		color = { 128 163 56 }
+	}
+	k_candar = {
+		color = { 238 79 182 }
+		culture = turkish
+	}
+	k_cuman = {
+		color = { 231 192 88 }
+		
+		culture = cuman
+		tribe = yes
+		
+	}
+	k_eretnid = {
+		color = { 253 182 182 }
+	}
+	k_fatimids = {
+		color = { 10 140 4 }
+		color2 = { 200 200 0 }
+		capital = 1 #Colm
+		culture = egyptian_arabic
+	}
+	k_germiyan = {
+		color = { 255 180 180 }
+	}
+	k_hammadid = {
+		color = { 149 180 17 }
+	}
+	k_kafsid = {
+		color = { 109 130 20 }
+	}
+	k_karaman = {
+		color = { 120 41 92 }
+		culture = turkish
+	}
+	k_marinid = {
+		color = { 46 255 5 }
+	}
+	k_mentese = {
+		color = { 60 130 20 }
+		culture = turkish
+	}
+	k_naples = {
+		color = { 228 227 252 }
+		capital = 1 #Colm
+		
+		culture = italian
+	}
+	k_navarra = {
+		color = { 150 120 5 }
+		capital = 1 #Colm
+		
+		culture = basque
+	}
+	k_bosnia = {
+		color = { 16 125 74 }
+		culture = serbian
+	}
+	k_nubia = {
+		color = { 161 172 86 }
+		capital = 1 #Colm
+	}
+	k_ottoman = {
+		color = { 247 145 30 }
+		culture = turkish
+	}
+	k_qarakhnid = {
+		color = { 39 138 51 }
+	}
+	k_rum = {
+		color = { 144 182 161 }
+		culture = turkish
+	}
+	k_saruhan = {
+		color = { 1441 171 225 }
+		culture = turkish
+	}
+	k_seljuk_turks = {
+		color = { 99 168 74 }
+		color2 = { 200 200 0 }
+		capital = 1 #Colm
+		culture = turkish
+	}
+	k_spanish_galicia = {
+		color = { 255 224 94 }
+		capital = 1 #Colm
+		culture = castillan
+	}
+	k_tekke = {
+		color = { 244 153 189 }
+	}
+	k_trebizond = {
+		color = { 100 151 33 }
+		capital = 1 #Colm
+		culture = greek
+	}
+	k_trinacria = {
+		color = { 239 222 247 }
+		capital = 1 #Colm
+	}
+	k_venice = {
+		color = { 54  167  156 }
+		capital = 1 #Colm
+		culture = italian
+	}
+	k_zenata = {
+		color = { 0 71 189 }
+	}
+	k_zirid = {
+		color = { 90 195 49 }
+	}
+	k_ziyanids = {
+		color = { 5 76 194 }
+	}
+
+# TITULAR EMPIRES
+	e_latin_empire = {
+		color = { 150 105 56 }
+		capital = 1 #Colm
+	}
+	
+	
+
+
+# HOLY ORDERS
+
+d_knights_templar = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 1 #Colm
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = catholic
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+
+	modifier = d_knights_templar_modifier
+}
+
+d_teutonic_order = {
+	
+	color = { 50 50 50 }
+	color2 = { 0 255 0 }
+	
+	capital = 1 #Colm
+
+	title = "HOCHMEISTER"
+	foa = "HOCHMEISTER_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = catholic
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+
+
+	modifier = d_teutonic_order_modifier
+}
+
+d_knights_hospitaler = {
+
+	color = { 180 180 180 }
+	color2 = { 0 255 0 }
+	
+	capital = 1 #Colm
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = catholic
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+
+
+	modifier = d_knights_hospitaler_modifier
+}
+
+d_hashshashin = {
+
+	color = { 100 100 0 }
+	color2 = { 0 255 0 }
+	
+	capital = 1 #Colm
+	
+	title = "IMAM"
+	foa = "IMAM_FOA"
+	
+	holy_order = yes
+
+	# Always exists
+	landless = yes
+	
+	# Parent Religion 
+	religion = shiite
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_hashshashin_modifier
+}
+
+# MERCS
+
+d_sunni_turkic_company = {
+	color = { 130 173 70 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_muslim_turkic_company_modifier
+}
+
+d_sunni_cuman_company = {
+	color = { 134 155 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = zoroastrian_group
+		}
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_muslim_cuman_company_modifier
+}
+
+d_sunni_berber_company = {
+	color = { 85 155 33 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = muslim
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_berber_company_modifier
+}
+
+d_sunni_bedouin_company = {
+	color = { 45 155 35 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = muslim
+	}
+	
+	# Parent Religion 
+	religion = sunni
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_bedouin_company_modifier
+}
+
+
+d_shiite_turkic_company = {
+	color = { 135 170 60 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = shiite
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_muslim_turkic_company_modifier
+}
+
+d_shiite_cuman_company = {
+	color = { 130 150 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = muslim
+			religion_group = zoroastrian_group
+		}
+	}
+	
+	# Parent Religion 
+	religion = shiite
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_muslim_cuman_company_modifier
+}
+
+d_shiite_berber_company = {
+	color = { 90 150 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = muslim
+	}
+	
+	# Parent Religion 
+	religion = shiite
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_berber_company_modifier
+}
+
+d_shiite_bedouin_company = {
+	color = { 40 150 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = muslim
+	}
+	
+	# Parent Religion 
+	religion = shiite
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_bedouin_company_modifier
+}
+
+d_white_company = {
+	color = { 235 235 235 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_white_company_modifier
+}
+
+d_great_company = {
+	color = { 100 100 100 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_great_company_modifier
+}
+
+d_company_of_st_george = {
+	color = { 50 50 200 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_company_of_st_george_modifier
+}
+
+d_star_company = {
+	color = { 200 80 200 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_star_company_modifier
+}
+
+d_little_hat_company = {
+	color = { 100 200 80 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_little_hat_company_modifier
+}
+
+d_rose_company = {
+	color = { 230 150 150 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_rose_company_modifier
+}
+
+d_catalan_company = {
+	color = { 230 100 100 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	mercenary = yes
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_catalan_company_modifier
+}
+
+d_navarrese_company = {
+	color = { 150 150 100 }
+	color2 = { 0 255 0 }
+	
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	capital = 1 #Colm
+	
+	mercenary = yes
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_navarrese_company_modifier
+}
+
+d_swiss_company = {
+	color = { 150 40 40 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_swiss_company_modifier
+}
+
+d_breton_company = {
+	color = { 150 40 40 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_breton_company_modifier
+}
+
+d_victual_brothers = {
+	color = { 160 160 160 }
+	color2 = { 0 255 0 }
+	
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion = norse_pagan
+			religion = baltic_pagan
+			religion = finnish_pagan
+			religion_group = christian
+		}
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_victual_brothers_modifier
+}
+
+d_varangian_guard = {
+	color = { 180 180 180 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion = orthodox
+	}
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	modifier = d_varangian_guard_modifier
+}
+
+d_cuman_company = {
+	color = { 160 160 80 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_cuman_company_modifier
+}
+
+d_rus_company = {
+	color = { 80 80 160 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = pagan_group
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_rus_company_modifier
+}
+
+d_pecheneg_company = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_pecheneg_company_modifier
+}
+
+d_bulgarian_company = {
+	color = { 100 50 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_bulgarian_company_modifier
+}
+
+d_turkic_company = {
+	color = { 100 50 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_turkic_company_modifier
+}
+
+d_lombard_band = {
+	color = { 150 60 60 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_lombard_band_modifier
+}
+
+d_swiss_band = {
+	color = { 150 40 40 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_swiss_band_modifier
+}
+
+d_breton_band = {
+	color = { 150 65 65 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+		
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_breton_band_modifier
+}
+
+d_catalan_band = {
+	color = { 230 100 100 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	mercenary = yes
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+
+	title = "CONDOTTIERO"
+	foa = "CONDOTTIERO_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_catalan_band_modifier
+}
+
+d_saxon_band = {
+	color = { 220 90 90 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	mercenary = yes
+	
+	# Hire Trigger
+	allow = {
+		religion_group = christian
+	}
+	
+	# Parent Religion 
+	religion = catholic
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+
+	modifier = d_saxon_band_modifier
+}
+
+d_cuman_band = {
+	color = { 160 160 80 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_cuman_band_modifier
+}
+
+d_rus_band = {
+	color = { 80 80 160 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		OR = {
+			religion_group = christian
+			religion_group = pagan_group
+		}
+	}
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_rus_band_modifier
+}
+
+d_pecheneg_band = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_pecheneg_band_modifier
+}
+
+d_bulgarian_band = {
+	color = { 100 50 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_bulgarian_band_modifier
+}
+
+d_turkic_band = {
+	color = { 100 50 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = d_turkic_band_modifier
+}
+
+d_mamluks = {
+	color = { 80 160 80 }
+	color2 = { 0 255 0 }
+
+	capital = 1 #Colm
+	
+	# Hire Trigger
+	allow = {
+		religion_group = muslim
+	}
+	
+	# Parent Religion 
+	religion = shiite
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	modifier = d_mamluks_modifier
+}

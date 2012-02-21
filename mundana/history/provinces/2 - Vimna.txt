@@ -1,0 +1,23 @@
+# 2 - Vimna
+
+# County Title
+title = c_vimna
+
+# Settlements
+max_settlements = 7
+
+b_vimna_1 = castle
+b_vimna_2 = city
+b_vimna_3 = temple
+#b_vimna_4 = castle
+#b_vimna_5 = city
+#b_vimna_6 = temple
+#b_vimna_7 = castle
+#b_vimna_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

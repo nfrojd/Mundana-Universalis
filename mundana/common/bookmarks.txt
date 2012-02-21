@@ -1,0 +1,8 @@
+bookmark = {
+	name = "BM_100_YEARS_WAR"
+	desc = "BM_100_YEARS_WAR_DESC"
+	date = 2967.1.1
+	
+	character = 101000 # Constantin XIV
+	character = 100000 # Igar Augus
+}

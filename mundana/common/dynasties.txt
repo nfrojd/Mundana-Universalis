@@ -1,0 +1,311 @@
+# ID < 1000: Special
+10 = {
+	name="Lumian"
+	culture = saxon # Lumian
+}
+
+200 = {
+	name="Visha"
+	culture = danish #sanari
+}
+
+250 = {
+	name="Abhixia"
+	culture = russian
+}
+251 = {
+	name="Arginakus"
+	culture = russian
+}
+252 = {
+	name="Cartika"
+	culture = russian
+}
+253 = {
+	name="Harim"
+	culture = russian
+}
+254 = {
+	name="Kobinku"
+	culture = russian
+}
+255 = {
+	name="Myrdinor"
+	culture = russian
+}
+256 = {
+	name="Sala"
+	culture = russian
+}
+257 = {
+	name="Vaganda"
+	culture = russian
+}
+258 = {
+	name="Zadhaz"
+	culture = russian
+}
+
+# Tokonsk klan
+#1000 = {
+#	name="Roth"
+#	culture = norwegian
+#}
+1001 = {
+	name="Calana"
+	culture = swedish
+}
+1002 = {
+	name="Uriens"
+	culture = swedish
+}
+1003 = {
+	name="Turina"
+	culture = norwegian
+}
+1004 = {
+	name="Tukon"
+	culture = swedish
+}
+1005 = {
+	name="Ramnesney"
+	culture = norwegian
+}
+1006 = {
+	name="Kinyen-Sina"
+	culture = norwegian
+}
+1007 = {
+	name="Calnia"
+	culture = norwegian
+}
+1008 = {
+	name="Negaidh"
+	culture = norwegian
+}
+1009 = {
+	name="Cretén"
+	culture = swedish
+}
+1050 = {
+	name="Daversin"
+	culture = norwegian
+}
+1051 = {
+	name="Dun Malinn"
+	culture = norwegian
+}
+1052 = {
+	name="Targaton"
+	culture = norwegian
+}
+1053 = {
+	name="Bosom"
+	culture = swedish
+}
+1054 = {
+	name="Dunmargon"
+	culture = norwegian
+}
+1055 = {
+	name="Dun Berval"
+	culture = norwegian
+}
+1056 = {
+	name="Dunvaren"
+	culture = norwegian
+}
+1057 = {
+	name="Vasor"
+	culture = swedish
+}
+1058 = {
+	name="Corteney"
+	culture = norwegian
+}
+1059 = {
+	name="Helmason"
+	culture = norwegian
+}
+1060 = {
+	name="Deluvien"
+	culture = norwegian
+}
+1061 = {
+	name="Matravin"
+	culture = norwegian
+}
+1062 = {
+	name="Casin"
+	culture = norwegian
+}
+1063 = {
+	name="Madanes"
+	culture = swedish
+}
+1064 = {
+	name="Wildaran"
+	culture = swedish
+}
+1065 = {
+	name="Fervelien"
+	culture = norwegian
+}
+1066 = {
+	name="Ulthari"
+	culture = swedish
+}
+1067 = {
+	name="Finvarik"
+	culture = norwegian
+}
+
+1100 = {
+	name="av Sinistia"
+	culture = swedish
+}
+1101 = {
+	name="de Valera"
+	culture = norwegian
+}
+1102 = {
+	name="Tar"
+	culture = norwegian
+}
+1103 = {
+	name="av Skywif"
+	culture = swedish
+}
+1104 = {
+	name="av Brelsest"
+	culture = swedish
+}
+1105 = {
+	name="av Tesel"
+	culture = swedish
+}
+1106 = {
+	name="Vidhammar"
+	culture = norwegian
+}
+1107 = {
+	name="av Firina"
+	culture = swedish
+}
+
+
+1150 = {
+	name="St Faulk"
+	culture = swedish
+}
+1160 = {
+	name="Avarine"
+	culture = norwegian
+}
+1161 = {
+	name="Coluimn"
+	culture = norwegian
+}
+1162 = {
+	name="Consenti"
+	culture = norwegian
+}
+1163 = {
+	name="Cuvri'an"
+	culture = norwegian
+}
+1164 = {
+	name="Dilige"
+	culture = norwegian
+}
+1165 = {
+	name="Duncreigh"
+	culture = norwegian
+}
+1166 = {
+	name="Lynesse"
+	culture = norwegian
+}
+1167 = {
+	name="Nantirre"
+	culture = norwegian
+}
+1168 = {
+	name="Tolesce"
+	culture = norwegian
+}
+1169 = {
+	name="Vytare"
+	culture = norwegian
+}
+
+2000 = {
+	name="Elisari"
+	culture = norwegian #pyar
+}
+2001 = {
+	name="Vimari"
+	culture = norwegian #pyar
+}
+
+2100 = {
+	name="Rudani"
+	culture = norwegian #learam?
+}
+
+2400 = {
+	name="Leath-Shùile"
+	culture = scottish
+}
+2401 = {
+	name="Thriv-Shùile"
+	culture = scottish
+}
+2402 = {
+	name="Cem-shòrn"
+	culture = scottish
+}
+2403 = {
+	name="Chuana"
+	culture = scottish
+}
+2404 = {
+	name="Laphraidh"
+	culture = scottish
+}
+2405 = {
+	name="Líusadh"
+	culture = scottish
+}
+2406 = {
+	name="Neillí"
+	culture = scottish
+}
+2407 = {
+	name="Roth"
+	culture = scottish
+}
+2408 = {
+	name="Dillige"
+	culture = scottish
+}
+2409 = {
+	name="Feeves"
+	culture = scottish
+}
+2410 = {
+	name="Craigfáan"
+	culture = scottish
+}
+2411 = {
+	name="Belfrage"
+	culture = scottish
+}
+2412 = {
+	name="Mùlaigh"
+	culture = scottish
+}
+3000 = {
+	name="Hzarn"
+	culture = frankish
+}

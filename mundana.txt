@@ -1,0 +1,2 @@
+Placering:
+- Lägg mundana/ och mundana.mod under mod/ för Crusader Kings 2

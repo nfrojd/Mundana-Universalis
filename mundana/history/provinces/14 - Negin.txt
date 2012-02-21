@@ -1,0 +1,23 @@
+# 14 - Negin
+
+# County Title
+title = c_negin
+
+# Settlements
+max_settlements = 7
+
+b_negin_1 = castle
+b_negin_2 = city
+b_negin_3 = temple
+#b_negin_4 = castle
+#b_negin_5 = city
+#b_negin_6 = temple
+#b_negin_7 = castle
+#b_negin_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

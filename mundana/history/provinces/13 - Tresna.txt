@@ -1,0 +1,23 @@
+# 13 - Tresna
+
+# County Title
+title = c_tresna
+
+# Settlements
+max_settlements = 7
+
+b_tresna_1 = castle
+b_tresna_2 = city
+b_tresna_3 = temple
+b_tresna_4 = castle
+#b_tresna_5 = city
+#b_tresna_6 = temple
+#b_tresna_7 = castle
+#b_tresna_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

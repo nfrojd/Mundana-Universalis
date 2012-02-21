@@ -1,0 +1,23 @@
+# 72 - Khovsosh
+
+# County Title
+title = c_khovsosh
+
+# Settlements
+max_settlements = 7
+
+b_khovsosh_1 = castle
+b_khovsosh_2 = city
+b_khovsosh_3 = temple
+b_khovsosh_4 = castle
+#b_khovsosh_5 = city
+#b_khovsosh_6 = temple
+#b_khovsosh_7 = castle
+#b_khovsosh_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

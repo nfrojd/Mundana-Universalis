@@ -1,0 +1,23 @@
+# 48 - Victaron
+
+# County Title
+title = c_victaron
+
+# Settlements
+max_settlements = 7
+
+b_victaron_1 = castle
+b_victaron_2 = city
+#b_victaron_3 = temple
+#b_victaron_4 = castle
+#b_victaron_5 = city
+#b_victaron_6 = temple
+#b_victaron_7 = castle
+#b_victaron_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

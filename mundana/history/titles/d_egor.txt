@@ -1,0 +1,4 @@
+2950.1.1 ={
+	liege="k_thalamur"
+	holder=100003
+}

@@ -1,0 +1,262 @@
+# ID: 100XXX
+100000 = {
+	name = "Igar Augus"
+	dynasty = 258
+
+	martial = 2
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	learning = 7
+	add_trait = "charismatic_negotiator"
+	add_trait = "lustful"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2880.1.1 = { birth = 2880.1.1 } #age 87
+#	2920.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100001 = {
+	name = "Jualla Bizar Alaya"
+	dynasty = 251
+	female = yes
+
+	martial = 3
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	learning = 8
+	add_trait = "intricate_webweaver"
+	add_trait = "deceitful"
+	add_trait = "paranoid"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2880.1.1 = { birth = 2880.1.1 } #age 87
+#	2905.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100002 = {
+	name = "Reubin Xirhamir"
+	dynasty = 253
+
+	martial = 7
+	diplomacy = 2
+	intrigue = 6
+	stewardship = 6
+	learning = 6
+	add_trait = "skilled_tactician"
+	add_trait = "wroth"
+	add_trait = "cruel"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2961.1.1 = { 
+			add_claim = d_colonan
+	}
+#	2950.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100003 = {
+	name = "Catzoran do Thukor"
+	dynasty = 256
+
+	martial = 4
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 6
+	learning = 6
+	add_trait = "grey_eminence"
+	add_trait = "lustful"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2875.1.1 = { birth = 2875.1.1 } #age 92
+#	2950.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100004 = {
+	name = "Im-berefel Ra'Drach do Kampa"
+	dynasty = 257
+
+	martial = 3
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 9
+	learning = 9
+	add_trait = "mastermind_theologian"
+	add_trait = "mystic"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2750.1.1 = { birth = 2750.1.1 } #age 217
+#	2780.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100005 = {
+	name = "Matron Liselle"
+	dynasty = 254
+	female = yes
+
+	martial = 5
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 9
+	learning = 9
+	add_trait = "elusive_shadow"
+	add_trait = "cruel"
+	add_trait = "temperate"
+	add_trait = "kinslayer"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2930.1.1 = { birth = 2930.1.1 }
+#	2950.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100006 = {
+	name = "Alean Ninarian"
+	dynasty = 250
+
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	learning = 7
+	add_trait = "mastermind_theologian"
+	add_trait = "scholar"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2961.1.1 = { 
+			add_claim = d_pereine
+	}
+#	2950.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100007 = {
+	name = "Sanguis thal Qatada"
+	dynasty = 252
+
+	martial = 4
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 9
+	learning = 9
+	add_trait = "mastermind_theologian"
+	add_trait = "cruel"
+	add_trait = "just"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2930.1.1 = { birth = 2930.1.1 }
+#	2950.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100008 = {
+	name = "Shangi thal Dubaral"
+	dynasty = 255
+
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	learning = 4
+	add_trait = "skilled_tactician"
+	add_trait = "brave"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2880.1.1 = { birth = 2880.1.1 } #age 87
+#	2920.1.1 = { give_title = title_longlived }
+#	2935.1.1 = {
+#		add_rival = { id = 100006 idtype = 44 }
+#		add_rival = { id = 100002 idtype = 44 }
+#	}
+	2999.1.1 = { death = 2999.1.1 }
+}
+100009 = {
+	name = "L'meas"
+#	dynasty = "Xinu"
+	female = yes
+
+	martial = 3
+	diplomacy = 9
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	add_trait = "mastermind_theologian"
+	add_trait = "lustful"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2930.1.1 = { birth = 2930.1.1 }
+#	2940.1.1 = { give_title = title_longlived }
+	2999.1.1 = { death = 2999.1.1 }
+}
+
+100010 = {
+	name = "Takhim Radomir Khala"
+	dynasty = 255
+
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	learning = 4
+	add_trait = "skilled_tactician"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100011 = {
+	name = "Ash Nadir Necobin"
+	dynasty = 258
+
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	learning = 4
+	add_trait = "skilled_tactician"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100012 = {
+	name = "Danor Khavos"
+	dynasty = 255
+
+	martial = 10
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	learning = 4
+	add_trait = "skilled_tactician"
+	add_trait = "mained"
+
+	culture = "russian"
+	religion = "orthodox"
+
+	2918.1.1 = { birth = 2918.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

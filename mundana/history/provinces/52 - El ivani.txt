@@ -1,0 +1,23 @@
+# 52 - El ivani
+
+# County Title
+title = c_el_ivani
+
+# Settlements
+max_settlements = 7
+
+b_el_ivani_1 = castle
+b_el_ivani_2 = city
+b_el_ivani_3 = temple
+#b_el_ivani_4 = castle
+#b_el_ivani_5 = city
+#b_el_ivani_6 = temple
+#b_el_ivani_7 = castle
+#b_el_ivani_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

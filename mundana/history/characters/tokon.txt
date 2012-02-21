@@ -1,0 +1,12 @@
+# ID: 1024XX
+102400 = {
+	name = "Cailleach Athvainn"
+	dynasty = 2400
+
+	culture = "scottish"
+	religion = "cathar"
+
+	2934.1.1 = { birth = 2934.1.1 } # 30-års åldern
+	2999.1.1 = { death = 2999.1.1 }
+}
+
