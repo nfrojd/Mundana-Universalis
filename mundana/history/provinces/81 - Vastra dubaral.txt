@@ -1,0 +1,23 @@
+# 81 - Vastra dubaral
+
+# County Title
+title = c_vastra_dubaral
+
+# Settlements
+max_settlements = 7
+
+b_vastra_dubaral_1 = castle
+#b_vastra_dubaral_2 = city
+#b_vastra_dubaral_3 = temple
+#b_vastra_dubaral_4 = castle
+#b_vastra_dubaral_5 = city
+#b_vastra_dubaral_6 = temple
+#b_vastra_dubaral_7 = castle
+#b_vastra_dubaral_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

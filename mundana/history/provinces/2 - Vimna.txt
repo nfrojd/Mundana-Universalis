@@ -16,7 +16,7 @@ b_vimna_3 = temple
 #b_vimna_8 = city
 
 # Misc
-culture = swedish
+culture = norwegian
 religion = catholic
 
 

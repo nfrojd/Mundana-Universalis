@@ -1,0 +1,23 @@
+# 36 - Tain
+
+# County Title
+title = c_tain
+
+# Settlements
+max_settlements = 7
+
+b_tain_1 = castle
+b_tain_2 = city
+#b_tain_3 = temple
+#b_tain_4 = castle
+#b_tain_5 = city
+#b_tain_6 = temple
+#b_tain_7 = castle
+#b_tain_8 = city
+
+# Misc
+culture = scottish
+religion = cathar
+
+
+# History

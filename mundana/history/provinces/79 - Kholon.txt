@@ -1,0 +1,23 @@
+# 79 - Kholon
+
+# County Title
+title = c_kholon
+
+# Settlements
+max_settlements = 7
+
+b_kholon_1 = castle
+#b_kholon_2 = city
+#b_kholon_3 = temple
+#b_kholon_4 = castle
+#b_kholon_5 = city
+#b_kholon_6 = temple
+#b_kholon_7 = castle
+#b_kholon_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

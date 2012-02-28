@@ -16,7 +16,7 @@ b_rim_2 = city
 #b_rim_8 = city
 
 # Misc
-culture = swedish
+culture = norwegian
 religion = catholic
 
 

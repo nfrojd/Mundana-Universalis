@@ -1,3 +1,4 @@
 2950.1.1 ={
 	liege="d_alarinn"
+	holder=102700
 }

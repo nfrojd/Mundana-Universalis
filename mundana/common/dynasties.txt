@@ -305,6 +305,26 @@
 	name="Mùlaigh"
 	culture = scottish
 }
+2700 = {
+	name="Dah'touin"
+	culture = irish
+}
+2701 = {
+	name="Kentai'y"
+	culture = irish
+}
+2702 = {
+	name="Veísidh"
+	culture = irish
+}
+2703 = {
+	name="Nan'sela"
+	culture = irish
+}
+2704 = {
+	name="Silarna"
+	culture = irish
+}
 3000 = {
 	name="Hzarn"
 	culture = frankish

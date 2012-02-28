@@ -16,7 +16,7 @@ b_ramnesney_3 = temple
 #b_ramnesney_8 = city
 
 # Misc
-culture = swedish
+culture = norwegian
 religion = catholic
 
 

@@ -1,0 +1,23 @@
+# 47 - Adaluth
+
+# County Title
+title = c_adaluth
+
+# Settlements
+max_settlements = 7
+
+b_adaluth_1 = castle
+#b_adaluth_2 = city
+#b_adaluth_3 = temple
+#b_adaluth_4 = castle
+#b_adaluth_5 = city
+#b_adaluth_6 = temple
+#b_adaluth_7 = castle
+#b_adaluth_8 = city
+
+# Misc
+culture = russian
+religion = orthodox
+
+
+# History

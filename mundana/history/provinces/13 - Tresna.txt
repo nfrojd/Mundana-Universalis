@@ -16,7 +16,7 @@ b_tresna_4 = castle
 #b_tresna_8 = city
 
 # Misc
-culture = swedish
+culture = norwegian
 religion = catholic
 
 

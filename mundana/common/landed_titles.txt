@@ -167,7 +167,7 @@ e_colonian_empire = {
 	color = { 255 155 255 }
 	color2 = { 220 220 20 }
 	
-	capital = 49 #Colonan
+	capital = 45 #Colonan
 	
 	religion = catholic
 	culture = german
@@ -177,7 +177,7 @@ e_colonian_empire = {
 		color = { 7 6 162 }
 		color2 = { 120 255 120 }
 
-		capital = 63 #Dubaral
+		capital = 59 #Dubaral
 
 		religion = orthodox
 		culture = russian
@@ -186,46 +186,20 @@ e_colonian_empire = {
 			color = { 83 68 235 }
 			color2 = { 0 255 0 }
 			
-			capital = 49 #Colonan
+			capital = 45 #Colonan
 
-			c_colonan = {
-				color = { 105 36 214 }
+			c_vastra_dubaral = {
+				color = { 99 42 221 }
 				color2 = { 0 255 0 }
 			
-				b_colonan_1 = {}
-				b_colonan_2 = {}
-				b_colonan_3 = {}
-				b_colonan_4 = {}
-				b_colonan_5 = {}
-				b_colonan_6 = {}
-				b_colonan_7 = {}
-				b_colonan_8 = {}
-			}
-			c_victaron = {
-				color = { 78 104 226 }
-				color2 = { 0 255 0 }
-			
-				b_victaron_1 = {}
-				b_victaron_2 = {}
-				b_victaron_3 = {}
-				b_victaron_4 = {}
-				b_victaron_5 = {}
-				b_victaron_6 = {}
-				b_victaron_7 = {}
-				b_victaron_8 = {}
-			}
-			c_rubis = {
-				color = { 124 74 204 }
-				color2 = { 0 255 0 }
-			
-				b_rubis_1 = {}
-				b_rubis_2 = {}
-				b_rubis_3 = {}
-				b_rubis_4 = {}
-				b_rubis_5 = {}
-				b_rubis_6 = {}
-				b_rubis_7 = {}
-				b_rubis_8 = {}
+				b_vastra_dubaral_1 = {}
+				b_vastra_dubaral_2 = {}
+				b_vastra_dubaral_3 = {}
+				b_vastra_dubaral_4 = {}
+				b_vastra_dubaral_5 = {}
+				b_vastra_dubaral_6 = {}
+				b_vastra_dubaral_7 = {}
+				b_vastra_dubaral_8 = {}
 			}
 			c_draktemplet = {
 				color = { 87 64 225 }
@@ -266,13 +240,65 @@ e_colonian_empire = {
 				b_balon_7 = {}
 				b_balon_8 = {}
 			}
+			c_narec = {
+				color = { 212 117 12 }
+				color2 = { 0 255 0 }
+			
+				b_narec_1 = {}
+				b_narec_2 = {}
+				b_narec_3 = {}
+				b_narec_4 = {}
+				b_narec_5 = {}
+				b_narec_6 = {}
+				b_narec_7 = {}
+				b_narec_8 = {}
+			}
 
+			c_colonan = {
+				color = { 105 36 214 }
+				color2 = { 0 255 0 }
+			
+				b_colonan_1 = {}
+				b_colonan_2 = {}
+				b_colonan_3 = {}
+				b_colonan_4 = {}
+				b_colonan_5 = {}
+				b_colonan_6 = {}
+				b_colonan_7 = {}
+				b_colonan_8 = {}
+			}
+			c_victaron = {
+				color = { 78 104 226 }
+				color2 = { 0 255 0 }
+			
+				b_victaron_1 = {}
+				b_victaron_2 = {}
+				b_victaron_3 = {}
+				b_victaron_4 = {}
+				b_victaron_5 = {}
+				b_victaron_6 = {}
+				b_victaron_7 = {}
+				b_victaron_8 = {}
+			}
+			c_rubis = {
+				color = { 124 74 204 }
+				color2 = { 0 255 0 }
+			
+				b_rubis_1 = {}
+				b_rubis_2 = {}
+				b_rubis_3 = {}
+				b_rubis_4 = {}
+				b_rubis_5 = {}
+				b_rubis_6 = {}
+				b_rubis_7 = {}
+				b_rubis_8 = {}
+			}
 		}
 		d_pereine = {
 			color = { 3 68 160 }
 			color2 = { 0 255 0 }
 			
-			capital = 54 #Perina
+			capital = 50 #Perina
 			
 			c_perina = {
 				color = { 113 69 178 }
@@ -305,7 +331,7 @@ e_colonian_empire = {
 			color = { 118 44 164 }
 			color2 = { 0 255 0 }
 			
-			capital = 52 #El'ivani
+			capital = 48 #El'ivani
 			
 			c_qatada = {
 				color = { 118 47 133 }
@@ -351,7 +377,7 @@ e_colonian_empire = {
 			color = { 68 96 180 }
 			color2 = { 0 255 0 }
 			
-			capital = 56 #Arakh
+			capital = 52 #Arakh
 
 			c_ikrem = {
 				color = { 32 125 179 }
@@ -410,7 +436,7 @@ e_colonian_empire = {
 			color = { 123 61 160 }
 			color2 = { 0 255 0 }
 			
-			capital = 60 #Savirah
+			capital = 56 #Savirah
 			c_eovir = {
 				color = { 142 142 142 }
 				color2 = { 0 255 0 }
@@ -455,7 +481,7 @@ e_colonian_empire = {
 			color = { 107 70 183 }
 			color2 = { 0 255 0 }
 			
-			capital = 63 #Dubaral
+			capital = 59 #Dubaral
 			c_dubaral = {
 				color = { 16 74 253 }
 				color2 = { 0 255 0 }
@@ -468,19 +494,6 @@ e_colonian_empire = {
 				b_dubaral_6 = {}
 				b_dubaral_7 = {}
 				b_dubaral_8 = {}
-			}
-			c_vastra_dubaral = {
-				color = { 99 42 221 }
-				color2 = { 0 255 0 }
-			
-				b_vastra_dubaral_1 = {}
-				b_vastra_dubaral_2 = {}
-				b_vastra_dubaral_3 = {}
-				b_vastra_dubaral_4 = {}
-				b_vastra_dubaral_5 = {}
-				b_vastra_dubaral_6 = {}
-				b_vastra_dubaral_7 = {}
-				b_vastra_dubaral_8 = {}
 			}
 			c_ifkhor = {
 				color = { 72 72 150 }
@@ -499,7 +512,7 @@ e_colonian_empire = {
 		d_taga = {
 			color = { 15 104 230 }			color2 = { 0 255 0 }
 			
-			capital = 67 #Tagada
+			capital = 62 #Tagada
 			c_sidra = {
 				color = { 60 47 195 }
 				color2 = { 0 255 0 }
@@ -557,7 +570,7 @@ e_colonian_empire = {
 			color = { 51 59 210 }
 			color2 = { 0 255 0 }
 			
-			capital = 72 #Khovsosh
+			capital = 67 #Khovsosh
 			c_horta = {
 				color = { 94 91 178 }
 				color2 = { 0 255 0 }
@@ -641,7 +654,7 @@ e_colonian_empire = {
 			color = { 74 88 177 }
 			color2 = { 0 255 0 }
 			
-			capital = 81 #Abin-Thukor
+			capital = 76 #Abin-Thukor
 			c_tav_sezhi = {
 				color = { 91 49 194 }
 				color2 = { 0 255 0 }
@@ -745,7 +758,7 @@ e_colonian_empire = {
 			color = { 212 109 4 }
 			color2 = { 0 255 0 }
 			
-			capital = 26 #Cretén
+			capital = 25 #Cretén
 			c_alni = {
 				color = { 165 114 74 }
 				color2 = { 0 255 0 }
@@ -907,19 +920,6 @@ e_colonian_empire = {
 				b_cralo_6 = {}
 				b_cralo_7 = {}
 				b_cralo_8 = {}
-			}
-			c_narec = {
-				color = { 212 117 12 }
-				color2 = { 0 255 0 }
-			
-				b_narec_1 = {}
-				b_narec_2 = {}
-				b_narec_3 = {}
-				b_narec_4 = {}
-				b_narec_5 = {}
-				b_narec_6 = {}
-				b_narec_7 = {}
-				b_narec_8 = {}
 			}
 			c_skywif = {
 				color = { 140 59 118 }
@@ -1180,13 +1180,13 @@ e_colonian_empire = {
 		color = { 117 237 40 }
 		color2 = { 220 220 20 }
 
-		capital = 32 #Intouk
+		capital = 31 #Intouk
 
 		d_tokon = {
 			color = { 116 162 17 }
 			color2 = { 0 255 0 }
 			
-			capital = 32 #Intouk
+			capital = 31 #Intouk
 			c_intouk = {
 				color = { 114 155 83 }
 				color2 = { 0 255 0 }
@@ -1283,7 +1283,7 @@ e_colonian_empire = {
 			color = { 78 136 116 }
 			color2 = { 0 255 0 }
 		
-			capital = 41 #Västlanden
+			capital = 40 #Västlanden
 			
 			c_nordlanden = {
 				color = { 18 173 74 }

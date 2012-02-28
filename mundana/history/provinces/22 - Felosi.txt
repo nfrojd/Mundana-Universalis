@@ -1,0 +1,23 @@
+# 22 - Felosi
+
+# County Title
+title = c_felosi
+
+# Settlements
+max_settlements = 7
+
+b_felosi_1 = castle
+b_felosi_2 = city
+#b_felosi_3 = temple
+#b_felosi_4 = castle
+#b_felosi_5 = city
+#b_felosi_6 = temple
+#b_felosi_7 = castle
+#b_felosi_8 = city
+
+# Misc
+culture = swedish
+religion = catholic
+
+
+# History

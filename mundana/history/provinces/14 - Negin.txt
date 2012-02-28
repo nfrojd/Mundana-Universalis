@@ -16,7 +16,7 @@ b_negin_3 = temple
 #b_negin_8 = city
 
 # Misc
-culture = swedish
+culture = norwegian
 religion = catholic
 
 

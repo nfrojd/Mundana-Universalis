@@ -1,0 +1,23 @@
+# 49 - Ireda
+
+# County Title
+title = c_ireda
+
+# Settlements
+max_settlements = 7
+
+b_ireda_1 = castle
+b_ireda_2 = city
+b_ireda_3 = temple
+b_ireda_4 = castle
+#b_ireda_5 = city
+#b_ireda_6 = temple
+#b_ireda_7 = castle
+#b_ireda_8 = city
+
+# Misc
+culture = swedish
+religion = orthodox
+
+
+# History
