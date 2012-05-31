@@ -1,8 +1,929 @@
 # Changes in Mundana Universalis
-# Swedish = Perenner, Norwegian = Conrier, Russian = Neromenzer, Scottish = Tokon, Irish = Learam, Frankish = Caserier
 
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
+
+
+dwarven = {
+	graphical_culture = westerngfx
+	
+	ghor = {
+		graphical_culture = norsegfx
+		
+		color = { 0.25 0.5 0.75 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	roghan = {
+		graphical_culture = norsegfx
+		
+		color = { 0.75 0.5 0.75 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	zolod = {
+		graphical_culture = norsegfx
+		
+		color = { 0.25 0.5 0.25 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	drezin = {
+		graphical_culture = norsegfx
+		
+		color = { 0.75 0.5 0.25 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+}
+
+vanar = {
+	graphical_culture = westerngfx
+
+	perenn = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Bundel Burwell Carnin Celin Creigh Dnegel Faradan Funsarat Heryn Jeneres
+			Jiemes Lestat Marak Neres Niles Nuskel Ocran Oftar Ofter Olden Patne Pelen
+			Pelt Picar Pien Piett Raken Reben Revan Reven Rumap Salden Tenas Tiamel
+			Torden Unter Varfer Yrwen Constantin Erefan Faran Ludich Heryn Nagor Tyrdal
+			Girhardt Ambrosin Carpodim Ysanar Mirien Frederick Una Walhelm
+		}
+		female_names = {
+			Alade Daria Edet Elsgita Gwendelli Helas Ilwe Inaly Indina Ivia Jaina Lasna
+			Less Lewellyn Linna Mara Melony Mira Narina Nelna Ryana Sala Tiana Ulli
+			Valla Vasla Welle Yrva Fiorina Shalya Rafalli
+		}
+
+		from_dynasty_prefix = "dun "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	conrier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Bundel Burwell Carnin Celin Creigh Dnegel Faradan Funsarat Heryn Jeneres
+			Jiemes Lestat Marak Neres Niles Nuskel Ocran Oftar Ofter Olden Patne Pelen
+			Pelt Picar Pien Piett Raken Reben Revan Reven Rumap Salden Tenas Tiamel
+			Torden Unter Varfer Yrwen Constantin Erefan Faran Ludich Heryn Nagor Tyrdal
+			Girhardt Ambrosin Carpodim Ysanar Mirien Frederick Una Walhelm
+		}
+		female_names = {
+			Alade Daria Edet Elsgita Gwendelli Helas Ilwe Inaly Indina Ivia Jaina Lasna
+			Less Lewellyn Linna Mara Melony Mira Narina Nelna Ryana Sala Tiana Ulli
+			Valla Vasla Welle Yrva Fiorina Shalya Rafalli
+		}
+
+		from_dynasty_prefix = "dun "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	tokon = {
+		graphical_culture = norsegfx
+		
+		color = { 0.25 0.5 0.25 }
+
+		male_names = {
+			Aidann Breadainn Cìaran Dùweigh Earlach Farrach Giereinn Idair
+			Lanfair Mùir Niei Ossain Pòl Ruigh Siadan Tùirigh Ùille Wydhei
+			Yrwainn
+		}
+		female_names = {
+			Ailis Brithain Cìdhain Dewain Eìra Fiona Gwendeilidh Helaìs
+			Inalaidh Lewelleinn Neillidh Pithainn Sìusaidh Tailinn Usiann
+			Yrfhaidh
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	asharier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alex Ardel Anstir Ben Cart Ciro Danyl Dedrik Ervin Efreim Foss Frod Gart Grim
+			Hansel Herkel Ivon Jerras Jibber Jon Karlis Len Logan Lomin Lonny Menner Morgan
+			Nero Nick Niles Niles Ort Paul Qart Runo Rupert Sebul Slim Solomon Tim Tomeran 
+			Todor Ulfsic Villi Volker Yaram Yvan Zed
+		}
+		female_names = {
+			Alida Alisa Betrise Calista Clara Dara Elin Emmi Evlyn Gina Henrietta Isa Jenny 
+			Karolyn Linna Lisetta Morgana Netta Olivia Paulina Rosanna Ryana Sala Tariana Tyra 
+			Unn Violetta Yennara Zara
+		}
+
+		from_dynasty_prefix = "dun "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	damarier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Begal Dac Daac Damar Divil Domer Ehlas Helm Grim Kamand Lansal Lot Mogel Pergrim
+			Thamas Tors Vikrat Vorsel Vug Urath	
+		}
+		female_names = {
+			Ariandra Damarella Dara Elektra Elysia Faranna Liora Nella Mortis Ovidia Tara Zandra
+		}
+
+		from_dynasty_prefix = "dun "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	jargier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Adridos Amolius Andros Arcadius Balduinos Belicius Boethius Caros Cornelius Damillius 
+			Derados Elius Eppius Falx Felix Galin Hiberos Ignitius Ilius Jahanet Justian Leon Marcos 
+			Marius Nadian Niven Pompius Preatros Quentin Qulimos Ravius Sarrius Servilius Servos
+			Tatian Ulixes Uthos Vincerius Xandros Yopatros Zenos
+		}
+		female_names = {
+			Amonia Arcadia Avolona Belicia Boethia Cara Cornelia Decima Elia Felicie Hibere Ilia Ione
+			Jarime Josa Julia Kera Lea Maia Maria Nadia Nivea Organ Petra Qulima Rafama Ravia
+			Selina Serva Servilia Tassentia Tatia Tibera Utha Valentina Valeria Vibia Vinceria
+			Vitalia Xandra Xena Yrgama Zena Zavia
+		}
+
+		from_dynasty_prefix = "dun "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	cirefalier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Azit Bzern Cerec Chamicon Chimiri Chimsz Cirilz Dalarion Dalm Durzmal
+			Dzimm Dzom Dzrin Dzzo Ficon Gordaz Haramelo Harazmel Harori Jhim Krizkar
+			Kzazian Kzeck Mafalz Mzian Nahrzasz Nahrzezian Narzimm Nerzelan Nihariz
+			Nihirzazior Nihrzom Penarek Penrin Penzior Pomerz Pomimalo Ramm Remacoz
+			Remaziz Remirin Remiz Remzium Rimerek Szacoz Szakar Szararek Szaz Szcon
+			Szeri Szez Szezior Szlien Szmel Szri Tzacon Tzazo Tzeck Tzeziu Tzilan
+			Tziman Tzom Vamerz Zarem Zarz Zhamun Zhaz Zhazior Zhelz Zhizo Zimalo
+			Vrimzikiel Reirzan Rhazcom Ezori Mhoraz Mzan Tzar
+			Jhamzod
+		}
+		female_names = {
+			Azita Canaza Crisma Gannima Harira Jhimorza Meleka Narzomela Nilaza Nimaza
+			Rizima Szza Vamalla Zhra Zhaya Jhimorza Jhazva Gzanna
+		}
+
+		from_dynasty_prefix = "dun "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+neromenzer = {
+	graphical_culture = westerngfx
+	
+	thalaskian = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	abhixia = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	arginakus = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	cartika = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	harim = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	kobinku = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	myrdinor = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	sala = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	vaganda = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	zadhaz = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+
+tirak = {
+	graphical_culture = westerngfx
+	
+	marnakh = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Barakk Begakk Bomz Drugg Gathor Ghormz Gritzakk Harkk Hazakk Hraz Khomtakk Lathag
+			Maak Nehrimgag Ragimaz Rakkhaz Rhokkag Rukkaz Tazag Thaar Tomz Wagrikk Wegum Wezakk
+			Xakk Xogg Zatag Zethikk Zomakk Zuthzuth
+		}
+		female_names = {
+			Brakka Brikka Da EzkaFathama Fima Gorkka Haza Hirkkana Hokka Karkraza Lazua Loka Marazaka
+			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	bazirk = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Barakk Begakk Bomz Drugg Gathor Ghormz Gritzakk Harkk Hazakk Hraz Khomtakk Lathag
+			Maak Nehrimgag Ragimaz Rakkhaz Rhokkag Rukkaz Tazag Thaar Tomz Wagrikk Wegum Wezakk
+			Xakk Xogg Zatag Zethikk Zomakk Zuthzuth
+		}
+		female_names = {
+			Brakka Brikka Da EzkaFathama Fima Gorkka Haza Hirkkana Hokka Karkraza Lazua Loka Marazaka
+			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	frakk = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Barakk Begakk Bomz Drugg Gathor Ghormz Gritzakk Harkk Hazakk Hraz Khomtakk Lathag
+			Maak Nehrimgag Ragimaz Rakkhaz Rhokkag Rukkaz Tazag Thaar Tomz Wagrikk Wegum Wezakk
+			Xakk Xogg Zatag Zethikk Zomakk Zuthzuth
+		}
+		female_names = {
+			Brakka Brikka Da EzkaFathama Fima Gorkka Haza Hirkkana Hokka Karkraza Lazua Loka Marazaka
+			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
+
+elven = {
+	graphical_culture = westerngfx
+
+	learam = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	pyar = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	thism = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	sanari = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	kiriya = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	henea = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}
 
 north_germanic = {
 	graphical_culture = westerngfx

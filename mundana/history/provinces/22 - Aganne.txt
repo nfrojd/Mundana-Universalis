@@ -1,0 +1,23 @@
+# 22 - Aganne
+
+# County Title
+title = c_aganne
+
+# Settlements
+max_settlements = 4
+
+b_aganne_1 = castle
+b_aganne_2 = city
+#b_aganne_3 = temple
+#b_aganne_4 = castle
+#b_aganne_5 = city
+#b_aganne_6 = temple
+#b_aganne_7 = castle
+#b_aganne_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

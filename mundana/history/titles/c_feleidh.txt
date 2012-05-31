@@ -1,3 +1,4 @@
-2950.1.1 ={
-	liege="d_tokon"
+2950.1.1 = {
+	liege="d_debhean"
+	holder=102400
 }

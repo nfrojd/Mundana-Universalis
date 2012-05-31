@@ -1,10 +1,10 @@
 # ID: 103XXX
 103000 = {
-	name = "Ghazarim" # Colm
-	dynasty = 3000
+	name = "Jhim" # Colm
+	dynasty = 3000 #Ghazarim
 
-	culture = "frankish"
-	religion = "catholic"
+	culture = "cirefalier"
+	religion = "daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

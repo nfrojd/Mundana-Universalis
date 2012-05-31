@@ -1,12 +1,12 @@
-max_provinces = 107
-sea_starts = 83
+max_provinces = 209
+sea_starts = 185
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
 rivers = "rivers.bmp"
 terrain_definition = "terrain.txt"
-terrain_topology = "topology.bmp"
+heightmap = "topology.bmp"
 tree_definition = "trees.bmp"
 continent = "continent.txt"
 adjacencies = "adjacencies.csv"

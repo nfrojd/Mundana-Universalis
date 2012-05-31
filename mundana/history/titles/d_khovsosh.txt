@@ -1,0 +1,4 @@
+2950.1.1 = {
+	liege="k_kovos"
+	holder=100004
+}

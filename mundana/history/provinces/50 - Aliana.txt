@@ -1,0 +1,23 @@
+# 50 - Aliana
+
+# County Title
+title = c_aliana
+
+# Settlements
+max_settlements = 4
+
+b_aliana_1 = castle
+b_aliana_2 = city
+#b_aliana_3 = temple
+#b_aliana_4 = castle
+#b_aliana_5 = city
+#b_aliana_6 = temple
+#b_aliana_7 = castle
+#b_aliana_8 = city
+
+# Misc
+culture = perenn
+religion = daak
+
+
+# History

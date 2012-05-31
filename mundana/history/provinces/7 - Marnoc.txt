@@ -1,0 +1,23 @@
+# 7 - Marnoc
+
+# County Title
+title = c_marnoc
+
+# Settlements
+max_settlements = 2
+
+b_marnoc_1 = castle
+#b_marnoc_2 = city
+#b_marnoc_3 = temple
+#b_marnoc_4 = castle
+#b_marnoc_5 = city
+#b_marnoc_6 = temple
+#b_marnoc_7 = castle
+#b_marnoc_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

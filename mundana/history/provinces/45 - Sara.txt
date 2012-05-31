@@ -1,0 +1,23 @@
+# 45 - Sara
+
+# County Title
+title = c_sara
+
+# Settlements
+max_settlements = 4
+
+b_sara_1 = castle
+b_sara_2 = city
+#b_sara_3 = temple
+#b_sara_4 = castle
+#b_sara_5 = city
+#b_sara_6 = temple
+#b_sara_7 = castle
+#b_sara_8 = city
+
+# Misc
+culture = perenn
+religion = daak
+
+
+# History

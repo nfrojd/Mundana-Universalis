@@ -1,0 +1,23 @@
+# 67 - Skenetrip
+
+# County Title
+title = c_skenetrip
+
+# Settlements
+max_settlements = 4
+
+b_skenetrip_1 = castle
+b_skenetrip_2 = city
+#b_skenetrip_3 = temple
+#b_skenetrip_4 = castle
+#b_skenetrip_5 = city
+#b_skenetrip_6 = temple
+#b_skenetrip_7 = castle
+#b_skenetrip_8 = city
+
+# Misc
+culture = perenn
+religion = daak
+
+
+# History

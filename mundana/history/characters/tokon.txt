@@ -3,8 +3,8 @@
 	name = "Cailleach Athvainn"
 	dynasty = 2400
 
-	culture = "scottish"
-	religion = "cathar"
+	culture = "tokon"
+	religion = "dragon_cult"
 
 	2934.1.1 = { birth = 2934.1.1 } # 30-års åldern
 	2999.1.1 = { death = 2999.1.1 }

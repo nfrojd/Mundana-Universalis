@@ -5,4 +5,5 @@ bookmark = {
 	
 	character = 101000 # Constantin XIV
 	character = 100000 # Igar Augus
+	character = 101025 # Igar Augus
 }

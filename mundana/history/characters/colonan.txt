@@ -3,14 +3,8 @@
 	name = "Nador Beló Hader"
 #	dynasty = "None"
 
-	martial = 8
-	diplomacy = 4
-	intrigue = 4
-	stewardship = 4
-	learning = 4
-
-	culture = "danish"
-	religion = "catholic"
+	culture = "perenn"
+	religion = "daak"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -19,14 +13,8 @@
 	name = "Ador Zariv Véreta"
 #	dynasty = "None"
 
-	martial = 8
-	diplomacy = 4
-	intrigue = 4
-	stewardship = 4
-	learning = 4
-
-	culture = "danish"
-	religion = "catholic"
+	culture = "thalaskian"
+	religion = "daak"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

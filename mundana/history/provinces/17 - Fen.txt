@@ -1,0 +1,23 @@
+# 17 - Fen
+
+# County Title
+title = c_fen
+
+# Settlements
+max_settlements = 4
+
+b_fen_1 = castle
+b_fen_2 = city
+#b_fen_3 = temple
+#b_fen_4 = castle
+#b_fen_5 = city
+#b_fen_6 = temple
+#b_fen_7 = castle
+#b_fen_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

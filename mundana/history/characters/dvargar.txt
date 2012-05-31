@@ -1,7 +1,52 @@
 # ID: 104XXX
+# Kholam-renk-Ghor
 # Narekh-renk-Ghor
 # Kholon-renk-Ghor-Drezin
-# Kholam-renk-Ghor
-# Ikham-renk-Ghor
 # Kholon-renk-Roghan
+# Ikham-renk-Ghor
 # Calni Shun-Azh (eller?)
+
+104000 = {
+	name = "Vihar" # Narekh-renk-Ghor
+	dynasty = 4000
+	female = yes
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2930.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104001 = {
+	name = "Khrun" # Kholon-renk-Ghor-Drezin
+	dynasty = 4001
+
+	culture = "drezin"
+	religion = "vontar"
+
+#	2815.1.1 = { birth = 2815.1.1 }
+	2930.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104002 = {
+	name = "Thunnakh" # Kholon-renk-Roghan
+	dynasty = 4002
+	female = yes
+
+	culture = "roghan"
+	religion = "vontar"
+
+	2930.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104003 = {
+	name = "Ulsher" # Ikham-renk-Ghor
+	dynasty = 4003
+
+	culture = "ghor"
+	religion = "vontar"
+
+#	2700.1.1 = { birth = 2700.1.1 }
+	2930.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

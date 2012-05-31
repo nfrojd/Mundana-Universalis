@@ -1,0 +1,10 @@
+1000.1.1 ={
+	law = centralization_0
+	law = investiture_law_1
+	law = cognatic_succession
+	law = succ_gavelkind
+}
+2950.1.1 = {
+	liege="e_consaber"
+	holder=101007
+}

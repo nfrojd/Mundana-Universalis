@@ -7,17 +7,17 @@ title = c_colm
 max_settlements = 2
 
 b_colm_1 = castle
-b_colm_2 = city
-#b_colm_3 = temple
-#b_colm_4 = castle
+b_colm_2 = castle
+#b_colm_3 = city
+#b_colm_4 = temple
 #b_colm_5 = city
 #b_colm_6 = temple
 #b_colm_7 = castle
 #b_colm_8 = city
 
 # Misc
-culture = norwegian
-religion = catholic
+culture = conrier
+religion = daak
 
 
 # History

@@ -1,0 +1,23 @@
+# 124 - Perina
+
+# County Title
+title = c_perina
+
+# Settlements
+max_settlements = 4
+
+b_perina_1 = castle
+b_perina_2 = city
+b_perina_3 = temple
+b_perina_4 = castle
+#b_perina_5 = city
+#b_perina_6 = temple
+#b_perina_7 = castle
+#b_perina_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

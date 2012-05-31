@@ -1,0 +1,23 @@
+# 131 - Farn
+
+# County Title
+title = c_farn
+
+# Settlements
+max_settlements = 4
+
+b_farn_1 = castle
+b_farn_2 = city
+#b_farn_3 = temple
+#b_farn_4 = castle
+#b_farn_5 = city
+#b_farn_6 = temple
+#b_farn_7 = castle
+#b_farn_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,23 @@
+# 56 - Dunbaton
+
+# County Title
+title = c_dunbaton
+
+# Settlements
+max_settlements = 4
+
+b_dunbaton_1 = castle
+b_dunbaton_2 = city
+#b_dunbaton_3 = temple
+#b_dunbaton_4 = castle
+#b_dunbaton_5 = city
+#b_dunbaton_6 = temple
+#b_dunbaton_7 = castle
+#b_dunbaton_8 = city
+
+# Misc
+culture = perenn
+religion = daak
+
+
+# History

@@ -1,0 +1,23 @@
+# 24 - Tar
+
+# County Title
+title = c_tar
+
+# Settlements
+max_settlements = 4
+
+b_tar_1 = castle
+b_tar_2 = city
+#b_tar_3 = temple
+#b_tar_4 = castle
+#b_tar_5 = city
+#b_tar_6 = temple
+#b_tar_7 = castle
+#b_tar_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

@@ -1,3 +1,4 @@
+#Mundana titles
 e_rebels = {
 	rebel = yes
 	landless = yes
@@ -161,1198 +162,6 @@ e_timurids = {
 	religion = shiite
 }
 
-# EMPIRES
-
-e_colonian_empire = {
-	color = { 255 155 255 }
-	color2 = { 220 220 20 }
-	
-	capital = 45 #Colonan
-	
-	religion = catholic
-	culture = german
-	short_name = yes
-	
-	k_thalamur = {
-		color = { 7 6 162 }
-		color2 = { 120 255 120 }
-
-		capital = 59 #Dubaral
-
-		religion = orthodox
-		culture = russian
-
-		d_colonan = {
-			color = { 83 68 235 }
-			color2 = { 0 255 0 }
-			
-			capital = 45 #Colonan
-
-			c_vastra_dubaral = {
-				color = { 99 42 221 }
-				color2 = { 0 255 0 }
-			
-				b_vastra_dubaral_1 = {}
-				b_vastra_dubaral_2 = {}
-				b_vastra_dubaral_3 = {}
-				b_vastra_dubaral_4 = {}
-				b_vastra_dubaral_5 = {}
-				b_vastra_dubaral_6 = {}
-				b_vastra_dubaral_7 = {}
-				b_vastra_dubaral_8 = {}
-			}
-			c_draktemplet = {
-				color = { 87 64 225 }
-				color2 = { 0 255 0 }
-			
-				b_draktemplet_1 = {}
-				b_draktemplet_2 = {}
-				b_draktemplet_3 = {}
-				b_draktemplet_4 = {}
-				b_draktemplet_5 = {}
-				b_draktemplet_6 = {}
-				b_draktemplet_7 = {}
-				b_draktemplet_8 = {}
-			}
-			c_kholon = {
-				color = { 126 126 228 }
-				color2 = { 0 255 0 }
-			
-				b_kholon_1 = {}
-				b_kholon_2 = {}
-				b_kholon_3 = {}
-				b_kholon_4 = {}
-				b_kholon_5 = {}
-				b_kholon_6 = {}
-				b_kholon_7 = {}
-				b_kholon_8 = {}
-			}
-			c_balon = {
-				color = { 93 5 201 }
-				color2 = { 0 255 0 }
-			
-				b_balon_1 = {}
-				b_balon_2 = {}
-				b_balon_3 = {}
-				b_balon_4 = {}
-				b_balon_5 = {}
-				b_balon_6 = {}
-				b_balon_7 = {}
-				b_balon_8 = {}
-			}
-			c_narec = {
-				color = { 212 117 12 }
-				color2 = { 0 255 0 }
-			
-				b_narec_1 = {}
-				b_narec_2 = {}
-				b_narec_3 = {}
-				b_narec_4 = {}
-				b_narec_5 = {}
-				b_narec_6 = {}
-				b_narec_7 = {}
-				b_narec_8 = {}
-			}
-
-			c_colonan = {
-				color = { 105 36 214 }
-				color2 = { 0 255 0 }
-			
-				b_colonan_1 = {}
-				b_colonan_2 = {}
-				b_colonan_3 = {}
-				b_colonan_4 = {}
-				b_colonan_5 = {}
-				b_colonan_6 = {}
-				b_colonan_7 = {}
-				b_colonan_8 = {}
-			}
-			c_victaron = {
-				color = { 78 104 226 }
-				color2 = { 0 255 0 }
-			
-				b_victaron_1 = {}
-				b_victaron_2 = {}
-				b_victaron_3 = {}
-				b_victaron_4 = {}
-				b_victaron_5 = {}
-				b_victaron_6 = {}
-				b_victaron_7 = {}
-				b_victaron_8 = {}
-			}
-			c_rubis = {
-				color = { 124 74 204 }
-				color2 = { 0 255 0 }
-			
-				b_rubis_1 = {}
-				b_rubis_2 = {}
-				b_rubis_3 = {}
-				b_rubis_4 = {}
-				b_rubis_5 = {}
-				b_rubis_6 = {}
-				b_rubis_7 = {}
-				b_rubis_8 = {}
-			}
-		}
-		d_pereine = {
-			color = { 3 68 160 }
-			color2 = { 0 255 0 }
-			
-			capital = 50 #Perina
-			
-			c_perina = {
-				color = { 113 69 178 }
-				color2 = { 0 255 0 }
-			
-				b_perina_1 = {}
-				b_perina_2 = {}
-				b_perina_3 = {}
-				b_perina_4 = {}
-				b_perina_5 = {}
-				b_perina_6 = {}
-				b_perina_7 = {}
-				b_perina_8 = {}
-			}
-			c_ireda = {
-				color = { 112 60 136 }
-				color2 = { 0 255 0 }
-			
-				b_ireda_1 = {}
-				b_ireda_2 = {}
-				b_ireda_3 = {}
-				b_ireda_4 = {}
-				b_ireda_5 = {}
-				b_ireda_6 = {}
-				b_ireda_7 = {}
-				b_ireda_8 = {}
-			}
-		}
-		d_ivani = {
-			color = { 118 44 164 }
-			color2 = { 0 255 0 }
-			
-			capital = 48 #El'ivani
-			
-			c_qatada = {
-				color = { 118 47 133 }
-				color2 = { 0 255 0 }
-			
-				b_qatada_1 = {}
-				b_qatada_2 = {}
-				b_qatada_3 = {}
-				b_qatada_4 = {}
-				b_qatada_5 = {}
-				b_qatada_6 = {}
-				b_qatada_7 = {}
-				b_qatada_8 = {}
-			}
-			c_el_ivani = {
-				color = { 37 96 223 }
-				color2 = { 0 255 0 }
-			
-				b_el_ivani_1 = {}
-				b_el_ivani_2 = {}
-				b_el_ivani_3 = {}
-				b_el_ivani_4 = {}
-				b_el_ivani_5 = {}
-				b_el_ivani_6 = {}
-				b_el_ivani_7 = {}
-				b_el_ivani_8 = {}
-			}
-			c_adaluth = {
-				color = { 49 114 195 }
-				color2 = { 0 255 0 }
-			
-				b_adaluth_1 = {}
-				b_adaluth_2 = {}
-				b_adaluth_3 = {}
-				b_adaluth_4 = {}
-				b_adaluth_5 = {}
-				b_adaluth_6 = {}
-				b_adaluth_7 = {}
-				b_adaluth_8 = {}
-			}
-		}
-		d_ara = {
-			color = { 68 96 180 }
-			color2 = { 0 255 0 }
-			
-			capital = 52 #Arakh
-
-			c_ikrem = {
-				color = { 32 125 179 }
-				color2 = { 0 255 0 }
-			
-				b_ikrem_1 = {}
-				b_ikrem_2 = {}
-				b_ikrem_3 = {}
-				b_ikrem_4 = {}
-				b_ikrem_5 = {}
-				b_ikrem_6 = {}
-				b_ikrem_7 = {}
-				b_ikrem_8 = {}
-			}
-			c_arakh = {
-				color = { 77 3 216 }
-				color2 = { 0 255 0 }
-			
-				b_arakh_1 = {}
-				b_arakh_2 = {}
-				b_arakh_3 = {}
-				b_arakh_4 = {}
-				b_arakh_5 = {}
-				b_arakh_6 = {}
-				b_arakh_7 = {}
-				b_arakh_8 = {}
-			}
-			c_qarom = {
-				color = { 5 93 151 }
-				color2 = { 0 255 0 }
-			
-				b_qarom_1 = {}
-				b_qarom_2 = {}
-				b_qarom_3 = {}
-				b_qarom_4 = {}
-				b_qarom_5 = {}
-				b_qarom_6 = {}
-				b_qarom_7 = {}
-				b_qarom_8 = {}
-			}
-			c_abin_ramadh = {
-				color = { 81 124 234 }
-				color2 = { 0 255 0 }
-			
-				b_abin_ramadh_1 = {}
-				b_abin_ramadh_2 = {}
-				b_abin_ramadh_3 = {}
-				b_abin_ramadh_4 = {}
-				b_abin_ramadh_5 = {}
-				b_abin_ramadh_6 = {}
-				b_abin_ramadh_7 = {}
-				b_abin_ramadh_8 = {}
-			}
-		}
-		d_sava = {
-			color = { 123 61 160 }
-			color2 = { 0 255 0 }
-			
-			capital = 56 #Savirah
-			c_eovir = {
-				color = { 142 142 142 }
-				color2 = { 0 255 0 }
-			
-				b_eovir_1 = {}
-				b_eovir_2 = {}
-				b_eovir_3 = {}
-				b_eovir_4 = {}
-				b_eovir_5 = {}
-				b_eovir_6 = {}
-				b_eovir_7 = {}
-				b_eovir_8 = {}
-			}
-			c_savirah = {
-				color = { 52 19 129 }
-				color2 = { 0 255 0 }
-			
-				b_savirah_1 = {}
-				b_savirah_2 = {}
-				b_savirah_3 = {}
-				b_savirah_4 = {}
-				b_savirah_5 = {}
-				b_savirah_6 = {}
-				b_savirah_7 = {}
-				b_savirah_8 = {}
-			}
-			c_parash = {
-				color = { 102 93 218 }
-				color2 = { 0 255 0 }
-			
-				b_parash_1 = {}
-				b_parash_2 = {}
-				b_parash_3 = {}
-				b_parash_4 = {}
-				b_parash_5 = {}
-				b_parash_6 = {}
-				b_parash_7 = {}
-				b_parash_8 = {}
-			}
-		}
-		d_ifka = {
-			color = { 107 70 183 }
-			color2 = { 0 255 0 }
-			
-			capital = 59 #Dubaral
-			c_dubaral = {
-				color = { 16 74 253 }
-				color2 = { 0 255 0 }
-			
-				b_dubaral_1 = {}
-				b_dubaral_2 = {}
-				b_dubaral_3 = {}
-				b_dubaral_4 = {}
-				b_dubaral_5 = {}
-				b_dubaral_6 = {}
-				b_dubaral_7 = {}
-				b_dubaral_8 = {}
-			}
-			c_ifkhor = {
-				color = { 72 72 150 }
-				color2 = { 0 255 0 }
-			
-				b_ifkhor_1 = {}
-				b_ifkhor_2 = {}
-				b_ifkhor_3 = {}
-				b_ifkhor_4 = {}
-				b_ifkhor_5 = {}
-				b_ifkhor_6 = {}
-				b_ifkhor_7 = {}
-				b_ifkhor_8 = {}
-			}
-		}
-		d_taga = {
-			color = { 15 104 230 }			color2 = { 0 255 0 }
-			
-			capital = 62 #Tagada
-			c_sidra = {
-				color = { 60 47 195 }
-				color2 = { 0 255 0 }
-			
-				b_sidra_1 = {}
-				b_sidra_2 = {}
-				b_sidra_3 = {}
-				b_sidra_4 = {}
-				b_sidra_5 = {}
-				b_sidra_6 = {}
-				b_sidra_7 = {}
-				b_sidra_8 = {}
-			}
-			c_khor = {
-				color = { 120 29 249 }
-				color2 = { 0 255 0 }
-			
-				b_khor_1 = {}
-				b_khor_2 = {}
-				b_khor_3 = {}
-				b_khor_4 = {}
-				b_khor_5 = {}
-				b_khor_6 = {}
-				b_khor_7 = {}
-				b_khor_8 = {}
-			}
-			c_tagada = {
-				color = { 60 103 185 }
-				color2 = { 0 255 0 }
-			
-				b_tagada_1 = {}
-				b_tagada_2 = {}
-				b_tagada_3 = {}
-				b_tagada_4 = {}
-				b_tagada_5 = {}
-				b_tagada_6 = {}
-				b_tagada_7 = {}
-				b_tagada_8 = {}
-			}
-			c_ifar = {
-				color = { 83 117 252 }
-				color2 = { 0 255 0 }
-			
-				b_ifar_1 = {}
-				b_ifar_2 = {}
-				b_ifar_3 = {}
-				b_ifar_4 = {}
-				b_ifar_5 = {}
-				b_ifar_6 = {}
-				b_ifar_7 = {}
-				b_ifar_8 = {}
-			}
-		}
-		d_kovos	= {
-			color = { 51 59 210 }
-			color2 = { 0 255 0 }
-			
-			capital = 67 #Khovsosh
-			c_horta = {
-				color = { 94 91 178 }
-				color2 = { 0 255 0 }
-			
-				b_horta_1 = {}
-				b_horta_2 = {}
-				b_horta_3 = {}
-				b_horta_4 = {}
-				b_horta_5 = {}
-				b_horta_6 = {}
-				b_horta_7 = {}
-				b_horta_8 = {}
-			}
-			c_mashoro = {
-				color = { 69 113 250 }
-				color2 = { 0 255 0 }
-			
-				b_mashoro_1 = {}
-				b_mashoro_2 = {}
-				b_mashoro_3 = {}
-				b_mashoro_4 = {}
-				b_mashoro_5 = {}
-				b_mashoro_6 = {}
-				b_mashoro_7 = {}
-				b_mashoro_8 = {}
-			}
-			c_ivida = {
-				color = { 36 44 148 }
-				color2 = { 0 255 0 }
-			
-				b_ivida_1 = {}
-				b_ivida_2 = {}
-				b_ivida_3 = {}
-				b_ivida_4 = {}
-				b_ivida_5 = {}
-				b_ivida_6 = {}
-				b_ivida_7 = {}
-				b_ivida_8 = {}
-			}
-			c_khovsosh = {
-				color = { 1 118 175 }
-				color2 = { 0 255 0 }
-			
-				b_khovsosh_1 = {}
-				b_khovsosh_2 = {}
-				b_khovsosh_3 = {}
-				b_khovsosh_4 = {}
-				b_khovsosh_5 = {}
-				b_khovsosh_6 = {}
-				b_khovsosh_7 = {}
-				b_khovsosh_8 = {}
-			}
-			c_arah = {
-				color = { 6 84 172 }
-				color2 = { 0 255 0 }
-			
-				b_arah_1 = {}
-				b_arah_2 = {}
-				b_arah_3 = {}
-				b_arah_4 = {}
-				b_arah_5 = {}
-				b_arah_6 = {}
-				b_arah_7 = {}
-				b_arah_8 = {}
-			}
-			c_ragash = {
-				color = { 30 1 227 }
-				color2 = { 0 255 0 }
-			
-				b_ragash_1 = {}
-				b_ragash_2 = {}
-				b_ragash_3 = {}
-				b_ragash_4 = {}
-				b_ragash_5 = {}
-				b_ragash_6 = {}
-				b_ragash_7 = {}
-				b_ragash_8 = {}
-			}
-		}
-		d_egor = {
-			color = { 74 88 177 }
-			color2 = { 0 255 0 }
-			
-			capital = 76 #Abin-Thukor
-			c_tav_sezhi = {
-				color = { 91 49 194 }
-				color2 = { 0 255 0 }
-			
-				b_tav_sezhi_1 = {}
-				b_tav_sezhi_2 = {}
-				b_tav_sezhi_3 = {}
-				b_tav_sezhi_4 = {}
-				b_tav_sezhi_5 = {}
-				b_tav_sezhi_6 = {}
-				b_tav_sezhi_7 = {}
-				b_tav_sezhi_8 = {}
-			}
-			c_es_holi = {
-				color = { 84 23 195 }
-				color2 = { 0 255 0 }
-			
-				b_es_holi_1 = {}
-				b_es_holi_2 = {}
-				b_es_holi_3 = {}
-				b_es_holi_4 = {}
-				b_es_holi_5 = {}
-				b_es_holi_6 = {}
-				b_es_holi_7 = {}
-				b_es_holi_8 = {}
-			}
-			c_el_egor = {
-				color = { 30 22 190 }
-				color2 = { 0 255 0 }
-			
-				b_el_egor_1 = {}
-				b_el_egor_2 = {}
-				b_el_egor_3 = {}
-				b_el_egor_4 = {}
-				b_el_egor_5 = {}
-				b_el_egor_6 = {}
-				b_el_egor_7 = {}
-				b_el_egor_8 = {}
-			}
-			c_orai = {
-				color = { 66 76 132 }
-				color2 = { 0 255 0 }
-			
-				b_orai_1 = {}
-				b_orai_2 = {}
-				b_orai_3 = {}
-				b_orai_4 = {}
-				b_orai_5 = {}
-				b_orai_6 = {}
-				b_orai_7 = {}
-				b_orai_8 = {}
-			}
-			c_valash = {
-				color = { 33 51 165 }
-				color2 = { 0 255 0 }
-			
-				b_valash_1 = {}
-				b_valash_2 = {}
-				b_valash_3 = {}
-				b_valash_4 = {}
-				b_valash_5 = {}
-				b_valash_6 = {}
-				b_valash_7 = {}
-				b_valash_8 = {}
-			}
-			c_sirmon = {
-				color = { 27 64 184 }
-				color2 = { 0 255 0 }
-			
-				b_sirmon_1 = {}
-				b_sirmon_2 = {}
-				b_sirmon_3 = {}
-				b_sirmon_4 = {}
-				b_sirmon_5 = {}
-				b_sirmon_6 = {}
-				b_sirmon_7 = {}
-				b_sirmon_8 = {}
-			}
-			c_abin_thukor = {
-				color = { 66 37 177 }
-				color2 = { 0 255 0 }
-			
-				b_abin_thukor_1 = {}
-				b_abin_thukor_2 = {}
-				b_abin_thukor_3 = {}
-				b_abin_thukor_4 = {}
-				b_abin_thukor_5 = {}
-				b_abin_thukor_6 = {}
-				b_abin_thukor_7 = {}
-				b_abin_thukor_8 = {}
-			}
-		}
-	}
-	k_consaber = {
-		color = { 208 83 121 }
-		color2 = { 220 220 20 }
-
-		capital = 17 #Calnia
-
-		d_uriens = {
-			color = { 212 109 4 }
-			color2 = { 0 255 0 }
-			
-			capital = 25 #Cretén
-			c_alni = {
-				color = { 165 114 74 }
-				color2 = { 0 255 0 }
-			
-				b_alni_1 = {}
-				b_alni_2 = {}
-				b_alni_3 = {}
-				b_alni_4 = {}
-				b_alni_5 = {}
-				b_alni_6 = {}
-				b_alni_7 = {}
-				b_alni_8 = {}
-			}
-			c_baton = {
-				color = { 143 49 12 }
-				color2 = { 0 255 0 }
-			
-				b_baton_1 = {}
-				b_baton_2 = {}
-				b_baton_3 = {}
-				b_baton_4 = {}
-				b_baton_5 = {}
-				b_baton_6 = {}
-				b_baton_7 = {}
-				b_baton_8 = {}
-			}
-			c_creten = {
-				color = { 194 16 89 }
-				color2 = { 0 255 0 }
-			
-				b_creten_1 = {}
-				b_creten_2 = {}
-				b_creten_3 = {}
-				b_creten_4 = {}
-				b_creten_5 = {}
-				b_creten_6 = {}
-				b_creten_7 = {}
-				b_creten_8 = {}
-			}
-			c_uriens = {
-				color = { 185 95 69 }
-				color2 = { 0 255 0 }
-			
-				b_uriens_1 = {}
-				b_uriens_2 = {}
-				b_uriens_3 = {}
-				b_uriens_4 = {}
-				b_uriens_5 = {}
-				b_uriens_6 = {}
-				b_uriens_7 = {}
-				b_uriens_8 = {}
-			}
-			c_firina = {
-				color = { 220 125 15 }
-				color2 = { 0 255 0 }
-			
-				b_firina_1 = {}
-				b_firina_2 = {}
-				b_firina_3 = {}
-				b_firina_4 = {}
-				b_firina_5 = {}
-				b_firina_6 = {}
-				b_firina_7 = {}
-				b_firina_8 = {}
-			}
-			c_nantien = {
-				color = { 173 3 73 }
-				color2 = { 0 255 0 }
-			
-				b_nantien_1 = {}
-				b_nantien_2 = {}
-				b_nantien_3 = {}
-				b_nantien_4 = {}
-				b_nantien_5 = {}
-				b_nantien_6 = {}
-				b_nantien_7 = {}
-				b_nantien_8 = {}
-			}
-			c_seredan = {
-				color = { 186 16 120 }
-				color2 = { 0 255 0 }
-			
-				b_seredan_1 = {}
-				b_seredan_2 = {}
-				b_seredan_3 = {}
-				b_seredan_4 = {}
-				b_seredan_5 = {}
-				b_seredan_6 = {}
-				b_seredan_7 = {}
-				b_seredan_8 = {}
-			}
-			c_rinya = {
-				color = { 246 83 19 }
-				color2 = { 0 255 0 }
-			
-				b_rinya_1 = {}
-				b_rinya_2 = {}
-				b_rinya_3 = {}
-				b_rinya_4 = {}
-				b_rinya_5 = {}
-				b_rinya_6 = {}
-				b_rinya_7 = {}
-				b_rinya_8 = {}
-			}
-		}
-		d_calana = {
-			color = { 205 125 48 }
-			color2 = { 0 255 0 }
-			
-			capital = 17 #Calnia
-			c_calnia = {
-				color = { 226 116 17 }
-				color2 = { 0 255 0 }
-			
-				b_calnia_1 = {}
-				b_calnia_2 = {}
-				b_calnia_3 = {}
-				b_calnia_4 = {}
-				b_calnia_5 = {}
-				b_calnia_6 = {}
-				b_calnia_7 = {}
-				b_calnia_8 = {}
-			}
-			c_uter = {
-				color = { 165 65 33 }
-				color2 = { 0 255 0 }
-			
-				b_uter_1 = {}
-				b_uter_2 = {}
-				b_uter_3 = {}
-				b_uter_4 = {}
-				b_uter_5 = {}
-				b_uter_6 = {}
-				b_uter_7 = {}
-				b_uter_8 = {}
-			}
-			c_agant = {
-				color = { 134 81 17 }
-				color2 = { 0 255 0 }
-			
-				b_agant_1 = {}
-				b_agant_2 = {}
-				b_agant_3 = {}
-				b_agant_4 = {}
-				b_agant_5 = {}
-				b_agant_6 = {}
-				b_agant_7 = {}
-				b_agant_8 = {}
-			}
-			c_cralo = {
-				color = { 243 12 74 }
-				color2 = { 0 255 0 }
-			
-				b_cralo_1 = {}
-				b_cralo_2 = {}
-				b_cralo_3 = {}
-				b_cralo_4 = {}
-				b_cralo_5 = {}
-				b_cralo_6 = {}
-				b_cralo_7 = {}
-				b_cralo_8 = {}
-			}
-			c_skywif = {
-				color = { 140 59 118 }
-				color2 = { 0 255 0 }
-			
-				b_skywif_1 = {}
-				b_skywif_2 = {}
-				b_skywif_3 = {}
-				b_skywif_4 = {}
-				b_skywif_5 = {}
-				b_skywif_6 = {}
-				b_skywif_7 = {}
-				b_skywif_8 = {}
-			}
-			c_felosi = {
-				color = { 175 60 102 }
-				color2 = { 0 255 0 }
-			
-				b_felosi_1 = {}
-				b_felosi_2 = {}
-				b_felosi_3 = {}
-				b_felosi_4 = {}
-				b_felosi_5 = {}
-				b_felosi_6 = {}
-				b_felosi_7 = {}
-				b_felosi_8 = {}
-			}
-		}
-		d_turina = {
-			color = { 153 22 20 }
-			color2 = { 0 255 0 }
-			
-			capital = 9 #Turin
-			c_turin = {
-				color = { 157 118 47 }
-				color2 = { 0 255 0 }
-			
-				b_turin_1 = {}
-				b_turin_2 = {}
-				b_turin_3 = {}
-				b_turin_4 = {}
-				b_turin_5 = {}
-				b_turin_6 = {}
-				b_turin_7 = {}
-				b_turin_8 = {}
-			}
-			c_nol = {
-				color = { 253 36 103 }
-				color2 = { 0 255 0 }
-			
-				b_nol_1 = {}
-				b_nol_2 = {}
-				b_nol_3 = {}
-				b_nol_4 = {}
-				b_nol_5 = {}
-				b_nol_6 = {}
-				b_nol_7 = {}
-				b_nol_8 = {}
-			}
-			c_ebrin = {
-				color = { 200 110 2 }
-				color2 = { 0 255 0 }
-			
-				b_ebrin_1 = {}
-				b_ebrin_2 = {}
-				b_ebrin_3 = {}
-				b_ebrin_4 = {}
-				b_ebrin_5 = {}
-				b_ebrin_6 = {}
-				b_ebrin_7 = {}
-				b_ebrin_8 = {}
-			}
-		}
-		d_negaidh = {
-			color = { 152 98 59 }
-			color2 = { 0 255 0 }
-			
-			capital = 13 #Tresna
-			c_alcheg = {
-				color = { 163 50 106 }
-				color2 = { 0 255 0 }
-			
-				b_alcheg_1 = {}
-				b_alcheg_2 = {}
-				b_alcheg_3 = {}
-				b_alcheg_4 = {}
-				b_alcheg_5 = {}
-				b_alcheg_6 = {}
-				b_alcheg_7 = {}
-				b_alcheg_8 = {}
-			}
-			c_laerm = {
-				color = { 129 55 9 }
-				color2 = { 0 255 0 }
-			
-				b_laerm_1 = {}
-				b_laerm_2 = {}
-				b_laerm_3 = {}
-				b_laerm_4 = {}
-				b_laerm_5 = {}
-				b_laerm_6 = {}
-				b_laerm_7 = {}
-				b_laerm_8 = {}
-			}
-			c_negin = {
-				color = { 174 70 49 }
-				color2 = { 0 255 0 }
-			
-				b_negin_1 = {}
-				b_negin_2 = {}
-				b_negin_3 = {}
-				b_negin_4 = {}
-				b_negin_5 = {}
-				b_negin_6 = {}
-				b_negin_7 = {}
-				b_negin_8 = {}
-			}
-			c_tresna = {
-				color = { 131 55 39 }
-				color2 = { 0 255 0 }
-			
-				b_tresna_1 = {}
-				b_tresna_2 = {}
-				b_tresna_3 = {}
-				b_tresna_4 = {}
-				b_tresna_5 = {}
-				b_tresna_6 = {}
-				b_tresna_7 = {}
-				b_tresna_8 = {}
-			}
-			c_flarne = {
-				color = { 177 81 97 }
-				color2 = { 0 255 0 }
-			
-				b_flarne_1 = {}
-				b_flarne_2 = {}
-				b_flarne_3 = {}
-				b_flarne_4 = {}
-				b_flarne_5 = {}
-				b_flarne_6 = {}
-				b_flarne_7 = {}
-				b_flarne_8 = {}
-			}
-			c_arsacke = {
-				color = { 128 44 3 }
-				color2 = { 0 255 0 }
-			
-				b_arsacke_1 = {}
-				b_arsacke_2 = {}
-				b_arsacke_3 = {}
-				b_arsacke_4 = {}
-				b_arsacke_5 = {}
-				b_arsacke_6 = {}
-				b_arsacke_7 = {}
-				b_arsacke_8 = {}
-			}
-		}
-		d_nensema = {
-			color = { 171 125 119 }
-			color2 = { 0 255 0 }
-			
-			capital = 2 #Vimna
-
-			c_colm = {
-				color = { 214 72 43 }
-				color2 = { 0 255 0 }
-			
-				b_colm_1 = {}
-				b_colm_2 = {}
-				b_colm_3 = {}
-				b_colm_4 = {}
-				b_colm_5 = {}
-				b_colm_6 = {}
-				b_colm_7 = {}
-				b_colm_8 = {}
-			}
-			c_rim = {
-				color = { 162 120 104 }
-				color2 = { 0 255 0 }
-			
-				b_rim_1 = {}
-				b_rim_2 = {}
-				b_rim_3 = {}
-				b_rim_4 = {}
-				b_rim_5 = {}
-				b_rim_6 = {}
-				b_rim_7 = {}
-				b_rim_8 = {}
-			}
-			c_vimna = {
-				color = { 212 67 79 }
-				color2 = { 0 255 0 }
-			
-				b_vimna_1 = {}
-				b_vimna_2 = {}
-				b_vimna_3 = {}
-				b_vimna_4 = {}
-				b_vimna_5 = {}
-				b_vimna_6 = {}
-				b_vimna_7 = {}
-				b_vimna_8 = {}
-			}
-			c_tarna = {
-				color = { 199 6 54 }
-				color2 = { 0 255 0 }
-			
-				b_tarna_1 = {}
-				b_tarna_2 = {}
-				b_tarna_3 = {}
-				b_tarna_4 = {}
-				b_tarna_5 = {}
-				b_tarna_6 = {}
-				b_tarna_7 = {}
-				b_tarna_8 = {}
-			}
-			c_nensen = {
-				color = { 210 19 35 }
-				color2 = { 0 255 0 }
-			
-				b_nensen_1 = {}
-				b_nensen_2 = {}
-				b_nensen_3 = {}
-				b_nensen_4 = {}
-				b_nensen_5 = {}
-				b_nensen_6 = {}
-				b_nensen_7 = {}
-				b_nensen_8 = {}
-			}
-			c_prowe = {
-				color = { 242 110 37 }
-				color2 = { 0 255 0 }
-			
-				b_prowe_1 = {}
-				b_prowe_2 = {}
-				b_prowe_3 = {}
-				b_prowe_4 = {}
-				b_prowe_5 = {}
-				b_prowe_6 = {}
-				b_prowe_7 = {}
-				b_prowe_8 = {}
-			}
-			c_ramnesney = {
-				color = { 231 39 89 }
-				color2 = { 0 255 0 }
-			
-				b_ramnesney_1 = {}
-				b_ramnesney_2 = {}
-				b_ramnesney_3 = {}
-				b_ramnesney_4 = {}
-				b_ramnesney_5 = {}
-				b_ramnesney_6 = {}
-				b_ramnesney_7 = {}
-				b_ramnesney_8 = {}
-			}
-		}
-	}
-	k_tokon = {
-		color = { 117 237 40 }
-		color2 = { 220 220 20 }
-
-		capital = 31 #Intouk
-
-		d_tokon = {
-			color = { 116 162 17 }
-			color2 = { 0 255 0 }
-			
-			capital = 31 #Intouk
-			c_intouk = {
-				color = { 114 155 83 }
-				color2 = { 0 255 0 }
-			
-				b_intouk_1 = {}
-				b_intouk_2 = {}
-				b_intouk_3 = {}
-				b_intouk_4 = {}
-				b_intouk_5 = {}
-				b_intouk_6 = {}
-				b_intouk_7 = {}
-				b_intouk_8 = {}
-			}
-			c_debhean = {
-				color = { 4 226 67 }
-				color2 = { 0 255 0 }
-			
-				b_debhean_1 = {}
-				b_debhean_2 = {}
-				b_debhean_3 = {}
-				b_debhean_4 = {}
-				b_debhean_5 = {}
-				b_debhean_6 = {}
-				b_debhean_7 = {}
-				b_debhean_8 = {}
-			}
-			c_ailleidh = {
-				color = { 47 140 73 }
-				color2 = { 0 255 0 }
-			
-				b_ailleidh_1 = {}
-				b_ailleidh_2 = {}
-				b_ailleidh_3 = {}
-				b_ailleidh_4 = {}
-				b_ailleidh_5 = {}
-				b_ailleidh_6 = {}
-				b_ailleidh_7 = {}
-				b_ailleidh_8 = {}
-			}
-			c_feleidh = {
-				color = { 2 169 89 }
-				color2 = { 0 255 0 }
-			
-				b_feleidh_1 = {}
-				b_feleidh_2 = {}
-				b_feleidh_3 = {}
-				b_feleidh_4 = {}
-				b_feleidh_5 = {}
-				b_feleidh_6 = {}
-				b_feleidh_7 = {}
-				b_feleidh_8 = {}
-			}
-			c_eirach = {
-				color = { 106 208 116 }
-				color2 = { 0 255 0 }
-			
-				b_eirach_1 = {}
-				b_eirach_2 = {}
-				b_eirach_3 = {}
-				b_eirach_4 = {}
-				b_eirach_5 = {}
-				b_eirach_6 = {}
-				b_eirach_7 = {}
-				b_eirach_8 = {}
-			}
-			c_tain = {
-				color = { 19 189 39 }
-				color2 = { 0 255 0 }
-			
-				b_tain_1 = {}
-				b_tain_2 = {}
-				b_tain_3 = {}
-				b_tain_4 = {}
-				b_tain_5 = {}
-				b_tain_6 = {}
-				b_tain_7 = {}
-				b_tain_8 = {}
-			}
-			c_drakskogarna = {
-				color = { 0 234 90 }
-				color2 = { 0 255 0 }
-			
-				b_drakskogarna_1 = {}
-				b_drakskogarna_2 = {}
-				b_drakskogarna_3 = {}
-				b_drakskogarna_4 = {}
-				b_drakskogarna_5 = {}
-				b_drakskogarna_6 = {}
-				b_drakskogarna_7 = {}
-				b_drakskogarna_8 = {}
-			}
-		}
-		d_alarinn = {
-			color = { 78 136 116 }
-			color2 = { 0 255 0 }
-		
-			capital = 40 #Västlanden
-			
-			c_nordlanden = {
-				color = { 18 173 74 }
-				color2 = { 0 255 0 }
-			
-				b_nordlanden_1 = {}
-				b_nordlanden_2 = {}
-				b_nordlanden_3 = {}
-				b_nordlanden_4 = {}
-				b_nordlanden_5 = {}
-				b_nordlanden_6 = {}
-				b_nordlanden_7 = {}
-				b_nordlanden_8 = {}
-			}
-			c_hoglanden = {
-				color = { 119 198 106 }
-				color2 = { 0 255 0 }
-			
-				b_hoglanden_1 = {}
-				b_hoglanden_2 = {}
-				b_hoglanden_3 = {}
-				b_hoglanden_4 = {}
-				b_hoglanden_5 = {}
-				b_hoglanden_6 = {}
-				b_hoglanden_7 = {}
-				b_hoglanden_8 = {}
-			}
-			c_siana = {
-				color = { 30 227 32 }
-				color2 = { 0 255 0 }
-			
-				b_siana_1 = {}
-				b_siana_2 = {}
-				b_siana_3 = {}
-				b_siana_4 = {}
-				b_siana_5 = {}
-				b_siana_6 = {}
-				b_siana_7 = {}
-				b_siana_8 = {}
-			}
-			c_vastlanden = {
-				color = { 113 164 104 }
-				color2 = { 0 255 0 }
-			
-				b_vastlanden_1 = {}
-				b_vastlanden_2 = {}
-				b_vastlanden_3 = {}
-				b_vastlanden_4 = {}
-				b_vastlanden_5 = {}
-				b_vastlanden_6 = {}
-				b_vastlanden_7 = {}
-				b_vastlanden_8 = {}
-			}
-			c_sydlanden = {
-				color = { 47 159 106 }
-				color2 = { 0 255 0 }
-			
-				b_sydlanden_1 = {}
-				b_sydlanden_2 = {}
-				b_sydlanden_3 = {}
-				b_sydlanden_4 = {}
-				b_sydlanden_5 = {}
-				b_sydlanden_6 = {}
-				b_sydlanden_7 = {}
-				b_sydlanden_8 = {}
-			}
-		}
-	}
-}
 
 # TITULAR DUCHIES
 	d_abbasid = {
@@ -3011,4 +1820,2206 @@ d_mamluks = {
 	primary = yes
 	
 	modifier = d_mamluks_modifier
+}
+
+#Mundana titles
+
+e_consaber = {
+	color = { 208 83 121 }
+	color2 = { 220 220 20 }
+	
+	capital = 44
+	
+	religion = daak
+	
+	k_uriens = {
+		color = { 163 113 107 }
+		color2 = { 209 4 173 }
+		
+		capital = 57
+		
+		religion = daak
+		culture = perenn
+		
+		d_seredan = {
+			color = { 234 104 77 }
+			color2 = { 186 122 157 }
+			
+			c_dunreith = {
+				color = { 196 118 9 }
+				color2 = { 164 57 141 }
+				
+				b_dunreith_1 = {}
+				b_dunreith_2 = {}
+				b_dunreith_3 = {}
+				b_dunreith_4 = {}
+			}
+			c_skenetrip = {
+				color = { 50 117 229 }
+				color2 = { 32 160 183 }
+				
+				b_skenetrip_1 = {}
+				b_skenetrip_2 = {}
+				b_skenetrip_3 = {}
+				b_skenetrip_4 = {}
+			}
+			c_tene = {
+				color = { 245 52 127 }
+				color2 = { 129 95 138 }
+				
+				b_tene_1 = {}
+				b_tene_2 = {}
+				b_tene_3 = {}
+				b_tene_4 = {}
+			}
+		}
+		d_rinya = {
+			color = { 195 76 119 }
+			color2 = { 191 42 244 }
+			
+			c_rinya = {
+				color = { 67 159 16 }
+				color2 = { 252 229 71 }
+				
+				b_rinya_1 = {}
+				b_rinya_2 = {}
+				b_rinya_3 = {}
+				b_rinya_4 = {}
+			}
+		}
+		d_firina = {
+			color = { 191 23 2 }
+			color2 = { 221 4 232 }
+			
+			c_firina = {
+				color = { 206 1 33 }
+				color2 = { 192 17 176 }
+				
+				b_firina_1 = {}
+				b_firina_2 = {}
+				b_firina_3 = {}
+				b_firina_4 = {}
+			}
+			c_herika = {
+				color = { 95 38 177 }
+				color2 = { 35 171 200 }
+				
+				b_herika_1 = {}
+				b_herika_2 = {}
+				b_herika_3 = {}
+				b_herika_4 = {}
+			}
+			c_mater = {
+				color = { 50 108 201 }
+				color2 = { 52 129 239 }
+				
+				b_mater_1 = {}
+				b_mater_2 = {}
+				b_mater_3 = {}
+				b_mater_4 = {}
+			}
+		}
+		d_baton = {
+			color = { 130 103 71 }
+			color2 = { 191 35 194 }
+			
+			c_rimon = {
+				color = { 57 120 165 }
+				color2 = { 124 240 182 }
+				
+				b_rimon_1 = {}
+				b_rimon_2 = {}
+				b_rimon_3 = {}
+				b_rimon_4 = {}
+			}
+			c_dunbaton = {
+				color = { 206 64 86 }
+				color2 = { 212 85 133 }
+				
+				b_dunbaton_1 = {}
+				b_dunbaton_2 = {}
+				b_dunbaton_3 = {}
+				b_dunbaton_4 = {}
+			}
+			c_grikentulw = {
+				color = { 208 102 113 }
+				color2 = { 162 119 198 }
+				
+				b_grikentulw_1 = {}
+				b_grikentulw_2 = {}
+				b_grikentulw_3 = {}
+				b_grikentulw_4 = {}
+			}
+		}
+		d_creten = {
+			color = { 190 43 120 }
+			color2 = { 139 1 129 }
+			
+			c_belos = {
+				color = { 172 100 78 }
+				color2 = { 206 101 131 }
+				
+				b_belos_1 = {}
+				b_belos_2 = {}
+				b_belos_3 = {}
+				b_belos_4 = {}
+			}
+			c_kardor = {
+				color = { 78 83 201 }
+				color2 = { 112 144 204 }
+				
+				b_kardor_1 = {}
+				b_kardor_2 = {}
+				b_kardor_3 = {}
+				b_kardor_4 = {}
+			}
+			c_uriens = {
+				color = { 201 93 82 }
+				color2 = { 171 23 141 }
+				
+				b_uriens_1 = {}
+				b_uriens_2 = {}
+				b_uriens_3 = {}
+				b_uriens_4 = {}
+				b_uriens_5 = {}
+			}
+			c_jaimon = {
+				color = { 106 91 241 }
+				color2 = { 27 135 251 }
+				
+				b_jaimon_1 = {}
+				b_jaimon_2 = {}
+				b_jaimon_3 = {}
+				b_jaimon_4 = {}
+			}
+			c_creten = {
+				color = { 246 60 18 }
+				color2 = { 129 41 137 }
+				
+				b_creten_1 = {}
+				b_creten_2 = {}
+				b_creten_3 = {}
+				b_creten_4 = {}
+				b_creten_5 = {}
+			}
+		}
+		d_alni = {
+			color = { 135 117 38 }
+			color2 = { 198 104 150 }
+			
+			c_emnau = {
+				color = { 247 101 30 }
+				color2 = { 196 32 147 }
+				
+				b_emnau_1 = {}
+				b_emnau_2 = {}
+				b_emnau_3 = {}
+				b_emnau_4 = {}
+			}
+			c_aladene = {
+				color = { 161 72 65 }
+				color2 = { 212 83 246 }
+				
+				b_aladene_1 = {}
+				b_aladene_2 = {}
+				b_aladene_3 = {}
+				b_aladene_4 = {}
+			}
+			c_brelsest = {
+				color = { 165 122 99 }
+				color2 = { 251 57 191 }
+				
+				b_brelsest_1 = {}
+				b_brelsest_2 = {}
+				b_brelsest_3 = {}
+				b_brelsest_4 = {}
+			}
+			c_aliana = {
+				color = { 244 30 60 }
+				color2 = { 249 51 187 }
+				
+				b_aliana_1 = {}
+				b_aliana_2 = {}
+				b_aliana_3 = {}
+				b_aliana_4 = {}
+			}
+		}
+		d_nantien = {
+			color = { 166 19 47 }
+			color2 = { 154 33 225 }
+			
+			c_ebrean = {
+				color = { 194 45 78 }
+				color2 = { 212 78 150 }
+				
+				b_ebrean_1 = {}
+				b_ebrean_2 = {}
+				b_ebrean_3 = {}
+				b_ebrean_4 = {}
+			}
+			c_welea = {
+				color = { 242 85 73 }
+				color2 = { 169 2 183 }
+				
+				b_welea_1 = {}
+				b_welea_2 = {}
+				b_welea_3 = {}
+				b_welea_4 = {}
+			}
+			c_salston_tor = {
+				color = { 248 28 12 }
+				color2 = { 227 127 241 }
+				
+				b_salston_tor_1 = {}
+				b_salston_tor_2 = {}
+				b_salston_tor_3 = {}
+				b_salston_tor_4 = {}
+			}
+		}
+	}
+	k_turina = {
+		color = { 213 34 9 }
+		color2 = { 204 60 151 }
+		
+		capital = 16
+		
+		religion = daak
+		culture = conrier
+		
+		d_turin = {
+			color = { 128 66 56 }
+			color2 = { 137 99 202 }
+			
+			c_nelly = {
+				color = { 237 106 125 }
+				color2 = { 134 71 189 }
+				
+				b_nelly_1 = {}
+				b_nelly_2 = {}
+				b_nelly_3 = {}
+				b_nelly_4 = {}
+			}
+			c_turina = {
+				color = { 222 117 83 }
+				color2 = { 229 46 219 }
+				
+				b_turina_1 = {}
+				b_turina_2 = {}
+				b_turina_3 = {}
+				b_turina_4 = {}
+			}
+		}
+		d_nol = {
+			color = { 196 35 8 }
+			color2 = { 180 101 188 }
+			
+			c_ghia = {
+				color = { 67 108 189 }
+				color2 = { 117 161 188 }
+				
+				b_ghia_1 = {}
+				b_ghia_2 = {}
+				b_ghia_3 = {}
+				b_ghia_4 = {}
+			}
+			c_miria = {
+				color = { 26 62 231 }
+				color2 = { 6 143 167 }
+				
+				b_miria_1 = {}
+				b_miria_2 = {}
+				b_miria_3 = {}
+				b_miria_4 = {}
+			}
+		}
+		d_ebrin = {
+			color = { 138 120 90 }
+			color2 = { 131 52 208 }
+			
+			c_fen = {
+				color = { 143 90 15 }
+				color2 = { 161 50 228 }
+				
+				b_fen_1 = {}
+				b_fen_2 = {}
+				b_fen_3 = {}
+				b_fen_4 = {}
+			}
+			c_ehgine = {
+				color = { 191 33 38 }
+				color2 = { 240 17 224 }
+				
+				b_ehgine_1 = {}
+				b_ehgine_2 = {}
+				b_ehgine_3 = {}
+				b_ehgine_4 = {}
+			}
+		}
+	}
+	k_nensema = {
+		color = { 195 125 9 }
+		color2 = { 226 105 175 }
+		
+		capital = 9
+		
+		religion = daak
+		culture = conrier
+		
+		d_vimna = {
+			color = { 128 31 0 }
+			color2 = { 146 116 185 }
+			
+			c_meredith = {
+				color = { 244 11 33 }
+				color2 = { 247 84 212 }
+				
+				b_meredith_1 = {}
+				b_meredith_2 = {}
+				b_meredith_3 = {}
+				b_meredith_4 = {}
+			}
+			c_myndar = {
+				color = { 1 191 101 }
+				color2 = { 157 149 35 }
+				
+				b_myndar_1 = {}
+				b_myndar_2 = {}
+				b_myndar_3 = {}
+				b_myndar_4 = {}
+			}
+		}
+		d_prowe = {
+			color = { 228 4 90 }
+			color2 = { 163 105 185 }
+			
+			c_varna = {
+				color = { 194 90 81 }
+				color2 = { 198 44 247 }
+				
+				b_varna_1 = {}
+				b_varna_2 = {}
+				b_varna_3 = {}
+				b_varna_4 = {}
+			}
+		}
+		d_tarna = {
+			color = { 128 116 15 }
+			color2 = { 161 39 139 }
+			
+			c_treigh = {
+				color = { 237 40 21 }
+				color2 = { 198 1 249 }
+				
+				b_treigh_1 = {}
+				b_treigh_2 = {}
+				b_treigh_3 = {}
+				b_treigh_4 = {}
+			}
+		}
+		d_colm = {
+			color = { 145 45 115 }
+			color2 = { 148 45 227 }
+			
+			c_colm = {
+				color = { 248 119 54 }
+				color2 = { 238 48 233 }
+				
+				b_colm_1 = {}
+				b_colm_2 = {}
+			}
+		}
+		d_ramnesney = {
+			color = { 238 45 26 }
+			color2 = { 159 96 140 }
+			
+			c_ramnesney = {
+				color = { 94 91 202 }
+				color2 = { 26 195 234 }
+				
+				b_ramnesney_1 = {}
+				b_ramnesney_2 = {}
+				b_ramnesney_3 = {}
+				b_ramnesney_4 = {}
+			}
+			c_wella = {
+				color = { 152 39 98 }
+				color2 = { 208 61 128 }
+				
+				b_wella_1 = {}
+				b_wella_2 = {}
+				b_wella_3 = {}
+				b_wella_4 = {}
+			}
+		}
+		d_nensen = {
+			color = { 201 120 33 }
+			color2 = { 171 13 211 }
+			
+			c_bret = {
+				color = { 191 46 60 }
+				color2 = { 147 51 138 }
+				
+				b_bret_1 = {}
+				b_bret_2 = {}
+				b_bret_3 = {}
+				b_bret_4 = {}
+			}
+			c_nensema = {
+				color = { 203 19 93 }
+				color2 = { 147 55 247 }
+				
+				b_nensema_1 = {}
+				b_nensema_2 = {}
+				b_nensema_3 = {}
+				b_nensema_4 = {}
+			}
+		}
+		d_rim = {
+			color = { 151 13 62 }
+			color2 = { 129 95 200 }
+			
+			c_marnoc = {
+				color = { 3 116 179 }
+				color2 = { 9 140 250 }
+				
+				b_marnoc_1 = {}
+				b_marnoc_2 = {}
+			}
+			c_alarik = {
+				color = { 210 34 103 }
+				color2 = { 236 121 168 }
+				
+				b_alarik_1 = {}
+				b_alarik_2 = {}
+				b_alarik_3 = {}
+				b_alarik_4 = {}
+			}
+		}
+	}
+	k_negaidh = {
+		color = { 197 4 73 }
+		color2 = { 166 103 139 }
+		
+		capital = 23
+		
+		religion = daak
+		culture = conrier
+		
+		d_negin = {
+			color = { 128 99 54 }
+			color2 = { 158 114 218 }
+			
+			c_saiwick = {
+				color = { 252 27 38 }
+				color2 = { 135 51 239 }
+				
+				b_saiwick_1 = {}
+				b_saiwick_2 = {}
+				b_saiwick_3 = {}
+				b_saiwick_4 = {}
+			}
+			c_negann = {
+				color = { 138 47 25 }
+				color2 = { 155 71 183 }
+				
+				b_negann_1 = {}
+				b_negann_2 = {}
+				b_negann_3 = {}
+				b_negann_4 = {}
+			}
+			c_nana = {
+				color = { 165 20 26 }
+				color2 = { 140 74 157 }
+				
+				b_nana_1 = {}
+				b_nana_2 = {}
+				b_nana_3 = {}
+				b_nana_4 = {}
+			}
+		}
+		d_tresna = {
+			color = { 148 97 68 }
+			color2 = { 197 19 209 }
+			
+			c_tar = {
+				color = { 128 80 21 }
+				color2 = { 188 29 168 }
+				
+				b_tar_1 = {}
+				b_tar_2 = {}
+				b_tar_3 = {}
+				b_tar_4 = {}
+			}
+			c_negaidh = {
+				color = { 94 138 127 }
+				color2 = { 200 231 24 }
+				
+				b_negaidh_1 = {}
+				b_negaidh_2 = {}
+				b_negaidh_3 = {}
+				b_negaidh_4 = {}
+			}
+			c_aganne = {
+				color = { 131 37 0 }
+				color2 = { 241 121 248 }
+				
+				b_aganne_1 = {}
+				b_aganne_2 = {}
+				b_aganne_3 = {}
+				b_aganne_4 = {}
+			}
+		}
+		d_flarne = {
+			color = { 234 44 82 }
+			color2 = { 221 20 223 }
+			
+			c_faimon = {
+				color = { 158 1 47 }
+				color2 = { 215 81 236 }
+				
+				b_faimon_1 = {}
+				b_faimon_2 = {}
+				b_faimon_3 = {}
+				b_faimon_4 = {}
+			}
+		}
+		d_arsacke = {
+			color = { 234 26 68 }
+			color2 = { 172 2 183 }
+			
+			c_ornia = {
+				color = { 208 8 104 }
+				color2 = { 201 118 224 }
+				
+				b_ornia_1 = {}
+				b_ornia_2 = {}
+				b_ornia_3 = {}
+				b_ornia_4 = {}
+			}
+			c_rebenn = {
+				color = { 139 30 115 }
+				color2 = { 179 104 134 }
+				
+				b_rebenn_1 = {}
+				b_rebenn_2 = {}
+				b_rebenn_3 = {}
+				b_rebenn_4 = {}
+			}
+		}
+		d_alcheg = {
+			color = { 128 52 48 }
+			color2 = { 193 10 250 }
+			
+			c_alcheg = {
+				color = { 145 116 51 }
+				color2 = { 214 102 193 }
+				
+				b_alcheg_1 = {}
+				b_alcheg_2 = {}
+				b_alcheg_3 = {}
+				b_alcheg_4 = {}
+			}
+			c_ybersiel = {
+				color = { 193 82 59 }
+				color2 = { 170 86 236 }
+				
+				b_ybersiel_1 = {}
+				b_ybersiel_2 = {}
+				b_ybersiel_3 = {}
+				b_ybersiel_4 = {}
+			}
+		}
+		d_laerm = {
+			color = { 252 27 109 }
+			color2 = { 214 60 248 }
+			
+			c_lareigh = {
+				color = { 111 146 7 }
+				color2 = { 194 239 57 }
+				
+				b_lareigh_1 = {}
+				b_lareigh_2 = {}
+				b_lareigh_3 = {}
+				b_lareigh_4 = {}
+			}
+		}
+	}
+	k_calana = {
+		color = { 209 87 111 }
+		color2 = { 213 101 210 }
+		
+		capital = 44
+		
+		religion = daak
+		culture = perenn
+		
+		d_felosi = {
+			color = { 229 42 68 }
+			color2 = { 241 68 247 }
+			
+			c_karnag = {
+				color = { 239 96 35 }
+				color2 = { 175 94 136 }
+				
+				b_karnag_1 = {}
+				b_karnag_2 = {}
+				b_karnag_3 = {}
+				b_karnag_4 = {}
+			}
+			c_fella = {
+				color = { 198 67 64 }
+				color2 = { 158 37 193 }
+				
+				b_fella_1 = {}
+				b_fella_2 = {}
+				b_fella_3 = {}
+				b_fella_4 = {}
+			}
+		}
+		d_agant = {
+			color = { 248 25 107 }
+			color2 = { 171 16 165 }
+			
+			c_agant = {
+				color = { 180 23 58 }
+				color2 = { 187 40 214 }
+				
+				b_agant_1 = {}
+				b_agant_2 = {}
+				b_agant_3 = {}
+				b_agant_4 = {}
+			}
+			c_oldell = {
+				color = { 94 242 61 }
+				color2 = { 158 160 87 }
+				
+				b_oldell_1 = {}
+				b_oldell_2 = {}
+				b_oldell_3 = {}
+				b_oldell_4 = {}
+			}
+		}
+		d_cralo = {
+			color = { 206 104 86 }
+			color2 = { 194 61 251 }
+			
+			c_picarel = {
+				color = { 107 31 163 }
+				color2 = { 121 143 138 }
+				
+				b_picarel_1 = {}
+				b_picarel_2 = {}
+				b_picarel_3 = {}
+				b_picarel_4 = {}
+			}
+			c_cralann = {
+				color = { 206 7 18 }
+				color2 = { 196 45 194 }
+				
+				b_cralann_1 = {}
+				b_cralann_2 = {}
+				b_cralann_3 = {}
+				b_cralann_4 = {}
+			}
+		}
+		d_uter = {
+			color = { 213 22 71 }
+			color2 = { 203 110 249 }
+			
+			c_ulw = {
+				color = { 132 34 121 }
+				color2 = { 245 5 163 }
+				
+				b_ulw_1 = {}
+				b_ulw_2 = {}
+				b_ulw_3 = {}
+				b_ulw_4 = {}
+			}
+			c_elara = {
+				color = { 194 102 5 }
+				color2 = { 227 7 149 }
+				
+				b_elara_1 = {}
+				b_elara_2 = {}
+				b_elara_3 = {}
+				b_elara_4 = {}
+			}
+		}
+		d_calnia = {
+			color = { 210 119 67 }
+			color2 = { 184 25 232 }
+			
+			c_sara = {
+				color = { 214 106 86 }
+				color2 = { 158 114 171 }
+				
+				b_sara_1 = {}
+				b_sara_2 = {}
+				b_sara_3 = {}
+				b_sara_4 = {}
+			}
+			c_calnia = {
+				color = { 244 73 123 }
+				color2 = { 143 102 232 }
+				
+				b_calnia_1 = {}
+				b_calnia_2 = {}
+				b_calnia_3 = {}
+				b_calnia_4 = {}
+				b_calnia_5 = {}
+			}
+			c_hesne = {
+				color = { 253 120 84 }
+				color2 = { 163 127 221 }
+				
+				b_hesne_1 = {}
+				b_hesne_2 = {}
+				b_hesne_3 = {}
+				b_hesne_4 = {}
+			}
+		}
+		d_skywif = {
+			color = { 245 40 28 }
+			color2 = { 154 55 146 }
+			
+			c_ruda = {
+				color = { 29 45 177 }
+				color2 = { 59 137 224 }
+				
+				b_ruda_1 = {}
+				b_ruda_2 = {}
+				b_ruda_3 = {}
+				b_ruda_4 = {}
+			}
+			c_untulw = {
+				color = { 215 87 118 }
+				color2 = { 189 34 243 }
+				
+				b_untulw_1 = {}
+				b_untulw_2 = {}
+				b_untulw_3 = {}
+				b_untulw_4 = {}
+			}
+			c_ciarag = {
+				color = { 231 91 118 }
+				color2 = { 219 53 232 }
+				
+				b_ciarag_1 = {}
+				b_ciarag_2 = {}
+				b_ciarag_3 = {}
+				b_ciarag_4 = {}
+			}
+		}
+	}
+}
+e_thalamur = {
+	color = { 7 6 162 }
+	color2 = { 120 255 120 }
+	
+	capital = 146
+	
+	religion = antitheist
+	culture = neromenzer
+	
+	k_ara = {
+		color = { 17 64 139 }
+		color2 = { 101 233 252 }
+		
+		capital = 128
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_arah = {
+			color = { 58 59 145 }
+			color2 = { 89 158 157 }
+			
+			c_ikrem = {
+				color = { 13 196 73 }
+				color2 = { 225 149 59 }
+				
+				b_ikrem_1 = {}
+				b_ikrem_2 = {}
+				b_ikrem_3 = {}
+				b_ikrem_4 = {}
+			}
+			c_arakh = {
+				color = { 125 121 182 }
+				color2 = { 46 199 226 }
+				
+				b_arakh_1 = {}
+				b_arakh_2 = {}
+				b_arakh_3 = {}
+				b_arakh_4 = {}
+			}
+			c_lhavala = {
+				color = { 57 161 31 }
+				color2 = { 135 183 68 }
+				
+				b_lhavala_1 = {}
+				b_lhavala_2 = {}
+				b_lhavala_3 = {}
+				b_lhavala_4 = {}
+			}
+			c_therga = {
+				color = { 75 15 166 }
+				color2 = { 92 129 140 }
+				
+				b_therga_1 = {}
+				b_therga_2 = {}
+				b_therga_3 = {}
+				b_therga_4 = {}
+			}
+		}
+		d_qarom = {
+			color = { 50 47 138 }
+			color2 = { 121 240 233 }
+			
+			c_aghral = {
+				color = { 40 81 232 }
+				color2 = { 97 128 149 }
+				
+				b_aghral_1 = {}
+				b_aghral_2 = {}
+				b_aghral_3 = {}
+				b_aghral_4 = {}
+			}
+			c_abin_ramadh = {
+				color = { 67 0 166 }
+				color2 = { 80 184 193 }
+				
+				b_abin_ramadh_1 = {}
+				b_abin_ramadh_2 = {}
+				b_abin_ramadh_3 = {}
+				b_abin_ramadh_4 = {}
+			}
+			c_qarom = {
+				color = { 114 49 131 }
+				color2 = { 10 250 237 }
+				
+				b_qarom_1 = {}
+				b_qarom_2 = {}
+				b_qarom_3 = {}
+				b_qarom_4 = {}
+			}
+			c_farn = {
+				color = { 34 73 159 }
+				color2 = { 63 243 249 }
+				
+				b_farn_1 = {}
+				b_farn_2 = {}
+				b_farn_3 = {}
+				b_farn_4 = {}
+			}
+		}
+	}
+	k_colonan = {
+		color = { 45 3 170 }
+		color2 = { 65 200 153 }
+		
+		capital = 112
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_colonan = {
+			color = { 96 110 218 }
+			color2 = { 72 143 204 }
+			
+			c_polon = {
+				color = { 181 105 87 }
+				color2 = { 202 6 165 }
+				
+				b_polon_1 = {}
+				b_polon_2 = {}
+				b_polon_3 = {}
+				b_polon_4 = {}
+			}
+			c_colonan = {
+				color = { 62 63 229 }
+				color2 = { 9 238 252 }
+				
+				b_colonan_1 = {}
+				b_colonan_2 = {}
+				b_colonan_3 = {}
+				b_colonan_4 = {}
+				b_colonan_5 = {}
+				b_colonan_6 = {}
+				b_colonan_7 = {}
+			}
+			c_shia = {
+				color = { 35 101 234 }
+				color2 = { 101 241 248 }
+				
+				b_shia_1 = {}
+				b_shia_2 = {}
+				b_shia_3 = {}
+				b_shia_4 = {}
+			}
+			c_apax = {
+				color = { 97 108 252 }
+				color2 = { 67 144 157 }
+				
+				b_apax_1 = {}
+				b_apax_2 = {}
+				b_apax_3 = {}
+				b_apax_4 = {}
+			}
+			c_victaron = {
+				color = { 103 123 157 }
+				color2 = { 56 243 211 }
+				
+				b_victaron_1 = {}
+				b_victaron_2 = {}
+				b_victaron_3 = {}
+				b_victaron_4 = {}
+			}
+			c_rubis = {
+				color = { 182 28 63 }
+				color2 = { 164 11 132 }
+				
+				b_rubis_1 = {}
+				b_rubis_2 = {}
+				b_rubis_3 = {}
+				b_rubis_4 = {}
+			}
+		}
+	}
+	k_sava = {
+		color = { 63 81 134 }
+		color2 = { 86 166 212 }
+		
+		capital = 139
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_eovir = {
+			color = { 17 41 246 }
+			color2 = { 53 169 237 }
+			
+			c_reh = {
+				color = { 251 32 85 }
+				color2 = { 147 43 241 }
+				
+				b_reh_1 = {}
+				b_reh_2 = {}
+				b_reh_3 = {}
+				b_reh_4 = {}
+			}
+			c_wembsal = {
+				color = { 94 43 151 }
+				color2 = { 104 196 217 }
+				
+				b_wembsal_1 = {}
+				b_wembsal_2 = {}
+				b_wembsal_3 = {}
+				b_wembsal_4 = {}
+			}
+			c_sidqal = {
+				color = { 0 2 221 }
+				color2 = { 34 198 207 }
+				
+				b_sidqal_1 = {}
+				b_sidqal_2 = {}
+				b_sidqal_3 = {}
+				b_sidqal_4 = {}
+			}
+			c_jamal = {
+				color = { 209 108 125 }
+				color2 = { 195 9 159 }
+				
+				b_jamal_1 = {}
+				b_jamal_2 = {}
+				b_jamal_3 = {}
+				b_jamal_4 = {}
+			}
+		}
+		d_parash = {
+			color = { 121 31 198 }
+			color2 = { 21 193 157 }
+			
+			c_yndrath = {
+				color = { 4 20 230 }
+				color2 = { 92 172 188 }
+				
+				b_yndrath_1 = {}
+				b_yndrath_2 = {}
+				b_yndrath_3 = {}
+				b_yndrath_4 = {}
+			}
+			c_parash = {
+				color = { 23 223 27 }
+				color2 = { 161 234 2 }
+				
+				b_parash_1 = {}
+				b_parash_2 = {}
+				b_parash_3 = {}
+				b_parash_4 = {}
+			}
+			c_strakh = {
+				color = { 80 202 15 }
+				color2 = { 208 155 9 }
+				
+				b_strakh_1 = {}
+				b_strakh_2 = {}
+				b_strakh_3 = {}
+				b_strakh_4 = {}
+			}
+		}
+		d_savirah = {
+			color = { 10 51 211 }
+			color2 = { 95 214 177 }
+			
+			c_dan = {
+				color = { 41 55 234 }
+				color2 = { 39 239 137 }
+				
+				b_dan_1 = {}
+				b_dan_2 = {}
+				b_dan_3 = {}
+				b_dan_4 = {}
+			}
+			c_savirah = {
+				color = { 42 25 134 }
+				color2 = { 71 176 246 }
+				
+				b_savirah_1 = {}
+				b_savirah_2 = {}
+				b_savirah_3 = {}
+				b_savirah_4 = {}
+			}
+			c_ikamur = {
+				color = { 66 95 245 }
+				color2 = { 110 179 218 }
+				
+				b_ikamur_1 = {}
+				b_ikamur_2 = {}
+				b_ikamur_3 = {}
+				b_ikamur_4 = {}
+			}
+		}
+	}
+	k_egor = {
+		color = { 7 60 145 }
+		color2 = { 80 140 181 }
+		
+		capital = 179
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_el_egor = {
+			color = { 89 62 142 }
+			color2 = { 45 146 238 }
+			
+			c_khal = {
+				color = { 172 97 45 }
+				color2 = { 195 70 153 }
+				
+				b_khal_1 = {}
+				b_khal_2 = {}
+				b_khal_3 = {}
+				b_khal_4 = {}
+			}
+			c_evor = {
+				color = { 32 63 144 }
+				color2 = { 115 132 159 }
+				
+				b_evor_1 = {}
+				b_evor_2 = {}
+				b_evor_3 = {}
+				b_evor_4 = {}
+			}
+			c_el_egor = {
+				color = { 91 34 211 }
+				color2 = { 14 190 139 }
+				
+				b_el_egor_1 = {}
+				b_el_egor_2 = {}
+				b_el_egor_3 = {}
+				b_el_egor_4 = {}
+			}
+			c_tav_sezhi = {
+				color = { 44 47 155 }
+				color2 = { 107 211 153 }
+				
+				b_tav_sezhi_1 = {}
+				b_tav_sezhi_2 = {}
+				b_tav_sezhi_3 = {}
+				b_tav_sezhi_4 = {}
+			}
+			c_es_holi = {
+				color = { 124 5 129 }
+				color2 = { 103 140 198 }
+				
+				b_es_holi_1 = {}
+				b_es_holi_2 = {}
+				b_es_holi_3 = {}
+				b_es_holi_4 = {}
+				b_es_holi_5 = {}
+			}
+		}
+		d_abin_thukor = {
+			color = { 53 62 237 }
+			color2 = { 16 219 159 }
+			
+			c_abin_thukor = {
+				color = { 2 82 166 }
+				color2 = { 34 144 157 }
+				
+				b_abin_thukor_1 = {}
+				b_abin_thukor_2 = {}
+				b_abin_thukor_3 = {}
+				b_abin_thukor_4 = {}
+			}
+			c_per = {
+				color = { 66 63 214 }
+				color2 = { 20 201 247 }
+				
+				b_per_1 = {}
+				b_per_2 = {}
+				b_per_3 = {}
+				b_per_4 = {}
+			}
+			c_el_arga = {
+				color = { 55 66 252 }
+				color2 = { 38 171 150 }
+				
+				b_el_arga_1 = {}
+				b_el_arga_2 = {}
+				b_el_arga_3 = {}
+				b_el_arga_4 = {}
+			}
+			c_es_hidha = {
+				color = { 113 50 193 }
+				color2 = { 122 144 190 }
+				
+				b_es_hidha_1 = {}
+				b_es_hidha_2 = {}
+				b_es_hidha_3 = {}
+				b_es_hidha_4 = {}
+			}
+		}
+		d_sirmon = {
+			color = { 24 111 181 }
+			color2 = { 70 182 208 }
+			
+			c_savher = {
+				color = { 244 44 56 }
+				color2 = { 197 124 183 }
+				
+				b_savher_1 = {}
+				b_savher_2 = {}
+				b_savher_3 = {}
+			}
+			c_dani = {
+				color = { 118 85 180 }
+				color2 = { 9 230 147 }
+				
+				b_dani_1 = {}
+				b_dani_2 = {}
+				b_dani_3 = {}
+				b_dani_4 = {}
+			}
+			c_qatha = {
+				color = { 23 125 247 }
+				color2 = { 71 144 235 }
+				
+				b_qatha_1 = {}
+				b_qatha_2 = {}
+				b_qatha_3 = {}
+				b_qatha_4 = {}
+			}
+			c_grond = {
+				color = { 215 106 98 }
+				color2 = { 192 111 237 }
+				
+				b_grond_1 = {}
+				b_grond_2 = {}
+				b_grond_3 = {}
+				b_grond_4 = {}
+			}
+			c_jamur = {
+				color = { 106 9 190 }
+				color2 = { 73 169 185 }
+				
+				b_jamur_1 = {}
+				b_jamur_2 = {}
+				b_jamur_3 = {}
+				b_jamur_4 = {}
+			}
+		}
+	}
+	k_pereine = {
+		color = { 90 45 174 }
+		color2 = { 2 153 184 }
+		
+		capital = 124
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_ireda = {
+			color = { 125 81 132 }
+			color2 = { 59 143 165 }
+			
+			c_pher = {
+				color = { 80 56 196 }
+				color2 = { 57 220 190 }
+				
+				b_pher_1 = {}
+				b_pher_2 = {}
+				b_pher_3 = {}
+				b_pher_4 = {}
+			}
+			c_ireda = {
+				color = { 78 204 97 }
+				color2 = { 179 219 94 }
+				
+				b_ireda_1 = {}
+				b_ireda_2 = {}
+				b_ireda_3 = {}
+				b_ireda_4 = {}
+			}
+		}
+		d_perina = {
+			color = { 12 39 245 }
+			color2 = { 111 199 192 }
+			
+			c_kininae_an_oro = {
+				color = { 119 111 217 }
+				color2 = { 90 254 193 }
+				
+				b_kininae_an_oro_1 = {}
+				b_kininae_an_oro_2 = {}
+				b_kininae_an_oro_3 = {}
+				b_kininae_an_oro_4 = {}
+			}
+			c_derien = {
+				color = { 86 38 172 }
+				color2 = { 30 193 206 }
+				
+				b_derien_1 = {}
+				b_derien_2 = {}
+				b_derien_3 = {}
+				b_derien_4 = {}
+			}
+			c_perina = {
+				color = { 65 6 224 }
+				color2 = { 59 190 202 }
+				
+				b_perina_1 = {}
+				b_perina_2 = {}
+				b_perina_3 = {}
+				b_perina_4 = {}
+			}
+		}
+	}
+	k_ivani = {
+		color = { 106 36 182 }
+		color2 = { 113 249 133 }
+		
+		capital = 115
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_el_ivani = {
+			color = { 95 58 221 }
+			color2 = { 85 205 173 }
+			
+			c_vortha = {
+				color = { 60 90 219 }
+				color2 = { 94 248 171 }
+				
+				b_vortha_1 = {}
+				b_vortha_2 = {}
+				b_vortha_3 = {}
+				b_vortha_4 = {}
+			}
+			c_el_ivani = {
+				color = { 118 123 239 }
+				color2 = { 42 160 131 }
+				
+				b_el_ivani_1 = {}
+				b_el_ivani_2 = {}
+				b_el_ivani_3 = {}
+				b_el_ivani_4 = {}
+			}
+		}
+		d_qatada = {
+			color = { 66 23 147 }
+			color2 = { 25 131 214 }
+			
+			c_qatada = {
+				color = { 113 88 205 }
+				color2 = { 24 179 199 }
+				
+				b_qatada_1 = {}
+				b_qatada_2 = {}
+				b_qatada_3 = {}
+				b_qatada_4 = {}
+			}
+			c_svrox = {
+				color = { 83 131 27 }
+				color2 = { 141 130 106 }
+				
+				b_svrox_1 = {}
+				b_svrox_2 = {}
+				b_svrox_3 = {}
+				b_svrox_4 = {}
+			}
+		}
+		d_adaluth = {
+			color = { 95 106 207 }
+			color2 = { 38 141 137 }
+			
+			c_ivani_1 = {
+				color = { 11 121 238 }
+				color2 = { 83 163 133 }
+				
+				b_ivani_1_1 = {}
+				b_ivani_1_2 = {}
+				b_ivani_1_3 = {}
+				b_ivani_1_4 = {}
+			}
+			c_strighil = {
+				color = { 33 30 207 }
+				color2 = { 37 138 234 }
+				
+				b_strighil_1 = {}
+				b_strighil_2 = {}
+				b_strighil_3 = {}
+				b_strighil_4 = {}
+			}
+			c_adaluth = {
+				color = { 54 101 134 }
+				color2 = { 79 212 185 }
+				
+				b_adaluth_1 = {}
+				b_adaluth_2 = {}
+				b_adaluth_3 = {}
+				b_adaluth_4 = {}
+			}
+		}
+	}
+	k_taga = {
+		color = { 116 64 145 }
+		color2 = { 104 145 190 }
+		
+		capital = 44
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_khor = {
+			color = { 81 14 207 }
+			color2 = { 109 183 158 }
+			
+			c_khorai = {
+				color = { 77 160 19 }
+				color2 = { 211 189 0 }
+				
+				b_khorai_1 = {}
+				b_khorai_2 = {}
+				b_khorai_3 = {}
+				b_khorai_4 = {}
+			}
+			c_egida = {
+				color = { 81 42 158 }
+				color2 = { 53 160 245 }
+				
+				b_egida_1 = {}
+				b_egida_2 = {}
+				b_egida_3 = {}
+				b_egida_4 = {}
+			}
+			c_ferena = {
+				color = { 5 3 223 }
+				color2 = { 4 130 135 }
+				
+				b_ferena_1 = {}
+				b_ferena_2 = {}
+				b_ferena_3 = {}
+				b_ferena_4 = {}
+			}
+		}
+		d_tagada = {
+			color = { 21 58 219 }
+			color2 = { 9 184 234 }
+			
+			c_minder = {
+				color = { 154 120 40 }
+				color2 = { 219 97 169 }
+				
+				b_minder_1 = {}
+				b_minder_2 = {}
+				b_minder_3 = {}
+				b_minder_4 = {}
+			}
+			c_leth = {
+				color = { 152 101 25 }
+				color2 = { 211 89 166 }
+				
+				b_leth_1 = {}
+				b_leth_2 = {}
+				b_leth_3 = {}
+				b_leth_4 = {}
+				b_leth_5 = {}
+			}
+			c_tagada = {
+				color = { 83 111 150 }
+				color2 = { 28 178 243 }
+				
+				b_tagada_1 = {}
+				b_tagada_2 = {}
+				b_tagada_3 = {}
+				b_tagada_4 = {}
+				b_tagada_5 = {}
+				b_tagada_6 = {}
+			}
+		}
+		d_ifar = {
+			color = { 9 27 186 }
+			color2 = { 42 223 201 }
+			
+			c_bhanor = {
+				color = { 34 67 145 }
+				color2 = { 45 207 200 }
+				
+				b_bhanor_1 = {}
+				b_bhanor_2 = {}
+				b_bhanor_3 = {}
+				b_bhanor_4 = {}
+			}
+			c_khla = {
+				color = { 85 11 215 }
+				color2 = { 118 251 144 }
+				
+				b_khla_1 = {}
+				b_khla_2 = {}
+				b_khla_3 = {}
+				b_khla_4 = {}
+			}
+			c_ash = {
+				color = { 107 83 206 }
+				color2 = { 113 192 177 }
+				
+				b_ash_1 = {}
+				b_ash_2 = {}
+				b_ash_3 = {}
+				b_ash_4 = {}
+			}
+		}
+	}
+	k_kovos = {
+		color = { 91 122 164 }
+		color2 = { 25 213 199 }
+		
+		capital = 168
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_khovsosh = {
+			color = { 102 63 129 }
+			color2 = { 23 190 249 }
+			
+			c_qara = {
+				color = { 2 59 189 }
+				color2 = { 79 204 235 }
+				
+				b_qara_1 = {}
+				b_qara_2 = {}
+				b_qara_3 = {}
+				b_qara_4 = {}
+			}
+			c_ilaella = {
+				color = { 6 41 186 }
+				color2 = { 85 163 176 }
+				
+				b_ilaella_1 = {}
+				b_ilaella_2 = {}
+				b_ilaella_3 = {}
+				b_ilaella_4 = {}
+			}
+			c_arah = {
+				color = { 50 81 154 }
+				color2 = { 34 175 168 }
+				
+				b_arah_1 = {}
+				b_arah_2 = {}
+				b_arah_3 = {}
+				b_arah_4 = {}
+				b_arah_5 = {}
+			}
+			c_khovsosh = {
+				color = { 85 96 230 }
+				color2 = { 7 240 230 }
+				
+				b_khovsosh_1 = {}
+				b_khovsosh_2 = {}
+				b_khovsosh_3 = {}
+				b_khovsosh_4 = {}
+				b_khovsosh_5 = {}
+				b_khovsosh_6 = {}
+			}
+			c_gash = {
+				color = { 110 170 106 }
+				color2 = { 184 205 12 }
+				
+				b_gash_1 = {}
+				b_gash_2 = {}
+				b_gash_3 = {}
+				b_gash_4 = {}
+			}
+		}
+		d_horta = {
+			color = { 45 3 144 }
+			color2 = { 98 235 242 }
+			
+			c_el_vha = {
+				color = { 108 115 200 }
+				color2 = { 79 208 131 }
+				
+				b_el_vha_1 = {}
+				b_el_vha_2 = {}
+				b_el_vha_3 = {}
+				b_el_vha_4 = {}
+				b_el_vha_5 = {}
+				b_el_vha_6 = {}
+			}
+			c_es_orakh = {
+				color = { 16 100 161 }
+				color2 = { 21 161 157 }
+				
+				b_es_orakh_1 = {}
+				b_es_orakh_2 = {}
+				b_es_orakh_3 = {}
+				b_es_orakh_4 = {}
+			}
+			c_takhor = {
+				color = { 39 54 186 }
+				color2 = { 115 249 164 }
+				
+				b_takhor_1 = {}
+				b_takhor_2 = {}
+				b_takhor_3 = {}
+				b_takhor_4 = {}
+			}
+		}
+		d_mashoro = {
+			color = { 61 107 218 }
+			color2 = { 108 200 141 }
+			
+			c_ivida = {
+				color = { 5 63 232 }
+				color2 = { 94 143 235 }
+				
+				b_ivida_1 = {}
+				b_ivida_2 = {}
+				b_ivida_3 = {}
+				b_ivida_4 = {}
+				b_ivida_5 = {}
+				b_ivida_6 = {}
+			}
+			c_mashoro = {
+				color = { 224 110 112 }
+				color2 = { 202 47 173 }
+				
+				b_mashoro_1 = {}
+				b_mashoro_2 = {}
+				b_mashoro_3 = {}
+				b_mashoro_4 = {}
+				b_mashoro_5 = {}
+				b_mashoro_6 = {}
+			}
+			c_kharath = {
+				color = { 44 70 135 }
+				color2 = { 52 191 202 }
+				
+				b_kharath_1 = {}
+				b_kharath_2 = {}
+				b_kharath_3 = {}
+				b_kharath_4 = {}
+				b_kharath_5 = {}
+			}
+		}
+	}
+	k_ifka = {
+		color = { 62 84 241 }
+		color2 = { 36 240 154 }
+		
+		capital = 148
+		
+		religion = antitheist
+		culture = neromenzer
+		
+		d_ifkhor = {
+			color = { 77 30 128 }
+			color2 = { 67 197 176 }
+			
+			c_thara = {
+				color = { 47 66 194 }
+				color2 = { 77 240 236 }
+				
+				b_thara_1 = {}
+				b_thara_2 = {}
+				b_thara_3 = {}
+				b_thara_4 = {}
+			}
+			c_im_moran = {
+				color = { 36 131 69 }
+				color2 = { 171 186 127 }
+				
+				b_im_moran_1 = {}
+				b_im_moran_2 = {}
+				b_im_moran_3 = {}
+				b_im_moran_4 = {}
+			}
+			c_dharim = {
+				color = { 105 100 224 }
+				color2 = { 77 175 241 }
+				
+				b_dharim_1 = {}
+				b_dharim_2 = {}
+				b_dharim_3 = {}
+				b_dharim_4 = {}
+			}
+			c_ifkhor = {
+				color = { 53 32 147 }
+				color2 = { 31 151 166 }
+				
+				b_ifkhor_1 = {}
+				b_ifkhor_2 = {}
+				b_ifkhor_3 = {}
+				b_ifkhor_4 = {}
+			}
+		}
+		d_dubaral = {
+			color = { 64 112 215 }
+			color2 = { 41 179 193 }
+			
+			c_ifdel = {
+				color = { 217 20 52 }
+				color2 = { 157 6 130 }
+				
+				b_ifdel_1 = {}
+				b_ifdel_2 = {}
+				b_ifdel_3 = {}
+				b_ifdel_4 = {}
+			}
+			c_an_thalamur = {
+				color = { 24 42 215 }
+				color2 = { 122 207 157 }
+				
+				b_an_thalamur_1 = {}
+				b_an_thalamur_2 = {}
+				b_an_thalamur_3 = {}
+				b_an_thalamur_4 = {}
+				b_an_thalamur_5 = {}
+			}
+			c_vexial = {
+				color = { 46 93 183 }
+				color2 = { 54 182 204 }
+				
+				b_vexial_1 = {}
+				b_vexial_2 = {}
+				b_vexial_3 = {}
+				b_vexial_4 = {}
+			}
+		}
+	}
+}
+k_alarinn = {
+	color = { 111 190 25 }
+	color2 = { 152 237 55 }
+	
+	capital = 94
+	
+	religion = dragon_cult
+	culture = learam
+	
+	d_sydlanden = {
+		color = { 12 212 67 }
+		color2 = { 211 149 107 }
+		
+		c_as_4 = {
+			color = { 58 184 95 }
+			color2 = { 145 181 30 }
+			
+			b_as_4_1 = {}
+			b_as_4_2 = {}
+			b_as_4_3 = {}
+			b_as_4_4 = {}
+		}
+		c_as_3 = {
+			color = { 67 246 23 }
+			color2 = { 182 194 5 }
+			
+			b_as_3_1 = {}
+			b_as_3_2 = {}
+			b_as_3_3 = {}
+			b_as_3_4 = {}
+		}
+		c_as_2 = {
+			color = { 5 156 18 }
+			color2 = { 229 179 108 }
+			
+			b_as_2_1 = {}
+			b_as_2_2 = {}
+			b_as_2_3 = {}
+			b_as_2_4 = {}
+		}
+		c_as_1 = {
+			color = { 24 187 67 }
+			color2 = { 229 179 127 }
+			
+			b_as_1_1 = {}
+			b_as_1_2 = {}
+			b_as_1_3 = {}
+			b_as_1_4 = {}
+		}
+	}
+	d_tain = {
+		color = { 36 191 32 }
+		color2 = { 142 169 35 }
+		
+		c_tain_3 = {
+			color = { 127 134 10 }
+			color2 = { 145 246 92 }
+			
+			b_tain_3_1 = {}
+			b_tain_3_2 = {}
+			b_tain_3_3 = {}
+			b_tain_3_4 = {}
+		}
+		c_tain_1 = {
+			color = { 95 17 154 }
+			color2 = { 83 130 227 }
+			
+			b_tain_1_1 = {}
+			b_tain_1_2 = {}
+			b_tain_1_3 = {}
+			b_tain_1_4 = {}
+		}
+		c_tain_2 = {
+			color = { 61 210 114 }
+			color2 = { 181 215 34 }
+			
+			b_tain_2_1 = {}
+			b_tain_2_2 = {}
+			b_tain_2_3 = {}
+			b_tain_2_4 = {}
+		}
+	}
+	d_nordlanden = {
+		color = { 83 202 15 }
+		color2 = { 150 132 37 }
+		
+		c_niefinse = {
+			color = { 200 59 17 }
+			color2 = { 231 122 247 }
+			
+			b_niefinse_1 = {}
+			b_niefinse_2 = {}
+			b_niefinse_3 = {}
+			b_niefinse_4 = {}
+		}
+		c_chuana = {
+			color = { 1 227 24 }
+			color2 = { 168 254 36 }
+			
+			b_chuana_1 = {}
+			b_chuana_2 = {}
+			b_chuana_3 = {}
+			b_chuana_4 = {}
+		}
+		c_mulaigh = {
+			color = { 170 28 99 }
+			color2 = { 158 125 138 }
+			
+			b_mulaigh_1 = {}
+			b_mulaigh_2 = {}
+			b_mulaigh_3 = {}
+			b_mulaigh_4 = {}
+		}
+		c_daldrach = {
+			color = { 106 208 103 }
+			color2 = { 155 199 100 }
+			
+			b_daldrach_1 = {}
+			b_daldrach_2 = {}
+			b_daldrach_3 = {}
+			b_daldrach_4 = {}
+		}
+	}
+	d_vastlanden = {
+		color = { 113 147 70 }
+		color2 = { 228 206 24 }
+		
+		c_av_1 = {
+			color = { 62 169 108 }
+			color2 = { 240 197 56 }
+			
+			b_av_1_1 = {}
+			b_av_1_2 = {}
+			b_av_1_3 = {}
+			b_av_1_4 = {}
+		}
+		c_av_2 = {
+			color = { 96 250 54 }
+			color2 = { 211 208 98 }
+			
+			b_av_2_1 = {}
+			b_av_2_2 = {}
+			b_av_2_3 = {}
+			b_av_2_4 = {}
+		}
+		c_av_3 = {
+			color = { 10 232 5 }
+			color2 = { 182 204 49 }
+			
+			b_av_3_1 = {}
+			b_av_3_2 = {}
+			b_av_3_3 = {}
+			b_av_3_4 = {}
+		}
+		c_kinyen_sina = {
+			color = { 69 122 147 }
+			color2 = { 123 171 130 }
+			
+			b_kinyen_sina_1 = {}
+			b_kinyen_sina_2 = {}
+			b_kinyen_sina_3 = {}
+			b_kinyen_sina_4 = {}
+		}
+	}
+	d_hoglanden = {
+		color = { 12 197 47 }
+		color2 = { 181 236 126 }
+		
+		c_ah_4 = {
+			color = { 16 185 87 }
+			color2 = { 180 172 106 }
+			
+			b_ah_4_1 = {}
+			b_ah_4_2 = {}
+			b_ah_4_3 = {}
+			b_ah_4_4 = {}
+		}
+		c_ah_1 = {
+			color = { 60 206 38 }
+			color2 = { 190 177 108 }
+			
+			b_ah_1_1 = {}
+			b_ah_1_2 = {}
+			b_ah_1_3 = {}
+			b_ah_1_4 = {}
+		}
+		c_ah_2 = {
+			color = { 46 190 121 }
+			color2 = { 139 144 93 }
+			
+			b_ah_2_1 = {}
+			b_ah_2_2 = {}
+			b_ah_2_3 = {}
+			b_ah_2_4 = {}
+		}
+		c_ah_3 = {
+			color = { 58 205 11 }
+			color2 = { 205 188 95 }
+			
+			b_ah_3_1 = {}
+			b_ah_3_2 = {}
+			b_ah_3_3 = {}
+			b_ah_3_4 = {}
+		}
+	}
+}
+k_ikham = {
+	color = { 116 40 186 }
+	color2 = { 74 229 216 }
+	
+	capital = 136
+	
+	religion = vontar
+	culture = ghor
+	
+	d_ikham = {
+		color = { 88 232 14 }
+		color2 = { 187 183 9 }
+		
+		c_ikham = {
+			color = { 90 77 166 }
+			color2 = { 46 195 240 }
+			
+			b_ikham_1 = {}
+		}
+	}
+}
+k_kholon = {
+	color = { 27 23 214 }
+	color2 = { 123 231 229 }
+	
+	capital = 106
+	
+	religion = vontar
+	culture = ghor
+	
+	d_kholon = {
+		color = { 6 135 89 }
+		color2 = { 197 221 47 }
+		
+		c_kholon = {
+			color = { 27 49 242 }
+			color2 = { 120 194 233 }
+			
+			b_kholon_1 = {}
+		}
+	}
+}
+k_kholonmassivet = {
+	color = { 229 27 23 }
+	color2 = { 214 123 231 }
+	
+	capital = 105
+	
+	religion = vontar
+	culture = roghan
+	
+	d_kholonmassivet = {
+		color = { 11 238 37 }
+		color2 = { 139 229 101 }
+		
+		c_kholonmassivet = {
+			color = { 104 153 77 }
+			color2 = { 207 215 124 }
+			
+			b_kholonmassivet_1 = {}
+		}
+	}
+}
+k_narekh = {
+	color = { 145 22 6 }
+	color2 = { 253 116 254 }
+	
+	capital = 42
+	
+	religion = vontar
+	culture = ghor
+	
+	d_narekh = {
+		color = { 93 235 69 }
+		color2 = { 183 172 59 }
+		
+		c_narekh = {
+			color = { 156 48 89 }
+			color2 = { 223 41 182 }
+			
+			b_narekh_1 = {}
+		}
+	}
+}
+k_tokon = {
+	color = { 103 140 20 }
+	color2 = { 171 211 75 }
+	
+	capital = 70
+	
+	religion = dragon_cult
+	culture = tokon
+	
+	d_debhean = {
+		color = { 10 212 92 }
+		color2 = { 151 132 29 }
+		
+		c_feleidh = {
+			color = { 38 246 24 }
+			color2 = { 152 198 37 }
+			
+			b_feleidh_1 = {}
+			b_feleidh_2 = {}
+			b_feleidh_3 = {}
+			b_feleidh_4 = {}
+		}
+		c_alantulw = {
+			color = { 22 221 114 }
+			color2 = { 193 168 107 }
+			
+			b_alantulw_1 = {}
+			b_alantulw_2 = {}
+			b_alantulw_3 = {}
+			b_alantulw_4 = {}
+		}
+		c_inniutok = {
+			color = { 57 88 130 }
+			color2 = { 92 196 230 }
+			
+			b_inniutok_1 = {}
+			b_inniutok_2 = {}
+			b_inniutok_3 = {}
+			b_inniutok_4 = {}
+		}
+		c_debhean = {
+			color = { 19 141 62 }
+			color2 = { 152 231 113 }
+			
+			b_debhean_1 = {}
+			b_debhean_2 = {}
+			b_debhean_3 = {}
+			b_debhean_4 = {}
+		}
+		c_tir_nieri = {
+			color = { 54 193 51 }
+			color2 = { 248 133 48 }
+			
+			b_tir_nieri_1 = {}
+			b_tir_nieri_2 = {}
+			b_tir_nieri_3 = {}
+			b_tir_nieri_4 = {}
+		}
+	}
+	d_ailleidh = {
+		color = { 100 133 76 }
+		color2 = { 239 152 81 }
+		
+		c_sliabh = {
+			color = { 203 86 69 }
+			color2 = { 224 44 173 }
+			
+			b_sliabh_1 = {}
+			b_sliabh_2 = {}
+			b_sliabh_3 = {}
+			b_sliabh_4 = {}
+		}
+		c_feeves = {
+			color = { 12 248 36 }
+			color2 = { 229 178 8 }
+			
+			b_feeves_1 = {}
+			b_feeves_2 = {}
+			b_feeves_3 = {}
+			b_feeves_4 = {}
+		}
+		c_craigfaan = {
+			color = { 30 186 122 }
+			color2 = { 158 146 88 }
+			
+			b_craigfaan_1 = {}
+			b_craigfaan_2 = {}
+			b_craigfaan_3 = {}
+			b_craigfaan_4 = {}
+		}
+		c_ailleidh = {
+			color = { 44 232 71 }
+			color2 = { 150 238 110 }
+			
+			b_ailleidh_1 = {}
+			b_ailleidh_2 = {}
+			b_ailleidh_3 = {}
+			b_ailleidh_4 = {}
+		}
+	}
+	d_intouk = {
+		color = { 82 163 74 }
+		color2 = { 170 238 93 }
+		
+		c_lewain = {
+			color = { 48 103 186 }
+			color2 = { 11 202 232 }
+			
+			b_lewain_1 = {}
+			b_lewain_2 = {}
+			b_lewain_3 = {}
+			b_lewain_4 = {}
+		}
+		c_intouk = {
+			color = { 7 174 12 }
+			color2 = { 128 163 17 }
+			
+			b_intouk_1 = {}
+			b_intouk_2 = {}
+			b_intouk_3 = {}
+			b_intouk_4 = {}
+		}
+		c_eirach = {
+			color = { 119 151 61 }
+			color2 = { 174 201 76 }
+			
+			b_eirach_1 = {}
+			b_eirach_2 = {}
+			b_eirach_3 = {}
+			b_eirach_4 = {}
+		}
+		c_rinntok = {
+			color = { 200 47 121 }
+			color2 = { 216 85 223 }
+			
+			b_rinntok_1 = {}
+			b_rinntok_2 = {}
+			b_rinntok_3 = {}
+			b_rinntok_4 = {}
+		}
+		c_owaidh = {
+			color = { 154 78 76 }
+			color2 = { 250 1 175 }
+			
+			b_owaidh_1 = {}
+			b_owaidh_2 = {}
+			b_owaidh_3 = {}
+			b_owaidh_4 = {}
+		}
+	}
+	d_nie = {
+		color = { 71 182 49 }
+		color2 = { 189 228 58 }
+		
+		c_foradrach = {
+			color = { 33 15 215 }
+			color2 = { 34 232 158 }
+			
+			b_foradrach_1 = {}
+			b_foradrach_2 = {}
+			b_foradrach_3 = {}
+			b_foradrach_4 = {}
+		}
+		c_usiarach = {
+			color = { 7 209 14 }
+			color2 = { 173 231 127 }
+			
+			b_usiarach_1 = {}
+			b_usiarach_2 = {}
+			b_usiarach_3 = {}
+			b_usiarach_4 = {}
+		}
+		c_tain = {
+			color = { 189 1 12 }
+			color2 = { 247 52 128 }
+			
+			b_tain_1 = {}
+			b_tain_2 = {}
+			b_tain_3 = {}
+			b_tain_4 = {}
+		}
+		c_belfrage = {
+			color = { 94 176 7 }
+			color2 = { 190 240 85 }
+			
+			b_belfrage_1 = {}
+			b_belfrage_2 = {}
+			b_belfrage_3 = {}
+			b_belfrage_4 = {}
+		}
+		c_ilaidh = {
+			color = { 54 68 192 }
+			color2 = { 39 132 173 }
+			
+			b_ilaidh_1 = {}
+			b_ilaidh_2 = {}
+			b_ilaidh_3 = {}
+			b_ilaidh_4 = {}
+		}
+	}
 }

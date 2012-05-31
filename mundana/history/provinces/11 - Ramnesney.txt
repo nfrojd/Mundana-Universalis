@@ -1,0 +1,23 @@
+# 11 - Ramnesney
+
+# County Title
+title = c_ramnesney
+
+# Settlements
+max_settlements = 4
+
+b_ramnesney_1 = castle
+b_ramnesney_2 = city
+b_ramnesney_3 = temple
+#b_ramnesney_4 = castle
+#b_ramnesney_5 = city
+#b_ramnesney_6 = temple
+#b_ramnesney_7 = castle
+#b_ramnesney_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

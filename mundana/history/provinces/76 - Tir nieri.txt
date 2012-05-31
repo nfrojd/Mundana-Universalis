@@ -1,0 +1,23 @@
+# 76 - Tir nieri
+
+# County Title
+title = c_tir_nieri
+
+# Settlements
+max_settlements = 4
+
+b_tir_nieri_1 = castle
+#b_tir_nieri_2 = city
+#b_tir_nieri_3 = temple
+#b_tir_nieri_4 = castle
+#b_tir_nieri_5 = city
+#b_tir_nieri_6 = temple
+#b_tir_nieri_7 = castle
+#b_tir_nieri_8 = city
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

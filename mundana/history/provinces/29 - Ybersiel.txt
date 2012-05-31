@@ -1,0 +1,23 @@
+# 29 - Ybersiel
+
+# County Title
+title = c_ybersiel
+
+# Settlements
+max_settlements = 4
+
+b_ybersiel_1 = castle
+b_ybersiel_2 = city
+b_ybersiel_3 = temple
+#b_ybersiel_4 = castle
+#b_ybersiel_5 = city
+#b_ybersiel_6 = temple
+#b_ybersiel_7 = castle
+#b_ybersiel_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

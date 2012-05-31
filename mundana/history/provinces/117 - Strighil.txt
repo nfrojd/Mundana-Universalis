@@ -1,0 +1,23 @@
+# 117 - Strighil
+
+# County Title
+title = c_strighil
+
+# Settlements
+max_settlements = 4
+
+b_strighil_1 = castle
+b_strighil_2 = city
+#b_strighil_3 = temple
+#b_strighil_4 = castle
+#b_strighil_5 = city
+#b_strighil_6 = temple
+#b_strighil_7 = castle
+#b_strighil_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

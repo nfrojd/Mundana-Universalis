@@ -1,7 +1,7 @@
 # ID: 100XXX
 100000 = {
-	name = "Igar Augus"
-	dynasty = 258
+	name = "Igar"
+	dynasty = 981
 
 	martial = 2
 	diplomacy = 8
@@ -10,17 +10,18 @@
 	learning = 7
 	add_trait = "charismatic_negotiator"
 	add_trait = "lustful"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "zadhaz"
+	religion = "antitheist"
 
 	2880.1.1 = { birth = 2880.1.1 } #age 87
-#	2920.1.1 = { give_title = title_longlived }
+	2963.1.1 = { add_spouse = 100009 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100001 = {
-	name = "Jualla Bizar Alaya"
-	dynasty = 251
+	name = "Jualla Bizar"
+	dynasty = 840
 	female = yes
 
 	martial = 3
@@ -31,17 +32,17 @@
 	add_trait = "intricate_webweaver"
 	add_trait = "deceitful"
 	add_trait = "paranoid"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "arginakus"
+	religion = "antitheist"
 
 	2880.1.1 = { birth = 2880.1.1 } #age 87
-#	2905.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100002 = {
 	name = "Reubin Xirhamir"
-	dynasty = 253
+	dynasty = 882
 
 	martial = 7
 	diplomacy = 2
@@ -51,20 +52,20 @@
 	add_trait = "skilled_tactician"
 	add_trait = "wroth"
 	add_trait = "cruel"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "harim"
+	religion = "antitheist"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2961.1.1 = { 
-			add_claim = d_colonan
+			add_claim = k_colonan
 	}
-#	2950.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100003 = {
-	name = "Catzoran do Thukor"
-	dynasty = 256
+	name = "Catzoran"
+	dynasty = 945
 
 	martial = 4
 	diplomacy = 9
@@ -73,17 +74,17 @@
 	learning = 6
 	add_trait = "grey_eminence"
 	add_trait = "lustful"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "sala"
+	religion = "antitheist"
 
 	2875.1.1 = { birth = 2875.1.1 } #age 92
-#	2950.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100004 = {
-	name = "Im-berefel Ra'Drach do Kampa"
-	dynasty = 257
+	name = "Im-berefel Ra'Drach"
+	dynasty = 965
 
 	martial = 3
 	diplomacy = 4
@@ -92,17 +93,17 @@
 	learning = 9
 	add_trait = "mastermind_theologian"
 	add_trait = "mystic"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "vaganda"
+	religion = "antitheist"
 
 	2750.1.1 = { birth = 2750.1.1 } #age 217
-#	2780.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100005 = {
 	name = "Matron Liselle"
-	dynasty = 254
+	dynasty = 908
 	female = yes
 
 	martial = 5
@@ -114,17 +115,17 @@
 	add_trait = "cruel"
 	add_trait = "temperate"
 	add_trait = "kinslayer"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "kobinku"
+	religion = "antitheist"
 
 	2930.1.1 = { birth = 2930.1.1 }
-#	2950.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100006 = {
 	name = "Alean Ninarian"
-	dynasty = 250
+	dynasty = 2201
 
 	martial = 4
 	diplomacy = 7
@@ -133,20 +134,20 @@
 	learning = 7
 	add_trait = "mastermind_theologian"
 	add_trait = "scholar"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "sanari" #abhixia
+	religion = "antitheist"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2961.1.1 = { 
-			add_claim = d_pereine
+			add_claim = k_pereine
 	}
-#	2950.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100007 = {
-	name = "Sanguis thal Qatada"
-	dynasty = 252
+	name = "Sanguis"
+	dynasty = 870
 
 	martial = 4
 	diplomacy = 4
@@ -156,17 +157,17 @@
 	add_trait = "mastermind_theologian"
 	add_trait = "cruel"
 	add_trait = "just"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "cartika"
+	religion = "antitheist"
 
 	2930.1.1 = { birth = 2930.1.1 }
-#	2950.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100008 = {
-	name = "Shangi thal Dubaral"
-	dynasty = 255
+	name = "Shangi"
+	dynasty = 929
 
 	martial = 8
 	diplomacy = 7
@@ -175,12 +176,12 @@
 	learning = 4
 	add_trait = "skilled_tactician"
 	add_trait = "brave"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "myrdinor"
+	religion = "antitheist"
 
 	2880.1.1 = { birth = 2880.1.1 } #age 87
-#	2920.1.1 = { give_title = title_longlived }
 #	2935.1.1 = {
 #		add_rival = { id = 100006 idtype = 44 }
 #		add_rival = { id = 100002 idtype = 44 }
@@ -193,24 +194,26 @@
 	female = yes
 
 	martial = 3
-	diplomacy = 9
-	intrigue = 3
+	diplomacy = 3
+	intrigue = 15
 	stewardship = 3
 	learning = 3
-	add_trait = "mastermind_theologian"
+	add_trait = "elusive_shadow"
 	add_trait = "lustful"
+	add_trait = "fair"
+	add_trait = "deceitful"
+	add_trait = "long_lived"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "thalaskian"
+	religion = "antitheist"
 
 	2930.1.1 = { birth = 2930.1.1 }
-#	2940.1.1 = { give_title = title_longlived }
 	2999.1.1 = { death = 2999.1.1 }
 }
 
 100010 = {
-	name = "Takhim Radomir Khala"
-	dynasty = 255
+	name = "Takhim Radomir" #Arméchef
+	dynasty = 926
 
 	martial = 7
 	diplomacy = 4
@@ -219,15 +222,15 @@
 	learning = 4
 	add_trait = "skilled_tactician"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "myrdinor"
+	religion = "antitheist"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100011 = {
-	name = "Ash Nadir Necobin"
-	dynasty = 258
+	name = "Ash Nadir" #Flottchef
+	dynasty = 984
 
 	martial = 7
 	diplomacy = 4
@@ -236,27 +239,187 @@
 	learning = 4
 	add_trait = "skilled_tactician"
 
-	culture = "russian"
-	religion = "orthodox"
+	culture = "zadhaz"
+	religion = "antitheist"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100012 = {
-	name = "Danor Khavos"
-	dynasty = 255
+	name = "Danor Khavos" #?
+	dynasty = 800
 
-	martial = 10
-	diplomacy = 4
-	intrigue = 4
-	stewardship = 4
-	learning = 4
-	add_trait = "skilled_tactician"
-	add_trait = "mained"
-
-	culture = "russian"
-	religion = "orthodox"
+	culture = "thalaskian"
+	religion = "antitheist"
 
 	2918.1.1 = { birth = 2918.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
+100013 = {
+	name = "Sekhar Nadir" #Lashorakh, p56
+	dynasty = 927
+
+	culture = "myrdinor"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100014 = {
+	name = "Padir Igvandir" #Drakdödaren, p94
+	dynasty = 985
+
+	culture = "zadhaz"
+	religion = "antitheist"
+
+	father = 100015
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100015 = {
+	name = "Igvand Suronir" #Drakdödaren, p94
+	dynasty = 985
+
+	culture = "zadhaz"
+	religion = "antitheist"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2960.1.1 = { death = 2960.1.1 }
+}
+100016 = {
+	name = "Satima Nadira" #Gierasherna, p101
+	dynasty = 825
+	female = yes
+	
+	add_trait = "gierash"
+
+	culture = "abhixia"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100017 = {
+	name = "Olhan Farakir" #Gierasherna, p101
+	dynasty = 825
+
+	add_trait = "gierash"
+
+	culture = "abhixia"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100018 = {
+	name = "Qamak Vidir" #Gierasherna, p101
+	dynasty = 822
+
+	add_trait = "gierash"
+
+	culture = "abhixia"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100019 = {
+	name = "Sira Qamakira" #Gierasherna, p101
+	dynasty = 822
+	female = yes
+
+	add_trait = "gierash"
+
+	culture = "abhixia"
+	religion = "antitheist"
+
+	father = 100018
+
+	2953.1.1 = { birth = 2953.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100020 = {
+	name = "Zifem Garadir" #Reformatorerna, p102
+	dynasty = 946
+
+	culture = "sala"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100021 = {
+	name = "Diash Orogira" #Reformatorerna, p102
+	dynasty = 946
+	female = yes
+
+	culture = "sala"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100022 = {
+	name = "Myroga Padir" #Reformatorerna, p102
+	dynasty = 944
+
+	culture = "sala"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100023 = {
+	name = "Jesana Havira" #Reformatorerna, p103
+	dynasty = 864
+	female = yes
+
+	culture = "cartika"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100024 = {
+	name = "Lashir Haralir" #Bvalsamel, p104
+	dynasty = 863
+
+	culture = "cartika"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100025 = {
+	name = "Keshin Suyanir" #Silverskäran, p105
+	dynasty = 924
+
+	culture = "myrdinor"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100026 = {
+	name = "Diash Makira" #Silverskäran, p105
+	dynasty = 983
+	female = yes
+
+	culture = "zadhaz"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100027 = {
+	name = "Vashin Orogir" #Silverskäran, p105
+	dynasty = 980
+
+	culture = "zadhaz"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+# Samt Rakhori

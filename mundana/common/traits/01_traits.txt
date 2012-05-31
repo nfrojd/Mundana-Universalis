@@ -1,0 +1,19 @@
+long_lived = {
+	health = 1000
+
+	vassal_opinion = -10
+	ai_honor = -10
+}
+
+gierash = {
+	is_health = yes
+	is_illness = yes
+
+	diplomacy = -2
+	health = 10
+	fertility = -0.2
+	
+	sex_appeal_opinion = -50
+	
+	vassal_opinion = -20
+}

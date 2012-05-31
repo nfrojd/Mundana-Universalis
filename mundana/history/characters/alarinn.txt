@@ -3,9 +3,31 @@
 	name = "Ealpinn"
 	dynasty = 2700
 
-	culture = "scottish"
-	religion = "cathar"
+	culture = "learam"
+	religion = "dragon_cult"
 
 	2934.1.1 = { birth = 2934.1.1 } # 30-års åldern
+	2999.1.1 = { death = 2999.1.1 }
+}
+102701 = {
+	name = "Kiyona"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+	father = 102702
+
+	2934.1.1 = { birth = 2934.1.1 } # 30-års åldern
+	2999.1.1 = { death = 2999.1.1 }
+}
+102702 = {
+	name = "Kornay"
+	dynasty = 2700
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2900.1.1 = { birth = 2900.1.1 } #
 	2999.1.1 = { death = 2999.1.1 }
 }

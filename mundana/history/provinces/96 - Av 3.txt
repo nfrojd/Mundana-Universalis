@@ -1,0 +1,23 @@
+# 96 - Av 3
+
+# County Title
+title = c_av_3
+
+# Settlements
+max_settlements = 4
+
+b_av_3_1 = castle
+#b_av_3_2 = city
+#b_av_3_3 = temple
+#b_av_3_4 = castle
+#b_av_3_5 = city
+#b_av_3_6 = temple
+#b_av_3_7 = castle
+#b_av_3_8 = city
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

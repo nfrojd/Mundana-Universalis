@@ -1,0 +1,539 @@
+# ID: 1010XX
+# Källa: Consaber 84-88
+101000 = { # Kung
+	name = "Constantin"
+	dynasty = 1008
+	dna="affeazkcgci"
+	properties="ab0bhc0000"
+
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	learning = 6
+	fertility = 0.200
+	add_trait = "charismatic_negotiator"
+
+	culture = "conrier"
+	religion = "daak"
+	father = 101586
+	mother = 101201
+
+	2927.1.1 = { birth = "2927.1.1" } # omkring 40 (42)
+	# Så att han kan revoka dem och ge dem till söner
+	2927.1.1 = {
+			add_claim = k_negaidh
+			add_claim = k_nensema
+			add_claim = k_turina
+#			add_claim = c_narekh
+	}
+	2963.1.1 = { add_spouse = 101001 } # sedan 4 år
+	2999.1.1 = { death = "2999.1.1" }
+}
+
+101001 = { # Drottning
+	name = "Fiorina"
+	dynasty = 1066
+	female = yes
+
+	add_trait = "underhanded_rogue"
+	add_trait = "fair"
+
+	culture = "perenn"
+	religion = "daak"
+	father = 101028
+
+	2948.1.1 = { birth = 2948.1.1 } # 19 år
+	2999.1.1 = { death = 2999.1.1 }
+}
+
+101002 = { # Hertig, Calana
+	name = "Erefan"
+	dynasty = 1050
+
+	add_trait = "zealous"
+	add_trait = "scholarly_theologian"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+
+101003 = { # Greve, Turin
+	name = "Faran"
+	dynasty = 1051
+
+	add_trait = "detached_priest"
+	add_trait = "gluttonous"
+	add_trait = "slothful"
+	add_trait = "celibate"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+
+101004 = { # Greve, Calnia, titular?
+	name = "Ludich"
+	dynasty = 1052
+
+	add_trait = "skilled_tactician"
+	add_trait = "brave"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2905.1.1 = { birth = 2905.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+
+101005 = { # Greve, Ramnesney
+	name = "Morollan"
+	dynasty = 2000
+
+	add_trait = "skilled_tactician"
+	add_trait = "lustful"
+	add_trait = "fair"
+	add_trait = "kind"
+
+	culture = "pyar"
+	religion = "daak"
+
+	2905.1.1 = { birth = 2905.1.1 } #Hustru Rika död 100+ år sedan, en alvisk son, fyra döda barn, 30 bastarder
+	#Andre amiral
+	2999.1.1 = { death = 2999.1.1 }
+}
+101006 = { # Greve, Agant
+	name = "Heryn"
+	dynasty = 1053
+
+	add_trait = "thrifty_clerk"
+	add_trait = "just"
+	add_trait = "strong"
+	add_trait = "diligent"
+	add_trait = "maimed"
+
+	culture = "perenn"
+	religion = "daak"
+
+	2912.1.1 = { birth = 2912.1.1 } # 55 år
+# Konnetabel sedan 3 år
+	2999.1.1 = { death = 2999.1.1 }
+}
+101007 = { # Hertig, Uriens, Greve, Cretén
+	name = "Nagor"
+	dynasty = 1009
+
+	martial = 11
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 9
+	learning = 9
+	add_trait = "brilliant_strategist"
+	add_trait = "strong"
+	add_trait = "proud"
+
+	culture = "perenn"
+	religion = "daak"
+	father = 101643
+
+	2905.1.1 = { birth = 2905.1.1 }
+	# 8 söner, 5 döttrar
+	2999.1.1 = { death = 2999.1.1 }
+}
+101008 = { # Greve, Alcheg
+	name = "Tyrdal"
+	dynasty = 1054
+
+	add_trait = "fortune_builder"
+	add_trait = "scholar"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2905.1.1 = { birth = 2905.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101009 = {
+	name = "Girhardt av Calnia" #
+#	dynasty = "Calnia"
+
+	add_trait = "thrifty_clerk"
+	add_trait = "diligent"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2905.1.1 = { birth = 2905.1.1 }
+	#Plebejförsamlingens talman, skeppsforskare
+	2999.1.1 = { death = 2999.1.1 }
+}
+101010 = {
+	name = "Ambrosin"
+	dynasty = 1055
+
+	add_trait = "tough_soldier"
+	add_trait = "content"
+	add_trait = "wounded"
+
+	culture = "perenn"
+	religion = "daak"
+
+	2905.1.1 = { birth = 2905.1.1 }
+	#Deviskollegiets talman, folkräkning
+	2999.1.1 = { death = 2999.1.1 }
+}
+101011 = {
+	name = "Carpodim"
+#	dynasty = 1056
+
+	add_trait = "mastermind_theologian"
+	add_trait = "scholar"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2800.1.1 = { birth = 2800.1.1 } #100+, 167 år
+#	2850.1.1 = { give_title = title_longlived }
+	#Domus magus, akademiska studier
+	2999.1.1 = { death = 2999.1.1 }
+}
+101012 = {
+	name = "Ysanar"
+	dynasty = 1056
+
+	add_trait = "thrifty_clerk"
+	add_trait = "cruel"
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2905.1.1 }
+	#2950.1.1 = {
+	#    give_title = "title_prime_minister" #Konungens hovmästare
+	#}
+	2999.1.1 = { death = 2999.1.1 }
+}
+101013 = {
+	name = "Mirien"
+	dynasty = 1057
+
+	add_trait = "charismatic_negotiator"
+	add_trait = "humble"
+	add_trait = "scholar"
+
+	culture = "perenn"
+	religion = "daak"
+
+	2905.1.1 = { birth = 2905.1.1 }
+#	2950.1.1 = {
+#	    give_title = "title_foreign_minister" #Rikets härold
+#	}
+	2999.1.1 = { death = 2999.1.1 }
+}
+101014 = {
+	name = "Shalya"
+	dynasty = 1058
+	female = yes
+
+	add_trait = "tough_soldier"
+	add_trait = "fair"
+	add_trait = "proud"
+	add_trait = "content"
+
+	culture = "perenn"
+	religion = "daak"
+
+	2926.1.1 = { birth = 2926.1.1 } # dryga 40 (41)
+	# Dotter: Lewelly
+	2999.1.1 = { death = 2999.1.1 }
+}
+101015 = {
+	name = "Lewelly"
+	dynasty = 1058
+	female = yes
+
+	add_trait = "tough_soldier"
+	add_trait = "proud"
+
+
+	culture = "perenn"
+	religion = "daak"
+	mother = 101014
+
+	2946.1.1 = { birth = 2946.1.1 }
+	# Dotter: Lewelly
+	2999.1.1 = { death = 2999.1.1 }
+}
+101016 = { # Hertig, Negaidh
+	name = "Tardon Helmason" # alt Tardin, Kusin till Constantin
+	dynasty = 1008
+
+	culture = "conrier"
+	religion = "daak"
+	father = 101200
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101017 = { # Hertig, Nensema
+	name = "Margan"
+	dynasty = 1060
+
+	culture = "conrier"
+	religion = "daak"
+	father = 101204
+	mother = 101203
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101018 = { # Hertig, Turina
+	name = "Girdan"
+	dynasty = 1061
+
+	culture = "conrier"
+	religion = "daak"
+	father = 101202
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101019 = { # Greve, Alni
+	name = "Kidar"
+	dynasty = 1100
+
+	culture = "perenn"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101020 = { # Markis, Caer Negaidh
+	name = "Ivandar"
+	dynasty = 1062
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101021 = { # Mästare, Dunreith
+	name = "Sirian"
+	dynasty = 1150
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101022 = { # Markis, Elara
+	name = "Eamon"
+	dynasty = 1101
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101023 = { # Greve, Firina, Markis, Firina
+	name = "Severan" # Canin Haber?
+	dynasty = 1063
+
+	culture = "perenn"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2963.1.1 = { add_spouse = 101105 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101024 = { # Markis, Nensema
+	name = "Oron"
+	dynasty = 1102
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101025 = { # Baron, Salston Tor
+	name = "Rafali"
+	dynasty = 1165
+	female = yes
+
+	culture = "perenn"
+	religion = "daak"
+	
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101026 = { # Markis, Uriens
+	name = "Rien"
+	dynasty = 1064
+
+	culture = "perenn"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101027 = { # Markis, Ybersiel
+	name = "Jana"
+	dynasty = 1065
+	female = yes
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101028 = { # Greve, Seredan
+	name = "Margon"
+	dynasty = 1066
+
+	culture = "perenn"
+	religion = "daak"
+
+	2906.1.1 = { birth = 2906.1.1 }
+	# Två äldre döttrar än Fiorina
+	2999.1.1 = { death = 2999.1.1 }
+}
+101029 = { # Greve, Felosi
+	name = "Milandor"
+	dynasty = 2001
+
+	culture = "pyar"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101030 = { # Greve, Skywif
+	name = "Valachen"
+	dynasty = 1103
+
+	culture = "perenn"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101031 = { # Greve, Rim
+	name = "Una"
+	dynasty = 1067
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101032 = { # Markis, Brelsest
+	name = "Tiniern"
+	dynasty = 1104
+
+	culture = "perenn"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101033 = { # Baron, Tesel
+	name = "Irevan"
+	dynasty = 1105
+
+	culture = "perenn"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101034 = { # Baron, Marnoc
+	name = "Segir"
+	dynasty = 1106
+
+	culture = "conrier"
+	religion = "daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101035 = { # Baron, Dunbaton
+	name = "Frederick"
+	dynasty = 1060 # Deluvien
+
+	culture = "conrier"
+	religion = "daak"
+	mother = 101040
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2967.1.1 = { add_spouse = 102701 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101036 = {
+	name = "Kalina"
+	dynasty = 1107
+
+	culture = "perenn"
+	religion = "daak"
+
+	2940.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101037 = {
+	name = "Vinces"
+	dynasty = 1068
+
+	culture = "conrier"
+	religion = "daak"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101038 = {
+	name = "Tardin"
+	dynasty = 1069
+
+	culture = "conrier"
+	religion = "daak"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101039 = {
+	name = "Inalea"
+	dynasty = 2000 # Elisari
+	female = yes
+
+	add_trait = "skilled_tactician"
+	add_trait = "lustful"
+	add_trait = "fair"
+	add_trait = "kind"
+
+	culture = "pyar"
+	religion = "daak"
+	father = 101005
+
+	2955.1.1 = { birth = 2955.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101040 = {
+	name = "Ysana"
+	dynasty = 1060 # Deluvien
+	female = yes
+
+	culture = "conrier"
+	religion = "daak"
+
+	2910.1.1 = { birth = 2910.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

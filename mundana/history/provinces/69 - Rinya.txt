@@ -1,0 +1,23 @@
+# 69 - Rinya
+
+# County Title
+title = c_rinya
+
+# Settlements
+max_settlements = 4
+
+b_rinya_1 = castle
+#b_rinya_2 = city
+#b_rinya_3 = temple
+#b_rinya_4 = castle
+#b_rinya_5 = city
+#b_rinya_6 = temple
+#b_rinya_7 = castle
+#b_rinya_8 = city
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

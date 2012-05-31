@@ -1,0 +1,23 @@
+# 145 - Vexial
+
+# County Title
+title = c_vexial
+
+# Settlements
+max_settlements = 4
+
+b_vexial_1 = castle
+b_vexial_2 = city
+#b_vexial_3 = temple
+#b_vexial_4 = castle
+#b_vexial_5 = city
+#b_vexial_6 = temple
+#b_vexial_7 = castle
+#b_vexial_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

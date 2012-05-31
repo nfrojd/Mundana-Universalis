@@ -1,0 +1,23 @@
+# 114 - Svrox
+
+# County Title
+title = c_svrox
+
+# Settlements
+max_settlements = 4
+
+b_svrox_1 = castle
+b_svrox_2 = city
+#b_svrox_3 = temple
+#b_svrox_4 = castle
+#b_svrox_5 = city
+#b_svrox_6 = temple
+#b_svrox_7 = castle
+#b_svrox_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

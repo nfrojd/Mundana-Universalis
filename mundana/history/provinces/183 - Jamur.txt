@@ -1,0 +1,23 @@
+# 183 - Jamur
+
+# County Title
+title = c_jamur
+
+# Settlements
+max_settlements = 4
+
+b_jamur_1 = castle
+b_jamur_2 = city
+#b_jamur_3 = temple
+#b_jamur_4 = castle
+#b_jamur_5 = city
+#b_jamur_6 = temple
+#b_jamur_7 = castle
+#b_jamur_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

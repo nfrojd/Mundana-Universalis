@@ -1,4 +1,4 @@
-2950.1.1 ={
-	liege="d_kovos"
+2950.1.1 = {
+	liege="d_mashoro"
 	holder=100004
 }

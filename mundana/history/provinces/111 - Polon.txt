@@ -1,0 +1,23 @@
+# 111 - Polon
+
+# County Title
+title = c_polon
+
+# Settlements
+max_settlements = 4
+
+b_polon_1 = castle
+b_polon_2 = city
+#b_polon_3 = temple
+#b_polon_4 = castle
+#b_polon_5 = city
+#b_polon_6 = temple
+#b_polon_7 = castle
+#b_polon_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

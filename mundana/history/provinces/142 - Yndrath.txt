@@ -1,0 +1,23 @@
+# 142 - Yndrath
+
+# County Title
+title = c_yndrath
+
+# Settlements
+max_settlements = 4
+
+b_yndrath_1 = castle
+b_yndrath_2 = city
+#b_yndrath_3 = temple
+#b_yndrath_4 = castle
+#b_yndrath_5 = city
+#b_yndrath_6 = temple
+#b_yndrath_7 = castle
+#b_yndrath_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

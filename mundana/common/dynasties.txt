@@ -1,331 +1,698 @@
-# ID < 1000: Special
-10 = {
-	name="Lumian"
-	culture = saxon # Lumian
+
+800 = {
+	name = "Khavos"
+	culture = thalaskian
+}
+820 = {
+	name = "Argadan"
+	culture = abhixia
+}
+821 = {
+	name = "Asandan"
+	culture = abhixia
+}
+822 = {
+	name = "Beel"
+	culture = abhixia
+}
+823 = {
+	name = "Khemumbra"
+	culture = abhixia
+}
+824 = {
+	name = "Myriad"
+	culture = abhixia
+}
+825 = {
+	name = "Shadal"
+	culture = abhixia
+}
+826 = {
+	name = "Thrild"
+	culture = abhixia
+}
+827 = {
+	name = "Vilial"
+	culture = abhixia
 }
 
-200 = {
-	name="Visha"
-	culture = danish #sanari
+840 = {
+	name = "Alaya"
+	culture = arginakus
+}
+841 = {
+	name = "Bhar"
+	culture = arginakus
+}
+842 = {
+	name = "Cevelori"
+	culture = arginakus
+}
+843 = {
+	name = "Khandal"
+	culture = arginakus
+}
+844 = {
+	name = "Lhemago"
+	culture = arginakus
+}
+845 = {
+	name = "Nogila"
+	culture = arginakus
+}
+846 = {
+	name = "Orthel"
+	culture = arginakus
+}
+847 = {
+	name = "Regal"
+	culture = arginakus
+}
+848 = {
+	name = "Vying"
+	culture = arginakus
 }
 
-250 = {
-	name="Abhixia"
-	culture = russian
+860 = {
+	name = "Ahtes"
+	culture = cartika
 }
-251 = {
-	name="Arginakus"
-	culture = russian
+861 = {
+	name = "Bartharum"
+	culture = cartika
 }
-252 = {
-	name="Cartika"
-	culture = russian
+862 = {
+	name = "Chagidal"
+	culture = cartika
 }
-253 = {
-	name="Harim"
-	culture = russian
+863 = {
+	name = "Hadov"
+	culture = cartika
 }
-254 = {
-	name="Kobinku"
-	culture = russian
+864 = {
+	name = "Halathar"
+	culture = cartika
 }
-255 = {
-	name="Myrdinor"
-	culture = russian
+865 = {
+	name = "Hillorn"
+	culture = cartika
 }
-256 = {
-	name="Sala"
-	culture = russian
+866 = {
+	name = "Ilhiva"
+	culture = cartika
 }
-257 = {
-	name="Vaganda"
-	culture = russian
+867 = {
+	name = "Ring"
+	culture = cartika
 }
-258 = {
-	name="Zadhaz"
-	culture = russian
+868 = {
+	name = "Sabrimal"
+	culture = cartika
+}
+869 = {
+	name = "Saghel"
+	culture = cartika
+}
+870 = {
+	name = "thal Qatada"
+	culture = cartika
 }
 
-# Tokonsk klan
-#1000 = {
-#	name="Roth"
-#	culture = norwegian
-#}
+880 = {
+	name = "Bakhor"
+	culture = harim
+}
+881 = {
+	name = "Imbravil"
+	culture = harim
+}
+882 = {
+	name = "Jesbin"
+	culture = harim
+}
+883 = {
+	name = "Kegalesh"
+	culture = harim
+}
+884 = {
+	name = "Kholash"
+	culture = harim
+}
+885 = {
+	name = "Saladar"
+	culture = harim
+}
+886 = {
+	name = "Veghellan"
+	culture = harim
+}
+
+900 = {
+	name = "Blashirch"
+	culture = kobinku
+}
+901 = {
+	name = "Dagath"
+	culture = kobinku
+}
+902 = {
+	name = "Ironbin"
+	culture = kobinku
+}
+903 = {
+	name = "Othstra"
+	culture = kobinku
+}
+904 = {
+	name = "Raor"
+	culture = kobinku
+}
+905 = {
+	name = "Sangal"
+	culture = kobinku
+}
+906 = {
+	name = "Untergel"
+	culture = kobinku
+}
+907 = {
+	name = "Ystica"
+	culture = kobinku
+}
+908 = {
+	name = "Kobinku"
+	culture = kobinku
+}
+
+920 = {
+	name = "Ashalan"
+	culture = myrdinor
+}
+921 = {
+	name = "Cabr"
+	culture = myrdinor
+}
+922 = {
+	name = "Chagul"
+	culture = myrdinor
+}
+923 = {
+	name = "Ghandhal"
+	culture = myrdinor
+}
+924 = {
+	name = "Imzash"
+	culture = myrdinor
+}
+925 = {
+	name = "Indal"
+	culture = myrdinor
+}
+926 = {
+	name = "Khala"
+	culture = myrdinor
+}
+927 = {
+	name = "Khoron"
+	culture = myrdinor
+}
+928 = {
+	name = "Vilirakh"
+	culture = myrdinor
+}
+929 = {
+	name = "thal Dubaral"
+	culture = myrdinor
+}
+
+940 = {
+	name = "Asabin"
+	culture = sala
+}
+941 = {
+	name = "Elkil"
+	culture = sala
+}
+942 = {
+	name = "Fandabin"
+	culture = sala
+}
+943 = {
+	name = "Genas"
+	culture = sala
+}
+944 = {
+	name = "Imbraes"
+	culture = sala
+}
+945 = {
+	name = "do Thukor"
+	culture = sala
+}
+946 = {
+	name = "Ulhem"
+	culture = sala
+}
+947 = {
+	name = "Varmagash"
+	culture = sala
+}
+948 = {
+	name = "Voroga"
+	culture = sala
+}
+
+960 = {
+	name = "Hradvell"
+	culture = vaganda
+}
+961 = {
+	name = "Ikambin"
+	culture = vaganda
+}
+962 = {
+	name = "Ivaorn"
+	culture = vaganda
+}
+963 = {
+	name = "Jakthbin"
+	culture = vaganda
+}
+964 = {
+	name = "Kamakir"
+	culture = vaganda
+}
+965 = {
+	name = "do Kampa"
+	culture = vaganda
+}
+966 = {
+	name = "Rimangash"
+	culture = vaganda
+}
+967 = {
+	name = "Sulanga"
+	culture = vaganda
+}
+968 = {
+	name = "Iljad"
+	culture = vaganda
+}
+
+980 = {
+	name = "Agathal"
+	culture = zadhaz
+}
+981 = {
+	name = "Augus"
+	culture = zadhaz
+}
+982 = {
+	name = "Frostgash"
+	culture = zadhaz
+}
+983 = {
+	name = "Indravin"
+	culture = zadhaz
+}
+984 = {
+	name = "Necobin"
+	culture = zadhaz
+}
+985 = {
+	name = "Rhadal"
+	culture = zadhaz
+}
+986 = {
+	name = "Viagella"
+	culture = zadhaz
+}
+987 = {
+	name = "Zashghul"
+	culture = zadhaz
+}
+988 = {
+	name = "Voroga"
+	culture = zadhaz
+}
+989 = {
+	name = "Saghel"
+	culture = zadhaz
+}
+
 1001 = {
-	name="Calana"
-	culture = swedish
+	name = "Calana"
+	culture = perenn
 }
 1002 = {
-	name="Uriens"
-	culture = swedish
+	name = "Uriens"
+	culture = perenn
 }
 1003 = {
-	name="Turina"
-	culture = norwegian
+	name = "Turina"
+	culture = conrier
 }
 1004 = {
-	name="Tukon"
-	culture = swedish
+	name = "Tukon"
+	culture = perenn
 }
 1005 = {
-	name="Ramnesney"
-	culture = norwegian
+	name = "Ramnesney"
+	culture = conrier
 }
 1006 = {
-	name="Kinyen-Sina"
-	culture = norwegian
+	name = "Kinyen-Sina"
+	culture = conrier
 }
 1007 = {
-	name="Calnia"
-	culture = norwegian
+	name = "Calnia"
+	culture = conrier
 }
 1008 = {
-	name="Negaidh"
-	culture = norwegian
+	name = "Negaidh"
+	culture = conrier
 }
 1009 = {
-	name="Cretén"
-	culture = swedish
+	name = "Cretén"
+	culture = perenn
 }
 1050 = {
-	name="Daversin"
-	culture = norwegian
+	name = "Daversin"
+	culture = conrier
 }
 1051 = {
-	name="Dun Malinn"
-	culture = norwegian
+	name = "Dun Malinn"
+	culture = conrier
 }
 1052 = {
-	name="Targaton"
-	culture = norwegian
+	name = "Targaton"
+	culture = conrier
 }
 1053 = {
-	name="Bosom"
-	culture = swedish
+	name = "Bosom"
+	culture = perenn
 }
 1054 = {
-	name="Dunmargon"
-	culture = norwegian
+	name = "Dunmargon"
+	culture = conrier
 }
 1055 = {
-	name="Dun Berval"
-	culture = norwegian
+	name = "Dun Berval"
+	culture = conrier
 }
 1056 = {
-	name="Dunvaren"
-	culture = norwegian
+	name = "Dunvaren"
+	culture = conrier
 }
 1057 = {
-	name="Vasor"
-	culture = swedish
+	name = "Vasor"
+	culture = perenn
 }
 1058 = {
-	name="Corteney"
-	culture = norwegian
+	name = "Corteney"
+	culture = conrier
 }
 1059 = {
-	name="Helmason"
-	culture = norwegian
+	name = "Helmason"
+	culture = conrier
 }
 1060 = {
-	name="Deluvien"
-	culture = norwegian
+	name = "Deluvien"
+	culture = conrier
 }
 1061 = {
-	name="Matravin"
-	culture = norwegian
+	name = "Matravin"
+	culture = conrier
 }
 1062 = {
-	name="Casin"
-	culture = norwegian
+	name = "Casin"
+	culture = conrier
 }
 1063 = {
-	name="Madanes"
-	culture = swedish
+	name = "Madanes"
+	culture = perenn
 }
 1064 = {
-	name="Wildaran"
-	culture = swedish
+	name = "Wildaran"
+	culture = perenn
 }
 1065 = {
-	name="Fervelien"
-	culture = norwegian
+	name = "Fervelien"
+	culture = conrier
 }
 1066 = {
-	name="Ulthari"
-	culture = swedish
+	name = "Ulthari"
+	culture = perenn
 }
 1067 = {
-	name="Finvarik"
-	culture = norwegian
+	name = "Finvarik"
+	culture = conrier
+}
+1068 = {
+	name = "Duncléan"
+	culture = conrier
+}
+1069 = {
+	name = "Arsacke"
+	culture = conrier
 }
 
 1100 = {
-	name="av Sinistia"
-	culture = swedish
+	name = "av Sinistia"
+	culture = perenn
 }
 1101 = {
-	name="de Valera"
-	culture = norwegian
+	name = "de Valera"
+	culture = conrier
 }
 1102 = {
-	name="Tar"
-	culture = norwegian
+	name = "Tar"
+	culture = conrier
 }
 1103 = {
-	name="av Skywif"
-	culture = swedish
+	name = "av Skywif"
+	culture = perenn
 }
 1104 = {
-	name="av Brelsest"
-	culture = swedish
+	name = "av Brelsest"
+	culture = perenn
 }
 1105 = {
-	name="av Tesel"
-	culture = swedish
+	name = "av Tesel"
+	culture = perenn
 }
 1106 = {
-	name="Vidhammar"
-	culture = norwegian
+	name = "Vidhammar"
+	culture = conrier
 }
 1107 = {
-	name="av Firina"
-	culture = swedish
+	name = "av Firina"
+	culture = perenn
 }
-
 
 1150 = {
-	name="St Faulk"
-	culture = swedish
+	name = "St Faulk"
+	culture = perenn
 }
 1160 = {
-	name="Avarine"
-	culture = norwegian
+	name = "Avarine"
+	culture = conrier
 }
 1161 = {
-	name="Coluimn"
-	culture = norwegian
+	name = "Coluimn"
+	culture = conrier
 }
 1162 = {
-	name="Consenti"
-	culture = norwegian
+	name = "Consenti"
+	culture = conrier
 }
 1163 = {
-	name="Cuvri'an"
-	culture = norwegian
+	name = "Cuvri'an"
+	culture = conrier
 }
 1164 = {
-	name="Dilige"
-	culture = norwegian
+	name = "Dilige"
+	culture = conrier
 }
 1165 = {
-	name="Duncreigh"
-	culture = norwegian
+	name = "Duncreigh"
+	culture = conrier
 }
 1166 = {
-	name="Lynesse"
-	culture = norwegian
+	name = "Lynesse"
+	culture = conrier
 }
 1167 = {
-	name="Nantirre"
-	culture = norwegian
+	name = "Nantirre"
+	culture = conrier
 }
 1168 = {
-	name="Tolesce"
-	culture = norwegian
+	name = "Tolesce"
+	culture = conrier
 }
 1169 = {
-	name="Vytare"
-	culture = norwegian
+	name = "Vytare"
+	culture = conrier
 }
 
+1600 = {
+	name = "Renovel"
+	culture = perenn
+}
+
+1601 = {
+	name = "Wachtelon"
+	culture = perenn
+}
+
+1602 = {
+	name = "Sordan"
+	culture = perenn
+}
+
+1603 = {
+	name = "Haber"
+	culture = perenn
+}
+
+1604 = {
+	name = "Cortelin"
+	culture = perenn
+}
+
+1607 = {
+	name = "Haran"
+	culture = perenn
+}
+
+1608 = {
+	name = "Vein"
+	culture = perenn
+}
+
+1610 = {
+	name = "Clammath"
+	culture = perenn
+}
+
+1611 = {
+	name = "Rzocazn"
+	culture = cirefalier
+}
+
+
+
 2000 = {
-	name="Elisari"
-	culture = norwegian #pyar
+	name = "Elisari"
+	culture = pyar
 }
 2001 = {
-	name="Vimari"
-	culture = norwegian #pyar
+	name = "Vimari"
+	culture = pyar
+}
+2200 = {
+	name = "Visha"
+	culture = sanari
+}
+2201 = {
+	name = "Ninarian"
+	culture = sanari
 }
 
 2100 = {
-	name="Rudani"
-	culture = norwegian #learam?
+	name = "Rudani"
+	culture = pyar
+}
+2700 = {
+	name = "Dah'touin"
+	culture = learam
+}
+2701 = {
+	name = "Kentai'y"
+	culture = learam
+}
+2702 = {
+	name = "Veísidh"
+	culture = learam
+}
+2703 = {
+	name = "Nan'sela"
+	culture = learam
+}
+2704 = {
+	name = "Silarna"
+	culture = learam
 }
 
 2400 = {
-	name="Leath-Shùile"
-	culture = scottish
+	name = "Leath-Shùile"
+	culture = tokon
 }
 2401 = {
-	name="Thriv-Shùile"
-	culture = scottish
+	name = "Thriv-Shùile"
+	culture = tokon
 }
 2402 = {
-	name="Cem-shòrn"
-	culture = scottish
+	name = "Cem-shòrn"
+	culture = tokon
 }
 2403 = {
-	name="Chuana"
-	culture = scottish
+	name = "Chuana"
+	culture = tokon
 }
 2404 = {
-	name="Laphraidh"
-	culture = scottish
+	name = "Laphraidh"
+	culture = tokon
 }
 2405 = {
-	name="Líusadh"
-	culture = scottish
+	name = "Líusadh"
+	culture = tokon
 }
 2406 = {
-	name="Neillí"
-	culture = scottish
+	name = "Neillí"
+	culture = tokon
 }
 2407 = {
-	name="Roth"
-	culture = scottish
+	name = "Roth"
+	culture = tokon
 }
 2408 = {
-	name="Dillige"
-	culture = scottish
+	name = "Dillige"
+	culture = tokon
 }
 2409 = {
-	name="Feeves"
-	culture = scottish
+	name = "Feeves"
+	culture = tokon
 }
 2410 = {
-	name="Craigfáan"
-	culture = scottish
+	name = "Craigfáan"
+	culture = tokon
 }
 2411 = {
-	name="Belfrage"
-	culture = scottish
+	name = "Belfrage"
+	culture = tokon
 }
 2412 = {
-	name="Mùlaigh"
-	culture = scottish
-}
-2700 = {
-	name="Dah'touin"
-	culture = irish
-}
-2701 = {
-	name="Kentai'y"
-	culture = irish
-}
-2702 = {
-	name="Veísidh"
-	culture = irish
-}
-2703 = {
-	name="Nan'sela"
-	culture = irish
-}
-2704 = {
-	name="Silarna"
-	culture = irish
+	name = "Mùlaigh"
+	culture = tokon
 }
 3000 = {
-	name="Hzarn"
-	culture = frankish
+	name = "Ghazarim"
+	culture = cirefalier
+}
+4000 = {
+	name = "Vihar"
+	culture = ghor
+}
+4001 = {
+	name = "Vartakh"
+	culture = drezin
+}
+4002 = {
+	name = "Gharan"
+	culture = roghan
+}
+4003 = {
+	name = "Thuman"
+	culture = ghor
 }

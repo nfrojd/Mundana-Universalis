@@ -1,0 +1,23 @@
+# 21 - Faimon
+
+# County Title
+title = c_faimon
+
+# Settlements
+max_settlements = 4
+
+b_faimon_1 = castle
+b_faimon_2 = city
+b_faimon_3 = temple
+#b_faimon_4 = castle
+#b_faimon_5 = city
+#b_faimon_6 = temple
+#b_faimon_7 = castle
+#b_faimon_8 = city
+
+# Misc
+culture = conrier
+religion = daak
+
+
+# History

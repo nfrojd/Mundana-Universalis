@@ -1,0 +1,23 @@
+# 73 - Rinntok
+
+# County Title
+title = c_rinntok
+
+# Settlements
+max_settlements = 4
+
+b_rinntok_1 = castle
+#b_rinntok_2 = city
+#b_rinntok_3 = temple
+#b_rinntok_4 = castle
+#b_rinntok_5 = city
+#b_rinntok_6 = temple
+#b_rinntok_7 = castle
+#b_rinntok_8 = city
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

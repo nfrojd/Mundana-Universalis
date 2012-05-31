@@ -1,0 +1,23 @@
+# 134 - Sidqal
+
+# County Title
+title = c_sidqal
+
+# Settlements
+max_settlements = 4
+
+b_sidqal_1 = castle
+b_sidqal_2 = city
+#b_sidqal_3 = temple
+#b_sidqal_4 = castle
+#b_sidqal_5 = city
+#b_sidqal_6 = temple
+#b_sidqal_7 = castle
+#b_sidqal_8 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

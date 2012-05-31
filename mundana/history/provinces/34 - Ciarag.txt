@@ -1,0 +1,23 @@
+# 34 - Ciarag
+
+# County Title
+title = c_ciarag
+
+# Settlements
+max_settlements = 4
+
+b_ciarag_1 = castle
+b_ciarag_2 = city
+b_ciarag_3 = temple
+#b_ciarag_4 = castle
+#b_ciarag_5 = city
+#b_ciarag_6 = temple
+#b_ciarag_7 = castle
+#b_ciarag_8 = city
+
+# Misc
+culture = perenn
+religion = daak
+
+
+# History
