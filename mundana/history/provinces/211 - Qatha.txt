@@ -1,0 +1,19 @@
+# Qatha
+
+# County Title
+title = c_qatha
+
+# Settlements
+max_settlements = 4
+
+b_qatha_castle = castle
+b_qatha_city = city
+#b_qatha_temple = temple
+#b_qatha_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

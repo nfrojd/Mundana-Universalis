@@ -1,0 +1,19 @@
+# Negaidh
+
+# County Title
+title = c_negaidh
+
+# Settlements
+max_settlements = 4
+
+b_negaidh_castle = castle
+b_negaidh_city = city
+b_negaidh_temple = temple
+#b_negaidh_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

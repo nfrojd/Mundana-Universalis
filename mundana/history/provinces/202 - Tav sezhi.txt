@@ -1,0 +1,19 @@
+# Tav-Sezhi
+
+# County Title
+title = c_tav_sezhi
+
+# Settlements
+max_settlements = 4
+
+b_tav_sezhi_castle = castle
+b_tav_sezhi_city = city
+b_tav_sezhi_temple = temple
+#b_tav_sezhi_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

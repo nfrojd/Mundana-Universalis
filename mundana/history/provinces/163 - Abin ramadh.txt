@@ -1,0 +1,19 @@
+# Abin-Ramadh
+
+# County Title
+title = c_abin_ramadh
+
+# Settlements
+max_settlements = 4
+
+b_abin_ramadh_castle = castle
+b_abin_ramadh_city = city
+b_abin_ramadh_temple = temple
+#b_abin_ramadh_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,19 @@
+# Picarel
+
+# County Title
+title = c_picarel
+
+# Settlements
+max_settlements = 4
+
+b_picarel_castle = castle
+b_picarel_city = city
+#b_picarel_temple = temple
+#b_picarel_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,607 @@
+# ID: 1017XX
+# Källa: Tiamelkampanjen
+101700 = { # Baron, Kardor
+	name = "Heri"
+	dynasty = 1612
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101701 = { # Baron, Skenetrip
+	name = "Regor"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101702 = { # Baron, Bret
+	name = "Egil"
+	dynasty = 1614
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101703 = { # Baron, Kirine
+	name = "Helmin"
+	dynasty = 1069
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2913.1.1 = { birth = 2913.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101704 = { # Greve, Negaidh, Saiwick
+	name = "Alandosin"
+	dynasty = 1615
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101705 = { # Baronessa, Ornia
+	name = "Gendelea"
+	dynasty = 1616
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2916.1.1 = { birth = 2916.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101706 = { # Grevinna, Drafe
+	name = "Sirina"
+	dynasty = 1616
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101707 = { # Baron, Negellense
+	name = "Saben"
+	dynasty = 1617
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2916.1.1 = { birth = 2916.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101708 = { # Greve, Nensema, Baron, Dann
+	name = "Weram"
+	dynasty = 1618
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101709 = { # Baron, Orvina
+	name = "Breden"
+	dynasty = 1619
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101710 = { # Baron, Tene
+	name = "Merced"
+	dynasty = 1610
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2927.1.1 = { birth = 2927.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101711 = { # Greve, Picarel
+	name = "Rodrec"
+	dynasty = 1620
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101712 = { # Baron, Emnau
+	name = "Eregel"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101713 = { # Baron, Kalo
+	name = "Jor"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101714 = { # Greve, Elara
+	name = "Matneram"
+	dynasty = 1050
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101715 = { # Baron, Tuirn
+	name = "Mardt"
+	dynasty = 1621
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2911.1.1 = { birth = 2911.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101716 = { # Baron, Oldell
+	name = "Vicon"
+	dynasty = 1101
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101717 = { # Baron, Dunbaton
+	name = "Cadar"
+	dynasty = 1060
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2910.1.1 = { birth = 2910.1.1 }
+	2935.1.1 = { add_spouse = 101036 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101718 = { # Baron, Nana
+	name = "Paidrich"
+	dynasty = 1622
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2951.1.1 = { birth = 2951.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101719 = { # Baron, Ybersiel
+	name = "Fargin"
+	dynasty = 1623
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101720 = { # Baron, Sara
+	name = "Lagon"
+	dynasty = 1054
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2913.1.1 = { birth = 2913.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101721 = { # Baron, Mela
+	name = "Emestin"
+	dynasty = 1056
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101722 = { # Greve, Laerika
+	name = "Tanwar"
+	dynasty = 1624
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101723 = { # Baron, Fhix
+	name = "Adon"
+	dynasty = 1625
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101724 = { # Baronessa, Ulw
+	name = "Linneath"
+	dynasty = 1626
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101725 = { # Baron, Ehgine
+	name = "Aregen"
+	dynasty = 1627
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101726 = { # Baron, Vimbern
+	name = "Gendalir"
+	dynasty = 1628
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2927.1.1 = { birth = 2927.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101727 = { # Baron, Turika
+	name = "Tremich"
+	dynasty = 1629
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101728 = { # Baron, Jaimon
+	name = "Palo"
+	dynasty = 1630
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101729 = { # Baron, Alarik
+	name = "Tendorsin"
+	dynasty = 1631
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101730 = { # Baron, Faimon
+	name = "Ewel"
+	dynasty = 1632
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101731 = {
+	name = "Saldin"
+	dynasty = 1063
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101732 = { # Baron, Laer
+	name = "Targin"
+	dynasty = 1633
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101733 = { # Baron, Irinn
+	name = "Sergal"
+	dynasty = 1634
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101734 = { # Baron, Meredith
+	name = "Burganer"
+	dynasty = 1635
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101735 = { # Baron, Aladene
+	name = "Gremon"
+	dynasty = 1636
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101736 = { # Baron, Salni
+	name = "Kadien"
+	dynasty = 1637
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101737 = { # Greve, Ghia
+	name = "Seman"
+	dynasty = 1637
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101738 = { # Baron, Kredant
+	name = "Crett"
+	dynasty = 1638
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101739 = { # Baron, Alantulw
+	name = "Cadall"
+	dynasty = 1639
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101740 = { # Baron, Korina
+	name = "Eam"
+	dynasty = 1061
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101741 = { # Baron, Negan
+	name = "Rod"
+	dynasty = 1061
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101742 = { # Baron, Calo
+	name = "Aredel"
+	dynasty = 1640
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101743 = { # Baron, Alchegel
+	name = "Misdar"
+	dynasty = 1641
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101744 = { # Baron, Negel
+	name = "Umwell"
+	dynasty = 1641
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2911.1.1 = { birth = 2911.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101745 = { # Baron, Cralann
+	name = "Rascell"
+	dynasty = 1642
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101746 = { # Baronessa, Varna
+	name = "Tarila"
+	dynasty = 1643
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101747 = { # Baron, Grikentulw
+	name = "Valir"
+	dynasty = 1644
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101748 = { # Baron, Grike
+	name = "Piern"
+	dynasty = 1102
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101749 = { # Baron, Nann
+	name = "Ynvdel"
+	dynasty = 1102
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101750 = { # Baron, Kiril
+	name = "Harod"
+	dynasty = 1645
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101751 = { # Baron, Serurik
+	name = "Malegen"
+	dynasty = 1646
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101752 = { # Baron, Rebera
+	name = "Valdelec"
+	dynasty = 1647
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101753 = { # Baron, Euter
+	name = "Geffry"
+	dynasty = 1648
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101754 = { # Greve, Lareigh, Baron, Deber
+	name = "Tanerberch"
+	dynasty = 1649
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101755 = { # Baron, Thia
+	name = "Perarberc"
+	dynasty = 1650
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101756 = { # Baron, Nelos
+	name = "Unar"
+	dynasty = 1651
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101757 = { # Greve, Rimon
+	name = "Nuniel"
+	dynasty = 1064
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2916.1.1 = { birth = 2916.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101758 = { # Baron, Fene
+	name = "Yftar"
+	dynasty = 1652
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101759 = { # Baronessa, Treigh
+	name = "Rimona"
+	dynasty = 1653
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

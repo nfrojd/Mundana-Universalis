@@ -1,0 +1,19 @@
+# Kininaé'an oro
+
+# County Title
+title = c_kininae_an_oro
+
+# Settlements
+max_settlements = 4
+
+b_kininae_an_oro_castle = castle
+#b_kininae_an_oro_city = city
+#b_kininae_an_oro_temple = temple
+#b_kininae_an_oro_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

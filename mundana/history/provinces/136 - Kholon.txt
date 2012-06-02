@@ -1,0 +1,16 @@
+# Kholon
+
+# County Title
+title = c_kholon
+
+# Settlements
+max_settlements = 1
+
+b_kholon_renk_ghor_drezin = castle
+
+# Misc
+culture = ghor
+religion = vontar
+
+
+# History

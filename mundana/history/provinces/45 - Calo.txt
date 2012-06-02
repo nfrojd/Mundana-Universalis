@@ -1,0 +1,19 @@
+# Calo
+
+# County Title
+title = c_calo
+
+# Settlements
+max_settlements = 4
+
+b_calo_castle = castle
+#b_calo_city = city
+#b_calo_temple = temple
+#b_calo_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

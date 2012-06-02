@@ -1,0 +1,19 @@
+# Jamal
+
+# County Title
+title = c_jamal
+
+# Settlements
+max_settlements = 4
+
+b_jamal_castle = castle
+b_jamal_city = city
+#b_jamal_temple = temple
+#b_jamal_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

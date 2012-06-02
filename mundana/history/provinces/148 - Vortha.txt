@@ -1,0 +1,19 @@
+# Vortha
+
+# County Title
+title = c_vortha
+
+# Settlements
+max_settlements = 4
+
+b_vortha_castle = castle
+b_vortha_city = city
+#b_vortha_temple = temple
+#b_vortha_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

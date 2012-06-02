@@ -1,0 +1,19 @@
+# Sema
+
+# County Title
+title = c_sema
+
+# Settlements
+max_settlements = 4
+
+b_sema_castle = castle
+b_sema_city = city
+#b_sema_temple = temple
+#b_sema_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

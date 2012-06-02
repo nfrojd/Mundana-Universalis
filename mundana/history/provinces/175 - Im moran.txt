@@ -1,0 +1,19 @@
+# Im'moran
+
+# County Title
+title = c_im_moran
+
+# Settlements
+max_settlements = 4
+
+b_im_moran_castle = castle
+b_im_moran_city = city
+#b_im_moran_temple = temple
+#b_im_moran_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

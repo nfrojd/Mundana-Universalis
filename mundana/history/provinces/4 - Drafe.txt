@@ -1,0 +1,19 @@
+# Drafe
+
+# County Title
+title = c_drafe
+
+# Settlements
+max_settlements = 4
+
+b_drafe_castle = castle
+#b_drafe_city = city
+#b_drafe_temple = temple
+#b_drafe_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

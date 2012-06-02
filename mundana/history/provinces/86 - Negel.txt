@@ -1,0 +1,19 @@
+# Negel
+
+# County Title
+title = c_negel
+
+# Settlements
+max_settlements = 4
+
+b_negel_castle = castle
+b_negel_city = city
+b_negel_city_1 = city
+#b_negel_temple = temple
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

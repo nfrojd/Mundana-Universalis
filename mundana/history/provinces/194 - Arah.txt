@@ -1,0 +1,19 @@
+# Arah
+
+# County Title
+title = c_arah
+
+# Settlements
+max_settlements = 4
+
+b_arah_castle = castle
+b_arah_city = city
+b_arah_city_1 = city
+#b_arah_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

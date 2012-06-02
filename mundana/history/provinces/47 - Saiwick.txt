@@ -1,0 +1,19 @@
+# Saiwick
+
+# County Title
+title = c_saiwick
+
+# Settlements
+max_settlements = 4
+
+b_saiwick_castle = castle
+b_saiwick_city = city
+#b_saiwick_temple = temple
+#b_saiwick_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

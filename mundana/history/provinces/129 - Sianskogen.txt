@@ -1,0 +1,19 @@
+# Síanskogen
+
+# County Title
+title = c_sianskogen
+
+# Settlements
+max_settlements = 4
+
+b_sianskogen_castle = castle
+#b_sianskogen_city = city
+#b_sianskogen_temple = temple
+#b_sianskogen_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

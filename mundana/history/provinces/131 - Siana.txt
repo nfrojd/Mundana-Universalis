@@ -1,0 +1,19 @@
+# Síana
+
+# County Title
+title = c_siana
+
+# Settlements
+max_settlements = 4
+
+b_siana_castle = castle
+#b_siana_city = city
+#b_siana_temple = temple
+#b_siana_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

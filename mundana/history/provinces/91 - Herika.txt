@@ -1,0 +1,19 @@
+# Herika
+
+# County Title
+title = c_herika
+
+# Settlements
+max_settlements = 4
+
+b_herika_castle = castle
+b_herika_city = city
+#b_herika_temple = temple
+#b_herika_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

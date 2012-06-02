@@ -1,0 +1,19 @@
+# Ifkhor
+
+# County Title
+title = c_ifkhor
+
+# Settlements
+max_settlements = 4
+
+b_ifkhor_castle = castle
+b_ifkhor_city = city
+b_ifkhor_temple = temple
+#b_ifkhor_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

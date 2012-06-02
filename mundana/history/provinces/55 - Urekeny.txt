@@ -1,0 +1,19 @@
+# Urekeny
+
+# County Title
+title = c_urekeny
+
+# Settlements
+max_settlements = 4
+
+b_urekeny_castle = castle
+b_urekeny_city = city
+b_urekeny_city_1 = city
+#b_urekeny_temple = temple
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

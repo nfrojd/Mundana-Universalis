@@ -1,0 +1,19 @@
+# Qara
+
+# County Title
+title = c_qara
+
+# Settlements
+max_settlements = 4
+
+b_qara_castle = castle
+b_qara_city = city
+b_qara_city_1 = city
+#b_qara_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,19 @@
+# Es'hidha
+
+# County Title
+title = c_es_hidha
+
+# Settlements
+max_settlements = 4
+
+b_es_hidha_castle = castle
+b_es_hidha_city = city
+b_es_hidha_city_1 = city
+#b_es_hidha_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

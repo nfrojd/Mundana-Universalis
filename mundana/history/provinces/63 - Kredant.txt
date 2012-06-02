@@ -1,0 +1,19 @@
+# Kredant
+
+# County Title
+title = c_kredant
+
+# Settlements
+max_settlements = 4
+
+b_kredant_castle = castle
+b_kredant_city = city
+#b_kredant_temple = temple
+#b_kredant_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

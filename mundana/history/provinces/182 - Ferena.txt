@@ -1,0 +1,19 @@
+# Ferena
+
+# County Title
+title = c_ferena
+
+# Settlements
+max_settlements = 4
+
+b_ferena_castle = castle
+b_ferena_city = city
+#b_ferena_temple = temple
+#b_ferena_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,19 @@
+# Alcheg
+
+# County Title
+title = c_alcheg
+
+# Settlements
+max_settlements = 4
+
+b_alcheg_castle = castle
+b_alcheg_city = city
+#b_alcheg_temple = temple
+#b_alcheg_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

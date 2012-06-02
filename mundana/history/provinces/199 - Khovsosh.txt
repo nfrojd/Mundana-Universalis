@@ -1,0 +1,20 @@
+# Khovsosh
+
+# County Title
+title = c_khovsosh
+
+# Settlements
+max_settlements = 5
+
+b_khovsosh_castle = castle
+b_khovsosh_city = city
+b_khovsosh_temple = temple
+#b_khovsosh_city_1 = city
+#b_khovsosh_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,20 @@
+# Kharath
+
+# County Title
+title = c_kharath
+
+# Settlements
+max_settlements = 5
+
+b_kharath_castle = castle
+b_kharath_city = city
+b_kharath_city_1 = city
+#b_kharath_temple = temple
+#b_kharath_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

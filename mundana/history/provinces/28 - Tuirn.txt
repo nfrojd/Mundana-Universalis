@@ -1,0 +1,19 @@
+# Tuirn
+
+# County Title
+title = c_tuirn
+
+# Settlements
+max_settlements = 4
+
+b_tuirn_castle = castle
+b_tuirn_city = city
+#b_tuirn_temple = temple
+#b_tuirn_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# Sidra
+
+# County Title
+title = c_sidra
+
+# Settlements
+max_settlements = 4
+
+b_sidra_castle = castle
+b_sidra_city = city
+b_rakhori = temple
+#b_sidra_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

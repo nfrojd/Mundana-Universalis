@@ -1,0 +1,19 @@
+# Negan
+
+# County Title
+title = c_negan
+
+# Settlements
+max_settlements = 4
+
+b_negan_castle = castle
+#b_negan_city = city
+#b_negan_temple = temple
+#b_negan_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

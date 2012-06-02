@@ -1,4 +1,4 @@
-# 1 - Colm
+# Colm
 
 # County Title
 title = c_colm
@@ -6,18 +6,12 @@ title = c_colm
 # Settlements
 max_settlements = 2
 
-b_colm_1 = castle
-b_colm_2 = castle
-#b_colm_3 = city
-#b_colm_4 = temple
-#b_colm_5 = city
-#b_colm_6 = temple
-#b_colm_7 = castle
-#b_colm_8 = city
+b_remezior_krack = castle
+b_kholam_renk_ghor = castle
 
 # Misc
 culture = conrier
-religion = daak
+religion = sabrian_daak
 
 
 # History

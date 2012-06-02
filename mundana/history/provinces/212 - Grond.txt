@@ -1,0 +1,19 @@
+# Grond
+
+# County Title
+title = c_grond
+
+# Settlements
+max_settlements = 4
+
+b_grond_castle = castle
+b_grond_city = city
+#b_grond_temple = temple
+#b_grond_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

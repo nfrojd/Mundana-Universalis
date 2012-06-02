@@ -1,0 +1,19 @@
+# Vimbern
+
+# County Title
+title = c_vimbern
+
+# Settlements
+max_settlements = 4
+
+b_vimbern_castle = castle
+b_vimbern_city = city
+#b_vimbern_temple = temple
+#b_vimbern_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

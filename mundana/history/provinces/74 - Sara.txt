@@ -1,0 +1,19 @@
+# Sara
+
+# County Title
+title = c_sara
+
+# Settlements
+max_settlements = 4
+
+b_sara_castle = castle
+b_sara_city = city
+#b_sara_temple = temple
+#b_sara_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

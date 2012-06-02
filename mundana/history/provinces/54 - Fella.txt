@@ -1,0 +1,19 @@
+# Fella
+
+# County Title
+title = c_fella
+
+# Settlements
+max_settlements = 4
+
+b_fella_castle = castle
+b_fella_city = city
+#b_fella_temple = temple
+#b_fella_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

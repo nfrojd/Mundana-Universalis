@@ -1,0 +1,16 @@
+# Kholonmassivet
+
+# County Title
+title = c_kholonmassivet
+
+# Settlements
+max_settlements = 1
+
+b_kholon_renk_roghan = castle
+
+# Misc
+culture = roghan
+religion = vontar
+
+
+# History

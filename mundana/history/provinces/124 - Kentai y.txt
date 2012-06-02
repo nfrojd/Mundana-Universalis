@@ -1,0 +1,19 @@
+# Kentai'y
+
+# County Title
+title = c_kentai_y
+
+# Settlements
+max_settlements = 4
+
+b_kentai_y_castle = castle
+#b_kentai_y_city = city
+#b_kentai_y_temple = temple
+#b_kentai_y_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

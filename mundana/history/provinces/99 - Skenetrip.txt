@@ -1,0 +1,19 @@
+# Skenetrip
+
+# County Title
+title = c_skenetrip
+
+# Settlements
+max_settlements = 4
+
+b_skenetrip_castle = castle
+b_skenetrip_city = city
+#b_skenetrip_temple = temple
+#b_skenetrip_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

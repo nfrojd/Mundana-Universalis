@@ -1,0 +1,19 @@
+# Rimon
+
+# County Title
+title = c_rimon
+
+# Settlements
+max_settlements = 4
+
+b_rimon_castle = castle
+b_rimon_city = city
+#b_rimon_temple = temple
+#b_rimon_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

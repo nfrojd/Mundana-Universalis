@@ -1,0 +1,19 @@
+# Nan'sela
+
+# County Title
+title = c_nan_sela
+
+# Settlements
+max_settlements = 4
+
+b_nan_sela_castle = castle
+#b_nan_sela_city = city
+#b_nan_sela_temple = temple
+#b_nan_sela_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

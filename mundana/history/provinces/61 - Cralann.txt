@@ -1,0 +1,19 @@
+# Cralann
+
+# County Title
+title = c_cralann
+
+# Settlements
+max_settlements = 4
+
+b_cralann_castle = castle
+b_cralann_city = city
+#b_cralann_temple = temple
+#b_cralann_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

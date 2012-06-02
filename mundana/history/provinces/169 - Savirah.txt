@@ -1,0 +1,19 @@
+# Savirah
+
+# County Title
+title = c_savirah
+
+# Settlements
+max_settlements = 4
+
+b_savirah_castle = castle
+b_savirah_city = city
+b_savirah_temple = temple
+#b_savirah_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

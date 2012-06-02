@@ -1,0 +1,19 @@
+# Salni
+
+# County Title
+title = c_salni
+
+# Settlements
+max_settlements = 4
+
+b_salni_castle = castle
+#b_salni_city = city
+#b_salni_temple = temple
+#b_salni_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

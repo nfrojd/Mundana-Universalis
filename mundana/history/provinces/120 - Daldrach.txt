@@ -1,0 +1,19 @@
+# Dáldrach
+
+# County Title
+title = c_daldrach
+
+# Settlements
+max_settlements = 4
+
+b_daldrach_castle = castle
+#b_daldrach_city = city
+#b_daldrach_temple = temple
+#b_daldrach_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

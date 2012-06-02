@@ -1,0 +1,19 @@
+# Korina
+
+# County Title
+title = c_korina
+
+# Settlements
+max_settlements = 4
+
+b_korina_castle = castle
+b_korina_city = city
+#b_korina_temple = temple
+#b_korina_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

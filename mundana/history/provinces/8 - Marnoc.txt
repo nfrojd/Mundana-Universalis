@@ -1,0 +1,19 @@
+# Marnoc
+
+# County Title
+title = c_marnoc
+
+# Settlements
+max_settlements = 4
+
+b_marnoc_castle = castle
+b_marnoc_city = city
+#b_marnoc_temple = temple
+#b_marnoc_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

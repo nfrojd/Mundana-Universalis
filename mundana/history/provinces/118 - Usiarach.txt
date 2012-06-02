@@ -1,0 +1,19 @@
+# Usiarach
+
+# County Title
+title = c_usiarach
+
+# Settlements
+max_settlements = 4
+
+b_usiarach_castle = castle
+b_usiarach_city = city
+b_usiarach_city_1 = city
+#b_usiarach_temple = temple
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,19 @@
+# Aladene
+
+# County Title
+title = c_aladene
+
+# Settlements
+max_settlements = 4
+
+b_aladene_castle = castle
+b_aladene_city = city
+#b_aladene_temple = temple
+#b_aladene_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

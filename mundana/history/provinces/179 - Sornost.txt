@@ -1,0 +1,19 @@
+# Sornost
+
+# County Title
+title = c_sornost
+
+# Settlements
+max_settlements = 4
+
+b_sornost_castle = castle
+b_sornost_city = city
+#b_sornost_temple = temple
+#b_sornost_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

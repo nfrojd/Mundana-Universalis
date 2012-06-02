@@ -1,0 +1,19 @@
+# Silarna
+
+# County Title
+title = c_silarna
+
+# Settlements
+max_settlements = 4
+
+b_silarna_castle = castle
+#b_silarna_city = city
+#b_silarna_temple = temple
+#b_silarna_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

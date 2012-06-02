@@ -1,0 +1,19 @@
+# Khla
+
+# County Title
+title = c_khla
+
+# Settlements
+max_settlements = 4
+
+b_khla_castle = castle
+b_khla_city = city
+#b_khla_temple = temple
+#b_khla_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

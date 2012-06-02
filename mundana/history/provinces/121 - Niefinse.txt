@@ -1,0 +1,19 @@
+# Niéfinse
+
+# County Title
+title = c_niefinse
+
+# Settlements
+max_settlements = 4
+
+b_niefinse_castle = castle
+#b_niefinse_city = city
+#b_niefinse_temple = temple
+#b_niefinse_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,19 @@
+# Ireda
+
+# County Title
+title = c_ireda
+
+# Settlements
+max_settlements = 4
+
+b_ireda_castle = castle
+b_ireda_city = city
+b_ireda_city_1 = city
+b_ireda_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

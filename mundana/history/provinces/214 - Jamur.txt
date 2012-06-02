@@ -1,0 +1,19 @@
+# Jamur
+
+# County Title
+title = c_jamur
+
+# Settlements
+max_settlements = 4
+
+b_jamur_castle = castle
+b_jamur_city = city
+#b_jamur_temple = temple
+#b_jamur_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,19 @@
+# Sidqal
+
+# County Title
+title = c_sidqal
+
+# Settlements
+max_settlements = 4
+
+b_sidqal_castle = castle
+b_sidqal_city = city
+#b_sidqal_temple = temple
+#b_sidqal_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

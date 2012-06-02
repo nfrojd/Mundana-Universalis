@@ -1,0 +1,19 @@
+# Es'orakh
+
+# County Title
+title = c_es_orakh
+
+# Settlements
+max_settlements = 4
+
+b_es_orakh_castle = castle
+b_es_orakh_city = city
+#b_es_orakh_temple = temple
+#b_es_orakh_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

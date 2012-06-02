@@ -1,0 +1,19 @@
+# Victaron
+
+# County Title
+title = c_victaron
+
+# Settlements
+max_settlements = 4
+
+b_victaron_castle = castle
+#b_victaron_city = city
+#b_victaron_temple = temple
+#b_victaron_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

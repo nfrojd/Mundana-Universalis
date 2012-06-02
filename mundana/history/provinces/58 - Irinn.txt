@@ -1,0 +1,19 @@
+# Irinn
+
+# County Title
+title = c_irinn
+
+# Settlements
+max_settlements = 4
+
+b_irinn_castle = castle
+b_irinn_city = city
+b_irinn_city_1 = city
+#b_irinn_temple = temple
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

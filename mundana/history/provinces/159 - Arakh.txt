@@ -1,0 +1,19 @@
+# Arakh
+
+# County Title
+title = c_arakh
+
+# Settlements
+max_settlements = 4
+
+b_arakh_castle = castle
+b_arakh_city = city
+b_arakh_temple = temple
+#b_arakh_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

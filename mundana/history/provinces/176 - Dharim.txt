@@ -1,0 +1,19 @@
+# Dharim
+
+# County Title
+title = c_dharim
+
+# Settlements
+max_settlements = 4
+
+b_dharim_castle = castle
+b_dharim_city = city
+#b_dharim_temple = temple
+#b_dharim_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

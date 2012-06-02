@@ -1,0 +1,19 @@
+# Jaimon
+
+# County Title
+title = c_jaimon
+
+# Settlements
+max_settlements = 4
+
+b_jaimon_castle = castle
+b_jaimon_city = city
+#b_jaimon_temple = temple
+#b_jaimon_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

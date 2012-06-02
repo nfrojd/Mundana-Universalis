@@ -1,0 +1,20 @@
+# El'vha
+
+# County Title
+title = c_el_vha
+
+# Settlements
+max_settlements = 5
+
+b_el_vha_castle = castle
+b_el_vha_city = city
+b_el_vha_city_1 = city
+b_el_vha_city_2 = city
+#b_el_vha_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,19 @@
+# Nana
+
+# County Title
+title = c_nana
+
+# Settlements
+max_settlements = 4
+
+b_nana_castle = castle
+b_nana_city = city
+#b_nana_temple = temple
+#b_nana_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

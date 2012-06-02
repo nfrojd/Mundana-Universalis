@@ -1,0 +1,19 @@
+# Regant
+
+# County Title
+title = c_regant
+
+# Settlements
+max_settlements = 4
+
+b_regant_castle = castle
+b_regant_city = city
+#b_regant_temple = temple
+#b_regant_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

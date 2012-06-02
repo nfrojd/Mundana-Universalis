@@ -1,0 +1,19 @@
+# Mater
+
+# County Title
+title = c_mater
+
+# Settlements
+max_settlements = 4
+
+b_mater_castle = castle
+#b_mater_city = city
+#b_mater_temple = temple
+#b_mater_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

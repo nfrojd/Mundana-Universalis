@@ -1,0 +1,19 @@
+# Khal
+
+# County Title
+title = c_khal
+
+# Settlements
+max_settlements = 4
+
+b_khal_castle = castle
+b_khal_city = city
+b_khal_temple = temple
+#b_khal_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

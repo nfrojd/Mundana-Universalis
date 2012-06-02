@@ -1,0 +1,19 @@
+# Feeves
+
+# County Title
+title = c_feeves
+
+# Settlements
+max_settlements = 4
+
+b_feeves_castle = castle
+#b_feeves_city = city
+#b_feeves_temple = temple
+#b_feeves_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

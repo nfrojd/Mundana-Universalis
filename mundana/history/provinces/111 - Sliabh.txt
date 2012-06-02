@@ -1,0 +1,19 @@
+# Sliabh
+
+# County Title
+title = c_sliabh
+
+# Settlements
+max_settlements = 4
+
+b_sliabh_castle = castle
+#b_sliabh_city = city
+#b_sliabh_temple = temple
+#b_sliabh_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

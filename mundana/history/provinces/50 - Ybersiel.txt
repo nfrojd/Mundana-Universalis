@@ -1,0 +1,19 @@
+# Ybersiel
+
+# County Title
+title = c_ybersiel
+
+# Settlements
+max_settlements = 4
+
+b_ybersiel_castle = castle
+b_ybersiel_city = city
+b_ybersiel_temple = temple
+#b_ybersiel_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# El'ivani
+
+# County Title
+title = c_el_ivani
+
+# Settlements
+max_settlements = 4
+
+b_el_ivani_castle = castle
+b_el_ivani_city = city
+b_el_ivani_temple = temple
+#b_el_ivani_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

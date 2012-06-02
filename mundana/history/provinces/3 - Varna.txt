@@ -1,0 +1,19 @@
+# Varna
+
+# County Title
+title = c_varna
+
+# Settlements
+max_settlements = 4
+
+b_varna_castle = castle
+b_varna_city = city
+#b_varna_temple = temple
+#b_varna_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

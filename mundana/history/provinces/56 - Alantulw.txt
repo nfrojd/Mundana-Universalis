@@ -1,0 +1,19 @@
+# Alantulw
+
+# County Title
+title = c_alantulw
+
+# Settlements
+max_settlements = 4
+
+b_alantulw_castle = castle
+b_alantulw_city = city
+b_alantulw_city_1 = city
+#b_alantulw_temple = temple
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

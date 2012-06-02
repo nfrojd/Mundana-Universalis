@@ -1,0 +1,19 @@
+# Finvarik
+
+# County Title
+title = c_finvarik
+
+# Settlements
+max_settlements = 4
+
+b_finvarik_castle = castle
+b_finvarik_city = city
+#b_finvarik_temple = temple
+#b_finvarik_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# Foradrach
+
+# County Title
+title = c_foradrach
+
+# Settlements
+max_settlements = 4
+
+b_foradrach_castle = castle
+#b_foradrach_city = city
+#b_foradrach_temple = temple
+#b_foradrach_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

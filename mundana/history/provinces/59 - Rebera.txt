@@ -1,0 +1,19 @@
+# Rebera
+
+# County Title
+title = c_rebera
+
+# Settlements
+max_settlements = 4
+
+b_rebera_castle = castle
+#b_rebera_city = city
+#b_rebera_temple = temple
+#b_rebera_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

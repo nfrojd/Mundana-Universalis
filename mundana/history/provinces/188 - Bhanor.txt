@@ -1,0 +1,19 @@
+# Bhanor
+
+# County Title
+title = c_bhanor
+
+# Settlements
+max_settlements = 4
+
+b_bhanor_castle = castle
+b_bhanor_city = city
+#b_bhanor_temple = temple
+#b_bhanor_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

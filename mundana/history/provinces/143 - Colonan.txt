@@ -1,0 +1,22 @@
+# Colonan
+
+# County Title
+title = c_colonan
+
+# Settlements
+max_settlements = 7
+
+b_colonan_castle = castle
+b_colonan_city = city
+b_colonan_temple = temple
+#b_colonan_castle_1 = castle
+#b_colonan_city_1 = city
+#b_colonan_temple_1 = temple
+#b_colonan_castle_2 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

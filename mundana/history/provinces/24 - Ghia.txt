@@ -1,0 +1,19 @@
+# Ghia
+
+# County Title
+title = c_ghia
+
+# Settlements
+max_settlements = 4
+
+b_ghia_castle = castle
+b_ghia_city = city
+#b_ghia_temple = temple
+#b_ghia_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

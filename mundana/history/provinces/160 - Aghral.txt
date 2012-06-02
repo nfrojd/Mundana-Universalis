@@ -1,0 +1,19 @@
+# Aghral
+
+# County Title
+title = c_aghral
+
+# Settlements
+max_settlements = 4
+
+b_aghral_castle = castle
+b_aghral_city = city
+b_aghral_city_1 = city
+#b_aghral_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

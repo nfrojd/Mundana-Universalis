@@ -1,0 +1,19 @@
+# Kinyen Sina
+
+# County Title
+title = c_kinyen_sina
+
+# Settlements
+max_settlements = 4
+
+b_kinyen_sina_castle = castle
+b_kinyen_sina_city = city
+#b_kinyen_sina_temple = temple
+#b_kinyen_sina_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,19 @@
+# Parash
+
+# County Title
+title = c_parash
+
+# Settlements
+max_settlements = 4
+
+b_parash_castle = castle
+b_parash_city = city
+#b_parash_temple = temple
+#b_parash_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,20 @@
+# Intouk
+
+# County Title
+title = c_intouk
+
+# Settlements
+max_settlements = 5
+
+b_intouk_castle = castle
+b_intouk_city = city
+b_intouk_temple = temple
+b_intouk_city_1 = city
+#b_intouk_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

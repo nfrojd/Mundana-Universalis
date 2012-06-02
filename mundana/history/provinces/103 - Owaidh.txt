@@ -1,0 +1,19 @@
+# Owaidh
+
+# County Title
+title = c_owaidh
+
+# Settlements
+max_settlements = 4
+
+b_owaidh_castle = castle
+b_owaidh_city = city
+#b_owaidh_temple = temple
+#b_owaidh_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

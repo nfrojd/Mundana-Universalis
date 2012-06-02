@@ -1,0 +1,19 @@
+# Sydlanden 1
+
+# County Title
+title = c_sydlanden_1
+
+# Settlements
+max_settlements = 4
+
+b_sydlanden_1_castle = castle
+#b_sydlanden_1_city = city
+#b_sydlanden_1_temple = temple
+#b_sydlanden_1_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

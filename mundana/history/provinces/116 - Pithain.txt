@@ -1,0 +1,19 @@
+# Pithain
+
+# County Title
+title = c_pithain
+
+# Settlements
+max_settlements = 4
+
+b_pithain_castle = castle
+b_pithain_city = city
+#b_pithain_temple = temple
+#b_pithain_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

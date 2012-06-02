@@ -1,4 +1,4 @@
 2950.1.1 = {
-	liege="k_negaidh"
+	liege="e_consaber"
 	holder=101008
 }

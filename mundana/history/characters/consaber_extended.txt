@@ -4,7 +4,7 @@
 	dynasty = 1060
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2932.1.1 = { birth = 2932.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -15,7 +15,7 @@
 	dynasty = 1008
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101585
 
 	2899.1.1 = { birth = 2899.1.1 }
@@ -28,7 +28,7 @@
 	female = yes
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101202
 
 	2897.1.1 = { birth = 2897.1.1 }
@@ -40,7 +40,7 @@
 	dynasty = 1061
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2875.1.1 = { birth = 2875.1.1 }
 	2950.1.1 = { death = 2950.1.1 }
@@ -52,7 +52,7 @@
 	female = yes
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101585
 
 	2895.1.1 = { birth = 2895.1.1 }
@@ -64,7 +64,7 @@
 	dynasty = 1060
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2895.1.1 = { birth = 2895.1.1 }
 	2915.1.1 = { add_spouse = 101203 }

@@ -1,0 +1,19 @@
+# Feleidh
+
+# County Title
+title = c_feleidh
+
+# Settlements
+max_settlements = 4
+
+b_feleidh_castle = castle
+b_feleidh_city = city
+#b_feleidh_temple = temple
+#b_feleidh_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

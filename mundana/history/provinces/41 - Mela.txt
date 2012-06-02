@@ -1,0 +1,19 @@
+# Mela
+
+# County Title
+title = c_mela
+
+# Settlements
+max_settlements = 4
+
+b_mela_castle = castle
+b_mela_city = city
+#b_mela_temple = temple
+#b_mela_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# Per
+
+# County Title
+title = c_per
+
+# Settlements
+max_settlements = 4
+
+b_per_castle = castle
+b_per_city = city
+b_per_city_1 = city
+#b_per_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

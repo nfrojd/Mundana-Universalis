@@ -1,0 +1,19 @@
+# Alarik
+
+# County Title
+title = c_alarik
+
+# Settlements
+max_settlements = 4
+
+b_alarik_castle = castle
+b_alarik_city = city
+#b_alarik_temple = temple
+#b_alarik_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# Laerika
+
+# County Title
+title = c_laerika
+
+# Settlements
+max_settlements = 4
+
+b_laerika_castle = castle
+#b_laerika_city = city
+#b_laerika_temple = temple
+#b_laerika_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

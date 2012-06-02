@@ -1,0 +1,19 @@
+# Takhor
+
+# County Title
+title = c_takhor
+
+# Settlements
+max_settlements = 4
+
+b_takhor_castle = castle
+b_takhor_city = city
+#b_takhor_temple = temple
+#b_takhor_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

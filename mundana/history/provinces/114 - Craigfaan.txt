@@ -1,0 +1,19 @@
+# Craigfáan
+
+# County Title
+title = c_craigfaan
+
+# Settlements
+max_settlements = 4
+
+b_craigfaan_castle = castle
+#b_craigfaan_city = city
+#b_craigfaan_temple = temple
+#b_craigfaan_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

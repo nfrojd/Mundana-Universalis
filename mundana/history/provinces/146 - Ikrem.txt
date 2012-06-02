@@ -1,0 +1,19 @@
+# Ikrem
+
+# County Title
+title = c_ikrem
+
+# Settlements
+max_settlements = 4
+
+b_ikrem_castle = castle
+#b_ikrem_city = city
+#b_ikrem_temple = temple
+#b_ikrem_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

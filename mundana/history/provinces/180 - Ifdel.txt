@@ -1,0 +1,19 @@
+# Ifdel
+
+# County Title
+title = c_ifdel
+
+# Settlements
+max_settlements = 4
+
+b_ifdel_castle = castle
+b_ifdel_city = city
+b_ifdel_city_1 = city
+#b_ifdel_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

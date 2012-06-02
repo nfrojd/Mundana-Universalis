@@ -1,0 +1,20 @@
+# Dunreith
+
+# County Title
+title = c_dunreith
+
+# Settlements
+max_settlements = 5
+
+b_dunreith_castle = castle
+b_dunreith_st_faulk = castle
+b_dunreith_city = city
+b_dunreith_temple = temple
+b_dunreith_city_1 = city
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

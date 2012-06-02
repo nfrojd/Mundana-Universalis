@@ -1,0 +1,19 @@
+# Tileinn
+
+# County Title
+title = c_tileinn
+
+# Settlements
+max_settlements = 4
+
+b_tileinn_castle = castle
+#b_tileinn_city = city
+#b_tileinn_temple = temple
+#b_tileinn_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

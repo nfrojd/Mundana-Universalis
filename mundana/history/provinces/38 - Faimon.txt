@@ -1,0 +1,19 @@
+# Faimon
+
+# County Title
+title = c_faimon
+
+# Settlements
+max_settlements = 4
+
+b_faimon_castle = castle
+b_faimon_city = city
+#b_faimon_temple = temple
+#b_faimon_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

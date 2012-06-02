@@ -1,0 +1,20 @@
+# Uriens
+
+# County Title
+title = c_uriens
+
+# Settlements
+max_settlements = 5
+
+b_uriens_castle = castle
+b_uriens_city = city
+b_uriens_temple = temple
+b_uriens_city_1 = city
+#b_uriens_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

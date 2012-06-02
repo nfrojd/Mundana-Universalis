@@ -1,0 +1,21 @@
+# Kalo
+
+# County Title
+title = c_kalo
+
+# Settlements
+max_settlements = 6
+
+b_kalo_castle = castle
+b_kalo_castle_1 = castle
+b_kalo_temple = temple
+b_kalo_city = city
+b_kalo_city_1 = city
+b_kalo_city_2 = city
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

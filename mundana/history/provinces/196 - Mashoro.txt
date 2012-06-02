@@ -1,0 +1,20 @@
+# Mashoro
+
+# County Title
+title = c_mashoro
+
+# Settlements
+max_settlements = 5
+
+b_mashoro_castle = castle
+b_mashoro_city = city
+b_mashoro_temple = temple
+b_mashoro_city_1 = city
+#b_mashoro_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

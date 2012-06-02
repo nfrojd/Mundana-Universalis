@@ -1,0 +1,21 @@
+# Abin-Thukor
+
+# County Title
+title = c_abin_thukor
+
+# Settlements
+max_settlements = 6
+
+b_abin_thukor_castle = castle
+b_abin_thukor_city = city
+b_abin_thukor_city_1 = city
+b_abin_thukor_temple = temple
+b_abin_thukor_castle_1 = castle
+#b_abin_thukor_temple_1 = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

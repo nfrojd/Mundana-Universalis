@@ -1,0 +1,16 @@
+# Rinya
+
+# County Title
+title = c_rinya
+
+# Settlements
+max_settlements = 1
+
+b_rinya_temple = temple
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

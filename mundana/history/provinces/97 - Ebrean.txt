@@ -1,0 +1,19 @@
+# Ebréan
+
+# County Title
+title = c_ebrean
+
+# Settlements
+max_settlements = 4
+
+b_ebrean_castle = castle
+b_ebrean_city = city
+#b_ebrean_temple = temple
+#b_ebrean_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

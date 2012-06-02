@@ -1,0 +1,19 @@
+# Rim
+
+# County Title
+title = c_vormon
+
+# Settlements
+max_settlements = 4
+
+b_vormon_castle = castle
+#b_vormon_city = city
+#b_vormon_temple = temple
+#b_vormon_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

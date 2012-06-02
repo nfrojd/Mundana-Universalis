@@ -1,0 +1,19 @@
+# Wembsal
+
+# County Title
+title = c_wembsal
+
+# Settlements
+max_settlements = 4
+
+b_wembsal_castle = castle
+b_wembsal_city = city
+#b_wembsal_temple = temple
+#b_wembsal_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

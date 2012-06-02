@@ -1,0 +1,19 @@
+# Kirine
+
+# County Title
+title = c_kirine
+
+# Settlements
+max_settlements = 4
+
+b_kirine_castle = castle
+#b_kirine_city = city
+#b_kirine_temple = temple
+#b_kirine_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

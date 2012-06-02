@@ -1,0 +1,19 @@
+# Aganne
+
+# County Title
+title = c_aganne
+
+# Settlements
+max_settlements = 4
+
+b_aganne_castle = castle
+b_aganne_city = city
+#b_aganne_temple = temple
+#b_aganne_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,20 @@
+# Ramnesney
+
+# County Title
+title = c_ramnesney
+
+# Settlements
+max_settlements = 5
+
+b_ramnesney_castle = castle
+b_ramnesney_city = city
+b_ramnesney_temple = temple
+#b_ramnesney_castle_1 = castle
+#b_ramnesney_city_1 = city
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

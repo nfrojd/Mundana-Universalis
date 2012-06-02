@@ -1,0 +1,19 @@
+# Alchegel
+
+# County Title
+title = c_alchegel
+
+# Settlements
+max_settlements = 4
+
+b_alchegel_castle = castle
+b_alchegel_city = city
+b_alchegel_city_1 = city
+#b_alchegel_temple = temple
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

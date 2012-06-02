@@ -1,0 +1,20 @@
+# Tagada
+
+# County Title
+title = c_tagada
+
+# Settlements
+max_settlements = 5
+
+b_tagada_castle = castle
+b_tagada_city = city
+b_tagada_temple = temple
+b_tagada_city_1 = city
+#b_tagada_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

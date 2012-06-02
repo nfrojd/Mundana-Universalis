@@ -1,0 +1,19 @@
+# Ilaidh
+
+# County Title
+title = c_ilaidh
+
+# Settlements
+max_settlements = 4
+
+b_ilaidh_castle = castle
+b_ilaidh_city = city
+#b_ilaidh_temple = temple
+#b_ilaidh_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,19 @@
+# Strakh
+
+# County Title
+title = c_strakh
+
+# Settlements
+max_settlements = 4
+
+b_strakh_castle = castle
+b_strakh_city = city
+#b_strakh_temple = temple
+#b_strakh_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

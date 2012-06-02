@@ -1,0 +1,19 @@
+# Rubis
+
+# County Title
+title = c_rubis
+
+# Settlements
+max_settlements = 4
+
+b_rubis_castle = castle
+#b_rubis_city = city
+#b_rubis_temple = temple
+#b_rubis_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

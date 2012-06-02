@@ -1,0 +1,19 @@
+# Savher
+
+# County Title
+title = c_savher
+
+# Settlements
+max_settlements = 4
+
+b_savher_castle = castle
+b_savher_city = city
+#b_savher_temple = temple
+#b_savher_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

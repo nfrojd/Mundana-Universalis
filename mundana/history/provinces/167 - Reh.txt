@@ -1,0 +1,19 @@
+# Reh
+
+# County Title
+title = c_reh
+
+# Settlements
+max_settlements = 4
+
+b_reh_castle = castle
+b_reh_city = city
+#b_reh_temple = temple
+#b_reh_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

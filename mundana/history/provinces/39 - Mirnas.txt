@@ -1,0 +1,19 @@
+# Mirnas
+
+# County Title
+title = c_mirnas
+
+# Settlements
+max_settlements = 4
+
+b_mirnas_castle = castle
+#b_mirnas_city = city
+#b_mirnas_temple = temple
+#b_mirnas_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

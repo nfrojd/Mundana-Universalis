@@ -1,0 +1,19 @@
+# Qatada
+
+# County Title
+title = c_qatada
+
+# Settlements
+max_settlements = 4
+
+b_qatada_castle = castle
+b_qatada_city = city
+b_qatada_temple = temple
+#b_qatada_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

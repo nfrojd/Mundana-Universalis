@@ -1,0 +1,19 @@
+# Mùlaigh
+
+# County Title
+title = c_mulaigh
+
+# Settlements
+max_settlements = 4
+
+b_mulaigh_castle = castle
+#b_mulaigh_city = city
+#b_mulaigh_temple = temple
+#b_mulaigh_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

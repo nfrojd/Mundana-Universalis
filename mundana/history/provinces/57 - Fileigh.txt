@@ -1,0 +1,19 @@
+# Fileigh
+
+# County Title
+title = c_fileigh
+
+# Settlements
+max_settlements = 4
+
+b_fileigh_castle = castle
+#b_fileigh_city = city
+#b_fileigh_temple = temple
+#b_fileigh_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

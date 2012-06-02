@@ -1,0 +1,19 @@
+# Ilaella
+
+# County Title
+title = c_ilaella
+
+# Settlements
+max_settlements = 4
+
+b_ilaella_castle = castle
+b_ilaella_city = city
+#b_ilaella_temple = temple
+#b_ilaella_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,20 @@
+# Oldell
+
+# County Title
+title = c_oldell
+
+# Settlements
+max_settlements = 5
+
+b_oldell_castle = castle
+b_oldell_city = city
+#b_oldell_temple = temple
+#b_oldell_castle_1 = castle
+#b_oldell_city_1 = city
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

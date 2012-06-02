@@ -7,7 +7,7 @@
 	add_trait = "long_lived"
 
 	culture = "sanari"
-	religion = "daak" #agnosticism
+	religion = "antitheist"
 
 
 #	2500.1.1 = { birth = 2500.1.1 }
@@ -19,7 +19,7 @@
 #	dynasty = "None"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "antitheist"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -29,7 +29,7 @@
 #	dynasty = "Ragar"
 
 	culture = "bazirk"
-	religion = "daak" #mahktah
+	religion = "mahktah"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

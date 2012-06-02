@@ -1,0 +1,19 @@
+# Khorai
+
+# County Title
+title = c_khorai
+
+# Settlements
+max_settlements = 4
+
+b_khorai_castle = castle
+b_khorai_city = city
+#b_khorai_temple = temple
+#b_khorai_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

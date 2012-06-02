@@ -1,0 +1,19 @@
+# Therga
+
+# County Title
+title = c_therga
+
+# Settlements
+max_settlements = 4
+
+b_therga_castle = castle
+b_therga_city = city
+#b_therga_temple = temple
+#b_therga_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

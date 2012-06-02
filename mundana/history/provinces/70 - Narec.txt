@@ -1,0 +1,16 @@
+# Narec
+
+# County Title
+title = c_narec
+
+# Settlements
+max_settlements = 1
+
+b_narekh_renk_ghor = castle
+
+# Misc
+culture = ghor
+religion = vontar
+
+
+# History

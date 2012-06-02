@@ -1,0 +1,19 @@
+# Minder
+
+# County Title
+title = c_minder
+
+# Settlements
+max_settlements = 4
+
+b_minder_castle = castle
+b_minder_city = city
+#b_minder_temple = temple
+#b_minder_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

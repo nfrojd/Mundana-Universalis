@@ -1,0 +1,19 @@
+# Pher
+
+# County Title
+title = c_pher
+
+# Settlements
+max_settlements = 4
+
+b_pher_castle = castle
+b_pher_city = city
+b_pher_city_1 = city
+#b_pher_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

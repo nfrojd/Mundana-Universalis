@@ -1,0 +1,19 @@
+# Dunbaton
+
+# County Title
+title = c_dunbaton
+
+# Settlements
+max_settlements = 4
+
+b_dunbaton_castle = castle
+b_dunbaton_city = city
+#b_dunbaton_temple = temple
+#b_dunbaton_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

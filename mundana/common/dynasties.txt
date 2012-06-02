@@ -456,7 +456,6 @@
 	name = "Arsacke"
 	culture = conrier
 }
-
 1100 = {
 	name = "av Sinistia"
 	culture = perenn
@@ -470,7 +469,7 @@
 	culture = conrier
 }
 1103 = {
-	name = "av Skywif"
+	name = "Valachen"
 	culture = perenn
 }
 1104 = {
@@ -478,7 +477,7 @@
 	culture = perenn
 }
 1105 = {
-	name = "av Tesel"
+	name = "Mandoric"
 	culture = perenn
 }
 1106 = {
@@ -489,7 +488,6 @@
 	name = "av Firina"
 	culture = perenn
 }
-
 1150 = {
 	name = "St Faulk"
 	culture = perenn
@@ -534,52 +532,210 @@
 	name = "Vytare"
 	culture = conrier
 }
-
 1600 = {
 	name = "Renovel"
 	culture = perenn
 }
-
 1601 = {
 	name = "Wachtelon"
 	culture = perenn
 }
-
 1602 = {
 	name = "Sordan"
 	culture = perenn
 }
-
 1603 = {
 	name = "Haber"
 	culture = perenn
 }
-
 1604 = {
 	name = "Cortelin"
 	culture = perenn
 }
-
 1607 = {
 	name = "Haran"
 	culture = perenn
 }
-
 1608 = {
 	name = "Vein"
 	culture = perenn
 }
-
 1610 = {
 	name = "Clammath"
 	culture = perenn
 }
-
 1611 = {
 	name = "Rzocazn"
 	culture = cirefalier
 }
-
+1612 = {
+	name = "Agisarn"
+	culture = perenn
+}
+1613 = {
+	name = "Arlech"
+	culture = perenn
+}
+1614 = {
+	name = "Arlem"
+	culture = perenn
+}
+1615 = {
+	name = "Aseille"
+	culture = perenn
+}
+1616 = {
+	name = "Belagomé"
+	culture = perenn
+}
+1617 = {
+	name = "Bosori"
+	culture = perenn
+}
+1618 = {
+	name = "Bostogne"
+	culture = perenn
+}
+1619 = {
+	name = "Clachtern"
+	culture = perenn
+}
+1620 = {
+	name = "Concensus"
+	culture = perenn
+}
+1621 = {
+	name = "de Bern"
+	culture = perenn
+}
+1622 = {
+	name = "Dorten"
+	culture = perenn
+}
+1623 = {
+	name = "Duncral"
+	culture = perenn
+}
+1624 = {
+	name = "Elieri"
+	culture = perenn
+}
+1625 = {
+	name = "Elista"
+	culture = perenn
+}
+1626 = {
+	name = "Fersei"
+	culture = perenn
+}
+1627 = {
+	name = "Fevalista"
+	culture = perenn
+}
+1628 = {
+	name = "Folian"
+	culture = perenn
+}
+1629 = {
+	name = "Formald"
+	culture = perenn
+}
+1630 = {
+	name = "Fundames"
+	culture = perenn
+}
+1631 = {
+	name = "Gineve"
+	culture = perenn
+}
+1632 = {
+	name = "Grebréann"
+	culture = perenn
+}
+1633 = {
+	name = "Indar"
+	culture = perenn
+}
+1634 = {
+	name = "Irinn"
+	culture = perenn
+}
+1635 = {
+	name = "Kradec"
+	culture = perenn
+}
+1636 = {
+	name = "Larocé"
+	culture = perenn
+}
+1637 = {
+	name = "Lindorian"
+	culture = perenn
+}
+1638 = {
+	name = "Malech"
+	culture = perenn
+}
+1639 = {
+	name = "Maneg"
+	culture = perenn
+}
+1640 = {
+	name = "Parent"
+	culture = perenn
+}
+1641 = {
+	name = "Piamden"
+	culture = perenn
+}
+1642 = {
+	name = "Posh"
+	culture = perenn
+}
+1643 = {
+	name = "Sinista"
+	culture = perenn
+}
+1644 = {
+	name = "Tanaron"
+	culture = perenn
+}
+1645 = {
+	name = "Tarani"
+	culture = perenn
+}
+1646 = {
+	name = "Taric"
+	culture = perenn
+}
+1647 = {
+	name = "Tarvalecht"
+	culture = perenn
+}
+1648 = {
+	name = "Tinarvik"
+	culture = perenn
+}
+1649 = {
+	name = "Valern"
+	culture = perenn
+}
+1650 = {
+	name = "Valini"
+	culture = perenn
+}
+1651 = {
+	name = "Valisar"
+	culture = perenn
+}
+1652 = {
+	name = "Vimargon"
+	culture = perenn
+}
+1653 = {
+	name = "Zimaton"
+	culture = perenn
+}
 
 
 2000 = {

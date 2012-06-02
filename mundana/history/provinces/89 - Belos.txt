@@ -1,0 +1,19 @@
+# Belos
+
+# County Title
+title = c_belos
+
+# Settlements
+max_settlements = 4
+
+b_belos_castle = castle
+b_belos_city = city
+#b_belos_temple = temple
+#b_belos_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# Alantulw
+
+# County Title
+title = c_alantulw_2
+
+# Settlements
+max_settlements = 4
+
+b_alantulw_2_castle = castle
+b_alantulw_2_city = city
+#b_alantulw_2_temple = temple
+#b_alantulw_2_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,20 @@
+# Ivida
+
+# County Title
+title = c_ivida
+
+# Settlements
+max_settlements = 5
+
+b_ivida_castle = castle
+b_ivida_city = city
+b_ivida_temple = temple
+b_ivida_city_1 = city
+#b_ivida_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

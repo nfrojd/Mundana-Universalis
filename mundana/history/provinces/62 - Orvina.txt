@@ -1,0 +1,19 @@
+# Orvina
+
+# County Title
+title = c_orvina
+
+# Settlements
+max_settlements = 4
+
+b_orvina_castle = castle
+b_orvina_city = city
+#b_orvina_temple = temple
+#b_orvina_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

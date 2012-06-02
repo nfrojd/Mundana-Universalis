@@ -1,0 +1,19 @@
+# El'egor
+
+# County Title
+title = c_el_egor
+
+# Settlements
+max_settlements = 4
+
+b_el_egor_castle = castle
+b_el_egor_city = city
+b_el_egor_temple = temple
+#b_el_egor_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

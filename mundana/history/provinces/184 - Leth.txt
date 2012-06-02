@@ -1,0 +1,19 @@
+# Leth
+
+# County Title
+title = c_leth
+
+# Settlements
+max_settlements = 4
+
+b_leth_castle = castle
+b_leth_city = city
+b_leth_city_1 = city
+#b_leth_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

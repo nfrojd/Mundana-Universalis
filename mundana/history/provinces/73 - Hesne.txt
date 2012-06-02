@@ -1,0 +1,19 @@
+# Hesne
+
+# County Title
+title = c_hesne
+
+# Settlements
+max_settlements = 4
+
+b_hesne_castle = castle
+b_hesne_city = city
+#b_hesne_temple = temple
+#b_hesne_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

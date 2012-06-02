@@ -1,0 +1,19 @@
+# Lhavala
+
+# County Title
+title = c_lhavala
+
+# Settlements
+max_settlements = 4
+
+b_lhavala_castle = castle
+b_lhavala_temple = temple
+#b_lhavala_city = city
+#b_lhavala_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

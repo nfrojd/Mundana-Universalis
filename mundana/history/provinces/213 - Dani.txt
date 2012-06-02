@@ -1,0 +1,19 @@
+# Dani
+
+# County Title
+title = c_dani
+
+# Settlements
+max_settlements = 4
+
+b_dani_castle = castle
+b_dani_city = city
+#b_dani_temple = temple
+#b_dani_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

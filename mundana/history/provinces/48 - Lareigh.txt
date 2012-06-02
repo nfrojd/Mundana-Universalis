@@ -1,0 +1,19 @@
+# Lareigh
+
+# County Title
+title = c_lareigh
+
+# Settlements
+max_settlements = 4
+
+b_lareigh_castle = castle
+b_lareigh_city = city
+b_lareigh_temple = temple
+#b_lareigh_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

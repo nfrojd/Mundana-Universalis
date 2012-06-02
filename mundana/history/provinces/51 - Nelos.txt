@@ -1,0 +1,19 @@
+# Nelos
+
+# County Title
+title = c_nelos
+
+# Settlements
+max_settlements = 4
+
+b_nelos_castle = castle
+#b_nelos_city = city
+#b_nelos_temple = temple
+#b_nelos_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

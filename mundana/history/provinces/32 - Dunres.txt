@@ -1,0 +1,19 @@
+# Dunres
+
+# County Title
+title = c_dunres
+
+# Settlements
+max_settlements = 4
+
+b_dunres_castle = castle
+#b_dunres_city = city
+#b_dunres_temple = temple
+#b_dunres_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

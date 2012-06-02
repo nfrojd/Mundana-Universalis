@@ -1,0 +1,19 @@
+# Meredith
+
+# County Title
+title = c_meredith
+
+# Settlements
+max_settlements = 4
+
+b_meredith_castle = castle
+b_meredith_city = city
+#b_meredith_temple = temple
+#b_meredith_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

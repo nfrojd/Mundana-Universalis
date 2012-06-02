@@ -1,0 +1,19 @@
+# Fen
+
+# County Title
+title = c_fen
+
+# Settlements
+max_settlements = 4
+
+b_fen_castle = castle
+b_fen_city = city
+#b_fen_temple = temple
+#b_fen_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

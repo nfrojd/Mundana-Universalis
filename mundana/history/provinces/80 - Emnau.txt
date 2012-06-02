@@ -1,0 +1,19 @@
+# Emnau
+
+# County Title
+title = c_emnau
+
+# Settlements
+max_settlements = 4
+
+b_emnau_castle = castle
+b_emnau_city = city
+#b_emnau_temple = temple
+#b_emnau_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

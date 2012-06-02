@@ -1,0 +1,19 @@
+# Nann
+
+# County Title
+title = c_nann
+
+# Settlements
+max_settlements = 4
+
+b_nann_castle = castle
+b_nann_city = city
+#b_nann_temple = temple
+#b_nann_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

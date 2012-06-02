@@ -1,0 +1,19 @@
+# Rebenn
+
+# County Title
+title = c_rebenn
+
+# Settlements
+max_settlements = 4
+
+b_rebenn_castle = castle
+b_rebenn_city = city
+#b_rebenn_temple = temple
+#b_rebenn_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

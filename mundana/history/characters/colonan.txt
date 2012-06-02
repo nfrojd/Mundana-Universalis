@@ -4,7 +4,7 @@
 #	dynasty = "None"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -14,7 +14,7 @@
 #	dynasty = "None"
 
 	culture = "thalaskian"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

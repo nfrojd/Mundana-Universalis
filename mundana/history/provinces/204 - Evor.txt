@@ -1,0 +1,19 @@
+# Evor
+
+# County Title
+title = c_evor
+
+# Settlements
+max_settlements = 4
+
+b_evor_castle = castle
+b_evor_city = city
+#b_evor_temple = temple
+#b_evor_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

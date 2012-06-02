@@ -1,0 +1,19 @@
+# Bret
+
+# County Title
+title = c_bret
+
+# Settlements
+max_settlements = 4
+
+b_bret_castle = castle
+b_bret_city = city
+#b_bret_temple = temple
+#b_bret_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

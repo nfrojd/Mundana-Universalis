@@ -1,0 +1,19 @@
+# Elara
+
+# County Title
+title = c_elara
+
+# Settlements
+max_settlements = 4
+
+b_elara_castle = castle
+b_elara_city = city
+b_elara_temple = temple
+#b_elara_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,20 @@
+# Es'holi
+
+# County Title
+title = c_es_holi
+
+# Settlements
+max_settlements = 5
+
+b_es_holi_castle = castle
+b_es_holi_city = city
+b_es_holi_temple = temple
+b_es_holi_city_1 = city
+b_es_holi_city_2 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

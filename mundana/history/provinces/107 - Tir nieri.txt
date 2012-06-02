@@ -1,0 +1,19 @@
+# Tir Nieri
+
+# County Title
+title = c_tir_nieri
+
+# Settlements
+max_settlements = 4
+
+b_tir_nieri_castle = castle
+#b_tir_nieri_city = city
+#b_tir_nieri_temple = temple
+#b_tir_nieri_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

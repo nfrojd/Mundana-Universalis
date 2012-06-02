@@ -1,0 +1,19 @@
+# Inniutok
+
+# County Title
+title = c_inniutok
+
+# Settlements
+max_settlements = 4
+
+b_inniutok_castle = castle
+#b_inniutok_city = city
+#b_inniutok_temple = temple
+#b_inniutok_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,19 @@
+# Grike
+
+# County Title
+title = c_grike
+
+# Settlements
+max_settlements = 4
+
+b_grike_castle = castle
+b_grike_city = city
+#b_grike_temple = temple
+#b_grike_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

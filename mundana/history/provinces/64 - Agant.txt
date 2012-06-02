@@ -1,0 +1,19 @@
+# Agant
+
+# County Title
+title = c_agant
+
+# Settlements
+max_settlements = 4
+
+b_agant_castle = castle
+b_agant_city = city
+#b_agant_temple = temple
+#b_agant_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

@@ -1,0 +1,19 @@
+# Grikentulw
+
+# County Title
+title = c_grikentulw
+
+# Settlements
+max_settlements = 4
+
+b_grikentulw_castle = castle
+b_grikentulw_city = city
+b_grikentulw_temple = temple
+#b_grikentulw_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

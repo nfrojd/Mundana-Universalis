@@ -1,0 +1,19 @@
+# Kardor
+
+# County Title
+title = c_kardor
+
+# Settlements
+max_settlements = 4
+
+b_kardor_castle = castle
+b_kardor_city = city
+#b_kardor_temple = temple
+#b_kardor_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

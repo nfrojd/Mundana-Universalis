@@ -1,0 +1,19 @@
+# Lewain
+
+# County Title
+title = c_lewain
+
+# Settlements
+max_settlements = 4
+
+b_lewain_castle = castle
+b_lewain_city = city
+#b_lewain_temple = temple
+#b_lewain_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

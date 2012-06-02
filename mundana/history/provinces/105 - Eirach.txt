@@ -1,0 +1,19 @@
+# Eirach
+
+# County Title
+title = c_eirach
+
+# Settlements
+max_settlements = 4
+
+b_eirach_castle = castle
+b_eirach_city = city
+#b_eirach_temple = temple
+#b_eirach_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

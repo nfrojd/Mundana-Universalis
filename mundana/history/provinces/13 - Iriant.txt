@@ -1,0 +1,19 @@
+# Iriant
+
+# County Title
+title = c_iriant
+
+# Settlements
+max_settlements = 4
+
+b_iriant_castle = castle
+#b_iriant_city = city
+#b_iriant_temple = temple
+#b_iriant_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

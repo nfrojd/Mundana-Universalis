@@ -1,0 +1,19 @@
+# Qarom
+
+# County Title
+title = c_qarom
+
+# Settlements
+max_settlements = 4
+
+b_qarom_castle = castle
+b_qarom_city = city
+b_qarom_temple = temple
+#b_qarom_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

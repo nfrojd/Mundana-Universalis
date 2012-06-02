@@ -1,0 +1,19 @@
+# Kiril
+
+# County Title
+title = c_kiril
+
+# Settlements
+max_settlements = 4
+
+b_kiril_castle = castle
+#b_kiril_city = city
+#b_kiril_temple = temple
+#b_kiril_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

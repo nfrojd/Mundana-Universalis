@@ -1,0 +1,19 @@
+# Deber
+
+# County Title
+title = c_deber
+
+# Settlements
+max_settlements = 4
+
+b_deber_castle = castle
+#b_deber_city = city
+#b_deber_temple = temple
+#b_deber_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

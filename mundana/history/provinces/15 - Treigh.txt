@@ -1,0 +1,18 @@
+# Treigh
+
+# County Title
+title = c_treigh
+
+# Settlements
+max_settlements = 3
+
+b_treigh_castle = castle
+#b_treigh_city = city
+#b_treigh_temple = temple
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

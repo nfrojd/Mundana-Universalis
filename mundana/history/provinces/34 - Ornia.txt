@@ -1,0 +1,19 @@
+# Ornia
+
+# County Title
+title = c_ornia
+
+# Settlements
+max_settlements = 4
+
+b_ornia_castle = castle
+b_ornia_city = city
+#b_ornia_temple = temple
+#b_ornia_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

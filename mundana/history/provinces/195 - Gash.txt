@@ -1,0 +1,19 @@
+# Gash
+
+# County Title
+title = c_gash
+
+# Settlements
+max_settlements = 4
+
+b_gash_castle = castle
+b_gash_city = city
+#b_gash_temple = temple
+#b_gash_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

@@ -1,0 +1,19 @@
+# Adaluth
+
+# County Title
+title = c_adaluth
+
+# Settlements
+max_settlements = 4
+
+b_adaluth_castle = castle
+#b_adaluth_city = city
+#b_adaluth_temple = temple
+#b_adaluth_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

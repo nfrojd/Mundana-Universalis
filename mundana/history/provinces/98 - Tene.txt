@@ -1,0 +1,19 @@
+# Tene
+
+# County Title
+title = c_tene
+
+# Settlements
+max_settlements = 4
+
+b_tene_castle = castle
+b_tene_city = city
+#b_tene_temple = temple
+#b_tene_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

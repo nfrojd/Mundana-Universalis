@@ -1,0 +1,19 @@
+# Ehgine
+
+# County Title
+title = c_ehgine
+
+# Settlements
+max_settlements = 4
+
+b_ehgine_castle = castle
+b_ehgine_city = city
+#b_ehgine_temple = temple
+#b_ehgine_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

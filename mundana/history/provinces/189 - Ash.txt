@@ -1,0 +1,19 @@
+# Ash
+
+# County Title
+title = c_ash
+
+# Settlements
+max_settlements = 4
+
+b_ash_castle = castle
+b_ash_city = city
+b_ash_temple = temple
+#b_ash_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

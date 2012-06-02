@@ -1,0 +1,19 @@
+# Dann
+
+# County Title
+title = c_dann
+
+# Settlements
+max_settlements = 4
+
+b_dann_castle = castle
+b_dann_city = city
+#b_dann_temple = temple
+#b_dann_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

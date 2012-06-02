@@ -1,0 +1,19 @@
+# Thara
+
+# County Title
+title = c_thara
+
+# Settlements
+max_settlements = 4
+
+b_thara_castle = castle
+b_thara_city = city
+#b_thara_temple = temple
+#b_thara_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

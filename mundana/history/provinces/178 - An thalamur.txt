@@ -1,0 +1,20 @@
+# An-Thalamur
+
+# County Title
+title = c_an_thalamur
+
+# Settlements
+max_settlements = 5
+
+b_an_thalamur_castle = castle
+b_an_thalamur_city = city
+b_an_thalamur_temple = temple
+#b_an_thalamur_castle_1 = castle
+#b_an_thalamur_city_1 = city
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

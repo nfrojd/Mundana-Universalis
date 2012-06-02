@@ -1,5 +1,5 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-e_consaber;Consaber;;;#VALUE!;;;;;;;;;;x
+e_consaber;Consaber;;;;;;;;;;;;;x
 e_thalamur;Thalamur;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 k_alarinn;Alarinn;;;;;;;;;;;;;x
@@ -80,12 +80,13 @@ d_sirmon;Sirmon;;;;;;;;;;;;;x
 d_skywif;Skywif;;;;;;;;;;;;;x
 d_sydlanden;Sydlanden;;;;;;;;;;;;;x
 d_tagada;Tagada;;;;;;;;;;;;;x
-d_tain;Tain;;;;;;;;;;;;;x
 d_tarna;Tarna;;;;;;;;;;;;;x
+d_therga;Therga;;;;;;;;;;;;;x
 d_tresna;Tresna;;;;;;;;;;;;;x
 d_turin;Turin;;;;;;;;;;;;;x
 d_uter;Uter;;;;;;;;;;;;;x
 d_vastlanden;Västlanden;;;;;;;;;;;;;x
+d_victaron;Victaron;;;;;;;;;;;;;x
 d_vimna;Vimna;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 c_abin_ramadh;Abin-Ramadh;;;;;;;;;;;;;x
@@ -97,50 +98,41 @@ c_aghral;Aghral;;;;;;;;;;;;;x
 c_ailleidh;Ailleidh;;;;;;;;;;;;;x
 c_aladene;Aladene;;;;;;;;;;;;;x
 c_alantulw;Alantulw;;;;;;;;;;;;;x
+c_alantulw_2;Alantulw;;;;;;;;;;;;;x
 c_alarik;Alarik;;;;;;;;;;;;;x
-c_alarinn_1;Västlanden 1;;;;;;;;;;;;;x
-c_alarinn_10;Sydlanden 2;;;;;;;;;;;;;x
-c_alarinn_11;Sydlanden 3;;;;;;;;;;;;;x
-c_alarinn_12;Sydlanden 4;;;;;;;;;;;;;x
-c_alarinn_2;Västlanden 2;;;;;;;;;;;;;x
-c_alarinn_3;Västlanden 3;;;;;;;;;;;;;x
-c_alarinn_4;Höglanden 1;;;;;;;;;;;;;x
-c_alarinn_5;Höglanden 2;;;;;;;;;;;;;x
-c_alarinn_6;Höglanden 3;;;;;;;;;;;;;x
-c_alarinn_7;Höglanden 4;;;;;;;;;;;;;x
-c_alarinn_9;Sydlanden 1;;;;;;;;;;;;;x
+c_alaripasset;Alaripasset;;;;;;;;;;;;;x
 c_alcheg;Alcheg;;;;;;;;;;;;;x
+c_alchegel;Alchegel;;;;;;;;;;;;;x
 c_aliana;Aliana;;;;;;;;;;;;;x
-c_alni_1;Alni 1;;;;;;;;;;;;;x
 c_an_thalamur;An-Thalamur;;;;;;;;;;;;;x
 c_apax;Apax;;;;;;;;;;;;;x
 c_arah;Arah;;;;;;;;;;;;;x
 c_arakh;Arakh;;;;;;;;;;;;;x
 c_ash;Ash;;;;;;;;;;;;;x
-c_belfrage;Belfrage;;;;;;;;;;;;;x
 c_belos;Belos;;;;;;;;;;;;;x
 c_bhanor;Bhanor;;;;;;;;;;;;;x
-c_brelsest;Brelsest;;;;;;;;;;;;;x
 c_bret;Bret;;;;;;;;;;;;;x
 c_calnia;Calnia;;;;;;;;;;;;;x
+c_calo;Calo;;;;;;;;;;;;;x
 c_chuana;Chuana;;;;;;;;;;;;;x
-c_ciarag;Ciarag;;;;;;;;;;;;;x
 c_colm;Colm;;;;;;;;;;;;;x
 c_colonan;Colonan;;;;;;;;;;;;;x
 c_craigfaan;Craigfáan;;;;;;;;;;;;;x
 c_cralann;Cralann;;;;;;;;;;;;;x
-c_creten;Cretén;;;;;;;;;;;;;x
+c_cresnarney;Cresnarney;;;;;;;;;;;;;x
 c_daldrach;Dáldrach;;;;;;;;;;;;;x
 c_dan;Dan;;;;;;;;;;;;;x
 c_dani;Dani;;;;;;;;;;;;;x
+c_dann;Dann;;;;;;;;;;;;;x
+c_deber;Deber;;;;;;;;;;;;;x
 c_debhean;Debhean;;;;;;;;;;;;;x
 c_derien;Derien;;;;;;;;;;;;;x
 c_dharim;Dharim;;;;;;;;;;;;;x
+c_drafe;Drafe;;;;;;;;;;;;;x
 c_dunbaton;Dunbaton;;;;;;;;;;;;;x
 c_dunreith;Dunreith;;;;;;;;;;;;;x
+c_dunres;Dunres;;;;;;;;;;;;;x
 c_ebrean;Ebréan;;;;;;;;;;;;;x
-c_ebreann;Ebréan;;;;;;;;;;;;;x
-c_egida;Egida;;;;;;;;;;;;;x
 c_ehgine;Ehgine;;;;;;;;;;;;;x
 c_eirach;Eirach;;;;;;;;;;;;;x
 c_el_arga;El'arga;;;;;;;;;;;;;x
@@ -152,6 +144,7 @@ c_emnau;Emnau;;;;;;;;;;;;;x
 c_es_hidha;Es'hidha;;;;;;;;;;;;;x
 c_es_holi;Es'holi;;;;;;;;;;;;;x
 c_es_orakh;Es'orakh;;;;;;;;;;;;;x
+c_euter;Euter;;;;;;;;;;;;;x
 c_evor;Evor;;;;;;;;;;;;;x
 c_faimon;Faimon;;;;;;;;;;;;;x
 c_farn;Farn;;;;;;;;;;;;;x
@@ -159,12 +152,17 @@ c_feeves;Feeves;;;;;;;;;;;;;x
 c_feleidh;Feleidh;;;;;;;;;;;;;x
 c_fella;Fella;;;;;;;;;;;;;x
 c_fen;Fen;;;;;;;;;;;;;x
+c_fene;Fene;;;;;;;;;;;;;x
 c_ferena;Ferena;;;;;;;;;;;;;x
+c_fhix;Fhix;;;;;;;;;;;;;x
+c_fileigh;Fileigh;;;;;;;;;;;;;x
 c_finvarik;Finvarik;;;;;;;;;;;;;x
 c_firina;Firina;;;;;;;;;;;;;x
 c_foradrach;Foradrach;;;;;;;;;;;;;x
 c_gash;Gash;;;;;;;;;;;;;x
+c_gastmarkerna;Gastmarkerna;;;;;;;;;;;;;x
 c_ghia;Ghia;;;;;;;;;;;;;x
+c_grike;Grike;;;;;;;;;;;;;x
 c_grikentulw;Grikentulw;;;;;;;;;;;;;x
 c_grond;Grond;;;;;;;;;;;;;x
 c_herika;Herika;;;;;;;;;;;;;x
@@ -180,13 +178,15 @@ c_im_moran;Im'moran;;;;;;;;;;;;;x
 c_inniutok;Inniutok;;;;;;;;;;;;;x
 c_intouk;Intouk;;;;;;;;;;;;;x
 c_ireda;Ireda;;;;;;;;;;;;;x
-c_ivani_1;Ivani 1;;;;;;;;;;;;;x
+c_iriant;Iriant;;;;;;;;;;;;;x
+c_irinn;Irinn;;;;;;;;;;;;;x
 c_ivida;Ivida;;;;;;;;;;;;;x
 c_jaimon;Jaimon;;;;;;;;;;;;;x
 c_jamal;Jamal;;;;;;;;;;;;;x
 c_jamur;Jamur;;;;;;;;;;;;;x
+c_kalo;Kalo;;;;;;;;;;;;;x
 c_kardor;Kardor;;;;;;;;;;;;;x
-c_karnag;Karnag;;;;;;;;;;;;;x
+c_kentai_y;Kentai'y;;;;;;;;;;;;;x
 c_khal;Khal;;;;;;;;;;;;;x
 c_kharath;Kharath;;;;;;;;;;;;;x
 c_khla;Khla;;;;;;;;;;;;;x
@@ -196,6 +196,12 @@ c_khorai;Khorai;;;;;;;;;;;;;x
 c_khovsosh;Khovsosh;;;;;;;;;;;;;x
 c_kininae_an_oro;Kininaé'an oro;;;;;;;;;;;;;x
 c_kinyen_sina;Kinyen Sina;;;;;;;;;;;;;x
+c_kiril;Kiril;;;;;;;;;;;;;x
+c_kirine;Kirine;;;;;;;;;;;;;x
+c_korina;Korina;;;;;;;;;;;;;x
+c_kredant;Kredant;;;;;;;;;;;;;x
+c_laer;Laer;;;;;;;;;;;;;x
+c_laerika;Laerika;;;;;;;;;;;;;x
 c_lareigh;Lareigh;;;;;;;;;;;;;x
 c_leth;Leth;;;;;;;;;;;;;x
 c_lewain;Lewain;;;;;;;;;;;;;x
@@ -203,26 +209,33 @@ c_lhavala;Lhavala;;;;;;;;;;;;;x
 c_marnoc;Marnoc;;;;;;;;;;;;;x
 c_mashoro;Mashoro;;;;;;;;;;;;;x
 c_mater;Mater;;;;;;;;;;;;;x
+c_mela;Mela;;;;;;;;;;;;;x
 c_meredith;Meredith;;;;;;;;;;;;;x
 c_minder;Minder;;;;;;;;;;;;;x
-c_miria;Miria;;;;;;;;;;;;;x
+c_mirnas;Mirnas;;;;;;;;;;;;;x
 c_mulaigh;Mùlaigh;;;;;;;;;;;;;x
 c_myndar;Myndar;;;;;;;;;;;;;x
+c_nan_sela;Nan'sela;;;;;;;;;;;;;x
 c_nana;Nana;;;;;;;;;;;;;x
-c_narekh;Narekh;;;;;;;;;;;;;x
+c_nann;Nann;;;;;;;;;;;;;x
+c_narec;Narec;;;;;;;;;;;;;x
 c_negaidh;Negaidh;;;;;;;;;;;;;x
-c_negann;Negann;;;;;;;;;;;;;x
-c_nelly;Nelly;;;;;;;;;;;;;x
+c_negan;Negan;;;;;;;;;;;;;x
+c_negel;Negel;;;;;;;;;;;;;x
+c_negellense;Negellense;;;;;;;;;;;;;x
+c_nelos;Nelos;;;;;;;;;;;;;x
 c_nensema;Nensema;;;;;;;;;;;;;x
-c_niefinse;Niéfinse;;;;;;;;;;;;;x
+c_niefinse;Níefinse;;;;;;;;;;;;;x
 c_oldell;Oldell;;;;;;;;;;;;;x
 c_ornia;Ornia;;;;;;;;;;;;;x
+c_orvina;Orvina;;;;;;;;;;;;;x
 c_owaidh;Owaidh;;;;;;;;;;;;;x
 c_parash;Parash;;;;;;;;;;;;;x
 c_per;Per;;;;;;;;;;;;;x
 c_perina;Perina;;;;;;;;;;;;;x
 c_pher;Pher;;;;;;;;;;;;;x
 c_picarel;Picarel;;;;;;;;;;;;;x
+c_pithain;Pithain;;;;;;;;;;;;;x
 c_polon;Polon;;;;;;;;;;;;;x
 c_qara;Qara;;;;;;;;;;;;;x
 c_qarom;Qarom;;;;;;;;;;;;;x
@@ -230,1518 +243,64 @@ c_qatada;Qatada;;;;;;;;;;;;;x
 c_qatha;Qatha;;;;;;;;;;;;;x
 c_ramnesney;Ramnesney;;;;;;;;;;;;;x
 c_rebenn;Rebenn;;;;;;;;;;;;;x
+c_rebera;Rebera;;;;;;;;;;;;;x
+c_regant;Regant;;;;;;;;;;;;;x
 c_reh;Reh;;;;;;;;;;;;;x
 c_rimon;Rimon;;;;;;;;;;;;;x
 c_rinntok;Rinntok;;;;;;;;;;;;;x
 c_rinya;Rinya;;;;;;;;;;;;;x
 c_rubis;Rubis;;;;;;;;;;;;;x
-c_ruda;Ruda;;;;;;;;;;;;;x
 c_saiwick;Saiwick;;;;;;;;;;;;;x
+c_salni;Salni;;;;;;;;;;;;;x
 c_salston_tor;Salston Tor;;;;;;;;;;;;;x
+c_samaidh;Samaidh;;;;;;;;;;;;;x
 c_sara;Sara;;;;;;;;;;;;;x
 c_savher;Savher;;;;;;;;;;;;;x
 c_savirah;Savirah;;;;;;;;;;;;;x
+c_sema;Sema;;;;;;;;;;;;;x
+c_serurik;Serurik;;;;;;;;;;;;;x
 c_shia;Shia;;;;;;;;;;;;;x
+c_siana;Síana;;;;;;;;;;;;;x
+c_sianskogen;Síanskogen;;;;;;;;;;;;;x
 c_sidqal;Sidqal;;;;;;;;;;;;;x
+c_sidra;Sidra;;;;;;;;;;;;;x
+c_silarna;Silarna;;;;;;;;;;;;;x
+c_silersham;Silersham;;;;;;;;;;;;;x
 c_skenetrip;Skenetrip;;;;;;;;;;;;;x
 c_sliabh;Sliabh;;;;;;;;;;;;;x
+c_sornost;Sornost;;;;;;;;;;;;;x
 c_strakh;Strakh;;;;;;;;;;;;;x
 c_strighil;Strighil;;;;;;;;;;;;;x
 c_svrox;Svrox;;;;;;;;;;;;;x
+c_sydlanden_1;Sydlanden 1;;;;;;;;;;;;;x
+c_sydlanden_3;Sydlanden 3;;;;;;;;;;;;;x
 c_tagada;Tagada;;;;;;;;;;;;;x
 c_tain;Tain;;;;;;;;;;;;;x
 c_takhor;Takhor;;;;;;;;;;;;;x
-c_tar;Tar;;;;;;;;;;;;;x
 c_tav_sezhi;Tav-Sezhi;;;;;;;;;;;;;x
 c_tene;Tene;;;;;;;;;;;;;x
+c_tesel;Tesel;;;;;;;;;;;;;x
 c_thara;Thara;;;;;;;;;;;;;x
 c_therga;Therga;;;;;;;;;;;;;x
+c_thia;Thia;;;;;;;;;;;;;x
+c_tileinn;Tileinn;;;;;;;;;;;;;x
 c_tir_nieri;Tir Nieri;;;;;;;;;;;;;x
 c_treigh;Treigh;;;;;;;;;;;;;x
+c_tuirn;Tuirn;;;;;;;;;;;;;x
+c_turika;Turika;;;;;;;;;;;;;x
 c_turina;Turina;;;;;;;;;;;;;x
 c_ulw;Ulw;;;;;;;;;;;;;x
-c_untulw;Untulw;;;;;;;;;;;;;x
+c_urekeny;Urekeny;;;;;;;;;;;;;x
 c_uriens;Uriens;;;;;;;;;;;;;x
 c_usiarach;Usiarach;;;;;;;;;;;;;x
 c_varna;Varna;;;;;;;;;;;;;x
+c_vastlanden;Västlanden;;;;;;;;;;;;;x
 c_welea;Welea;;;;;;;;;;;;;x
 c_wella;Wella;;;;;;;;;;;;;x
 c_wembsal;Wembsal;;;;;;;;;;;;;x
-c_vexial;Vexial;;;;;;;;;;;;;x
 c_victaron;Victaron;;;;;;;;;;;;;x
+c_vimbern;Vimbern;;;;;;;;;;;;;x
+c_vormon;Vormon;;;;;;;;;;;;;x
 c_vortha;Vortha;;;;;;;;;;;;;x
 c_ybersiel;Ybersiel;;;;;;;;;;;;;x
 c_yndrath;Yndrath;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-b_abin_ramadh_1;Abin-Ramadh;;;;;;;;;;;;;x
-b_abin_ramadh_2;Abin ramadh 2;;;;;;;;;;;;;x
-b_abin_ramadh_3;Abin ramadh 3;;;;;;;;;;;;;x
-b_abin_ramadh_4;Abin ramadh 4;;;;;;;;;;;;;x
-b_abin_ramadh_5;Abin ramadh 5;;;;;;;;;;;;;x
-b_abin_ramadh_6;Abin ramadh 6;;;;;;;;;;;;;x
-b_abin_ramadh_7;Abin ramadh 7;;;;;;;;;;;;;x
-b_abin_ramadh_8;Abin ramadh 8;;;;;;;;;;;;;x
-b_abin_thukor_1;Abin-Thukor;;;;;;;;;;;;;x
-b_abin_thukor_2;Ireas;;;;;;;;;;;;;x
-b_abin_thukor_3;Abin thukor 3;;;;;;;;;;;;;x
-b_abin_thukor_4;Abin thukor 4;;;;;;;;;;;;;x
-b_abin_thukor_5;Abin thukor 5;;;;;;;;;;;;;x
-b_abin_thukor_6;Abin thukor 6;;;;;;;;;;;;;x
-b_abin_thukor_7;Abin thukor 7;;;;;;;;;;;;;x
-b_abin_thukor_8;Abin thukor 8;;;;;;;;;;;;;x
-b_adaluth_1;Adaluth;;;;;;;;;;;;;x
-b_adaluth_2;Adaluth 2;;;;;;;;;;;;;x
-b_adaluth_3;Adaluth 3;;;;;;;;;;;;;x
-b_adaluth_4;Adaluth 4;;;;;;;;;;;;;x
-b_adaluth_5;Adaluth 5;;;;;;;;;;;;;x
-b_adaluth_6;Adaluth 6;;;;;;;;;;;;;x
-b_adaluth_7;Adaluth 7;;;;;;;;;;;;;x
-b_adaluth_8;Adaluth 8;;;;;;;;;;;;;x
-b_aganne_1;Caer Aganne;;;;;;;;;;;;;x
-b_aganne_2;Aganne;;;;;;;;;;;;;x
-b_aganne_3;Aganne 3;;;;;;;;;;;;;x
-b_aganne_4;Aganne 4;;;;;;;;;;;;;x
-b_aganne_5;Aganne 5;;;;;;;;;;;;;x
-b_aganne_6;Aganne 6;;;;;;;;;;;;;x
-b_aganne_7;Aganne 7;;;;;;;;;;;;;x
-b_aganne_8;Aganne 8;;;;;;;;;;;;;x
-b_agant_1;Caer Agant;;;;;;;;;;;;;x
-b_agant_2;Credant;;;;;;;;;;;;;x
-b_agant_3;Agant;;;;;;;;;;;;;x
-b_agant_4;Agant 4;;;;;;;;;;;;;x
-b_agant_5;Agant 5;;;;;;;;;;;;;x
-b_agant_6;Agant 6;;;;;;;;;;;;;x
-b_agant_7;Agant 7;;;;;;;;;;;;;x
-b_agant_8;Agant 8;;;;;;;;;;;;;x
-b_aghral_1;Aghral;;;;;;;;;;;;;x
-b_aghral_2;Erzash;;;;;;;;;;;;;x
-b_aghral_3;Aghral 3;;;;;;;;;;;;;x
-b_aghral_4;Aghral 4;;;;;;;;;;;;;x
-b_aghral_5;Aghral 5;;;;;;;;;;;;;x
-b_aghral_6;Aghral 6;;;;;;;;;;;;;x
-b_aghral_7;Aghral 7;;;;;;;;;;;;;x
-b_aghral_8;Aghral 8;;;;;;;;;;;;;x
-b_ailleidh_1;Ailleidh;;;;;;;;;;;;;x
-b_ailleidh_2;Tir Nieri;;;;;;;;;;;;;x
-b_ailleidh_3;Ailleidh 3;;;;;;;;;;;;;x
-b_ailleidh_4;Ailleidh 4;;;;;;;;;;;;;x
-b_ailleidh_5;Ailleidh 5;;;;;;;;;;;;;x
-b_ailleidh_6;Ailleidh 6;;;;;;;;;;;;;x
-b_ailleidh_7;Ailleidh 7;;;;;;;;;;;;;x
-b_ailleidh_8;Ailleidh 8;;;;;;;;;;;;;x
-b_aladene_1;Caer Aladene;;;;;;;;;;;;;x
-b_aladene_2;Aladene;;;;;;;;;;;;;x
-b_aladene_3;Aladene 3;;;;;;;;;;;;;x
-b_aladene_4;Aladene 4;;;;;;;;;;;;;x
-b_aladene_5;Aladene 5;;;;;;;;;;;;;x
-b_aladene_6;Aladene 6;;;;;;;;;;;;;x
-b_aladene_7;Aladene 7;;;;;;;;;;;;;x
-b_aladene_8;Aladene 8;;;;;;;;;;;;;x
-b_alarik_1;Caer Alarik;;;;;;;;;;;;;x
-b_alarik_2;Alarik;;;;;;;;;;;;;x
-b_alarik_3;Alarik 3;;;;;;;;;;;;;x
-b_alarik_4;Alarik 4;;;;;;;;;;;;;x
-b_alarik_5;Alarik 5;;;;;;;;;;;;;x
-b_alarik_6;Alarik 6;;;;;;;;;;;;;x
-b_alarik_7;Alarik 7;;;;;;;;;;;;;x
-b_alarik_8;Alarik 8;;;;;;;;;;;;;x
-b_alarinn_1_1;Alarinn 1 1;;;;;;;;;;;;;x
-b_alarinn_1_2;Alarinn 1 2;;;;;;;;;;;;;x
-b_alarinn_1_3;Alarinn 1 3;;;;;;;;;;;;;x
-b_alarinn_1_4;Alarinn 1 4;;;;;;;;;;;;;x
-b_alarinn_1_5;Alarinn 1 5;;;;;;;;;;;;;x
-b_alarinn_1_6;Alarinn 1 6;;;;;;;;;;;;;x
-b_alarinn_1_7;Alarinn 1 7;;;;;;;;;;;;;x
-b_alarinn_1_8;Alarinn 1 8;;;;;;;;;;;;;x
-b_alarinn_10_1;Alarinn 10 1;;;;;;;;;;;;;x
-b_alarinn_10_2;Alarinn 10 2;;;;;;;;;;;;;x
-b_alarinn_10_3;Alarinn 10 3;;;;;;;;;;;;;x
-b_alarinn_10_4;Alarinn 10 4;;;;;;;;;;;;;x
-b_alarinn_10_5;Alarinn 10 5;;;;;;;;;;;;;x
-b_alarinn_10_6;Alarinn 10 6;;;;;;;;;;;;;x
-b_alarinn_10_7;Alarinn 10 7;;;;;;;;;;;;;x
-b_alarinn_10_8;Alarinn 10 8;;;;;;;;;;;;;x
-b_alarinn_11_1;Alarinn 11 1;;;;;;;;;;;;;x
-b_alarinn_11_2;Alarinn 11 2;;;;;;;;;;;;;x
-b_alarinn_11_3;Alarinn 11 3;;;;;;;;;;;;;x
-b_alarinn_11_4;Alarinn 11 4;;;;;;;;;;;;;x
-b_alarinn_11_5;Alarinn 11 5;;;;;;;;;;;;;x
-b_alarinn_11_6;Alarinn 11 6;;;;;;;;;;;;;x
-b_alarinn_11_7;Alarinn 11 7;;;;;;;;;;;;;x
-b_alarinn_11_8;Alarinn 11 8;;;;;;;;;;;;;x
-b_alarinn_12_1;Alarinn 12 1;;;;;;;;;;;;;x
-b_alarinn_12_2;Alarinn 12 2;;;;;;;;;;;;;x
-b_alarinn_12_3;Alarinn 12 3;;;;;;;;;;;;;x
-b_alarinn_12_4;Alarinn 12 4;;;;;;;;;;;;;x
-b_alarinn_12_5;Alarinn 12 5;;;;;;;;;;;;;x
-b_alarinn_12_6;Alarinn 12 6;;;;;;;;;;;;;x
-b_alarinn_12_7;Alarinn 12 7;;;;;;;;;;;;;x
-b_alarinn_12_8;Alarinn 12 8;;;;;;;;;;;;;x
-b_alarinn_2_1;Alarinn 2 1;;;;;;;;;;;;;x
-b_alarinn_2_2;Alarinn 2 2;;;;;;;;;;;;;x
-b_alarinn_2_3;Alarinn 2 3;;;;;;;;;;;;;x
-b_alarinn_2_4;Alarinn 2 4;;;;;;;;;;;;;x
-b_alarinn_2_5;Alarinn 2 5;;;;;;;;;;;;;x
-b_alarinn_2_6;Alarinn 2 6;;;;;;;;;;;;;x
-b_alarinn_2_7;Alarinn 2 7;;;;;;;;;;;;;x
-b_alarinn_2_8;Alarinn 2 8;;;;;;;;;;;;;x
-b_alarinn_3_1;Alarinn 3 1;;;;;;;;;;;;;x
-b_alarinn_3_2;Alarinn 3 2;;;;;;;;;;;;;x
-b_alarinn_3_3;Alarinn 3 3;;;;;;;;;;;;;x
-b_alarinn_3_4;Alarinn 3 4;;;;;;;;;;;;;x
-b_alarinn_3_5;Alarinn 3 5;;;;;;;;;;;;;x
-b_alarinn_3_6;Alarinn 3 6;;;;;;;;;;;;;x
-b_alarinn_3_7;Alarinn 3 7;;;;;;;;;;;;;x
-b_alarinn_3_8;Alarinn 3 8;;;;;;;;;;;;;x
-b_alarinn_4_1;Alarinn 4 1;;;;;;;;;;;;;x
-b_alarinn_4_2;Alarinn 4 2;;;;;;;;;;;;;x
-b_alarinn_4_3;Alarinn 4 3;;;;;;;;;;;;;x
-b_alarinn_4_4;Alarinn 4 4;;;;;;;;;;;;;x
-b_alarinn_4_5;Alarinn 4 5;;;;;;;;;;;;;x
-b_alarinn_4_6;Alarinn 4 6;;;;;;;;;;;;;x
-b_alarinn_4_7;Alarinn 4 7;;;;;;;;;;;;;x
-b_alarinn_4_8;Alarinn 4 8;;;;;;;;;;;;;x
-b_alarinn_5_1;Alarinn 5 1;;;;;;;;;;;;;x
-b_alarinn_5_2;Alarinn 5 2;;;;;;;;;;;;;x
-b_alarinn_5_3;Alarinn 5 3;;;;;;;;;;;;;x
-b_alarinn_5_4;Alarinn 5 4;;;;;;;;;;;;;x
-b_alarinn_5_5;Alarinn 5 5;;;;;;;;;;;;;x
-b_alarinn_5_6;Alarinn 5 6;;;;;;;;;;;;;x
-b_alarinn_5_7;Alarinn 5 7;;;;;;;;;;;;;x
-b_alarinn_5_8;Alarinn 5 8;;;;;;;;;;;;;x
-b_alarinn_6_1;Alarinn 6 1;;;;;;;;;;;;;x
-b_alarinn_6_2;Alarinn 6 2;;;;;;;;;;;;;x
-b_alarinn_6_3;Alarinn 6 3;;;;;;;;;;;;;x
-b_alarinn_6_4;Alarinn 6 4;;;;;;;;;;;;;x
-b_alarinn_6_5;Alarinn 6 5;;;;;;;;;;;;;x
-b_alarinn_6_6;Alarinn 6 6;;;;;;;;;;;;;x
-b_alarinn_6_7;Alarinn 6 7;;;;;;;;;;;;;x
-b_alarinn_6_8;Alarinn 6 8;;;;;;;;;;;;;x
-b_alarinn_7_1;Alarinn 7 1;;;;;;;;;;;;;x
-b_alarinn_7_2;Alarinn 7 2;;;;;;;;;;;;;x
-b_alarinn_7_3;Alarinn 7 3;;;;;;;;;;;;;x
-b_alarinn_7_4;Alarinn 7 4;;;;;;;;;;;;;x
-b_alarinn_7_5;Alarinn 7 5;;;;;;;;;;;;;x
-b_alarinn_7_6;Alarinn 7 6;;;;;;;;;;;;;x
-b_alarinn_7_7;Alarinn 7 7;;;;;;;;;;;;;x
-b_alarinn_7_8;Alarinn 7 8;;;;;;;;;;;;;x
-b_alarinn_8_1;Alarinn 8 1;;;;;;;;;;;;;x
-b_alarinn_8_2;Alarinn 8 2;;;;;;;;;;;;;x
-b_alarinn_8_3;Alarinn 8 3;;;;;;;;;;;;;x
-b_alarinn_8_4;Alarinn 8 4;;;;;;;;;;;;;x
-b_alarinn_8_5;Alarinn 8 5;;;;;;;;;;;;;x
-b_alarinn_8_6;Alarinn 8 6;;;;;;;;;;;;;x
-b_alarinn_8_7;Alarinn 8 7;;;;;;;;;;;;;x
-b_alarinn_8_8;Alarinn 8 8;;;;;;;;;;;;;x
-b_alarinn_9_1;Alarinn 9 1;;;;;;;;;;;;;x
-b_alarinn_9_2;Alarinn 9 2;;;;;;;;;;;;;x
-b_alarinn_9_3;Alarinn 9 3;;;;;;;;;;;;;x
-b_alarinn_9_4;Alarinn 9 4;;;;;;;;;;;;;x
-b_alarinn_9_5;Alarinn 9 5;;;;;;;;;;;;;x
-b_alarinn_9_6;Alarinn 9 6;;;;;;;;;;;;;x
-b_alarinn_9_7;Alarinn 9 7;;;;;;;;;;;;;x
-b_alarinn_9_8;Alarinn 9 8;;;;;;;;;;;;;x
-b_alcheg_1;Caer Alcheg;;;;;;;;;;;;;x
-b_alcheg_2;Alcheg;;;;;;;;;;;;;x
-b_alcheg_3;Alcheg 3;;;;;;;;;;;;;x
-b_alcheg_4;Alcheg 4;;;;;;;;;;;;;x
-b_alcheg_5;Alcheg 5;;;;;;;;;;;;;x
-b_alcheg_6;Alcheg 6;;;;;;;;;;;;;x
-b_alcheg_7;Alcheg 7;;;;;;;;;;;;;x
-b_alcheg_8;Alcheg 8;;;;;;;;;;;;;x
-b_aliana_1;Caer Aliana;;;;;;;;;;;;;x
-b_aliana_2;Aliana;;;;;;;;;;;;;x
-b_aliana_3;Aliana 3;;;;;;;;;;;;;x
-b_aliana_4;Aliana 4;;;;;;;;;;;;;x
-b_aliana_5;Aliana 5;;;;;;;;;;;;;x
-b_aliana_6;Aliana 6;;;;;;;;;;;;;x
-b_aliana_7;Aliana 7;;;;;;;;;;;;;x
-b_aliana_8;Aliana 8;;;;;;;;;;;;;x
-b_alni_1_1;Caer Alni 1;;;;;;;;;;;;;x
-b_alni_1_2;Alni 1 2;;;;;;;;;;;;;x
-b_alni_1_3;Alni 1 3;;;;;;;;;;;;;x
-b_alni_1_4;Alni 1 4;;;;;;;;;;;;;x
-b_alni_1_5;Alni 1 5;;;;;;;;;;;;;x
-b_alni_1_6;Alni 1 6;;;;;;;;;;;;;x
-b_alni_1_7;Alni 1 7;;;;;;;;;;;;;x
-b_alni_1_8;Alni 1 8;;;;;;;;;;;;;x
-b_an_thalamur_1;An-Thalamur;;;;;;;;;;;;;x
-b_an_thalamur_2;Peth;;;;;;;;;;;;;x
-b_an_thalamur_3;An thalamur 3;;;;;;;;;;;;;x
-b_an_thalamur_4;An thalamur 4;;;;;;;;;;;;;x
-b_an_thalamur_5;An thalamur 5;;;;;;;;;;;;;x
-b_an_thalamur_6;An thalamur 6;;;;;;;;;;;;;x
-b_an_thalamur_7;An thalamur 7;;;;;;;;;;;;;x
-b_an_thalamur_8;An thalamur 8;;;;;;;;;;;;;x
-b_apax_1;Apax;;;;;;;;;;;;;x
-b_apax_2;Apax 2;;;;;;;;;;;;;x
-b_apax_3;Apax 3;;;;;;;;;;;;;x
-b_apax_4;Apax 4;;;;;;;;;;;;;x
-b_apax_5;Apax 5;;;;;;;;;;;;;x
-b_apax_6;Apax 6;;;;;;;;;;;;;x
-b_apax_7;Apax 7;;;;;;;;;;;;;x
-b_apax_8;Apax 8;;;;;;;;;;;;;x
-b_arah_1;Arah;;;;;;;;;;;;;x
-b_arah_2;Ago;;;;;;;;;;;;;x
-b_arah_3;Arah 3;;;;;;;;;;;;;x
-b_arah_4;Arah 4;;;;;;;;;;;;;x
-b_arah_5;Arah 5;;;;;;;;;;;;;x
-b_arah_6;Arah 6;;;;;;;;;;;;;x
-b_arah_7;Arah 7;;;;;;;;;;;;;x
-b_arah_8;Arah 8;;;;;;;;;;;;;x
-b_arakh_1;Arakah;;;;;;;;;;;;;x
-b_arakh_2;Arakh 2;;;;;;;;;;;;;x
-b_arakh_3;Arakh 3;;;;;;;;;;;;;x
-b_arakh_4;Arakh 4;;;;;;;;;;;;;x
-b_arakh_5;Arakh 5;;;;;;;;;;;;;x
-b_arakh_6;Arakh 6;;;;;;;;;;;;;x
-b_arakh_7;Arakh 7;;;;;;;;;;;;;x
-b_arakh_8;Arakh 8;;;;;;;;;;;;;x
-b_ash_1;Ash;;;;;;;;;;;;;x
-b_ash_2;Melanh;;;;;;;;;;;;;x
-b_ash_3;Ash 3;;;;;;;;;;;;;x
-b_ash_4;Ash 4;;;;;;;;;;;;;x
-b_ash_5;Ash 5;;;;;;;;;;;;;x
-b_ash_6;Ash 6;;;;;;;;;;;;;x
-b_ash_7;Ash 7;;;;;;;;;;;;;x
-b_ash_8;Ash 8;;;;;;;;;;;;;x
-b_belfrage_1;Pithain;;;;;;;;;;;;;x
-b_belfrage_2;Belfrage 2;;;;;;;;;;;;;x
-b_belfrage_3;Belfrage 3;;;;;;;;;;;;;x
-b_belfrage_4;Belfrage 4;;;;;;;;;;;;;x
-b_belfrage_5;Belfrage 5;;;;;;;;;;;;;x
-b_belfrage_6;Belfrage 6;;;;;;;;;;;;;x
-b_belfrage_7;Belfrage 7;;;;;;;;;;;;;x
-b_belfrage_8;Belfrage 8;;;;;;;;;;;;;x
-b_belos_1;Caer Belos;;;;;;;;;;;;;x
-b_belos_2;Belos;;;;;;;;;;;;;x
-b_belos_3;Belos 3;;;;;;;;;;;;;x
-b_belos_4;Belos 4;;;;;;;;;;;;;x
-b_belos_5;Belos 5;;;;;;;;;;;;;x
-b_belos_6;Belos 6;;;;;;;;;;;;;x
-b_belos_7;Belos 7;;;;;;;;;;;;;x
-b_belos_8;Belos 8;;;;;;;;;;;;;x
-b_bhanor_1;Bhanor;;;;;;;;;;;;;x
-b_bhanor_2;Bhanor 2;;;;;;;;;;;;;x
-b_bhanor_3;Bhanor 3;;;;;;;;;;;;;x
-b_bhanor_4;Bhanor 4;;;;;;;;;;;;;x
-b_bhanor_5;Bhanor 5;;;;;;;;;;;;;x
-b_bhanor_6;Bhanor 6;;;;;;;;;;;;;x
-b_bhanor_7;Bhanor 7;;;;;;;;;;;;;x
-b_bhanor_8;Bhanor 8;;;;;;;;;;;;;x
-b_brelsest_1;Caer Brelsest;;;;;;;;;;;;;x
-b_brelsest_2;Tesel;;;;;;;;;;;;;x
-b_brelsest_3;Brelsest;;;;;;;;;;;;;x
-b_brelsest_4;Brelsest 4;;;;;;;;;;;;;x
-b_brelsest_5;Brelsest 5;;;;;;;;;;;;;x
-b_brelsest_6;Brelsest 6;;;;;;;;;;;;;x
-b_brelsest_7;Brelsest 7;;;;;;;;;;;;;x
-b_brelsest_8;Brelsest 8;;;;;;;;;;;;;x
-b_bret_1;Caer Bret;;;;;;;;;;;;;x
-b_bret_2;Bret 2;;;;;;;;;;;;;x
-b_bret_3;Bret 3;;;;;;;;;;;;;x
-b_bret_4;Bret 4;;;;;;;;;;;;;x
-b_bret_5;Bret 5;;;;;;;;;;;;;x
-b_bret_6;Bret 6;;;;;;;;;;;;;x
-b_bret_7;Bret 7;;;;;;;;;;;;;x
-b_bret_8;Bret 8;;;;;;;;;;;;;x
-b_calnia_1;Caer Calnia;;;;;;;;;;;;;x
-b_calnia_2;Calnia;;;;;;;;;;;;;x
-b_calnia_3;Melant;;;;;;;;;;;;;x
-b_calnia_4;Alchegel;;;;;;;;;;;;;x
-b_calnia_5;Calnia 5;;;;;;;;;;;;;x
-b_calnia_6;Calnia 6;;;;;;;;;;;;;x
-b_calnia_7;Calnia 7;;;;;;;;;;;;;x
-b_calnia_8;Calnia 8;;;;;;;;;;;;;x
-b_chuana_1;Chuana 1;;;;;;;;;;;;;x
-b_chuana_2;Chuana 2;;;;;;;;;;;;;x
-b_chuana_3;Chuana 3;;;;;;;;;;;;;x
-b_chuana_4;Chuana 4;;;;;;;;;;;;;x
-b_chuana_5;Chuana 5;;;;;;;;;;;;;x
-b_chuana_6;Chuana 6;;;;;;;;;;;;;x
-b_chuana_7;Chuana 7;;;;;;;;;;;;;x
-b_chuana_8;Chuana 8;;;;;;;;;;;;;x
-b_ciarag_1;Caer Ciarag;;;;;;;;;;;;;x
-b_ciarag_2;Alantulw;;;;;;;;;;;;;x
-b_ciarag_3;Ciarag;;;;;;;;;;;;;x
-b_ciarag_4;Ciarag 4;;;;;;;;;;;;;x
-b_ciarag_5;Ciarag 5;;;;;;;;;;;;;x
-b_ciarag_6;Ciarag 6;;;;;;;;;;;;;x
-b_ciarag_7;Ciarag 7;;;;;;;;;;;;;x
-b_ciarag_8;Ciarag 8;;;;;;;;;;;;;x
-b_colm_1;Remezio Krack;;;;;;;;;;;;;x
-b_colm_2;Kholam-Renk-Ghor;;;;;;;;;;;;;x
-b_colm_3;Colm 3;;;;;;;;;;;;;x
-b_colm_4;Colm 4;;;;;;;;;;;;;x
-b_colm_5;Colm 5;;;;;;;;;;;;;x
-b_colm_6;Colm 6;;;;;;;;;;;;;x
-b_colm_7;Colm 7;;;;;;;;;;;;;x
-b_colm_8;Colm 8;;;;;;;;;;;;;x
-b_colonan_1;Colonan;;;;;;;;;;;;;x
-b_colonan_2;Colonan 2;;;;;;;;;;;;;x
-b_colonan_3;Colonan 3;;;;;;;;;;;;;x
-b_colonan_4;Colonan 4;;;;;;;;;;;;;x
-b_colonan_5;Colonan 5;;;;;;;;;;;;;x
-b_colonan_6;Colonan 6;;;;;;;;;;;;;x
-b_colonan_7;Colonan 7;;;;;;;;;;;;;x
-b_colonan_8;Colonan 8;;;;;;;;;;;;;x
-b_craigfaan_1;Craigfaan;;;;;;;;;;;;;x
-b_craigfaan_2;Craigfaan 2;;;;;;;;;;;;;x
-b_craigfaan_3;Craigfaan 3;;;;;;;;;;;;;x
-b_craigfaan_4;Craigfaan 4;;;;;;;;;;;;;x
-b_craigfaan_5;Craigfaan 5;;;;;;;;;;;;;x
-b_craigfaan_6;Craigfaan 6;;;;;;;;;;;;;x
-b_craigfaan_7;Craigfaan 7;;;;;;;;;;;;;x
-b_craigfaan_8;Craigfaan 8;;;;;;;;;;;;;x
-b_cralann_1;Caer Cralann;;;;;;;;;;;;;x
-b_cralann_2;Orvina;;;;;;;;;;;;;x
-b_cralann_3;Cralann;;;;;;;;;;;;;x
-b_cralann_4;Cralann 4;;;;;;;;;;;;;x
-b_cralann_5;Cralann 5;;;;;;;;;;;;;x
-b_cralann_6;Cralann 6;;;;;;;;;;;;;x
-b_cralann_7;Cralann 7;;;;;;;;;;;;;x
-b_cralann_8;Cralann 8;;;;;;;;;;;;;x
-b_creten_1;Caer Criatain;;;;;;;;;;;;;x
-b_creten_2;Cretén;;;;;;;;;;;;;x
-b_creten_3;Pereigh;;;;;;;;;;;;;x
-b_creten_4;Negel;;;;;;;;;;;;;x
-b_creten_5;Creten 5;;;;;;;;;;;;;x
-b_creten_6;Creten 6;;;;;;;;;;;;;x
-b_creten_7;Creten 7;;;;;;;;;;;;;x
-b_creten_8;Creten 8;;;;;;;;;;;;;x
-b_dan_1;Dan;;;;;;;;;;;;;x
-b_dan_2;Dan 2;;;;;;;;;;;;;x
-b_dan_3;Dan 3;;;;;;;;;;;;;x
-b_dan_4;Dan 4;;;;;;;;;;;;;x
-b_dan_5;Dan 5;;;;;;;;;;;;;x
-b_dan_6;Dan 6;;;;;;;;;;;;;x
-b_dan_7;Dan 7;;;;;;;;;;;;;x
-b_dan_8;Dan 8;;;;;;;;;;;;;x
-b_dani_1;Dani;;;;;;;;;;;;;x
-b_dani_2;Dani 2;;;;;;;;;;;;;x
-b_dani_3;Dani 3;;;;;;;;;;;;;x
-b_dani_4;Dani 4;;;;;;;;;;;;;x
-b_dani_5;Dani 5;;;;;;;;;;;;;x
-b_dani_6;Dani 6;;;;;;;;;;;;;x
-b_dani_7;Dani 7;;;;;;;;;;;;;x
-b_dani_8;Dani 8;;;;;;;;;;;;;x
-b_debhean_1;Debhean;;;;;;;;;;;;;x
-b_debhean_2;Debhean 2;;;;;;;;;;;;;x
-b_debhean_3;Debhean 3;;;;;;;;;;;;;x
-b_debhean_4;Debhean 4;;;;;;;;;;;;;x
-b_debhean_5;Debhean 5;;;;;;;;;;;;;x
-b_debhean_6;Debhean 6;;;;;;;;;;;;;x
-b_debhean_7;Debhean 7;;;;;;;;;;;;;x
-b_debhean_8;Debhean 8;;;;;;;;;;;;;x
-b_derien_1;Derien;;;;;;;;;;;;;x
-b_derien_2;Derien 2;;;;;;;;;;;;;x
-b_derien_3;Derien 3;;;;;;;;;;;;;x
-b_derien_4;Derien 4;;;;;;;;;;;;;x
-b_derien_5;Derien 5;;;;;;;;;;;;;x
-b_derien_6;Derien 6;;;;;;;;;;;;;x
-b_derien_7;Derien 7;;;;;;;;;;;;;x
-b_derien_8;Derien 8;;;;;;;;;;;;;x
-b_dharim_1;Dharim;;;;;;;;;;;;;x
-b_dharim_2;Dharim 2;;;;;;;;;;;;;x
-b_dharim_3;Dharim 3;;;;;;;;;;;;;x
-b_dharim_4;Dharim 4;;;;;;;;;;;;;x
-b_dharim_5;Dharim 5;;;;;;;;;;;;;x
-b_dharim_6;Dharim 6;;;;;;;;;;;;;x
-b_dharim_7;Dharim 7;;;;;;;;;;;;;x
-b_dharim_8;Dharim 8;;;;;;;;;;;;;x
-b_dillige_1;Dillige 1;;;;;;;;;;;;;x
-b_dillige_2;Dillige 2;;;;;;;;;;;;;x
-b_dillige_3;Dillige 3;;;;;;;;;;;;;x
-b_dillige_4;Dillige 4;;;;;;;;;;;;;x
-b_dillige_5;Dillige 5;;;;;;;;;;;;;x
-b_dillige_6;Dillige 6;;;;;;;;;;;;;x
-b_dillige_7;Dillige 7;;;;;;;;;;;;;x
-b_dillige_8;Dillige 8;;;;;;;;;;;;;x
-b_dunbaton_1;Caer Dunbaton;;;;;;;;;;;;;x
-b_dunbaton_2;Dunbaton;;;;;;;;;;;;;x
-b_dunbaton_3;Dunbaton 3;;;;;;;;;;;;;x
-b_dunbaton_4;Dunbaton 4;;;;;;;;;;;;;x
-b_dunbaton_5;Dunbaton 5;;;;;;;;;;;;;x
-b_dunbaton_6;Dunbaton 6;;;;;;;;;;;;;x
-b_dunbaton_7;Dunbaton 7;;;;;;;;;;;;;x
-b_dunbaton_8;Dunbaton 8;;;;;;;;;;;;;x
-b_dunreith_1;Caer Dunreith;;;;;;;;;;;;;x
-b_dunreith_2;Gereigh;;;;;;;;;;;;;x
-b_dunreith_3;Dunreith;;;;;;;;;;;;;x
-b_dunreith_4;Dunreith 4;;;;;;;;;;;;;x
-b_dunreith_5;Dunreith 5;;;;;;;;;;;;;x
-b_dunreith_6;Dunreith 6;;;;;;;;;;;;;x
-b_dunreith_7;Dunreith 7;;;;;;;;;;;;;x
-b_dunreith_8;Dunreith 8;;;;;;;;;;;;;x
-b_ebrean_1;Caer Ebréan;;;;;;;;;;;;;x
-b_ebrean_2;Ebréan;;;;;;;;;;;;;x
-b_ebrean_3;Ebrean 3;;;;;;;;;;;;;x
-b_ebrean_4;Ebrean 4;;;;;;;;;;;;;x
-b_ebrean_5;Ebrean 5;;;;;;;;;;;;;x
-b_ebrean_6;Ebrean 6;;;;;;;;;;;;;x
-b_ebrean_7;Ebrean 7;;;;;;;;;;;;;x
-b_ebrean_8;Ebrean 8;;;;;;;;;;;;;x
-b_ebreann_1;Caer Ebréan;;;;;;;;;;;;;x
-b_ebreann_2;Ebréan;;;;;;;;;;;;;x
-b_ebreann_3;Ebreann 3;;;;;;;;;;;;;x
-b_ebreann_4;Ebreann 4;;;;;;;;;;;;;x
-b_ebreann_5;Ebreann 5;;;;;;;;;;;;;x
-b_ebreann_6;Ebreann 6;;;;;;;;;;;;;x
-b_ebreann_7;Ebreann 7;;;;;;;;;;;;;x
-b_ebreann_8;Ebreann 8;;;;;;;;;;;;;x
-b_egida_1;Egida;;;;;;;;;;;;;x
-b_egida_2;Egida 2;;;;;;;;;;;;;x
-b_egida_3;Egida 3;;;;;;;;;;;;;x
-b_egida_4;Egida 4;;;;;;;;;;;;;x
-b_egida_5;Egida 5;;;;;;;;;;;;;x
-b_egida_6;Egida 6;;;;;;;;;;;;;x
-b_egida_7;Egida 7;;;;;;;;;;;;;x
-b_egida_8;Egida 8;;;;;;;;;;;;;x
-b_ehgine_1;Caer Ehgine;;;;;;;;;;;;;x
-b_ehgine_2;Ehgine;;;;;;;;;;;;;x
-b_ehgine_3;Ehgine 3;;;;;;;;;;;;;x
-b_ehgine_4;Ehgine 4;;;;;;;;;;;;;x
-b_ehgine_5;Ehgine 5;;;;;;;;;;;;;x
-b_ehgine_6;Ehgine 6;;;;;;;;;;;;;x
-b_ehgine_7;Ehgine 7;;;;;;;;;;;;;x
-b_ehgine_8;Ehgine 8;;;;;;;;;;;;;x
-b_eirach_1;Eirach;;;;;;;;;;;;;x
-b_eirach_2;Eirach 2;;;;;;;;;;;;;x
-b_eirach_3;Eirach 3;;;;;;;;;;;;;x
-b_eirach_4;Eirach 4;;;;;;;;;;;;;x
-b_eirach_5;Eirach 5;;;;;;;;;;;;;x
-b_eirach_6;Eirach 6;;;;;;;;;;;;;x
-b_eirach_7;Eirach 7;;;;;;;;;;;;;x
-b_eirach_8;Eirach 8;;;;;;;;;;;;;x
-b_el_arga_1;El'arga;;;;;;;;;;;;;x
-b_el_arga_2;Orakhal;;;;;;;;;;;;;x
-b_el_arga_3;Ragul;;;;;;;;;;;;;x
-b_el_arga_4;El arga 4;;;;;;;;;;;;;x
-b_el_arga_5;El arga 5;;;;;;;;;;;;;x
-b_el_arga_6;El arga 6;;;;;;;;;;;;;x
-b_el_arga_7;El arga 7;;;;;;;;;;;;;x
-b_el_arga_8;El arga 8;;;;;;;;;;;;;x
-b_el_egor_1;El'egor;;;;;;;;;;;;;x
-b_el_egor_2;El egor 2;;;;;;;;;;;;;x
-b_el_egor_3;El egor 3;;;;;;;;;;;;;x
-b_el_egor_4;El egor 4;;;;;;;;;;;;;x
-b_el_egor_5;El egor 5;;;;;;;;;;;;;x
-b_el_egor_6;El egor 6;;;;;;;;;;;;;x
-b_el_egor_7;El egor 7;;;;;;;;;;;;;x
-b_el_egor_8;El egor 8;;;;;;;;;;;;;x
-b_el_ivani_1;El'ivani;;;;;;;;;;;;;x
-b_el_ivani_2;El ivani 2;;;;;;;;;;;;;x
-b_el_ivani_3;El ivani 3;;;;;;;;;;;;;x
-b_el_ivani_4;El ivani 4;;;;;;;;;;;;;x
-b_el_ivani_5;El ivani 5;;;;;;;;;;;;;x
-b_el_ivani_6;El ivani 6;;;;;;;;;;;;;x
-b_el_ivani_7;El ivani 7;;;;;;;;;;;;;x
-b_el_ivani_8;El ivani 8;;;;;;;;;;;;;x
-b_el_vha_1;El'vha;;;;;;;;;;;;;x
-b_el_vha_2;El'korma;;;;;;;;;;;;;x
-b_el_vha_3;Ilash;;;;;;;;;;;;;x
-b_el_vha_4;El vha 4;;;;;;;;;;;;;x
-b_el_vha_5;El vha 5;;;;;;;;;;;;;x
-b_el_vha_6;El vha 6;;;;;;;;;;;;;x
-b_el_vha_7;El vha 7;;;;;;;;;;;;;x
-b_el_vha_8;El vha 8;;;;;;;;;;;;;x
-b_elara_1;Caer Elara;;;;;;;;;;;;;x
-b_elara_2;Elara;;;;;;;;;;;;;x
-b_elara_3;Elara 3;;;;;;;;;;;;;x
-b_elara_4;Elara 4;;;;;;;;;;;;;x
-b_elara_5;Elara 5;;;;;;;;;;;;;x
-b_elara_6;Elara 6;;;;;;;;;;;;;x
-b_elara_7;Elara 7;;;;;;;;;;;;;x
-b_elara_8;Elara 8;;;;;;;;;;;;;x
-b_emnau_1;Caer Emnau;;;;;;;;;;;;;x
-b_emnau_2;Emnau;;;;;;;;;;;;;x
-b_emnau_3;Emnau 3;;;;;;;;;;;;;x
-b_emnau_4;Emnau 4;;;;;;;;;;;;;x
-b_emnau_5;Emnau 5;;;;;;;;;;;;;x
-b_emnau_6;Emnau 6;;;;;;;;;;;;;x
-b_emnau_7;Emnau 7;;;;;;;;;;;;;x
-b_emnau_8;Emnau 8;;;;;;;;;;;;;x
-b_es_hidha_1;Es'hidha;;;;;;;;;;;;;x
-b_es_hidha_2;Orai;;;;;;;;;;;;;x
-b_es_hidha_3;Es hidha 3;;;;;;;;;;;;;x
-b_es_hidha_4;Es hidha 4;;;;;;;;;;;;;x
-b_es_hidha_5;Es hidha 5;;;;;;;;;;;;;x
-b_es_hidha_6;Es hidha 6;;;;;;;;;;;;;x
-b_es_hidha_7;Es hidha 7;;;;;;;;;;;;;x
-b_es_hidha_8;Es hidha 8;;;;;;;;;;;;;x
-b_es_holi_1;Es'holi;;;;;;;;;;;;;x
-b_es_holi_2;Massun;;;;;;;;;;;;;x
-b_es_holi_3;Noriman;;;;;;;;;;;;;x
-b_es_holi_4;Vregal;;;;;;;;;;;;;x
-b_es_holi_5;Es holi 5;;;;;;;;;;;;;x
-b_es_holi_6;Es holi 6;;;;;;;;;;;;;x
-b_es_holi_7;Es holi 7;;;;;;;;;;;;;x
-b_es_holi_8;Es holi 8;;;;;;;;;;;;;x
-b_es_orakh_1;Es'orakh;;;;;;;;;;;;;x
-b_es_orakh_2;Es orakh 2;;;;;;;;;;;;;x
-b_es_orakh_3;Es orakh 3;;;;;;;;;;;;;x
-b_es_orakh_4;Es orakh 4;;;;;;;;;;;;;x
-b_es_orakh_5;Es orakh 5;;;;;;;;;;;;;x
-b_es_orakh_6;Es orakh 6;;;;;;;;;;;;;x
-b_es_orakh_7;Es orakh 7;;;;;;;;;;;;;x
-b_es_orakh_8;Es orakh 8;;;;;;;;;;;;;x
-b_evor_1;Evor;;;;;;;;;;;;;x
-b_evor_2;Evor 2;;;;;;;;;;;;;x
-b_evor_3;Evor 3;;;;;;;;;;;;;x
-b_evor_4;Evor 4;;;;;;;;;;;;;x
-b_evor_5;Evor 5;;;;;;;;;;;;;x
-b_evor_6;Evor 6;;;;;;;;;;;;;x
-b_evor_7;Evor 7;;;;;;;;;;;;;x
-b_evor_8;Evor 8;;;;;;;;;;;;;x
-b_faimon_1;Caer Faimon;;;;;;;;;;;;;x
-b_faimon_2;Faimon;;;;;;;;;;;;;x
-b_faimon_3;Regant;;;;;;;;;;;;;x
-b_faimon_4;Faimon 4;;;;;;;;;;;;;x
-b_faimon_5;Faimon 5;;;;;;;;;;;;;x
-b_faimon_6;Faimon 6;;;;;;;;;;;;;x
-b_faimon_7;Faimon 7;;;;;;;;;;;;;x
-b_faimon_8;Faimon 8;;;;;;;;;;;;;x
-b_farn_1;Farn;;;;;;;;;;;;;x
-b_farn_2;Farn 2;;;;;;;;;;;;;x
-b_farn_3;Farn 3;;;;;;;;;;;;;x
-b_farn_4;Farn 4;;;;;;;;;;;;;x
-b_farn_5;Farn 5;;;;;;;;;;;;;x
-b_farn_6;Farn 6;;;;;;;;;;;;;x
-b_farn_7;Farn 7;;;;;;;;;;;;;x
-b_farn_8;Farn 8;;;;;;;;;;;;;x
-b_feeves_1;Feeves;;;;;;;;;;;;;x
-b_feeves_2;Feeves 2;;;;;;;;;;;;;x
-b_feeves_3;Feeves 3;;;;;;;;;;;;;x
-b_feeves_4;Feeves 4;;;;;;;;;;;;;x
-b_feeves_5;Feeves 5;;;;;;;;;;;;;x
-b_feeves_6;Feeves 6;;;;;;;;;;;;;x
-b_feeves_7;Feeves 7;;;;;;;;;;;;;x
-b_feeves_8;Feeves 8;;;;;;;;;;;;;x
-b_feleidh_1;Feleidh;;;;;;;;;;;;;x
-b_feleidh_2;Feleidh 2;;;;;;;;;;;;;x
-b_feleidh_3;Feleidh 3;;;;;;;;;;;;;x
-b_feleidh_4;Feleidh 4;;;;;;;;;;;;;x
-b_feleidh_5;Feleidh 5;;;;;;;;;;;;;x
-b_feleidh_6;Feleidh 6;;;;;;;;;;;;;x
-b_feleidh_7;Feleidh 7;;;;;;;;;;;;;x
-b_feleidh_8;Feleidh 8;;;;;;;;;;;;;x
-b_fella_1;Caer Fella;;;;;;;;;;;;;x
-b_fella_2;Fella;;;;;;;;;;;;;x
-b_fella_3;Fella 3;;;;;;;;;;;;;x
-b_fella_4;Fella 4;;;;;;;;;;;;;x
-b_fella_5;Fella 5;;;;;;;;;;;;;x
-b_fella_6;Fella 6;;;;;;;;;;;;;x
-b_fella_7;Fella 7;;;;;;;;;;;;;x
-b_fella_8;Fella 8;;;;;;;;;;;;;x
-b_fen_1;Caer Fen;;;;;;;;;;;;;x
-b_fen_2;Fen;;;;;;;;;;;;;x
-b_fen_3;Fen 3;;;;;;;;;;;;;x
-b_fen_4;Fen 4;;;;;;;;;;;;;x
-b_fen_5;Fen 5;;;;;;;;;;;;;x
-b_fen_6;Fen 6;;;;;;;;;;;;;x
-b_fen_7;Fen 7;;;;;;;;;;;;;x
-b_fen_8;Fen 8;;;;;;;;;;;;;x
-b_ferena_1;Ferena;;;;;;;;;;;;;x
-b_ferena_2;Ferena 2;;;;;;;;;;;;;x
-b_ferena_3;Ferena 3;;;;;;;;;;;;;x
-b_ferena_4;Ferena 4;;;;;;;;;;;;;x
-b_ferena_5;Ferena 5;;;;;;;;;;;;;x
-b_ferena_6;Ferena 6;;;;;;;;;;;;;x
-b_ferena_7;Ferena 7;;;;;;;;;;;;;x
-b_ferena_8;Ferena 8;;;;;;;;;;;;;x
-b_finvarik_1;Caer Finvarik;;;;;;;;;;;;;x
-b_finvarik_2;Finvarik;;;;;;;;;;;;;x
-b_finvarik_3;Finvarik 3;;;;;;;;;;;;;x
-b_finvarik_4;Finvarik 4;;;;;;;;;;;;;x
-b_finvarik_5;Finvarik 5;;;;;;;;;;;;;x
-b_finvarik_6;Finvarik 6;;;;;;;;;;;;;x
-b_finvarik_7;Finvarik 7;;;;;;;;;;;;;x
-b_finvarik_8;Finvarik 8;;;;;;;;;;;;;x
-b_firina_1;Caer Firina;;;;;;;;;;;;;x
-b_firina_2;Firina;;;;;;;;;;;;;x
-b_firina_3;Firina 3;;;;;;;;;;;;;x
-b_firina_4;Firina 4;;;;;;;;;;;;;x
-b_firina_5;Firina 5;;;;;;;;;;;;;x
-b_firina_6;Firina 6;;;;;;;;;;;;;x
-b_firina_7;Firina 7;;;;;;;;;;;;;x
-b_firina_8;Firina 8;;;;;;;;;;;;;x
-b_gash_1;Gash;;;;;;;;;;;;;x
-b_gash_2;Gash 2;;;;;;;;;;;;;x
-b_gash_3;Gash 3;;;;;;;;;;;;;x
-b_gash_4;Gash 4;;;;;;;;;;;;;x
-b_gash_5;Gash 5;;;;;;;;;;;;;x
-b_gash_6;Gash 6;;;;;;;;;;;;;x
-b_gash_7;Gash 7;;;;;;;;;;;;;x
-b_gash_8;Gash 8;;;;;;;;;;;;;x
-b_ghia_1;Caer Ghia;;;;;;;;;;;;;x
-b_ghia_2;Thia;;;;;;;;;;;;;x
-b_ghia_3;Ghia;;;;;;;;;;;;;x
-b_ghia_4;Ghia 4;;;;;;;;;;;;;x
-b_ghia_5;Ghia 5;;;;;;;;;;;;;x
-b_ghia_6;Ghia 6;;;;;;;;;;;;;x
-b_ghia_7;Ghia 7;;;;;;;;;;;;;x
-b_ghia_8;Ghia 8;;;;;;;;;;;;;x
-b_grikentulw_1;Caer Grikentulw;;;;;;;;;;;;;x
-b_grikentulw_2;Grikentulw;;;;;;;;;;;;;x
-b_grikentulw_3;Grikentulw 3;;;;;;;;;;;;;x
-b_grikentulw_4;Grikentulw 4;;;;;;;;;;;;;x
-b_grikentulw_5;Grikentulw 5;;;;;;;;;;;;;x
-b_grikentulw_6;Grikentulw 6;;;;;;;;;;;;;x
-b_grikentulw_7;Grikentulw 7;;;;;;;;;;;;;x
-b_grikentulw_8;Grikentulw 8;;;;;;;;;;;;;x
-b_grond_1;Grond;;;;;;;;;;;;;x
-b_grond_2;Grond 2;;;;;;;;;;;;;x
-b_grond_3;Grond 3;;;;;;;;;;;;;x
-b_grond_4;Grond 4;;;;;;;;;;;;;x
-b_grond_5;Grond 5;;;;;;;;;;;;;x
-b_grond_6;Grond 6;;;;;;;;;;;;;x
-b_grond_7;Grond 7;;;;;;;;;;;;;x
-b_grond_8;Grond 8;;;;;;;;;;;;;x
-b_herika_1;Caer Herika;;;;;;;;;;;;;x
-b_herika_2;Herika;;;;;;;;;;;;;x
-b_herika_3;Herika 3;;;;;;;;;;;;;x
-b_herika_4;Herika 4;;;;;;;;;;;;;x
-b_herika_5;Herika 5;;;;;;;;;;;;;x
-b_herika_6;Herika 6;;;;;;;;;;;;;x
-b_herika_7;Herika 7;;;;;;;;;;;;;x
-b_herika_8;Herika 8;;;;;;;;;;;;;x
-b_hesne_1;Caer Hesne;;;;;;;;;;;;;x
-b_hesne_2;Cladell;;;;;;;;;;;;;x
-b_hesne_3;Hesne;;;;;;;;;;;;;x
-b_hesne_4;Hesne 4;;;;;;;;;;;;;x
-b_hesne_5;Hesne 5;;;;;;;;;;;;;x
-b_hesne_6;Hesne 6;;;;;;;;;;;;;x
-b_hesne_7;Hesne 7;;;;;;;;;;;;;x
-b_hesne_8;Hesne 8;;;;;;;;;;;;;x
-b_ifdel_1;Ifdel;;;;;;;;;;;;;x
-b_ifdel_2;Vexial;;;;;;;;;;;;;x
-b_ifdel_3;Ifdel 3;;;;;;;;;;;;;x
-b_ifdel_4;Ifdel 4;;;;;;;;;;;;;x
-b_ifdel_5;Ifdel 5;;;;;;;;;;;;;x
-b_ifdel_6;Ifdel 6;;;;;;;;;;;;;x
-b_ifdel_7;Ifdel 7;;;;;;;;;;;;;x
-b_ifdel_8;Ifdel 8;;;;;;;;;;;;;x
-b_ifkhor_1;Ifkhor;;;;;;;;;;;;;x
-b_ifkhor_2;Ifkhor 2;;;;;;;;;;;;;x
-b_ifkhor_3;Ifkhor 3;;;;;;;;;;;;;x
-b_ifkhor_4;Ifkhor 4;;;;;;;;;;;;;x
-b_ifkhor_5;Ifkhor 5;;;;;;;;;;;;;x
-b_ifkhor_6;Ifkhor 6;;;;;;;;;;;;;x
-b_ifkhor_7;Ifkhor 7;;;;;;;;;;;;;x
-b_ifkhor_8;Ifkhor 8;;;;;;;;;;;;;x
-b_ikamur_1;Ikamur;;;;;;;;;;;;;x
-b_ikamur_2;Ikamur 2;;;;;;;;;;;;;x
-b_ikamur_3;Ikamur 3;;;;;;;;;;;;;x
-b_ikamur_4;Ikamur 4;;;;;;;;;;;;;x
-b_ikamur_5;Ikamur 5;;;;;;;;;;;;;x
-b_ikamur_6;Ikamur 6;;;;;;;;;;;;;x
-b_ikamur_7;Ikamur 7;;;;;;;;;;;;;x
-b_ikamur_8;Ikamur 8;;;;;;;;;;;;;x
-b_ikham_1;Ikham-Renk-Ghor;;;;;;;;;;;;;x
-b_ikham_2;Ikham 2;;;;;;;;;;;;;x
-b_ikham_3;Ikham 3;;;;;;;;;;;;;x
-b_ikham_4;Ikham 4;;;;;;;;;;;;;x
-b_ikham_5;Ikham 5;;;;;;;;;;;;;x
-b_ikham_6;Ikham 6;;;;;;;;;;;;;x
-b_ikham_7;Ikham 7;;;;;;;;;;;;;x
-b_ikham_8;Ikham 8;;;;;;;;;;;;;x
-b_ikrem_1;Ikrem 1;;;;;;;;;;;;;x
-b_ikrem_2;Ikrem 2;;;;;;;;;;;;;x
-b_ikrem_3;Ikrem 3;;;;;;;;;;;;;x
-b_ikrem_4;Ikrem 4;;;;;;;;;;;;;x
-b_ikrem_5;Ikrem 5;;;;;;;;;;;;;x
-b_ikrem_6;Ikrem 6;;;;;;;;;;;;;x
-b_ikrem_7;Ikrem 7;;;;;;;;;;;;;x
-b_ikrem_8;Ikrem 8;;;;;;;;;;;;;x
-b_ilaella_1;Ilaella;;;;;;;;;;;;;x
-b_ilaella_2;Ilaella 2;;;;;;;;;;;;;x
-b_ilaella_3;Ilaella 3;;;;;;;;;;;;;x
-b_ilaella_4;Ilaella 4;;;;;;;;;;;;;x
-b_ilaella_5;Ilaella 5;;;;;;;;;;;;;x
-b_ilaella_6;Ilaella 6;;;;;;;;;;;;;x
-b_ilaella_7;Ilaella 7;;;;;;;;;;;;;x
-b_ilaella_8;Ilaella 8;;;;;;;;;;;;;x
-b_ilaidh_1;Ilaidh;;;;;;;;;;;;;x
-b_ilaidh_2;Ilaidh 2;;;;;;;;;;;;;x
-b_ilaidh_3;Ilaidh 3;;;;;;;;;;;;;x
-b_ilaidh_4;Ilaidh 4;;;;;;;;;;;;;x
-b_ilaidh_5;Ilaidh 5;;;;;;;;;;;;;x
-b_ilaidh_6;Ilaidh 6;;;;;;;;;;;;;x
-b_ilaidh_7;Ilaidh 7;;;;;;;;;;;;;x
-b_ilaidh_8;Ilaidh 8;;;;;;;;;;;;;x
-b_im_moran_1;Im'moran;;;;;;;;;;;;;x
-b_im_moran_2;Im moran 2;;;;;;;;;;;;;x
-b_im_moran_3;Im moran 3;;;;;;;;;;;;;x
-b_im_moran_4;Im moran 4;;;;;;;;;;;;;x
-b_im_moran_5;Im moran 5;;;;;;;;;;;;;x
-b_im_moran_6;Im moran 6;;;;;;;;;;;;;x
-b_im_moran_7;Im moran 7;;;;;;;;;;;;;x
-b_im_moran_8;Im moran 8;;;;;;;;;;;;;x
-b_intouk_1;Caer Intouk;;;;;;;;;;;;;x
-b_intouk_2;Intouk;;;;;;;;;;;;;x
-b_intouk_3;Cidh;;;;;;;;;;;;;x
-b_intouk_4;Intouk 4;;;;;;;;;;;;;x
-b_intouk_5;Intouk 5;;;;;;;;;;;;;x
-b_intouk_6;Intouk 6;;;;;;;;;;;;;x
-b_intouk_7;Intouk 7;;;;;;;;;;;;;x
-b_intouk_8;Intouk 8;;;;;;;;;;;;;x
-b_ireda_1;Ireda;;;;;;;;;;;;;x
-b_ireda_2;Jamri;;;;;;;;;;;;;x
-b_ireda_3;Ireda 3;;;;;;;;;;;;;x
-b_ireda_4;Ireda 4;;;;;;;;;;;;;x
-b_ireda_5;Ireda 5;;;;;;;;;;;;;x
-b_ireda_6;Ireda 6;;;;;;;;;;;;;x
-b_ireda_7;Ireda 7;;;;;;;;;;;;;x
-b_ireda_8;Ireda 8;;;;;;;;;;;;;x
-b_ivani_1_1;Ivani 1 1;;;;;;;;;;;;;x
-b_ivani_1_2;Ivani 1 2;;;;;;;;;;;;;x
-b_ivani_1_3;Ivani 1 3;;;;;;;;;;;;;x
-b_ivani_1_4;Ivani 1 4;;;;;;;;;;;;;x
-b_ivani_1_5;Ivani 1 5;;;;;;;;;;;;;x
-b_ivani_1_6;Ivani 1 6;;;;;;;;;;;;;x
-b_ivani_1_7;Ivani 1 7;;;;;;;;;;;;;x
-b_ivani_1_8;Ivani 1 8;;;;;;;;;;;;;x
-b_ivida_1;Ivida;;;;;;;;;;;;;x
-b_ivida_2;Iagal;;;;;;;;;;;;;x
-b_ivida_3;Ivida 3;;;;;;;;;;;;;x
-b_ivida_4;Ivida 4;;;;;;;;;;;;;x
-b_ivida_5;Ivida 5;;;;;;;;;;;;;x
-b_ivida_6;Ivida 6;;;;;;;;;;;;;x
-b_ivida_7;Ivida 7;;;;;;;;;;;;;x
-b_ivida_8;Ivida 8;;;;;;;;;;;;;x
-b_jaimon_1;Caer Jaimon;;;;;;;;;;;;;x
-b_jaimon_2;Ebréan;;;;;;;;;;;;;x
-b_jaimon_3;Jaimon;;;;;;;;;;;;;x
-b_jaimon_4;Jaimon 4;;;;;;;;;;;;;x
-b_jaimon_5;Jaimon 5;;;;;;;;;;;;;x
-b_jaimon_6;Jaimon 6;;;;;;;;;;;;;x
-b_jaimon_7;Jaimon 7;;;;;;;;;;;;;x
-b_jaimon_8;Jaimon 8;;;;;;;;;;;;;x
-b_jamal_1;Jamal;;;;;;;;;;;;;x
-b_jamal_2;Jamal 2;;;;;;;;;;;;;x
-b_jamal_3;Jamal 3;;;;;;;;;;;;;x
-b_jamal_4;Jamal 4;;;;;;;;;;;;;x
-b_jamal_5;Jamal 5;;;;;;;;;;;;;x
-b_jamal_6;Jamal 6;;;;;;;;;;;;;x
-b_jamal_7;Jamal 7;;;;;;;;;;;;;x
-b_jamal_8;Jamal 8;;;;;;;;;;;;;x
-b_jamur_1;Jamur;;;;;;;;;;;;;x
-b_jamur_2;Kasmodiah;;;;;;;;;;;;;x
-b_jamur_3;Jamur 3;;;;;;;;;;;;;x
-b_jamur_4;Jamur 4;;;;;;;;;;;;;x
-b_jamur_5;Jamur 5;;;;;;;;;;;;;x
-b_jamur_6;Jamur 6;;;;;;;;;;;;;x
-b_jamur_7;Jamur 7;;;;;;;;;;;;;x
-b_jamur_8;Jamur 8;;;;;;;;;;;;;x
-b_kardor_1;Caer Kardor;;;;;;;;;;;;;x
-b_kardor_2;Kardor;;;;;;;;;;;;;x
-b_kardor_3;Kardor 3;;;;;;;;;;;;;x
-b_kardor_4;Kardor 4;;;;;;;;;;;;;x
-b_kardor_5;Kardor 5;;;;;;;;;;;;;x
-b_kardor_6;Kardor 6;;;;;;;;;;;;;x
-b_kardor_7;Kardor 7;;;;;;;;;;;;;x
-b_kardor_8;Kardor 8;;;;;;;;;;;;;x
-b_karnag_1;Caer Karnag;;;;;;;;;;;;;x
-b_karnag_2;Karnag 2;;;;;;;;;;;;;x
-b_karnag_3;Karnag 3;;;;;;;;;;;;;x
-b_karnag_4;Karnag 4;;;;;;;;;;;;;x
-b_karnag_5;Karnag 5;;;;;;;;;;;;;x
-b_karnag_6;Karnag 6;;;;;;;;;;;;;x
-b_karnag_7;Karnag 7;;;;;;;;;;;;;x
-b_karnag_8;Karnag 8;;;;;;;;;;;;;x
-b_khal_1;Khal;;;;;;;;;;;;;x
-b_khal_2;Bhene;;;;;;;;;;;;;x
-b_khal_3;Khal 3;;;;;;;;;;;;;x
-b_khal_4;Khal 4;;;;;;;;;;;;;x
-b_khal_5;Khal 5;;;;;;;;;;;;;x
-b_khal_6;Khal 6;;;;;;;;;;;;;x
-b_khal_7;Khal 7;;;;;;;;;;;;;x
-b_khal_8;Khal 8;;;;;;;;;;;;;x
-b_kharath_1;Kharath;;;;;;;;;;;;;x
-b_kharath_2;Jami;;;;;;;;;;;;;x
-b_kharath_3;Kharath 3;;;;;;;;;;;;;x
-b_kharath_4;Kharath 4;;;;;;;;;;;;;x
-b_kharath_5;Kharath 5;;;;;;;;;;;;;x
-b_kharath_6;Kharath 6;;;;;;;;;;;;;x
-b_kharath_7;Kharath 7;;;;;;;;;;;;;x
-b_kharath_8;Kharath 8;;;;;;;;;;;;;x
-b_khla_1;Khla;;;;;;;;;;;;;x
-b_khla_2;Khla 2;;;;;;;;;;;;;x
-b_khla_3;Khla 3;;;;;;;;;;;;;x
-b_khla_4;Khla 4;;;;;;;;;;;;;x
-b_khla_5;Khla 5;;;;;;;;;;;;;x
-b_khla_6;Khla 6;;;;;;;;;;;;;x
-b_khla_7;Khla 7;;;;;;;;;;;;;x
-b_khla_8;Khla 8;;;;;;;;;;;;;x
-b_kholon_1;Kholon-Renk-Ghor-Drezin;;;;;;;;;;;;;x
-b_kholon_2;Kholon 2;;;;;;;;;;;;;x
-b_kholon_3;Kholon 3;;;;;;;;;;;;;x
-b_kholon_4;Kholon 4;;;;;;;;;;;;;x
-b_kholon_5;Kholon 5;;;;;;;;;;;;;x
-b_kholon_6;Kholon 6;;;;;;;;;;;;;x
-b_kholon_7;Kholon 7;;;;;;;;;;;;;x
-b_kholon_8;Kholon 8;;;;;;;;;;;;;x
-b_khorai_1;Khorai;;;;;;;;;;;;;x
-b_khorai_2;Khorai 2;;;;;;;;;;;;;x
-b_khorai_3;Khorai 3;;;;;;;;;;;;;x
-b_khorai_4;Khorai 4;;;;;;;;;;;;;x
-b_khorai_5;Khorai 5;;;;;;;;;;;;;x
-b_khorai_6;Khorai 6;;;;;;;;;;;;;x
-b_khorai_7;Khorai 7;;;;;;;;;;;;;x
-b_khorai_8;Khorai 8;;;;;;;;;;;;;x
-b_khovsosh_1;Khovsosh;;;;;;;;;;;;;x
-b_khovsosh_2;Ivaera;;;;;;;;;;;;;x
-b_khovsosh_3;Khovsosh 3;;;;;;;;;;;;;x
-b_khovsosh_4;Khovsosh 4;;;;;;;;;;;;;x
-b_khovsosh_5;Khovsosh 5;;;;;;;;;;;;;x
-b_khovsosh_6;Khovsosh 6;;;;;;;;;;;;;x
-b_khovsosh_7;Khovsosh 7;;;;;;;;;;;;;x
-b_khovsosh_8;Khovsosh 8;;;;;;;;;;;;;x
-b_kininae_an_oro_1;Kininaé'an oro;;;;;;;;;;;;;x
-b_kininae_an_oro_2;Kininae an oro 2;;;;;;;;;;;;;x
-b_kininae_an_oro_3;Kininae an oro 3;;;;;;;;;;;;;x
-b_kininae_an_oro_4;Kininae an oro 4;;;;;;;;;;;;;x
-b_kininae_an_oro_5;Kininae an oro 5;;;;;;;;;;;;;x
-b_kininae_an_oro_6;Kininae an oro 6;;;;;;;;;;;;;x
-b_kininae_an_oro_7;Kininae an oro 7;;;;;;;;;;;;;x
-b_kininae_an_oro_8;Kininae an oro 8;;;;;;;;;;;;;x
-b_kinyen_sina_1;Kinyen Sina;;;;;;;;;;;;;x
-b_kinyen_sina_2;Kinyen sina 2;;;;;;;;;;;;;x
-b_kinyen_sina_3;Kinyen sina 3;;;;;;;;;;;;;x
-b_kinyen_sina_4;Kinyen sina 4;;;;;;;;;;;;;x
-b_kinyen_sina_5;Kinyen sina 5;;;;;;;;;;;;;x
-b_kinyen_sina_6;Kinyen sina 6;;;;;;;;;;;;;x
-b_kinyen_sina_7;Kinyen sina 7;;;;;;;;;;;;;x
-b_kinyen_sina_8;Kinyen sina 8;;;;;;;;;;;;;x
-b_lareigh_1;Caer Lareigh;;;;;;;;;;;;;x
-b_lareigh_2;Lareigh;;;;;;;;;;;;;x
-b_lareigh_3;Lareigh 3;;;;;;;;;;;;;x
-b_lareigh_4;Lareigh 4;;;;;;;;;;;;;x
-b_lareigh_5;Lareigh 5;;;;;;;;;;;;;x
-b_lareigh_6;Lareigh 6;;;;;;;;;;;;;x
-b_lareigh_7;Lareigh 7;;;;;;;;;;;;;x
-b_lareigh_8;Lareigh 8;;;;;;;;;;;;;x
-b_leth_1;Leth;;;;;;;;;;;;;x
-b_leth_2;Morbiva;;;;;;;;;;;;;x
-b_leth_3;Kharmadar;;;;;;;;;;;;;x
-b_leth_4;Leth 4;;;;;;;;;;;;;x
-b_leth_5;Leth 5;;;;;;;;;;;;;x
-b_leth_6;Leth 6;;;;;;;;;;;;;x
-b_leth_7;Leth 7;;;;;;;;;;;;;x
-b_leth_8;Leth 8;;;;;;;;;;;;;x
-b_lewain_1;Lewain;;;;;;;;;;;;;x
-b_lewain_2;Lewain 2;;;;;;;;;;;;;x
-b_lewain_3;Lewain 3;;;;;;;;;;;;;x
-b_lewain_4;Lewain 4;;;;;;;;;;;;;x
-b_lewain_5;Lewain 5;;;;;;;;;;;;;x
-b_lewain_6;Lewain 6;;;;;;;;;;;;;x
-b_lewain_7;Lewain 7;;;;;;;;;;;;;x
-b_lewain_8;Lewain 8;;;;;;;;;;;;;x
-b_lhavala_1;Lhavala;;;;;;;;;;;;;x
-b_lhavala_2;Lhavala 2;;;;;;;;;;;;;x
-b_lhavala_3;Lhavala 3;;;;;;;;;;;;;x
-b_lhavala_4;Lhavala 4;;;;;;;;;;;;;x
-b_lhavala_5;Lhavala 5;;;;;;;;;;;;;x
-b_lhavala_6;Lhavala 6;;;;;;;;;;;;;x
-b_lhavala_7;Lhavala 7;;;;;;;;;;;;;x
-b_lhavala_8;Lhavala 8;;;;;;;;;;;;;x
-b_marnoc_1;Caer Marnoc;;;;;;;;;;;;;x
-b_marnoc_2;Marnoc;;;;;;;;;;;;;x
-b_marnoc_3;Marnoc 3;;;;;;;;;;;;;x
-b_marnoc_4;Marnoc 4;;;;;;;;;;;;;x
-b_marnoc_5;Marnoc 5;;;;;;;;;;;;;x
-b_marnoc_6;Marnoc 6;;;;;;;;;;;;;x
-b_marnoc_7;Marnoc 7;;;;;;;;;;;;;x
-b_marnoc_8;Marnoc 8;;;;;;;;;;;;;x
-b_mashoro_1;Mashoro;;;;;;;;;;;;;x
-b_mashoro_2;Khoro;;;;;;;;;;;;;x
-b_mashoro_3;Mashoro 3;;;;;;;;;;;;;x
-b_mashoro_4;Mashoro 4;;;;;;;;;;;;;x
-b_mashoro_5;Mashoro 5;;;;;;;;;;;;;x
-b_mashoro_6;Mashoro 6;;;;;;;;;;;;;x
-b_mashoro_7;Mashoro 7;;;;;;;;;;;;;x
-b_mashoro_8;Mashoro 8;;;;;;;;;;;;;x
-b_mater_1;Caer Mater;;;;;;;;;;;;;x
-b_mater_2;Mater 2;;;;;;;;;;;;;x
-b_mater_3;Mater 3;;;;;;;;;;;;;x
-b_mater_4;Mater 4;;;;;;;;;;;;;x
-b_mater_5;Mater 5;;;;;;;;;;;;;x
-b_mater_6;Mater 6;;;;;;;;;;;;;x
-b_mater_7;Mater 7;;;;;;;;;;;;;x
-b_mater_8;Mater 8;;;;;;;;;;;;;x
-b_meredith_1;Caer Meredith;;;;;;;;;;;;;x
-b_meredith_2;Meredith 2;;;;;;;;;;;;;x
-b_meredith_3;Meredith 3;;;;;;;;;;;;;x
-b_meredith_4;Meredith 4;;;;;;;;;;;;;x
-b_meredith_5;Meredith 5;;;;;;;;;;;;;x
-b_meredith_6;Meredith 6;;;;;;;;;;;;;x
-b_meredith_7;Meredith 7;;;;;;;;;;;;;x
-b_meredith_8;Meredith 8;;;;;;;;;;;;;x
-b_minder_1;Minder;;;;;;;;;;;;;x
-b_minder_2;Minder 2;;;;;;;;;;;;;x
-b_minder_3;Minder 3;;;;;;;;;;;;;x
-b_minder_4;Minder 4;;;;;;;;;;;;;x
-b_minder_5;Minder 5;;;;;;;;;;;;;x
-b_minder_6;Minder 6;;;;;;;;;;;;;x
-b_minder_7;Minder 7;;;;;;;;;;;;;x
-b_minder_8;Minder 8;;;;;;;;;;;;;x
-b_miria_1;Caer Miria;;;;;;;;;;;;;x
-b_miria_2;Miria;;;;;;;;;;;;;x
-b_miria_3;Miria 3;;;;;;;;;;;;;x
-b_miria_4;Miria 4;;;;;;;;;;;;;x
-b_miria_5;Miria 5;;;;;;;;;;;;;x
-b_miria_6;Miria 6;;;;;;;;;;;;;x
-b_miria_7;Miria 7;;;;;;;;;;;;;x
-b_miria_8;Miria 8;;;;;;;;;;;;;x
-b_mulaigh_1;Mùlaigh 1;;;;;;;;;;;;;x
-b_mulaigh_2;Mùlaigh 2;;;;;;;;;;;;;x
-b_mulaigh_3;Mùlaigh 3;;;;;;;;;;;;;x
-b_mulaigh_4;Mùlaigh 4;;;;;;;;;;;;;x
-b_mulaigh_5;Mùlaigh 5;;;;;;;;;;;;;x
-b_mulaigh_6;Mùlaigh 6;;;;;;;;;;;;;x
-b_mulaigh_7;Mùlaigh 7;;;;;;;;;;;;;x
-b_mulaigh_8;Mùlaigh 8;;;;;;;;;;;;;x
-b_myndar_1;Caer Myndar;;;;;;;;;;;;;x
-b_myndar_2;Myndar;;;;;;;;;;;;;x
-b_myndar_3;Myndar 3;;;;;;;;;;;;;x
-b_myndar_4;Myndar 4;;;;;;;;;;;;;x
-b_myndar_5;Myndar 5;;;;;;;;;;;;;x
-b_myndar_6;Myndar 6;;;;;;;;;;;;;x
-b_myndar_7;Myndar 7;;;;;;;;;;;;;x
-b_myndar_8;Myndar 8;;;;;;;;;;;;;x
-b_nana_1;Caer Nana;;;;;;;;;;;;;x
-b_nana_2;Nana;;;;;;;;;;;;;x
-b_nana_3;Nana 3;;;;;;;;;;;;;x
-b_nana_4;Nana 4;;;;;;;;;;;;;x
-b_nana_5;Nana 5;;;;;;;;;;;;;x
-b_nana_6;Nana 6;;;;;;;;;;;;;x
-b_nana_7;Nana 7;;;;;;;;;;;;;x
-b_nana_8;Nana 8;;;;;;;;;;;;;x
-b_narekh_1;Narekh-Renk-Ghor;;;;;;;;;;;;;x
-b_narekh_2;Narekh 2;;;;;;;;;;;;;x
-b_narekh_3;Narekh 3;;;;;;;;;;;;;x
-b_narekh_4;Narekh 4;;;;;;;;;;;;;x
-b_narekh_5;Narekh 5;;;;;;;;;;;;;x
-b_narekh_6;Narekh 6;;;;;;;;;;;;;x
-b_narekh_7;Narekh 7;;;;;;;;;;;;;x
-b_narekh_8;Narekh 8;;;;;;;;;;;;;x
-b_negaidh_1;Caer Negaidh;;;;;;;;;;;;;x
-b_negaidh_2;Negaidh;;;;;;;;;;;;;x
-b_negaidh_3;Mela;;;;;;;;;;;;;x
-b_negaidh_4;Negaidh 4;;;;;;;;;;;;;x
-b_negaidh_5;Negaidh 5;;;;;;;;;;;;;x
-b_negaidh_6;Negaidh 6;;;;;;;;;;;;;x
-b_negaidh_7;Negaidh 7;;;;;;;;;;;;;x
-b_negaidh_8;Negaidh 8;;;;;;;;;;;;;x
-b_negann_1;Caer Negann;;;;;;;;;;;;;x
-b_negann_2;Negann;;;;;;;;;;;;;x
-b_negann_3;Negann 3;;;;;;;;;;;;;x
-b_negann_4;Negann 4;;;;;;;;;;;;;x
-b_negann_5;Negann 5;;;;;;;;;;;;;x
-b_negann_6;Negann 6;;;;;;;;;;;;;x
-b_negann_7;Negann 7;;;;;;;;;;;;;x
-b_negann_8;Negann 8;;;;;;;;;;;;;x
-b_nelly_1;Caer Nelly;;;;;;;;;;;;;x
-b_nelly_2;Nelly;;;;;;;;;;;;;x
-b_nelly_3;Nelly 3;;;;;;;;;;;;;x
-b_nelly_4;Nelly 4;;;;;;;;;;;;;x
-b_nelly_5;Nelly 5;;;;;;;;;;;;;x
-b_nelly_6;Nelly 6;;;;;;;;;;;;;x
-b_nelly_7;Nelly 7;;;;;;;;;;;;;x
-b_nelly_8;Nelly 8;;;;;;;;;;;;;x
-b_nensema_1;Caer Nensema;;;;;;;;;;;;;x
-b_nensema_2;Nensema;;;;;;;;;;;;;x
-b_nensema_3;Nann;;;;;;;;;;;;;x
-b_nensema_4;Nensema 4;;;;;;;;;;;;;x
-b_nensema_5;Nensema 5;;;;;;;;;;;;;x
-b_nensema_6;Nensema 6;;;;;;;;;;;;;x
-b_nensema_7;Nensema 7;;;;;;;;;;;;;x
-b_nensema_8;Nensema 8;;;;;;;;;;;;;x
-b_oldell_1;Caer Oldell;;;;;;;;;;;;;x
-b_oldell_2;Oldell;;;;;;;;;;;;;x
-b_oldell_3;Oldell 3;;;;;;;;;;;;;x
-b_oldell_4;Oldell 4;;;;;;;;;;;;;x
-b_oldell_5;Oldell 5;;;;;;;;;;;;;x
-b_oldell_6;Oldell 6;;;;;;;;;;;;;x
-b_oldell_7;Oldell 7;;;;;;;;;;;;;x
-b_oldell_8;Oldell 8;;;;;;;;;;;;;x
-b_ornia_1;Caer Ornia;;;;;;;;;;;;;x
-b_ornia_2;Ornia;;;;;;;;;;;;;x
-b_ornia_3;Ornia 3;;;;;;;;;;;;;x
-b_ornia_4;Ornia 4;;;;;;;;;;;;;x
-b_ornia_5;Ornia 5;;;;;;;;;;;;;x
-b_ornia_6;Ornia 6;;;;;;;;;;;;;x
-b_ornia_7;Ornia 7;;;;;;;;;;;;;x
-b_ornia_8;Ornia 8;;;;;;;;;;;;;x
-b_owaidh_1;Owaidh;;;;;;;;;;;;;x
-b_owaidh_2;Owaidh 2;;;;;;;;;;;;;x
-b_owaidh_3;Owaidh 3;;;;;;;;;;;;;x
-b_owaidh_4;Owaidh 4;;;;;;;;;;;;;x
-b_owaidh_5;Owaidh 5;;;;;;;;;;;;;x
-b_owaidh_6;Owaidh 6;;;;;;;;;;;;;x
-b_owaidh_7;Owaidh 7;;;;;;;;;;;;;x
-b_owaidh_8;Owaidh 8;;;;;;;;;;;;;x
-b_parash_1;Parash;;;;;;;;;;;;;x
-b_parash_2;Parash 2;;;;;;;;;;;;;x
-b_parash_3;Parash 3;;;;;;;;;;;;;x
-b_parash_4;Parash 4;;;;;;;;;;;;;x
-b_parash_5;Parash 5;;;;;;;;;;;;;x
-b_parash_6;Parash 6;;;;;;;;;;;;;x
-b_parash_7;Parash 7;;;;;;;;;;;;;x
-b_parash_8;Parash 8;;;;;;;;;;;;;x
-b_per_1;Per;;;;;;;;;;;;;x
-b_per_2;Avin-Vheger;;;;;;;;;;;;;x
-b_per_3;Per 3;;;;;;;;;;;;;x
-b_per_4;Per 4;;;;;;;;;;;;;x
-b_per_5;Per 5;;;;;;;;;;;;;x
-b_per_6;Per 6;;;;;;;;;;;;;x
-b_per_7;Per 7;;;;;;;;;;;;;x
-b_per_8;Per 8;;;;;;;;;;;;;x
-b_perina_1;Perina;;;;;;;;;;;;;x
-b_perina_2;Perina 2;;;;;;;;;;;;;x
-b_perina_3;Perina 3;;;;;;;;;;;;;x
-b_perina_4;Perina 4;;;;;;;;;;;;;x
-b_perina_5;Perina 5;;;;;;;;;;;;;x
-b_perina_6;Perina 6;;;;;;;;;;;;;x
-b_perina_7;Perina 7;;;;;;;;;;;;;x
-b_perina_8;Perina 8;;;;;;;;;;;;;x
-b_pher_1;Pher;;;;;;;;;;;;;x
-b_pher_2;Salana;;;;;;;;;;;;;x
-b_pher_3;Pher 3;;;;;;;;;;;;;x
-b_pher_4;Pher 4;;;;;;;;;;;;;x
-b_pher_5;Pher 5;;;;;;;;;;;;;x
-b_pher_6;Pher 6;;;;;;;;;;;;;x
-b_pher_7;Pher 7;;;;;;;;;;;;;x
-b_pher_8;Pher 8;;;;;;;;;;;;;x
-b_picarel_1;Caer Picarel;;;;;;;;;;;;;x
-b_picarel_2;Picarel;;;;;;;;;;;;;x
-b_picarel_3;Picarel 3;;;;;;;;;;;;;x
-b_picarel_4;Picarel 4;;;;;;;;;;;;;x
-b_picarel_5;Picarel 5;;;;;;;;;;;;;x
-b_picarel_6;Picarel 6;;;;;;;;;;;;;x
-b_picarel_7;Picarel 7;;;;;;;;;;;;;x
-b_picarel_8;Picarel 8;;;;;;;;;;;;;x
-b_polon_1;Polon;;;;;;;;;;;;;x
-b_polon_2;Polon 2;;;;;;;;;;;;;x
-b_polon_3;Polon 3;;;;;;;;;;;;;x
-b_polon_4;Polon 4;;;;;;;;;;;;;x
-b_polon_5;Polon 5;;;;;;;;;;;;;x
-b_polon_6;Polon 6;;;;;;;;;;;;;x
-b_polon_7;Polon 7;;;;;;;;;;;;;x
-b_polon_8;Polon 8;;;;;;;;;;;;;x
-b_qara_1;Qara;;;;;;;;;;;;;x
-b_qara_2;Peraga;;;;;;;;;;;;;x
-b_qara_3;Qara 3;;;;;;;;;;;;;x
-b_qara_4;Qara 4;;;;;;;;;;;;;x
-b_qara_5;Qara 5;;;;;;;;;;;;;x
-b_qara_6;Qara 6;;;;;;;;;;;;;x
-b_qara_7;Qara 7;;;;;;;;;;;;;x
-b_qara_8;Qara 8;;;;;;;;;;;;;x
-b_qarom_1;Qarom;;;;;;;;;;;;;x
-b_qarom_2;Qarom 2;;;;;;;;;;;;;x
-b_qarom_3;Qarom 3;;;;;;;;;;;;;x
-b_qarom_4;Qarom 4;;;;;;;;;;;;;x
-b_qarom_5;Qarom 5;;;;;;;;;;;;;x
-b_qarom_6;Qarom 6;;;;;;;;;;;;;x
-b_qarom_7;Qarom 7;;;;;;;;;;;;;x
-b_qarom_8;Qarom 8;;;;;;;;;;;;;x
-b_qatada_1;Qatada;;;;;;;;;;;;;x
-b_qatada_2;Qatada 2;;;;;;;;;;;;;x
-b_qatada_3;Qatada 3;;;;;;;;;;;;;x
-b_qatada_4;Qatada 4;;;;;;;;;;;;;x
-b_qatada_5;Qatada 5;;;;;;;;;;;;;x
-b_qatada_6;Qatada 6;;;;;;;;;;;;;x
-b_qatada_7;Qatada 7;;;;;;;;;;;;;x
-b_qatada_8;Qatada 8;;;;;;;;;;;;;x
-b_qatha_1;Qatha;;;;;;;;;;;;;x
-b_qatha_2;Qatha 2;;;;;;;;;;;;;x
-b_qatha_3;Qatha 3;;;;;;;;;;;;;x
-b_qatha_4;Qatha 4;;;;;;;;;;;;;x
-b_qatha_5;Qatha 5;;;;;;;;;;;;;x
-b_qatha_6;Qatha 6;;;;;;;;;;;;;x
-b_qatha_7;Qatha 7;;;;;;;;;;;;;x
-b_qatha_8;Qatha 8;;;;;;;;;;;;;x
-b_ramnesney_1;Caer Ramnesney;;;;;;;;;;;;;x
-b_ramnesney_2;Ramnesney;;;;;;;;;;;;;x
-b_ramnesney_3;Laer;;;;;;;;;;;;;x
-b_ramnesney_4;Ramnesney 4;;;;;;;;;;;;;x
-b_ramnesney_5;Ramnesney 5;;;;;;;;;;;;;x
-b_ramnesney_6;Ramnesney 6;;;;;;;;;;;;;x
-b_ramnesney_7;Ramnesney 7;;;;;;;;;;;;;x
-b_ramnesney_8;Ramnesney 8;;;;;;;;;;;;;x
-b_rebenn_1;Caer Rebenn;;;;;;;;;;;;;x
-b_rebenn_2;Rebenn;;;;;;;;;;;;;x
-b_rebenn_3;Rebenn 3;;;;;;;;;;;;;x
-b_rebenn_4;Rebenn 4;;;;;;;;;;;;;x
-b_rebenn_5;Rebenn 5;;;;;;;;;;;;;x
-b_rebenn_6;Rebenn 6;;;;;;;;;;;;;x
-b_rebenn_7;Rebenn 7;;;;;;;;;;;;;x
-b_rebenn_8;Rebenn 8;;;;;;;;;;;;;x
-b_reh_1;Reh;;;;;;;;;;;;;x
-b_reh_2;Rimaneil;;;;;;;;;;;;;x
-b_reh_3;Reh 3;;;;;;;;;;;;;x
-b_reh_4;Reh 4;;;;;;;;;;;;;x
-b_reh_5;Reh 5;;;;;;;;;;;;;x
-b_reh_6;Reh 6;;;;;;;;;;;;;x
-b_reh_7;Reh 7;;;;;;;;;;;;;x
-b_reh_8;Reh 8;;;;;;;;;;;;;x
-b_rimon_1;Caer Rimon;;;;;;;;;;;;;x
-b_rimon_2;Rimon;;;;;;;;;;;;;x
-b_rimon_3;Rimon 3;;;;;;;;;;;;;x
-b_rimon_4;Rimon 4;;;;;;;;;;;;;x
-b_rimon_5;Rimon 5;;;;;;;;;;;;;x
-b_rimon_6;Rimon 6;;;;;;;;;;;;;x
-b_rimon_7;Rimon 7;;;;;;;;;;;;;x
-b_rimon_8;Rimon 8;;;;;;;;;;;;;x
-b_rinya_1;Vormog;;;;;;;;;;;;;x
-b_rinya_2;Rinya 2;;;;;;;;;;;;;x
-b_rinya_3;Rinya 3;;;;;;;;;;;;;x
-b_rinya_4;Rinya 4;;;;;;;;;;;;;x
-b_rinya_5;Rinya 5;;;;;;;;;;;;;x
-b_rinya_6;Rinya 6;;;;;;;;;;;;;x
-b_rinya_7;Rinya 7;;;;;;;;;;;;;x
-b_rinya_8;Rinya 8;;;;;;;;;;;;;x
-b_roth_1;Alantulw;;;;;;;;;;;;;x
-b_roth_2;Roth 2;;;;;;;;;;;;;x
-b_roth_3;Roth 3;;;;;;;;;;;;;x
-b_roth_4;Roth 4;;;;;;;;;;;;;x
-b_roth_5;Roth 5;;;;;;;;;;;;;x
-b_roth_6;Roth 6;;;;;;;;;;;;;x
-b_roth_7;Roth 7;;;;;;;;;;;;;x
-b_roth_8;Roth 8;;;;;;;;;;;;;x
-b_rubis_1;Rubis;;;;;;;;;;;;;x
-b_rubis_2;Astran;;;;;;;;;;;;;x
-b_rubis_3;Rubis 3;;;;;;;;;;;;;x
-b_rubis_4;Rubis 4;;;;;;;;;;;;;x
-b_rubis_5;Rubis 5;;;;;;;;;;;;;x
-b_rubis_6;Rubis 6;;;;;;;;;;;;;x
-b_rubis_7;Rubis 7;;;;;;;;;;;;;x
-b_rubis_8;Rubis 8;;;;;;;;;;;;;x
-b_ruda_1;Caer Ruda;;;;;;;;;;;;;x
-b_ruda_2;Filey;;;;;;;;;;;;;x
-b_ruda_3;Ruda;;;;;;;;;;;;;x
-b_ruda_4;Ruda 4;;;;;;;;;;;;;x
-b_ruda_5;Ruda 5;;;;;;;;;;;;;x
-b_ruda_6;Ruda 6;;;;;;;;;;;;;x
-b_ruda_7;Ruda 7;;;;;;;;;;;;;x
-b_ruda_8;Ruda 8;;;;;;;;;;;;;x
-b_saiwick_1;Caer Saiwick;;;;;;;;;;;;;x
-b_saiwick_2;Saiwick;;;;;;;;;;;;;x
-b_saiwick_3;Saiwick 3;;;;;;;;;;;;;x
-b_saiwick_4;Saiwick 4;;;;;;;;;;;;;x
-b_saiwick_5;Saiwick 5;;;;;;;;;;;;;x
-b_saiwick_6;Saiwick 6;;;;;;;;;;;;;x
-b_saiwick_7;Saiwick 7;;;;;;;;;;;;;x
-b_saiwick_8;Saiwick 8;;;;;;;;;;;;;x
-b_salston_tor_1;Salston Tor;;;;;;;;;;;;;x
-b_salston_tor_2;Silersham;;;;;;;;;;;;;x
-b_salston_tor_3;Nant;;;;;;;;;;;;;x
-b_salston_tor_4;Salston tor 4;;;;;;;;;;;;;x
-b_salston_tor_5;Salston tor 5;;;;;;;;;;;;;x
-b_salston_tor_6;Salston tor 6;;;;;;;;;;;;;x
-b_salston_tor_7;Salston tor 7;;;;;;;;;;;;;x
-b_salston_tor_8;Salston tor 8;;;;;;;;;;;;;x
-b_sara_1;Caer Sara;;;;;;;;;;;;;x
-b_sara_2;Sara;;;;;;;;;;;;;x
-b_sara_3;Sara 3;;;;;;;;;;;;;x
-b_sara_4;Sara 4;;;;;;;;;;;;;x
-b_sara_5;Sara 5;;;;;;;;;;;;;x
-b_sara_6;Sara 6;;;;;;;;;;;;;x
-b_sara_7;Sara 7;;;;;;;;;;;;;x
-b_sara_8;Sara 8;;;;;;;;;;;;;x
-b_savher_1;Savher;;;;;;;;;;;;;x
-b_savher_2;Savher 2;;;;;;;;;;;;;x
-b_savher_3;Savher 3;;;;;;;;;;;;;x
-b_savher_4;Savher 4;;;;;;;;;;;;;x
-b_savher_5;Savher 5;;;;;;;;;;;;;x
-b_savher_6;Savher 6;;;;;;;;;;;;;x
-b_savher_7;Savher 7;;;;;;;;;;;;;x
-b_savher_8;Savher 8;;;;;;;;;;;;;x
-b_savirah_1;Savirah;;;;;;;;;;;;;x
-b_savirah_2;Savirah 2;;;;;;;;;;;;;x
-b_savirah_3;Savirah 3;;;;;;;;;;;;;x
-b_savirah_4;Savirah 4;;;;;;;;;;;;;x
-b_savirah_5;Savirah 5;;;;;;;;;;;;;x
-b_savirah_6;Savirah 6;;;;;;;;;;;;;x
-b_savirah_7;Savirah 7;;;;;;;;;;;;;x
-b_savirah_8;Savirah 8;;;;;;;;;;;;;x
-b_shia_1;Shia;;;;;;;;;;;;;x
-b_shia_2;Shia 2;;;;;;;;;;;;;x
-b_shia_3;Shia 3;;;;;;;;;;;;;x
-b_shia_4;Shia 4;;;;;;;;;;;;;x
-b_shia_5;Shia 5;;;;;;;;;;;;;x
-b_shia_6;Shia 6;;;;;;;;;;;;;x
-b_shia_7;Shia 7;;;;;;;;;;;;;x
-b_shia_8;Shia 8;;;;;;;;;;;;;x
-b_sidqal_1;Sidqal;;;;;;;;;;;;;x
-b_sidqal_2;Sidqal 2;;;;;;;;;;;;;x
-b_sidqal_3;Sidqal 3;;;;;;;;;;;;;x
-b_sidqal_4;Sidqal 4;;;;;;;;;;;;;x
-b_sidqal_5;Sidqal 5;;;;;;;;;;;;;x
-b_sidqal_6;Sidqal 6;;;;;;;;;;;;;x
-b_sidqal_7;Sidqal 7;;;;;;;;;;;;;x
-b_sidqal_8;Sidqal 8;;;;;;;;;;;;;x
-b_skenetrip_1;Caer Skenetrip;;;;;;;;;;;;;x
-b_skenetrip_2;Skenetrip;;;;;;;;;;;;;x
-b_skenetrip_3;Skenetrip 3;;;;;;;;;;;;;x
-b_skenetrip_4;Skenetrip 4;;;;;;;;;;;;;x
-b_skenetrip_5;Skenetrip 5;;;;;;;;;;;;;x
-b_skenetrip_6;Skenetrip 6;;;;;;;;;;;;;x
-b_skenetrip_7;Skenetrip 7;;;;;;;;;;;;;x
-b_skenetrip_8;Skenetrip 8;;;;;;;;;;;;;x
-b_strakh_1;Strakh;;;;;;;;;;;;;x
-b_strakh_2;Strakh 2;;;;;;;;;;;;;x
-b_strakh_3;Strakh 3;;;;;;;;;;;;;x
-b_strakh_4;Strakh 4;;;;;;;;;;;;;x
-b_strakh_5;Strakh 5;;;;;;;;;;;;;x
-b_strakh_6;Strakh 6;;;;;;;;;;;;;x
-b_strakh_7;Strakh 7;;;;;;;;;;;;;x
-b_strakh_8;Strakh 8;;;;;;;;;;;;;x
-b_strighil_1;Strighil;;;;;;;;;;;;;x
-b_strighil_2;Strighil 2;;;;;;;;;;;;;x
-b_strighil_3;Strighil 3;;;;;;;;;;;;;x
-b_strighil_4;Strighil 4;;;;;;;;;;;;;x
-b_strighil_5;Strighil 5;;;;;;;;;;;;;x
-b_strighil_6;Strighil 6;;;;;;;;;;;;;x
-b_strighil_7;Strighil 7;;;;;;;;;;;;;x
-b_strighil_8;Strighil 8;;;;;;;;;;;;;x
-b_svrox_1;Svrox;;;;;;;;;;;;;x
-b_svrox_2;Svrox 2;;;;;;;;;;;;;x
-b_svrox_3;Svrox 3;;;;;;;;;;;;;x
-b_svrox_4;Svrox 4;;;;;;;;;;;;;x
-b_svrox_5;Svrox 5;;;;;;;;;;;;;x
-b_svrox_6;Svrox 6;;;;;;;;;;;;;x
-b_svrox_7;Svrox 7;;;;;;;;;;;;;x
-b_svrox_8;Svrox 8;;;;;;;;;;;;;x
-b_tagada_1;Tagada;;;;;;;;;;;;;x
-b_tagada_2;Hamir;;;;;;;;;;;;;x
-b_tagada_3;Tagada 3;;;;;;;;;;;;;x
-b_tagada_4;Tagada 4;;;;;;;;;;;;;x
-b_tagada_5;Tagada 5;;;;;;;;;;;;;x
-b_tagada_6;Tagada 6;;;;;;;;;;;;;x
-b_tagada_7;Tagada 7;;;;;;;;;;;;;x
-b_tagada_8;Tagada 8;;;;;;;;;;;;;x
-b_takhor_1;Takhor;;;;;;;;;;;;;x
-b_takhor_2;Takhor 2;;;;;;;;;;;;;x
-b_takhor_3;Takhor 3;;;;;;;;;;;;;x
-b_takhor_4;Takhor 4;;;;;;;;;;;;;x
-b_takhor_5;Takhor 5;;;;;;;;;;;;;x
-b_takhor_6;Takhor 6;;;;;;;;;;;;;x
-b_takhor_7;Takhor 7;;;;;;;;;;;;;x
-b_takhor_8;Takhor 8;;;;;;;;;;;;;x
-b_tar_1;Caer Tar;;;;;;;;;;;;;x
-b_tar_2;Tar;;;;;;;;;;;;;x
-b_tar_3;Tar 3;;;;;;;;;;;;;x
-b_tar_4;Tar 4;;;;;;;;;;;;;x
-b_tar_5;Tar 5;;;;;;;;;;;;;x
-b_tar_6;Tar 6;;;;;;;;;;;;;x
-b_tar_7;Tar 7;;;;;;;;;;;;;x
-b_tar_8;Tar 8;;;;;;;;;;;;;x
-b_tav_sezhi_1;Tav-Sezhi;;;;;;;;;;;;;x
-b_tav_sezhi_2;Tav sezhi 2;;;;;;;;;;;;;x
-b_tav_sezhi_3;Tav sezhi 3;;;;;;;;;;;;;x
-b_tav_sezhi_4;Tav sezhi 4;;;;;;;;;;;;;x
-b_tav_sezhi_5;Tav sezhi 5;;;;;;;;;;;;;x
-b_tav_sezhi_6;Tav sezhi 6;;;;;;;;;;;;;x
-b_tav_sezhi_7;Tav sezhi 7;;;;;;;;;;;;;x
-b_tav_sezhi_8;Tav sezhi 8;;;;;;;;;;;;;x
-b_tene_1;Caer Tene;;;;;;;;;;;;;x
-b_tene_2;Tene;;;;;;;;;;;;;x
-b_tene_3;Tene 3;;;;;;;;;;;;;x
-b_tene_4;Tene 4;;;;;;;;;;;;;x
-b_tene_5;Tene 5;;;;;;;;;;;;;x
-b_tene_6;Tene 6;;;;;;;;;;;;;x
-b_tene_7;Tene 7;;;;;;;;;;;;;x
-b_tene_8;Tene 8;;;;;;;;;;;;;x
-b_thara_1;Thara;;;;;;;;;;;;;x
-b_thara_2;Thara 2;;;;;;;;;;;;;x
-b_thara_3;Thara 3;;;;;;;;;;;;;x
-b_thara_4;Thara 4;;;;;;;;;;;;;x
-b_thara_5;Thara 5;;;;;;;;;;;;;x
-b_thara_6;Thara 6;;;;;;;;;;;;;x
-b_thara_7;Thara 7;;;;;;;;;;;;;x
-b_thara_8;Thara 8;;;;;;;;;;;;;x
-b_therga_1;Therga 1;;;;;;;;;;;;;x
-b_therga_2;Therga 2;;;;;;;;;;;;;x
-b_therga_3;Therga 3;;;;;;;;;;;;;x
-b_therga_4;Therga 4;;;;;;;;;;;;;x
-b_therga_5;Therga 5;;;;;;;;;;;;;x
-b_therga_6;Therga 6;;;;;;;;;;;;;x
-b_therga_7;Therga 7;;;;;;;;;;;;;x
-b_therga_8;Therga 8;;;;;;;;;;;;;x
-b_tokon_10_1;Tokon 10 1;;;;;;;;;;;;;x
-b_tokon_10_2;Tokon 10 2;;;;;;;;;;;;;x
-b_tokon_10_3;Tokon 10 3;;;;;;;;;;;;;x
-b_tokon_10_4;Tokon 10 4;;;;;;;;;;;;;x
-b_tokon_10_5;Tokon 10 5;;;;;;;;;;;;;x
-b_tokon_10_6;Tokon 10 6;;;;;;;;;;;;;x
-b_tokon_10_7;Tokon 10 7;;;;;;;;;;;;;x
-b_tokon_10_8;Tokon 10 8;;;;;;;;;;;;;x
-b_tokon_2_1;Tokon 2 1;;;;;;;;;;;;;x
-b_tokon_2_2;Tokon 2 2;;;;;;;;;;;;;x
-b_tokon_2_3;Tokon 2 3;;;;;;;;;;;;;x
-b_tokon_2_4;Tokon 2 4;;;;;;;;;;;;;x
-b_tokon_2_5;Tokon 2 5;;;;;;;;;;;;;x
-b_tokon_2_6;Tokon 2 6;;;;;;;;;;;;;x
-b_tokon_2_7;Tokon 2 7;;;;;;;;;;;;;x
-b_tokon_2_8;Tokon 2 8;;;;;;;;;;;;;x
-b_tokon_3_1;Tokon 3 1;;;;;;;;;;;;;x
-b_tokon_3_2;Tokon 3 2;;;;;;;;;;;;;x
-b_tokon_3_3;Tokon 3 3;;;;;;;;;;;;;x
-b_tokon_3_4;Tokon 3 4;;;;;;;;;;;;;x
-b_tokon_3_5;Tokon 3 5;;;;;;;;;;;;;x
-b_tokon_3_6;Tokon 3 6;;;;;;;;;;;;;x
-b_tokon_3_7;Tokon 3 7;;;;;;;;;;;;;x
-b_tokon_3_8;Tokon 3 8;;;;;;;;;;;;;x
-b_tokon_4_1;Tokon 4 1;;;;;;;;;;;;;x
-b_tokon_4_2;Tokon 4 2;;;;;;;;;;;;;x
-b_tokon_4_3;Tokon 4 3;;;;;;;;;;;;;x
-b_tokon_4_4;Tokon 4 4;;;;;;;;;;;;;x
-b_tokon_4_5;Tokon 4 5;;;;;;;;;;;;;x
-b_tokon_4_6;Tokon 4 6;;;;;;;;;;;;;x
-b_tokon_4_7;Tokon 4 7;;;;;;;;;;;;;x
-b_tokon_4_8;Tokon 4 8;;;;;;;;;;;;;x
-b_tokon_8_1;Tokon 8 1;;;;;;;;;;;;;x
-b_tokon_8_2;Tokon 8 2;;;;;;;;;;;;;x
-b_tokon_8_3;Tokon 8 3;;;;;;;;;;;;;x
-b_tokon_8_4;Tokon 8 4;;;;;;;;;;;;;x
-b_tokon_8_5;Tokon 8 5;;;;;;;;;;;;;x
-b_tokon_8_6;Tokon 8 6;;;;;;;;;;;;;x
-b_tokon_8_7;Tokon 8 7;;;;;;;;;;;;;x
-b_tokon_8_8;Tokon 8 8;;;;;;;;;;;;;x
-b_tokon_9_1;Tokon 9 1;;;;;;;;;;;;;x
-b_tokon_9_2;Tokon 9 2;;;;;;;;;;;;;x
-b_tokon_9_3;Tokon 9 3;;;;;;;;;;;;;x
-b_tokon_9_4;Tokon 9 4;;;;;;;;;;;;;x
-b_tokon_9_5;Tokon 9 5;;;;;;;;;;;;;x
-b_tokon_9_6;Tokon 9 6;;;;;;;;;;;;;x
-b_tokon_9_7;Tokon 9 7;;;;;;;;;;;;;x
-b_tokon_9_8;Tokon 9 8;;;;;;;;;;;;;x
-b_tokons_udde_1;Tokons udde 1;;;;;;;;;;;;;x
-b_tokons_udde_2;Tokons udde 2;;;;;;;;;;;;;x
-b_tokons_udde_3;Tokons udde 3;;;;;;;;;;;;;x
-b_tokons_udde_4;Tokons udde 4;;;;;;;;;;;;;x
-b_tokons_udde_5;Tokons udde 5;;;;;;;;;;;;;x
-b_tokons_udde_6;Tokons udde 6;;;;;;;;;;;;;x
-b_tokons_udde_7;Tokons udde 7;;;;;;;;;;;;;x
-b_tokons_udde_8;Tokons udde 8;;;;;;;;;;;;;x
-b_treigh_1;Caer Treigh;;;;;;;;;;;;;x
-b_treigh_2;Grike;;;;;;;;;;;;;x
-b_treigh_3;Treigh;;;;;;;;;;;;;x
-b_treigh_4;Treigh 4;;;;;;;;;;;;;x
-b_treigh_5;Treigh 5;;;;;;;;;;;;;x
-b_treigh_6;Treigh 6;;;;;;;;;;;;;x
-b_treigh_7;Treigh 7;;;;;;;;;;;;;x
-b_treigh_8;Treigh 8;;;;;;;;;;;;;x
-b_turina_1;Caer Turina;;;;;;;;;;;;;x
-b_turina_2;Turina;;;;;;;;;;;;;x
-b_turina_3;Korma;;;;;;;;;;;;;x
-b_turina_4;Turina 4;;;;;;;;;;;;;x
-b_turina_5;Turina 5;;;;;;;;;;;;;x
-b_turina_6;Turina 6;;;;;;;;;;;;;x
-b_turina_7;Turina 7;;;;;;;;;;;;;x
-b_turina_8;Turina 8;;;;;;;;;;;;;x
-b_ulw_1;Caer Ulw;;;;;;;;;;;;;x
-b_ulw_2;Ulw;;;;;;;;;;;;;x
-b_ulw_3;Ulw 3;;;;;;;;;;;;;x
-b_ulw_4;Ulw 4;;;;;;;;;;;;;x
-b_ulw_5;Ulw 5;;;;;;;;;;;;;x
-b_ulw_6;Ulw 6;;;;;;;;;;;;;x
-b_ulw_7;Ulw 7;;;;;;;;;;;;;x
-b_ulw_8;Ulw 8;;;;;;;;;;;;;x
-b_untulw_1;Caer Untulw;;;;;;;;;;;;;x
-b_untulw_2;Irinn;;;;;;;;;;;;;x
-b_untulw_3;Untulw;;;;;;;;;;;;;x
-b_untulw_4;Untulw 4;;;;;;;;;;;;;x
-b_untulw_5;Untulw 5;;;;;;;;;;;;;x
-b_untulw_6;Untulw 6;;;;;;;;;;;;;x
-b_untulw_7;Untulw 7;;;;;;;;;;;;;x
-b_untulw_8;Untulw 8;;;;;;;;;;;;;x
-b_uriens_1;Caer Uriens;;;;;;;;;;;;;x
-b_uriens_2;Uriens;;;;;;;;;;;;;x
-b_uriens_3;Kalo;;;;;;;;;;;;;x
-b_uriens_4;Fardon;;;;;;;;;;;;;x
-b_uriens_5;Uriens 5;;;;;;;;;;;;;x
-b_uriens_6;Uriens 6;;;;;;;;;;;;;x
-b_uriens_7;Uriens 7;;;;;;;;;;;;;x
-b_uriens_8;Uriens 8;;;;;;;;;;;;;x
-b_usiarach_1;Usiarach;;;;;;;;;;;;;x
-b_usiarach_2;Todhaidh;;;;;;;;;;;;;x
-b_usiarach_3;Usiarach 3;;;;;;;;;;;;;x
-b_usiarach_4;Usiarach 4;;;;;;;;;;;;;x
-b_usiarach_5;Usiarach 5;;;;;;;;;;;;;x
-b_usiarach_6;Usiarach 6;;;;;;;;;;;;;x
-b_usiarach_7;Usiarach 7;;;;;;;;;;;;;x
-b_usiarach_8;Usiarach 8;;;;;;;;;;;;;x
-b_varna_1;Caer Varna;;;;;;;;;;;;;x
-b_varna_2;Dann;;;;;;;;;;;;;x
-b_varna_3;Varna;;;;;;;;;;;;;x
-b_varna_4;Varna 4;;;;;;;;;;;;;x
-b_varna_5;Varna 5;;;;;;;;;;;;;x
-b_varna_6;Varna 6;;;;;;;;;;;;;x
-b_varna_7;Varna 7;;;;;;;;;;;;;x
-b_varna_8;Varna 8;;;;;;;;;;;;;x
-b_welea_1;Caer Welea;;;;;;;;;;;;;x
-b_welea_2;Welea;;;;;;;;;;;;;x
-b_welea_3;Welea 3;;;;;;;;;;;;;x
-b_welea_4;Welea 4;;;;;;;;;;;;;x
-b_welea_5;Welea 5;;;;;;;;;;;;;x
-b_welea_6;Welea 6;;;;;;;;;;;;;x
-b_welea_7;Welea 7;;;;;;;;;;;;;x
-b_welea_8;Welea 8;;;;;;;;;;;;;x
-b_wella_1;Caer Wella;;;;;;;;;;;;;x
-b_wella_2;Wella;;;;;;;;;;;;;x
-b_wella_3;Wella 3;;;;;;;;;;;;;x
-b_wella_4;Wella 4;;;;;;;;;;;;;x
-b_wella_5;Wella 5;;;;;;;;;;;;;x
-b_wella_6;Wella 6;;;;;;;;;;;;;x
-b_wella_7;Wella 7;;;;;;;;;;;;;x
-b_wella_8;Wella 8;;;;;;;;;;;;;x
-b_wembsal_1;Wembsal;;;;;;;;;;;;;x
-b_wembsal_2;Wembsal 2;;;;;;;;;;;;;x
-b_wembsal_3;Wembsal 3;;;;;;;;;;;;;x
-b_wembsal_4;Wembsal 4;;;;;;;;;;;;;x
-b_wembsal_5;Wembsal 5;;;;;;;;;;;;;x
-b_wembsal_6;Wembsal 6;;;;;;;;;;;;;x
-b_wembsal_7;Wembsal 7;;;;;;;;;;;;;x
-b_wembsal_8;Wembsal 8;;;;;;;;;;;;;x
-b_vexial_1;Sornost;;;;;;;;;;;;;x
-b_vexial_2;Vexial 2;;;;;;;;;;;;;x
-b_vexial_3;Vexial 3;;;;;;;;;;;;;x
-b_vexial_4;Vexial 4;;;;;;;;;;;;;x
-b_vexial_5;Vexial 5;;;;;;;;;;;;;x
-b_vexial_6;Vexial 6;;;;;;;;;;;;;x
-b_vexial_7;Vexial 7;;;;;;;;;;;;;x
-b_vexial_8;Vexial 8;;;;;;;;;;;;;x
-b_victaron_1;Victaron;;;;;;;;;;;;;x
-b_victaron_2;Victaron 2;;;;;;;;;;;;;x
-b_victaron_3;Victaron 3;;;;;;;;;;;;;x
-b_victaron_4;Victaron 4;;;;;;;;;;;;;x
-b_victaron_5;Victaron 5;;;;;;;;;;;;;x
-b_victaron_6;Victaron 6;;;;;;;;;;;;;x
-b_victaron_7;Victaron 7;;;;;;;;;;;;;x
-b_victaron_8;Victaron 8;;;;;;;;;;;;;x
-b_vortha_1;Vortha;;;;;;;;;;;;;x
-b_vortha_2;Umbethel;;;;;;;;;;;;;x
-b_vortha_3;Vortha 3;;;;;;;;;;;;;x
-b_vortha_4;Vortha 4;;;;;;;;;;;;;x
-b_vortha_5;Vortha 5;;;;;;;;;;;;;x
-b_vortha_6;Vortha 6;;;;;;;;;;;;;x
-b_vortha_7;Vortha 7;;;;;;;;;;;;;x
-b_vortha_8;Vortha 8;;;;;;;;;;;;;x
-b_ybersiel_1;Caer Ybersiel;;;;;;;;;;;;;x
-b_ybersiel_2;Ybersiel;;;;;;;;;;;;;x
-b_ybersiel_3;Ybersiel 3;;;;;;;;;;;;;x
-b_ybersiel_4;Ybersiel 4;;;;;;;;;;;;;x
-b_ybersiel_5;Ybersiel 5;;;;;;;;;;;;;x
-b_ybersiel_6;Ybersiel 6;;;;;;;;;;;;;x
-b_ybersiel_7;Ybersiel 7;;;;;;;;;;;;;x
-b_ybersiel_8;Ybersiel 8;;;;;;;;;;;;;x
-b_yndrath_1;Yndrath;;;;;;;;;;;;;x
-b_yndrath_2;Yndrath 2;;;;;;;;;;;;;x
-b_yndrath_3;Yndrath 3;;;;;;;;;;;;;x
-b_yndrath_4;Yndrath 4;;;;;;;;;;;;;x
-b_yndrath_5;Yndrath 5;;;;;;;;;;;;;x
-b_yndrath_6;Yndrath 6;;;;;;;;;;;;;x
-b_yndrath_7;Yndrath 7;;;;;;;;;;;;;x
-b_yndrath_8;Yndrath 8;;;;;;;;;;;;;x

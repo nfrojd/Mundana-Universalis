@@ -1,0 +1,19 @@
+# Silersham
+
+# County Title
+title = c_silersham
+
+# Settlements
+max_settlements = 4
+
+b_silersham_castle = castle
+b_silersham_city = city
+#b_silersham_temple = temple
+#b_silersham_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

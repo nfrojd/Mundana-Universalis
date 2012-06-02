@@ -1,0 +1,19 @@
+# Thia
+
+# County Title
+title = c_thia
+
+# Settlements
+max_settlements = 4
+
+b_thia_castle = castle
+b_thia_city = city
+#b_thia_temple = temple
+#b_thia_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

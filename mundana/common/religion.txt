@@ -1,3 +1,59 @@
+daak = {
+	has_coa_on_barony_only = no
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	sabrian_daak = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		color = { 0.7 0.5 0 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = yes
+		can_grant_claim = yes
+		can_call_crusade = no
+	}
+}
+
+non_religion = {
+	has_coa_on_barony_only = no
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	antitheist = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		color = { 0.7 0.5 0 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = no
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = yes
+		can_grant_claim = yes
+		can_call_crusade = no
+	}
+}
+
 cultural_religion = {
 	has_coa_on_barony_only = no
 	graphical_culture = westerngfx
@@ -17,47 +73,20 @@ cultural_religion = {
 		priests_can_marry = yes
 		can_grant_divorce = yes
 	}
-	daak = {
+	cirza = {
 		graphical_culture = westerngfx
 
-		icon = 2
-		color = { 0.7 0.5 0 }
-		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
-		
+		icon = 5
+		color = { 0.6 0.0 0.0 }
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			CIRZA
 		}
-		
-		investiture = no
-		can_excommunicate = yes
+		crusade_name = "HOLY_WAR"
+		scripture_name = TZORLACK
+		priests_can_marry = yes
 		can_grant_divorce = yes
-		can_grant_invasion_cb = yes
-		can_grant_claim = yes
-		can_call_crusade = no
 	}
 	dragon_cult = {
-		graphical_culture = westerngfx
-
-		icon = 2
-		color = { 0.7 0.5 0 }
-		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
-		
-		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
-		}
-		
-		investiture = no
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = yes
-		can_grant_claim = yes
-		can_call_crusade = no
-	}
-	antitheist = {
 		graphical_culture = westerngfx
 
 		icon = 2

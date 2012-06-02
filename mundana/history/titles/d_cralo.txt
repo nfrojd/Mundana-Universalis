@@ -1,4 +1,4 @@
 2950.1.1 = {
 	liege="k_calana"
-	holder=101002
+	holder=101711
 }

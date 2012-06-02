@@ -1,0 +1,19 @@
+# Tesel
+
+# County Title
+title = c_tesel
+
+# Settlements
+max_settlements = 4
+
+b_tesel_castle = castle
+b_tesel_city = city
+b_tesel_city_1 = city
+#b_tesel_temple = temple
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

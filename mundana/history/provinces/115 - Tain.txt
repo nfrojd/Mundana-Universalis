@@ -1,0 +1,19 @@
+# Tain
+
+# County Title
+title = c_tain
+
+# Settlements
+max_settlements = 4
+
+b_tain_castle = castle
+b_tain_city = city
+#b_tain_temple = temple
+#b_tain_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

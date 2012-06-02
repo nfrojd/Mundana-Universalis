@@ -1,0 +1,19 @@
+# Dan
+
+# County Title
+title = c_dan
+
+# Settlements
+max_settlements = 4
+
+b_dan_castle = castle
+b_dan_city = city
+#b_dan_temple = temple
+#b_dan_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

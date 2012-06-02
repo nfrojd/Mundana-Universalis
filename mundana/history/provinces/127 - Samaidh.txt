@@ -1,0 +1,19 @@
+# Samaidh
+
+# County Title
+title = c_samaidh
+
+# Settlements
+max_settlements = 4
+
+b_samaidh_castle = castle
+#b_samaidh_city = city
+#b_samaidh_temple = temple
+#b_samaidh_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

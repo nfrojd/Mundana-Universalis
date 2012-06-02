@@ -1,0 +1,21 @@
+# Calnia
+
+# County Title
+title = c_calnia
+
+# Settlements
+max_settlements = 6
+
+b_calnia_castle = castle
+b_calnia_city = city
+b_calnia_temple = temple
+b_calnia_castle_1 = castle
+b_legion_colonan = temple
+#b_calnia_city_1 = city
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

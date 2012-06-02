@@ -1,0 +1,19 @@
+# Gastmarkerna
+
+# County Title
+title = c_gastmarkerna
+
+# Settlements
+max_settlements = 4
+
+b_gastmarkerna_castle = castle
+#b_gastmarkerna_city = city
+#b_gastmarkerna_temple = temple
+#b_gastmarkerna_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

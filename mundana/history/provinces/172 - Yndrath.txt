@@ -1,0 +1,19 @@
+# Yndrath
+
+# County Title
+title = c_yndrath
+
+# Settlements
+max_settlements = 4
+
+b_yndrath_castle = castle
+b_yndrath_city = city
+#b_yndrath_temple = temple
+#b_yndrath_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

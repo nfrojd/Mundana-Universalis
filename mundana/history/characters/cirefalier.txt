@@ -4,7 +4,7 @@
 	dynasty = 3000 #Ghazarim
 
 	culture = "cirefalier"
-	religion = "daak"
+	religion = "cirza"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

@@ -1,43 +1,111 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-emperor_neromenzer;Högste Magikrat;;;;;;;;;;;;;
-emperor_female_neromenzer;Högste Magikrat;;;;;;;;;;;;;
-king_neromenzer;Magikrat;;;;;;;;;;;;;
-king_female_neromenzer;Magikrat;;;;;;;;;;;;;
-duke_neromenzer;Storprimas;;;;;;;;;;;;;
-duke_female_neromenzer;Storprimas;;;;;;;;;;;;;
-count_neromenzer;Primas;;;;;;;;;;;;;
-count_female_neromenzer;Primas;;;;;;;;;;;;;
-count_cirefalier;Kurfurst;;;;;;;;;;;;;
-count_cirefalier_female;Kurfurstinna;;;;;;;;;;;;;
-city_baron_daak;Markis;;;;;;;;;;;;;
-city_baron_daak_female;Markisinna;;;;;;;;;;;;;
-temple_baron_daak;Primod;;;;;;;;;;;;;
-king_tokon;Ard Righ;;;;;;;;;;;;;
-king_tokon_female;Ard Righ;;;;;;;;;;;;;
-emperor;Kung;;;;;;;;;;;;;
-emperor_female;Drottning;;;;;;;;;;;;;
-king;Hertig;;;;;;;;;;;;;
-king_female;Hertiginna;;;;;;;;;;;;;
-duke;Greve;;;;;;;;;;;;;
-duke_female;Grevinna;;;;;;;;;;;;;
-count;Baron;;;;;;;;;;;;;
-count_female;Baronessa;;;;;;;;;;;;;
-baron;Mäster;;;;;;;;;;;;;
-baron_female;Matron;;;;;;;;;;;;;
-emperor_foa;Your Majesty;;;;;;;;;;;;;
-king_foa;Your Grace;;;;;;;;;;;;;
-duke_foa;My Lord;;;;;;;;;;;;;
-count_foa;My Lord;;;;;;;;;;;;;
-baron_foa;My Lord;;;;;;;;;;;;;
-duke_foa_female;My Lady;;;;;;;;;;;;;
-count_foa_female;My Lady;;;;;;;;;;;;;
-baron_foa_female;My Lady;;;;;;;;;;;;;
-empire_of;Kingdom of;;;;;;;;;;;;;
-kingdom_of;Duchy of;;;;;;;;;;;;;
-duchy_of;County of;;;;;;;;;;;;;
-county_of;Barony of;;;;;;;;;;;;;
-barony_of;Estate of;;;;;;;;;;;;;
-emperor_title_ruler_consort;King;;;;;;;;;;;;;
-emperor_title_ruler_consort_female;Queen Consort;;;;;;;;;;;;;
-king_dwarven;Thorakh;;;;;;;;;;;;;
-king_female_dwarven;Thorakh;;;;;;;;;;;;;
+emperor_neromenzer;Främste Magikrat;;;;;;;;;;;;;x
+emperor_female_neromenzer;Främste Magikrat;;;;;;;;;;;;;x
+emperor_title_ruler_consort_neromenzer;Consort;;;;;;;;;;;;;x
+emperor_title_ruler_consort_female_neromenzer;Consort;;;;;;;;;;;;;x
+emperor_foa_neromenzer;Your Grace;;;;;;;;;;;;;x
+emperor_foa_female_neromenzer;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+king_neromenzer;Magikrat;;;;;;;;;;;;;x
+king_female_neromenzer;Magikrat;;;;;;;;;;;;;x
+king_title_ruler_consort_neromenzer;Consort;;;;;;;;;;;;;x
+king_title_ruler_consort_female_neromenzer;Consort;;;;;;;;;;;;;x
+king_foa_neromenzer;Your Grace;;;;;;;;;;;;;x
+king_foa_female_neromenzer;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+duke_neromenzer;Primas;;;;;;;;;;;;;x
+duke_female_neromenzer;Primas;;;;;;;;;;;;;x
+duke_title_ruler_consort_neromenzer;Consort;;;;;;;;;;;;;x
+duke_title_ruler_consort_female_neromenzer;Consort;;;;;;;;;;;;;x
+duke_foa_neromenzer;Your Grace;;;;;;;;;;;;;x
+duke_foa_female_neromenzer;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+count_neromenzer;Administrat;;;;;;;;;;;;;x
+count_female_neromenzer;Administrat;;;;;;;;;;;;;x
+count_title_ruler_consort_neromenzer;Consort;;;;;;;;;;;;;x
+count_title_ruler_consort_female_neromenzer;Consort;;;;;;;;;;;;;x
+count_foa_neromenzer;Your Grace;;;;;;;;;;;;;x
+count_foa_female_neromenzer;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+baron_neromenzer;Administrat;;;;;;;;;;;;;x
+baron_female_neromenzer;Administrat;;;;;;;;;;;;;x
+baron_title_ruler_consort_neromenzer;Consort;;;;;;;;;;;;;x
+baron_title_ruler_consort_female_neromenzer;Consort;;;;;;;;;;;;;x
+baron_foa_neromenzer;Your Grace;;;;;;;;;;;;;x
+baron_foa_female_neromenzer;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+emperor_daak;King;;;;;;;;;;;;;x
+emperor_female_daak;Queen;;;;;;;;;;;;;x
+emperor_title_ruler_consort_daak;Prince Consort;;;;;;;;;;;;;x
+emperor_title_ruler_consort_female_daak;Queen Consort;;;;;;;;;;;;;x
+emperor_foa_daak;Your Majesty;;;;;;;;;;;;;x
+emperor_foa_female_daak;Your Majesty;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+king_daak;Duke;;;;;;;;;;;;;x
+king_female_daak;Duchess;;;;;;;;;;;;;x
+king_title_ruler_consort_daak;Duke;;;;;;;;;;;;;x
+king_title_ruler_consort_female_daak;Duchess;;;;;;;;;;;;;x
+king_foa_daak;Your Grace;;;;;;;;;;;;;x
+king_foa_female_daak;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+duke_daak;Count;;;;;;;;;;;;;x
+duke_female_daak;Countess;;;;;;;;;;;;;x
+duke_title_ruler_consort_daak;Count;;;;;;;;;;;;;x
+duke_title_ruler_consort_female_daak;Countess;;;;;;;;;;;;;x
+duke_foa_daak;My Lord;;;;;;;;;;;;;x
+duke_foa_female_daak;My Lady;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+count_daak;Baron;;;;;;;;;;;;;x
+count_female_daak;Baroness;;;;;;;;;;;;;x
+count_title_ruler_consort_daak;Baron;;;;;;;;;;;;;x
+count_title_ruler_consort_female_daak;Baroness;;;;;;;;;;;;;x
+count_foa_daak;My Lord;;;;;;;;;;;;;x
+count_foa_female_daak;My Lady;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+baron_daak;Baron;;;;;;;;;;;;;x
+baron_female_daak;Baroness;;;;;;;;;;;;;x
+baron_title_ruler_consort_daak;Baron;;;;;;;;;;;;;x
+baron_title_ruler_consort_female_daak;Baroness;;;;;;;;;;;;;x
+baron_foa_daak;My Lord;;;;;;;;;;;;;x
+baron_foa_female_daak;My Lady;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+king_tokon;Ard Righ;;;;;;;;;;;;;x
+king_female_tokon;Ard Righ;;;;;;;;;;;;;x
+king_title_ruler_consort_tokon;Consort;;;;;;;;;;;;;x
+king_title_ruler_consort_female_tokon;Consort;;;;;;;;;;;;;x
+king_foa_tokon;Your Grace;;;;;;;;;;;;;x
+king_foa_female_tokon;Your Grace;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+king_dwarven;Thorakh;;;;;;;;;;;;;x
+king_female_dwarven;Thorakh;;;;;;;;;;;;;x
+king_title_ruler_consort_dwarven;Consort;;;;;;;;;;;;;x
+king_title_ruler_consort_female_dwarven;Consort;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+duke_cirefalier;Kurfurst;;;;;;;;;;;;;x
+duke_female_cirefalier;Kurfurstinna;;;;;;;;;;;;;x
+duke_title_ruler_consort_cirefalier;Kurfurst;;;;;;;;;;;;;x
+duke_title_ruler_consort_female_cirefalier;Kurfurstinna;;;;;;;;;;;;;x
+duke_foa_cirefalier;My Lord;;;;;;;;;;;;;x
+duke_foa_female_cirefalier;My Lady;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+title_queen_mother;Queen Mother;;;;;;;;;;;;;x
+emperor_title_queen_mother_female;Dowager Empress;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+empire_of;Kingdom of;;;;;;;;;;;;;x
+kingdom_of;Duchy of;;;;;;;;;;;;;x
+duchy_of;County of;;;;;;;;;;;;;x
+county_of;Barony of;;;;;;;;;;;;;x
+barony_of;Estate of;;;;;;;;;;;;;x
+city_barony_of;City of;;;;;;;;;;;;;x
+temple_barony_of;Church of;;;;;;;;;;;;;x
+castle_barony_of;Castle of;;;;;;;;;;;;;x
+temple_barony_of_neromenzer;Academy of;;;;;;;;;;;;;x
+city_baron_daak;Markis;;;;;;;;;;;;;x
+city_baron_daak_female;Markisinna;;;;;;;;;;;;;x
+temple_baron_daak;Prelat;;;;;;;;;;;;;x
+temple_baron_daak_female;Prelat;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x

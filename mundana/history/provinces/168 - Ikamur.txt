@@ -1,0 +1,19 @@
+# Ikamur
+
+# County Title
+title = c_ikamur
+
+# Settlements
+max_settlements = 4
+
+b_ikamur_castle = castle
+b_ikamur_city = city
+#b_ikamur_temple = temple
+#b_ikamur_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

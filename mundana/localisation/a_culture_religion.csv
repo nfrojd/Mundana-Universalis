@@ -4,18 +4,21 @@ jargian_daak;Jargiska Daakkyrkan;;;;;;;;;;;;;x
 sabrian_daak;Sabriska Daakkyrkan;;;;;;;;;;;;;x
 tibarit;Tibarit;;;;;;;;;;;;;x
 udarit;Udarit;;;;;;;;;;;;;x
-vontar;Vontar;;;;;;;;;;;;;
+vontar;Vontar;;;;;;;;;;;;;x
 cirza;Cirza;;;;;;;;;;;;;x
 antitheist;Antitheist;;;;;;;;;;;;;x
 dragon_cult;Drakkulten;;;;;;;;;;;;;x
 atheist;Atheist;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+culture_religion;Local Religions;;;;;;;;;;;;;x
 tokon;Tokon;;;;;;;;;;;;;x
 perenn;Perenn;;;;;;;;;;;;;x
 conrier;Conrier;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
+vanar;Vanar;;;;;;;;;;;;;x
+elven;Elven;;;;;;;;;;;;;x
+dwarven;Dwarven;;;;;;;;;;;;;x
 cirefalier;Cirefalier;;;;;;;;;;;;;x
 ghor;Ghor;;;;;;;;;;;;;x
 roghan;Roghan;;;;;;;;;;;;;x
@@ -32,7 +35,9 @@ sanari;Sanari;;;;;;;;;;;;;x
 thism;Thism;;;;;;;;;;;;;x
 kiriya;Kiriya;;;;;;;;;;;;;x
 henea;Hénea;;;;;;;;;;;;;x
+pyar;Pyar;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
+neromenzer;Neromenzer;;;;;;;;;;;;;x
 thalaskian;Neromenzer;;;;;;;;;;;;;x
 abhixia;Abhixia;;;;;;;;;;;;;x
 arginakus;Arginakus;;;;;;;;;;;;;x
@@ -44,5 +49,5 @@ sala;Sala;;;;;;;;;;;;;x
 vaganda;Vaganda;;;;;;;;;;;;;x
 zadhaz;Zadhaz;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-long_lived;Eternal life;;;;;;;;;;;;;x
-gierash;Gierash;;;;;;;;;;;;;x
+long_lived;Eternal life;;;;;;;;;;;;;
+gierash;Gierash;;;;;;;;;;;;;

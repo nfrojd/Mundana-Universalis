@@ -1,0 +1,19 @@
+# Negellense
+
+# County Title
+title = c_negellense
+
+# Settlements
+max_settlements = 4
+
+b_negellense_castle = castle
+b_negellense_city = city
+#b_negellense_temple = temple
+#b_negellense_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

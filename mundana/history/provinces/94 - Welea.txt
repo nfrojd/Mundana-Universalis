@@ -1,0 +1,19 @@
+# Welea
+
+# County Title
+title = c_welea
+
+# Settlements
+max_settlements = 4
+
+b_welea_castle = castle
+b_welea_city = city
+#b_welea_temple = temple
+#b_welea_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

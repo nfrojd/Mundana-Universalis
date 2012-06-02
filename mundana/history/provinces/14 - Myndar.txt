@@ -1,0 +1,20 @@
+# Myndar
+
+# County Title
+title = c_myndar
+
+# Settlements
+max_settlements = 5
+
+b_myndar_castle = castle
+b_myndar_city = city
+#b_myndar_temple = temple
+#b_myndar_castle_1 = castle
+#b_myndar_city_1 = city
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

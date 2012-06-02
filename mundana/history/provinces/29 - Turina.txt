@@ -1,0 +1,20 @@
+# Turina
+
+# County Title
+title = c_turina
+
+# Settlements
+max_settlements = 5
+
+b_turina_castle = castle
+b_turina_city = city
+b_turina_temple = temple
+b_turina_school = temple
+#b_turina_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

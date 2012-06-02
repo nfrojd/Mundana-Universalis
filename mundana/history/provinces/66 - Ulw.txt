@@ -1,0 +1,19 @@
+# Ulw
+
+# County Title
+title = c_ulw
+
+# Settlements
+max_settlements = 4
+
+b_ulw_castle = castle
+b_ulw_city = city
+#b_ulw_temple = temple
+#b_ulw_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

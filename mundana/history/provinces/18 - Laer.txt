@@ -1,0 +1,19 @@
+# Laer
+
+# County Title
+title = c_laer
+
+# Settlements
+max_settlements = 4
+
+b_laer_castle = castle
+b_laer_city = city
+#b_laer_temple = temple
+#b_laer_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

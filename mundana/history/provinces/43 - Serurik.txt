@@ -1,0 +1,19 @@
+# Serurik
+
+# County Title
+title = c_serurik
+
+# Settlements
+max_settlements = 4
+
+b_serurik_castle = castle
+b_serurik_city = city
+#b_serurik_temple = temple
+#b_serurik_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

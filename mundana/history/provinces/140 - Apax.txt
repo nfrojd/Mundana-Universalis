@@ -1,0 +1,19 @@
+# Apax
+
+# County Title
+title = c_apax
+
+# Settlements
+max_settlements = 4
+
+b_apax_castle = castle
+#b_apax_city = city
+#b_apax_temple = temple
+#b_apax_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

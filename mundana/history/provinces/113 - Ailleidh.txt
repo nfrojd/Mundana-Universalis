@@ -1,0 +1,19 @@
+# Ailleidh
+
+# County Title
+title = c_ailleidh
+
+# Settlements
+max_settlements = 4
+
+b_ailleidh_castle = castle
+b_ailleidh_city = city
+#b_ailleidh_temple = temple
+#b_ailleidh_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

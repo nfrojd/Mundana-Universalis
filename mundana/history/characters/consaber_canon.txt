@@ -15,7 +15,7 @@
 	add_trait = "charismatic_negotiator"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101586
 	mother = 101201
 
@@ -28,6 +28,7 @@
 #			add_claim = c_narekh
 	}
 	2963.1.1 = { add_spouse = 101001 } # sedan 4 år
+#	2963.1.1 = { add_lover = 101612 } # Kalina av Firina
 	2999.1.1 = { death = "2999.1.1" }
 }
 
@@ -40,7 +41,7 @@
 	add_trait = "fair"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101028
 
 	2948.1.1 = { birth = 2948.1.1 } # 19 år
@@ -55,7 +56,7 @@
 	add_trait = "scholarly_theologian"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2900.1.1 = { birth = 2900.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -71,7 +72,7 @@
 	add_trait = "celibate"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -85,7 +86,7 @@
 	add_trait = "brave"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -101,7 +102,7 @@
 	add_trait = "kind"
 
 	culture = "pyar"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 } #Hustru Rika död 100+ år sedan, en alvisk son, fyra döda barn, 30 bastarder
 	#Andre amiral
@@ -118,7 +119,7 @@
 	add_trait = "maimed"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2912.1.1 = { birth = 2912.1.1 } # 55 år
 # Konnetabel sedan 3 år
@@ -138,7 +139,7 @@
 	add_trait = "proud"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101643
 
 	2905.1.1 = { birth = 2905.1.1 }
@@ -153,7 +154,7 @@
 	add_trait = "scholar"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -166,7 +167,7 @@
 	add_trait = "diligent"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
 	#Plebejförsamlingens talman, skeppsforskare
@@ -181,7 +182,7 @@
 	add_trait = "wounded"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
 	#Deviskollegiets talman, folkräkning
@@ -195,7 +196,7 @@
 	add_trait = "scholar"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2800.1.1 = { birth = 2800.1.1 } #100+, 167 år
 #	2850.1.1 = { give_title = title_longlived }
@@ -210,7 +211,7 @@
 	add_trait = "cruel"
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2905.1.1 }
 	#2950.1.1 = {
@@ -227,7 +228,7 @@
 	add_trait = "scholar"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
 #	2950.1.1 = {
@@ -246,10 +247,9 @@
 	add_trait = "content"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2926.1.1 = { birth = 2926.1.1 } # dryga 40 (41)
-	# Dotter: Lewelly
 	2999.1.1 = { death = 2999.1.1 }
 }
 101015 = {
@@ -259,14 +259,14 @@
 
 	add_trait = "tough_soldier"
 	add_trait = "proud"
-
+	add_trait = "bastard"
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
+	father = 101000 # Eller?
 	mother = 101014
 
 	2946.1.1 = { birth = 2946.1.1 }
-	# Dotter: Lewelly
 	2999.1.1 = { death = 2999.1.1 }
 }
 101016 = { # Hertig, Negaidh
@@ -274,7 +274,7 @@
 	dynasty = 1008
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101200
 
 	2915.1.1 = { birth = 2915.1.1 }
@@ -285,7 +285,7 @@
 	dynasty = 1060
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101204
 	mother = 101203
 
@@ -297,7 +297,7 @@
 	dynasty = 1061
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101202
 
 	2915.1.1 = { birth = 2915.1.1 }
@@ -308,7 +308,7 @@
 	dynasty = 1100
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -318,7 +318,7 @@
 	dynasty = 1062
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -328,7 +328,7 @@
 	dynasty = 1150
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -338,20 +338,22 @@
 	dynasty = 1101
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101023 = { # Greve, Firina, Markis, Firina
-	name = "Severan" # Canin Haber?
+	name = "Severan"
 	dynasty = 1063
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
+	father = 101616
+	mother = 101617
 
-	2930.1.1 = { birth = 2930.1.1 }
-	2963.1.1 = { add_spouse = 101105 }
+	2921.1.1 = { birth = 2921.1.1 }
+	2950.1.1 = { add_spouse = 101606 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101024 = { # Markis, Nensema
@@ -359,7 +361,7 @@
 	dynasty = 1102
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -370,7 +372,7 @@
 	female = yes
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 	
 	2946.1.1 = { birth = 2946.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -380,7 +382,7 @@
 	dynasty = 1064
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -391,7 +393,7 @@
 	female = yes
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -401,7 +403,7 @@
 	dynasty = 1066
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2906.1.1 = { birth = 2906.1.1 }
 	# Två äldre döttrar än Fiorina
@@ -412,17 +414,17 @@
 	dynasty = 2001
 
 	culture = "pyar"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101030 = { # Greve, Skywif
-	name = "Valachen"
+	name = "Bundor"
 	dynasty = 1103
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -432,7 +434,7 @@
 	dynasty = 1067
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -442,7 +444,7 @@
 	dynasty = 1104
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -452,7 +454,7 @@
 	dynasty = 1105
 
 	culture = "perenn"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -462,7 +464,7 @@
 	dynasty = 1106
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -471,40 +473,42 @@
 	name = "Frederick"
 	dynasty = 1060 # Deluvien
 
-	culture = "conrier"
-	religion = "daak"
-	mother = 101040
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101717
+	mother = 101036
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2967.1.1 = { add_spouse = 102701 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101036 = {
-	name = "Kalina"
-	dynasty = 1107
+	name = "Ysana"
+	dynasty = 1060 # Deluvien
+	female = yes
 
-	culture = "perenn"
-	religion = "daak"
+	culture = "conrier"
+	religion = "sabrian_daak"
 
-	2940.1.1 = { birth = 2930.1.1 }
+	2910.1.1 = { birth = 2910.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-101037 = {
+101037 = { # Greve, Flarne
 	name = "Vinces"
 	dynasty = 1068
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2915.1.1 = { birth = 2915.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-101038 = {
+101038 = { # Greve, Arsacke
 	name = "Tardin"
 	dynasty = 1069
 
 	culture = "conrier"
-	religion = "daak"
+	religion = "sabrian_daak"
 
 	2915.1.1 = { birth = 2915.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -520,20 +524,9 @@
 	add_trait = "kind"
 
 	culture = "pyar"
-	religion = "daak"
+	religion = "sabrian_daak"
 	father = 101005
 
 	2955.1.1 = { birth = 2955.1.1 }
-	2999.1.1 = { death = 2999.1.1 }
-}
-101040 = {
-	name = "Ysana"
-	dynasty = 1060 # Deluvien
-	female = yes
-
-	culture = "conrier"
-	religion = "daak"
-
-	2910.1.1 = { birth = 2910.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }

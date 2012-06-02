@@ -1,0 +1,19 @@
+# Chuana
+
+# County Title
+title = c_chuana
+
+# Settlements
+max_settlements = 4
+
+b_chuana_castle = castle
+#b_chuana_city = city
+#b_chuana_temple = temple
+#b_chuana_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

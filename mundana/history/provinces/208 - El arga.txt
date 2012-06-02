@@ -1,0 +1,19 @@
+# El'arga
+
+# County Title
+title = c_el_arga
+
+# Settlements
+max_settlements = 4
+
+b_el_arga_castle = castle
+b_el_arga_city = city
+b_el_arga_city_1 = city
+#b_el_arga_temple = temple
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

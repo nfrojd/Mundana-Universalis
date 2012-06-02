@@ -1,0 +1,19 @@
+# Euter
+
+# County Title
+title = c_euter
+
+# Settlements
+max_settlements = 4
+
+b_euter_castle = castle
+#b_euter_city = city
+#b_euter_temple = temple
+#b_euter_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

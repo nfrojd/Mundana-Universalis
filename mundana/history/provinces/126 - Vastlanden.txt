@@ -1,0 +1,19 @@
+# Västlanden
+
+# County Title
+title = c_vastlanden
+
+# Settlements
+max_settlements = 4
+
+b_vastlanden_castle = castle
+#b_vastlanden_city = city
+#b_vastlanden_temple = temple
+#b_vastlanden_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

@@ -1,0 +1,19 @@
+# Cresnarney
+
+# County Title
+title = c_cresnarney
+
+# Settlements
+max_settlements = 4
+
+b_cresnarney_castle = castle
+#b_cresnarney_city = city
+#b_cresnarney_temple = temple
+#b_cresnarney_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

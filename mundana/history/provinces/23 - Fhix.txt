@@ -1,0 +1,19 @@
+# Fhix
+
+# County Title
+title = c_fhix
+
+# Settlements
+max_settlements = 4
+
+b_fhix_castle = castle
+#b_fhix_city = city
+#b_fhix_temple = temple
+#b_fhix_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History

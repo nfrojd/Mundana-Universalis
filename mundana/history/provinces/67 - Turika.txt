@@ -1,0 +1,19 @@
+# Turika
+
+# County Title
+title = c_turika
+
+# Settlements
+max_settlements = 4
+
+b_turika_castle = castle
+#b_turika_city = city
+#b_turika_temple = temple
+#b_turika_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

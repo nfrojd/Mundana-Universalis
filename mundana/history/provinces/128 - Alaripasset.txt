@@ -1,0 +1,19 @@
+# Alaripasset
+
+# County Title
+title = c_alaripasset
+
+# Settlements
+max_settlements = 4
+
+b_alaripasset_castle = castle
+#b_alaripasset_city = city
+#b_alaripasset_temple = temple
+#b_alaripasset_castle_1 = castle
+
+# Misc
+culture = learam
+religion = dragon_cult
+
+
+# History

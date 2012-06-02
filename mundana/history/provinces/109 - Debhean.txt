@@ -1,0 +1,19 @@
+# Debhean
+
+# County Title
+title = c_debhean
+
+# Settlements
+max_settlements = 4
+
+b_debhean_castle = castle
+b_debhean_city = city
+#b_debhean_temple = temple
+#b_debhean_castle_1 = castle
+
+# Misc
+culture = tokon
+religion = dragon_cult
+
+
+# History

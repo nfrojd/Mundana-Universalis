@@ -1,0 +1,19 @@
+# Svrox
+
+# County Title
+title = c_svrox
+
+# Settlements
+max_settlements = 4
+
+b_svrox_castle = castle
+b_svrox_city = city
+#b_svrox_temple = temple
+#b_svrox_castle_1 = castle
+
+# Misc
+culture = thalaskian
+religion = antitheist
+
+
+# History

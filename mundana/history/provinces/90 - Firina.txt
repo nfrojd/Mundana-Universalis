@@ -1,0 +1,19 @@
+# Firina
+
+# County Title
+title = c_firina
+
+# Settlements
+max_settlements = 4
+
+b_firina_castle = castle
+b_firina_city = city
+b_firina_temple = temple
+#b_firina_castle_1 = castle
+
+# Misc
+culture = perenn
+religion = sabrian_daak
+
+
+# History

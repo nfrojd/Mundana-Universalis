@@ -1,0 +1,19 @@
+# Wella
+
+# County Title
+title = c_wella
+
+# Settlements
+max_settlements = 4
+
+b_wella_castle = castle
+b_wella_city = city
+#b_wella_temple = temple
+#b_wella_castle_1 = castle
+
+# Misc
+culture = conrier
+religion = sabrian_daak
+
+
+# History
