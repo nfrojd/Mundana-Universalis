@@ -1,4 +1,4 @@
-# ID: 100XXX
+# ID: 100_1XX
 100000 = {
 	name = "Igar"
 	dynasty = 981

@@ -1,73 +1,65 @@
-# ID: 1012XX
-101111 = {
-	name = "Marlech"
-	dynasty = 1060
-
-	culture = "perenn"
-	religion = "sabrian_daak"
-
-	2932.1.1 = { birth = 2932.1.1 }
-	2999.1.1 = { death = 2999.1.1 }
-}
-
-101200 = { # Kungens farbror
-	name = "Conisbrough"
-	dynasty = 1008
-
-	culture = "conrier"
-	religion = "sabrian_daak"
-	father = 101585
-
-	2899.1.1 = { birth = 2899.1.1 }
-	2960.1.1 = { death = 2960.1.1 }
-}
-
-101201 = { # Kungens mor
-	name = "Tiana"
-	dynasty = 1061
-	female = yes
-
-	culture = "conrier"
-	religion = "sabrian_daak"
-	father = 101202
-
-	2897.1.1 = { birth = 2897.1.1 }
-	2955.1.1 = { death = 2955.1.1 }
-}
-
-101202 = { # Kungens morfar
-	name = "Taban"
-	dynasty = 1061
-
-	culture = "conrier"
-	religion = "sabrian_daak"
-
-	2875.1.1 = { birth = 2875.1.1 }
-	2950.1.1 = { death = 2950.1.1 }
-}
-
-101203 = { # Kungens faster
-	name = "Beana"
-	dynasty = 1008
-	female = yes
-
-	culture = "conrier"
-	religion = "sabrian_daak"
-	father = 101585
-
-	2895.1.1 = { birth = 2895.1.1 }
-	2960.1.1 = { death = 2960.1.1 }
-}
-
-101204 = { # Hertig Nensemas far
+# ID: 10_12XX
+101200 = { # Margans far
 	name = "Picar"
 	dynasty = 1060
 
 	culture = "conrier"
 	religion = "sabrian_daak"
 
-	2895.1.1 = { birth = 2895.1.1 }
-	2915.1.1 = { add_spouse = 101203 }
+	2896.1.1 = { birth = 2896.1.1 }
+	2905.1.1 = { add_spouse = 101201 }
 	2960.1.1 = { death = 2960.1.1 }
 }
+101201 = { # Margans mor
+	name = "Beana"
+	dynasty = 1065
+	female = yes
 
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2898.1.1 = { birth = 2898.1.1 }
+	2975.1.1 = { death = 2975.1.1 }
+}
+101202 = { # Girdans far
+	name = "Gerod"
+	dynasty = 1061
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2897.1.1 = { birth = 2897.1.1 }
+	2915.1.1 = { add_spouse = 101203 }
+	2962.1.1 = { death = 2962.1.1 }
+}
+101203 = { # Girdans mor
+	name = "Tiana"
+	dynasty = 1054
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2951.1.1 = { death = 2951.1.1 }
+}
+101204 = { # Nagors fru
+	name = "Owaine"
+	dynasty = 1057
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2907.1.1 = { birth = 2907.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101205 = { # Nagors mor
+	name = "Constance"
+	dynasty = 1053
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2884.1.1 = { birth = 2884.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

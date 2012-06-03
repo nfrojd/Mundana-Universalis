@@ -1,4 +1,4 @@
-# ID: 1016XX
+# ID: 10_16XX
 # Källa: Tiamelkampanjen
 101600 = {
 	name = "Tiamel"
@@ -134,7 +134,8 @@
 	culture = "perenn"
 	religion = "sabrian_daak"
 
-	2930.1.1 = { birth = 2930.1.1 }
+	2901.1.1 = { birth = 2901.1.1 }
+	2926.1.1 = { add_spouse = 101672 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101611 = {
@@ -482,6 +483,8 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101643
+	mother = 101205
 
 	2905.1.1 = { birth = 2905.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -509,17 +512,19 @@
 	2914.1.1 = { death = 2914.1.1 }
 }
 101642 = {
-	name = "Eregel"
-	dynasty = 1009
+	name = "Inalea"
+	dynasty = 1610
+	female = yes
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101665
+	mother = 101666
 
-	2930.1.1 = { birth = 2930.1.1 }
-	2953.1.1 = { add_spouse = 101638 }
+	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-101643 = {
+101643 = { # Kungens morfar
 	name = "Margan"
 	dynasty = 1009
 
@@ -527,9 +532,10 @@
 	religion = "sabrian_daak"
 
 	2887.1.1 = { birth = 2887.1.1 }
+	2915.1.1 = { add_spouse = 101205 }
 	2951.1.1 = { death = 2951.1.1 }
 }
-101644 = {
+101644 = { # Kungens mor
 	name = "Sana"
 	dynasty = 1009
 	female = yes
@@ -537,6 +543,7 @@
 	culture = "perenn"
 	religion = "sabrian_daak"
 	father = 101643
+	mother = 101205
 
 	2912.1.1 = { birth = 2912.1.1 }
 	2959.1.1 = { death = 2959.1.1 }
@@ -548,6 +555,7 @@
 	culture = "perenn"
 	religion = "sabrian_daak"
 	father = 101647
+	mother = 101664
 
 	2929.1.1 = { birth = 2929.1.1 }
 	2960.1.1 = { add_spouse = 101636 }
@@ -611,4 +619,594 @@
 
 	2879.1.1 = { birth = 2879.1.1 }
 	2931.1.1 = { death = 2931.1.1 }
+}
+101651 = { # Kungens faster
+	name = "Ysana"
+	dynasty = 1059
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101585
+
+	2913.1.1 = { birth = 2913.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101652 = { # Kungens farbror
+	name = "Walder"
+	dynasty = 1059
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101585
+
+	2904.1.1 = { birth = 2904.1.1 }
+	2925.1.1 = { add_spouse = 101653 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101653 = {
+	name = "Cadora"
+	dynasty = 1056
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101656
+
+	2910.1.1 = { birth = 2910.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101654 = { # Kungens kusin
+	name = "Marila"
+	dynasty = 1059
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101652
+	mother = 101653
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101655 = { # Kungens kusin
+	name = "Tordan"
+	dynasty = 1059
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101652
+	mother = 101653
+
+	2929.1.1 = { birth = 2929.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101656 = {
+	name = "Geverin"
+	dynasty = 1056
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2893.1.1 = { birth = 2893.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101657 = {
+	name = "Derber"
+	dynasty = 1056
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101656
+
+	2911.1.1 = { birth = 2911.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101658 = { # Grevens far
+	name = "Tufor"
+	dynasty = 1066
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2868.1.1 = { birth = 2868.1.1 }
+	2926.1.1 = { death = 2926.1.1 }
+}
+101659 = { # Grevens mor
+	name = "Ranna"
+	dynasty = 1603
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2865.1.1 = { birth = 2865.1.1 }
+	2911.1.1 = { death = 2911.1.1 }
+}
+101660 = {
+	name = "Alde"
+	dynasty = 1612
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101700
+	mother = 101618
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101661 = {
+	name = "Conred"
+	dynasty = 1612
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101700
+	mother = 101618
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2958.1.1 = { death = 2958.1.1 }
+}
+101662 = {
+	name = "Heri"
+	dynasty = 1612
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101700
+	mother = 101618
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101663 = {
+	name = "Halda"
+	dynasty = 1612
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101700
+	mother = 101618
+
+	2953.1.1 = { birth = 2953.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101664 = {
+	name = "Daria"
+	dynasty = 1601
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2910.1.1 = { birth = 2910.1.1 }
+	2963.1.1 = { death = 2963.1.1 }
+}
+101665 = {
+	name = "Merced"
+	dynasty = 1610
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2904.1.1 = { birth = 2904.1.1 }
+	2954.1.1 = { death = 2954.1.1 }
+}
+101666 = {
+	name = "Miranalya"
+	dynasty = 1600
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2911.1.1 = { birth = 2911.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101667 = {
+	name = "Belea"
+	dynasty = 1610
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101665
+	mother = 101666
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101668 = {
+	name = "Cadek"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2952.1.1 = { add_spouse = 101667 }
+	2956.1.1 = { death = 2956.1.1 }
+}
+101669 = {
+	name = "Celin"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101701
+	mother = 101642
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101670 = {
+	name = "Maras"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101701
+	mother = 101642
+
+	2953.1.1 = { birth = 2953.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101671 = {
+	name = "Miras"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101701
+	mother = 101642
+
+	2953.1.1 = { birth = 2953.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101672 = {
+	name = "Marila"
+	dynasty = 1601
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2905.1.1 = { birth = 2905.1.1 }
+	2952.1.1 = { death = 2952.1.1 }
+}
+101673 = {
+	name = "Alade"
+	dynasty = 1009
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101674 = {
+	name = "Inaly"
+	dynasty = 1009
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101675 = {
+	name = "Perania"
+	dynasty = 1009
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101676 = {
+	name = "Ivandar"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101677 = {
+	name = "Picar"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101678 = {
+	name = "Reben"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101679 = {
+	name = "Jiemes"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101680 = {
+	name = "Garna"
+	dynasty = 1009
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101681 = {
+	name = "Geverin"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101682 = {
+	name = "Futil"
+	dynasty = 1009
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101683 = {
+	name = "Jaina"
+	dynasty = 1009
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101684 = {
+	name = "Sober"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2921.1.1 = { add_spouse = 101685 }
+	2955.1.1 = { death = 2955.1.1 }
+}
+101685 = {
+	name = "Darina"
+	dynasty = 1610
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2952.1.1 = { death = 2952.1.1 }
+}
+101686 = {
+	name = "Welle"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101687 = {
+	name = "Ilwe"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2929.1.1 = { birth = 2929.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101688 = {
+	name = "Funsarat"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101689 = {
+	name = "Talyn"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2951.1.1 = { death = 2951.1.1 }
+}
+101690 = {
+	name = "Elsgita"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101691 = {
+	name = "Taldar"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101692 = {
+	name = "Ebot"
+	dynasty = 1613
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101693 = {
+	name = "Rauna"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101694 = {
+	name = "Indina"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101695 = {
+	name = "Gwelna"
+	dynasty = 1613
+	female = yes
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101696 = {
+	name = "Pelen"
+	dynasty = 1654
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101697
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2935.1.1 = { add_spouse = 101686 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101697 = {
+	name = "Verber"
+	dynasty = 1654
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2967.1.1 = { death = 2967.1.1 }
+}
+101698 = {
+	name = "Saber"
+	dynasty = 1654
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+	father = 101697
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2955.1.1 = { add_spouse = 101693 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101699 = {
+	name = "Rumach"
+	dynasty = 1601
+
+	culture = "perenn"
+	religion = "sabrian_daak"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2961.1.1 = { add_spouse = 101695 }
+	2999.1.1 = { death = 2999.1.1 }
 }

@@ -1,4 +1,4 @@
-# ID: 1017XX
+# ID: 10_17XX
 # Källa: Tiamelkampanjen
 101700 = { # Baron, Kardor
 	name = "Heri"
@@ -7,7 +7,8 @@
 	culture = "perenn"
 	religion = "sabrian_daak"
 
-	2921.1.1 = { birth = 2921.1.1 }
+	2917.1.1 = { birth = 2917.1.1 }
+	2945.1.1 = { add_spouse = 101618 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101701 = { # Baron, Skenetrip
@@ -16,8 +17,11 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101684
+	mother = 101685
 
-	2937.1.1 = { birth = 2937.1.1 }
+	2930.1.1 = { birth = 2930.1.1 }
+	2955.1.1 = { add_spouse = 101642 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101702 = { # Baron, Bret
@@ -108,8 +112,10 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101665
+	mother = 101666
 
-	2927.1.1 = { birth = 2927.1.1 }
+	2931.1.1 = { birth = 2931.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101711 = { # Greve, Picarel
@@ -128,8 +134,11 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
 
-	2933.1.1 = { birth = 2933.1.1 }
+	2930.1.1 = { birth = 2930.1.1 }
+	2953.1.1 = { add_spouse = 101638 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101713 = { # Baron, Kalo
@@ -138,8 +147,10 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101007
+	mother = 101204
 
-	2945.1.1 = { birth = 2945.1.1 }
+	2929.1.1 = { birth = 2929.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101714 = { # Greve, Elara
@@ -180,7 +191,6 @@
 	religion = "sabrian_daak"
 
 	2910.1.1 = { birth = 2910.1.1 }
-	2935.1.1 = { add_spouse = 101036 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101718 = { # Baron, Nana
@@ -319,8 +329,9 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101619
 
-	2924.1.1 = { birth = 2924.1.1 }
+	2947.1.1 = { birth = 2947.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101732 = { # Baron, Laer
@@ -481,7 +492,8 @@
 	culture = "perenn"
 	religion = "sabrian_daak"
 
-	2925.1.1 = { birth = 2925.1.1 }
+	2942.1.1 = { birth = 2942.1.1 }
+	2966.1.1 = { add_spouse = 101611 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101748 = { # Baron, Grike

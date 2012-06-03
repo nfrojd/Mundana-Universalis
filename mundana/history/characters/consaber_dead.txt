@@ -1,4 +1,4 @@
-# ID: 1015XX
+# ID: 10_15XX
 # Källa: Consaber 10-11
 101500 = {
 	name = "Conner"
@@ -1054,8 +1054,8 @@
 	religion = "sabrian_daak"
 	father = 101585
 
-	2895.1.1 = { birth = "2895.1.1" }
-	2915.1.1 = { add_spouse = 101201 }
+	2902.1.1 = { birth = "2902.1.1" }
+	2913.1.1 = { add_spouse = 101644 }
 	2951.1.1 = { death = "2951.1.1" }
 }
 

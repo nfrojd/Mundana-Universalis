@@ -736,6 +736,14 @@
 	name = "Zimaton"
 	culture = perenn
 }
+1654 = {
+	name = "Hoster"
+	culture = perenn
+}
+1655 = {
+	name = "Tremor"
+	culture = perenn
+}
 
 
 2000 = {
