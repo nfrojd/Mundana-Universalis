@@ -15,3 +15,7 @@ religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_remezior_krack = ca_keep_1
+	b_kholam_renk_ghor = ca_dwarven_keep_1
+}

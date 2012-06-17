@@ -1,10 +1,10 @@
-# ID: 100_1XX
+# ID: 10_00XX
 100000 = {
 	name = "Igar"
 	dynasty = 981
 
 	martial = 2
-	diplomacy = 8
+	diplomacy = 10
 	intrigue = 7
 	stewardship = 7
 	learning = 7
@@ -57,9 +57,18 @@
 	culture = "harim"
 	religion = "antitheist"
 
-	2930.1.1 = { birth = 2930.1.1 }
+	2910.1.1 = { birth = 2910.1.1 }
 	2961.1.1 = { 
+			employer = 100000
 			add_claim = k_colonan
+			add_claim = d_colonan
+			add_claim = d_victaron
+			add_claim = c_colonan
+			add_claim = c_polon
+			add_claim = c_shia
+			add_claim = c_apax
+			add_claim = c_rubis
+			add_claim = c_victaron
 	}
 	2999.1.1 = { death = 2999.1.1 }
 }
@@ -79,7 +88,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	2875.1.1 = { birth = 2875.1.1 } #age 92
+	2870.1.1 = { birth = 2870.1.1 } #age 92
 	2999.1.1 = { death = 2999.1.1 }
 }
 100004 = {
@@ -98,7 +107,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	2750.1.1 = { birth = 2750.1.1 } #age 217
+	2900.1.1 = { birth = 2900.1.1 } #age 217
 	2999.1.1 = { death = 2999.1.1 }
 }
 100005 = {
@@ -120,7 +129,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	2930.1.1 = { birth = 2930.1.1 }
+	2900.1.1 = { birth = 2900.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100006 = {
@@ -139,9 +148,16 @@
 	culture = "sanari" #abhixia
 	religion = "antitheist"
 
-	2930.1.1 = { birth = 2930.1.1 }
+	2900.1.1 = { birth = 2900.1.1 }
 	2961.1.1 = { 
+			employer = 100000
 			add_claim = k_pereine
+			add_claim = d_ireda
+			add_claim = d_perina
+			add_claim = c_ireda
+			add_claim = c_pher
+			add_claim = c_derien
+			add_claim = c_perina
 	}
 	2999.1.1 = { death = 2999.1.1 }
 }
@@ -162,7 +178,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	2930.1.1 = { birth = 2930.1.1 }
+	2900.1.1 = { birth = 2900.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 100008 = {
@@ -181,7 +197,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	2880.1.1 = { birth = 2880.1.1 } #age 87
+	2910.1.1 = { birth = 2910.1.1 } #age 87
 #	2935.1.1 = {
 #		add_rival = { id = 100006 idtype = 44 }
 #		add_rival = { id = 100002 idtype = 44 }
@@ -193,11 +209,11 @@
 #	dynasty = "Xinu"
 	female = yes
 
-	martial = 3
-	diplomacy = 3
+	martial = 5
+	diplomacy = 10
 	intrigue = 15
-	stewardship = 3
-	learning = 3
+	stewardship = 6
+	learning = 10
 	add_trait = "elusive_shadow"
 	add_trait = "lustful"
 	add_trait = "fair"
@@ -207,7 +223,7 @@
 	culture = "thalaskian"
 	religion = "antitheist"
 
-	2930.1.1 = { birth = 2930.1.1 }
+	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 
@@ -422,4 +438,24 @@
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-# Samt Rakhori
+100028 = {
+	name = "Kheran Vurghir" #Harims krigsplaner, p98, Primas, Therga
+	dynasty = 885
+
+	culture = "harim"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100029 = {
+	name = "Volokia Hagira" #Harims krigsplaner, p98
+	dynasty = 882
+	female = yes
+
+	culture = "harim"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}# Samt Rakhori

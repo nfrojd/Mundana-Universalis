@@ -1,4 +1,4 @@
 2950.1.1 = {
 	liege="d_khor"
-	holder=100005
+	holder=100436
 }

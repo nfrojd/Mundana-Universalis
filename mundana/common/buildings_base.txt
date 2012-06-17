@@ -1,0 +1,27 @@
+# Overview
+# Castle (44)
+# * Wall (1-6) ca_wall_#
+# * Keep (1-6) ca_keep_#
+# * Dwarven Keep (1-6) ca_dwarven_keep_#
+#
+# City (42)
+# * Wall (1-6) ct_wall_#
+# * Town (1-6) ct_town_#
+# * Port (1-6) ct_port_#
+#
+# Temple (30)
+# * Wall (1-6) tp_wall_#
+# * Academy (1-6) tp_academy_#
+# * Barracks (1-6) tp_barracks_#
+#
+# Triggers are in Province scope. The From Scope contains the settlement holder (character)
+# start trigger is in title scope.
+
+castle = {
+}
+
+city = {
+}
+
+temple = {
+}

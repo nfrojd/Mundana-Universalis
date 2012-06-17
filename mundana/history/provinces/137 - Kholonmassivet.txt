@@ -14,3 +14,9 @@ religion = vontar
 
 
 # History
+1000.1.1 = {
+	b_kholon_renk_roghan = ca_dwarven_keep_1
+	b_kholon_renk_roghan = ca_dwarven_keep_2
+	b_kholon_renk_roghan = ca_dwarven_keep_3
+	b_kholon_renk_roghan = ca_dwarven_keep_4
+}

@@ -1,0 +1,551 @@
+# ID: 10_23XX
+102300 = {
+	name = "Samhan"
+	dynasty = 801
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2949.1.1 = { add_spouse = 102325 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102301 = {
+	name = "Palov"
+	dynasty = 802
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2966.1.1 = { add_spouse = 102326 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102302 = {
+	name = "Im-berefel"
+	dynasty = 802
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2942.1.1 = { add_spouse = 102327 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102303 = {
+	name = "Vashin"
+	dynasty = 812
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2954.1.1 = { add_spouse = 102328 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102304 = {
+	name = "Beló"
+	dynasty = 805
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2950.1.1 = { add_spouse = 102329 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102305 = {
+	name = "Oroga"
+	dynasty = 802
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2955.1.1 = { add_spouse = 102330 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102306 = {
+	name = "Ash"
+	dynasty = 800
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2942.1.1 = { add_spouse = 102331 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102307 = {
+	name = "Efram"
+	dynasty = 801
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2955.1.1 = { add_spouse = 102332 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102308 = {
+	name = "Lashtor"
+	dynasty = 807
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2950.1.1 = { add_spouse = 102333 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102309 = {
+	name = "Ash"
+	dynasty = 811
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2962.1.1 = { add_spouse = 102334 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102310 = {
+	name = "Drach"
+	dynasty = 803
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2928.1.1 = { birth = 2928.1.1 }
+	2948.1.1 = { add_spouse = 102335 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102311 = {
+	name = "Suyan"
+	dynasty = 802
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2913.1.1 = { birth = 2913.1.1 }
+	2937.1.1 = { add_spouse = 102336 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102312 = {
+	name = "Voloch"
+	dynasty = 805
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2961.1.1 = { add_spouse = 102337 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102313 = {
+	name = "Padir"
+	dynasty = 801
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2909.1.1 = { birth = 2909.1.1 }
+	2938.1.1 = { add_spouse = 102338 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102314 = {
+	name = "Igvand"
+	dynasty = 809
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2946.1.1 = { add_spouse = 102339 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102315 = {
+	name = "Haral"
+	dynasty = 801
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2937.1.1 = { add_spouse = 102340 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102316 = {
+	name = "Noratha"
+	dynasty = 806
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2965.1.1 = { add_spouse = 102341 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102317 = {
+	name = "Garad"
+	dynasty = 812
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2938.1.1 = { add_spouse = 102342 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102318 = {
+	name = "Sanguis"
+	dynasty = 806
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2954.1.1 = { add_spouse = 102343 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102319 = {
+	name = "Nadir"
+	dynasty = 812
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2961.1.1 = { add_spouse = 102344 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102320 = {
+	name = "Takhim"
+	dynasty = 804
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2910.1.1 = { birth = 2910.1.1 }
+	2939.1.1 = { add_spouse = 102345 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102321 = {
+	name = "Qamak"
+	dynasty = 812
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2913.1.1 = { birth = 2913.1.1 }
+	2938.1.1 = { add_spouse = 102346 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102322 = {
+	name = "Voloch"
+	dynasty = 806
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2943.1.1 = { add_spouse = 102347 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102323 = {
+	name = "Zifem"
+	dynasty = 812
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2955.1.1 = { add_spouse = 102348 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102324 = {
+	name = "Iznogud"
+	dynasty = 807
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2952.1.1 = { add_spouse = 102349 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102325 = {
+	name = "Lyshana"
+	dynasty = 802
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102326 = {
+	name = "Sadara"
+	dynasty = 812
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102327 = {
+	name = "Liselle"
+	dynasty = 810
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2912.1.1 = { birth = 2912.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102328 = {
+	name = "Haryena"
+	dynasty = 807
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102329 = {
+	name = "Kalina"
+	dynasty = 810
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2928.1.1 = { birth = 2928.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102330 = {
+	name = "Volokia"
+	dynasty = 807
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102331 = {
+	name = "Sadara"
+	dynasty = 804
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102332 = {
+	name = "Piana"
+	dynasty = 800
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2927.1.1 = { birth = 2927.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102333 = {
+	name = "Talya"
+	dynasty = 812
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2918.1.1 = { birth = 2918.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102334 = {
+	name = "Elias"
+	dynasty = 802
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102335 = {
+	name = "Odia"
+	dynasty = 808
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102336 = {
+	name = "Ydia"
+	dynasty = 806
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2909.1.1 = { birth = 2909.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102337 = {
+	name = "Zema"
+	dynasty = 807
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102338 = {
+	name = "Revana"
+	dynasty = 808
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102339 = {
+	name = "Viena"
+	dynasty = 800
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2916.1.1 = { birth = 2916.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102340 = {
+	name = "Amida"
+	dynasty = 801
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2909.1.1 = { birth = 2909.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102341 = {
+	name = "Volokia"
+	dynasty = 802
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102342 = {
+	name = "Ziana"
+	dynasty = 804
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102343 = {
+	name = "Odia"
+	dynasty = 801
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102344 = {
+	name = "Jesana"
+	dynasty = 809
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102345 = {
+	name = "Kalina"
+	dynasty = 805
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2901.1.1 = { birth = 2901.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102346 = {
+	name = "Volokia"
+	dynasty = 805
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2909.1.1 = { birth = 2909.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102347 = {
+	name = "Beyuni"
+	dynasty = 806
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2911.1.1 = { birth = 2911.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102348 = {
+	name = "Fatia"
+	dynasty = 805
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102349 = {
+	name = "Piana"
+	dynasty = 809
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2918.1.1 = { birth = 2918.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

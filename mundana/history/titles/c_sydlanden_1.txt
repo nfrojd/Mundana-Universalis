@@ -1,4 +1,4 @@
 2950.1.1 = {
-	liege="d_sydlanden"
-	holder=102700
+	liege="k_alarinn"
+	holder=102808
 }

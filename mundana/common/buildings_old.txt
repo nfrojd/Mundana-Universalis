@@ -1,0 +1,1874 @@
+# Overview
+# Castle (44)
+# * Wall (1-6) ca_wall_#
+# * Town (1-6) ca_town_#
+# * Keep (1-6) ca_keep_#
+# * Militia barracks (1-6) ca_militia_barracks_#
+# * Barracks (1-6) ca_barracks_#
+# * Stable (1-6) ca_stable_#
+# * Training grounds (1-6) ca_training_grounds_#
+# * Port (1-2)+1 ca_port_#
+# * Dwarven Keep (1-6) ca_dwarven_keep_#
+#
+# City (42)
+# * Wall (1-6) ct_wall_#
+# * Marketplace (1-6) ct_marketplace_#
+# * Guard (1-6) ct_guard_#
+# * Barracks (1-6) ct_barracks_#
+# * University (1-6) ct_university_#
+# * Training grounds (1-6) ct_training_grounds_#
+# * Port (1-6) ct_port_#
+#
+# Temple (30)
+# * Wall (1-6) tp_wall_#
+# * Monastery (1-6) tp_monastery_#
+# * Elite barracks (1-6) tp_elite_barracks_#
+# * Barracks (1-6) tp_barracks_#
+# * School (1-6) tp_school_#
+#
+# Triggers are in Province scope. The From Scope contains the settlement holder (character)
+# start trigger is in title scope.
+
+castle = {
+	#Walls gives fortlevel
+	ca_wall_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_wall_2 = {
+		upgrades_from = ca_wall_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_wall_3 = {
+		upgrades_from = ca_wall_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_wall_4 = {
+		upgrades_from = ca_wall_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_wall_5 = {
+		upgrades_from = ca_wall_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_wall_6 = {
+		upgrades_from = ca_wall_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Castle town, gives income
+	ca_town_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		tax_income = 2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_town_2 = {
+		upgrades_from = ca_town_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		tax_income = 2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_town_3 = {
+		upgrades_from = ca_town_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		tax_income = 2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_town_4 = {
+		upgrades_from = ca_town_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		tax_income = 2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_town_5 = {
+		upgrades_from = ca_town_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		tax_income = 2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_town_6 = {
+		upgrades_from = ca_town_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		tax_income = 2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Keeps, gives levy and garrison size
+	ca_keep_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		fort_level = 1.0
+		land_morale = 0.1
+		light_infantry = 30
+		heavy_infantry = 60
+		light_cavalry = 10
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_keep_2 = {
+		upgrades_from = ca_keep_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		fort_level = 1.0
+		land_morale = 0.1
+		light_infantry = 30
+		heavy_infantry = 60
+		light_cavalry = 10
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_keep_3 = {
+		upgrades_from = ca_keep_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		fort_level = 1.0
+		land_morale = 0.1
+		light_infantry = 30
+		heavy_infantry = 60
+		light_cavalry = 10
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_keep_4 = {
+		upgrades_from = ca_keep_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		fort_level = 1.0
+		land_morale = 0.1
+		light_infantry = 30
+		heavy_infantry = 60
+		light_cavalry = 10
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_keep_5 = {
+		upgrades_from = ca_keep_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		fort_level = 1.0
+		land_morale = 0.1
+		light_infantry = 30
+		heavy_infantry = 60
+		light_cavalry = 10
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_keep_6 = {
+		upgrades_from = ca_keep_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		fort_level = 1.0
+		land_morale = 0.1
+		light_infantry = 30
+		heavy_infantry = 60
+		light_cavalry = 10
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	# Militia barracks, gives light infantry and archers.
+	ca_militia_barracks_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_militia_barracks_2 = {
+		upgrades_from = ca_militia_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_militia_barracks_3 = {
+		upgrades_from = ca_militia_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_militia_barracks_4 = {
+		upgrades_from = ca_militia_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_militia_barracks_5 = {
+		upgrades_from = ca_militia_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_militia_barracks_6 = {
+		upgrades_from = ca_militia_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+	
+	# Barracks, gives heavy infantry and pikemen
+	ca_barracks_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		heavy_infantry = 75
+		pikemen = 25
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_barracks_2 = {
+		upgrades_from = ca_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		heavy_infantry = 75
+		pikemen = 25
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_barracks_3 = {
+		upgrades_from = ca_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		heavy_infantry = 75
+		pikemen = 25
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_barracks_4 = {
+		upgrades_from = ca_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		heavy_infantry = 75
+		pikemen = 25
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_barracks_5 = {
+		upgrades_from = ca_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		heavy_infantry = 75
+		pikemen = 25
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_barracks_6 = {
+		upgrades_from = ca_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		heavy_infantry = 75
+		pikemen = 25
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Stable, gives light cavalry and some heavy cavalry
+	ca_stable_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		light_cavalry = 40
+		knights = 10
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_stable_2 = {
+		upgrades_from = ca_stable_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		light_cavalry = 40
+		knights = 10
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_stable_3 = {
+		upgrades_from = ca_stable_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		light_cavalry = 40
+		knights = 10
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_stable_4 = {
+		upgrades_from = ca_stable_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		light_cavalry = 40
+		knights = 10
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_stable_5 = {
+		upgrades_from = ca_stable_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		light_cavalry = 40
+		knights = 10
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_stable_6 = {
+		upgrades_from = ca_stable_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		light_cavalry = 40
+		knights = 10
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Training grounds, gives morale and reinforce rate
+	ca_training_grounds_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_training_grounds_2 = {
+		upgrades_from = ca_training_grounds_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_training_grounds_3 = {
+		upgrades_from = ca_training_grounds_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_training_grounds_4 = {
+		upgrades_from = ca_training_grounds_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_training_grounds_5 = {
+		upgrades_from = ca_training_grounds_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_training_grounds_6 = {
+		upgrades_from = ca_training_grounds_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+	
+	#Port gives income and ships
+	ca_port_1 = {
+		potential = {
+			port = yes
+		}
+		build_time = 1
+		build_cost = 200
+#		build_time = 365 #1y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_port_2 = {
+		potential = {
+			port = yes
+		}
+		upgrades_from = ca_port_1
+		build_time = 1
+		build_cost = 500
+#		build_time = 730 #2y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	
+	#Dwarven keeps, gives levy and garrison size
+	ca_dwarven_keep_1 = {
+		potential = {
+			culture_group = dwarven
+		}
+		build_time = 1
+		build_cost = 1000
+#		build_time = 365 #1y
+		fort_level = 3.0
+		land_morale = 0.1
+		heavy_infantry = 200
+		archers = 100
+		pikemen = 100
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ca_dwarven_keep_2 = {
+		potential = {
+			culture_group = dwarven
+		}
+		upgrades_from = ca_dwarven_keep_1
+		build_time = 1
+		build_cost = 2000
+#		build_time = 730 #2y
+		fort_level = 3.0
+		land_morale = 0.1
+		heavy_infantry = 400
+		archers = 200
+		pikemen = 200
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ca_dwarven_keep_3 = {
+		potential = {
+			culture_group = dwarven
+		}
+		upgrades_from = ca_dwarven_keep_2
+		build_time = 1
+		build_cost = 5000
+#		build_time = 1095 #3y
+		fort_level = 3.0
+		land_morale = 0.1
+		heavy_infantry = 800
+		archers = 400
+		pikemen = 400
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ca_dwarven_keep_4 = {
+		potential = {
+			culture_group = dwarven
+		}
+		upgrades_from = ca_dwarven_keep_3
+		build_time = 1
+		build_cost = 10000
+#		build_time = 1460 #4y
+		fort_level = 3.0
+		land_morale = 0.1
+		heavy_infantry = 1600
+		archers = 800
+		pikemen = 800
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ca_dwarven_keep_5 = {
+		potential = {
+			culture_group = dwarven
+		}
+		upgrades_from = ca_dwarven_keep_4
+		build_time = 1
+		build_cost = 20000
+#		build_time = 1825 #5y
+		fort_level = 3.0
+		land_morale = 0.1
+		heavy_infantry = 3200
+		archers = 1600
+		pikemen = 1600
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ca_dwarven_keep_6 = {
+		potential = {
+			culture_group = dwarven
+		}
+		upgrades_from = ca_dwarven_keep_5
+		build_time = 1
+		build_cost = 50000
+#		build_time = 2190 #6y
+		fort_level = 3.0
+		land_morale = 0.1
+		heavy_infantry = 6400
+		archers = 3200
+		pikemen = 3200
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+}
+
+city = {
+	#Walls gives fortlevel
+	ct_wall_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_wall_2 = {
+		upgrades_from = ct_wall_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_wall_3 = {
+		upgrades_from = ct_wall_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_wall_4 = {
+		upgrades_from = ct_wall_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_wall_5 = {
+		upgrades_from = ct_wall_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_wall_6 = {
+		upgrades_from = ct_wall_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Castle town, gives income
+	ct_marketplace_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		tax_income = 2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_marketplace_2 = {
+		upgrades_from = ct_marketplace_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		tax_income = 2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_marketplace_3 = {
+		upgrades_from = ct_marketplace_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		tax_income = 2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_marketplace_4 = {
+		upgrades_from = ct_marketplace_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		tax_income = 2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_marketplace_5 = {
+		upgrades_from = ct_marketplace_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		tax_income = 2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_marketplace_6 = {
+		upgrades_from = ct_marketplace_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		tax_income = 2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#City guard quarters
+	ct_guard_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_guard_2 = {
+		upgrades_from = ct_guard_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_guard_3 = {
+		upgrades_from = ct_guard_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_guard_4 = {
+		upgrades_from = ct_guard_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_guard_5 = {
+		upgrades_from = ct_guard_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_guard_6 = {
+		upgrades_from = ct_guard_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	# Militia barracks, gives light infantry and archers.
+	ct_barracks_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_barracks_2 = {
+		upgrades_from = ct_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_barracks_3 = {
+		upgrades_from = ct_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_barracks_4 = {
+		upgrades_from = ct_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_barracks_5 = {
+		upgrades_from = ct_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_barracks_6 = {
+		upgrades_from = ct_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+	
+	#Stable, gives light cavalry and some heavy cavalry
+	ct_university_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_university_2 = {
+		upgrades_from = ct_university_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_university_3 = {
+		upgrades_from = ct_university_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_university_4 = {
+		upgrades_from = ct_university_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_university_5 = {
+		upgrades_from = ct_university_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_university_6 = {
+		upgrades_from = ct_university_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Training grounds, gives morale and reinforce rate
+	ct_training_grounds_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_training_grounds_2 = {
+		upgrades_from = ct_training_grounds_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_training_grounds_3 = {
+		upgrades_from = ct_training_grounds_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_training_grounds_4 = {
+		upgrades_from = ct_training_grounds_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_training_grounds_5 = {
+		upgrades_from = ct_training_grounds_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_training_grounds_6 = {
+		upgrades_from = ct_training_grounds_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		levy_reinforce_rate = 0.1
+		levy_size = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+	
+	#Port gives income and ships
+	ct_port_1 = {
+		potential = {
+			port = yes
+		}
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	ct_port_2 = {
+		potential = {
+			port = yes
+		}
+		upgrades_from = ct_port_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	ct_port_3 = {
+		potential = {
+			port = yes
+		}
+		upgrades_from = ct_port_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	ct_port_4 = {
+		potential = {
+			port = yes
+		}
+		upgrades_from = ct_port_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	ct_port_5 = {
+		potential = {
+			port = yes
+		}
+		upgrades_from = ct_port_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	ct_port_6 = {
+		potential = {
+			port = yes
+		}
+		upgrades_from = ct_port_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		tax_income = 2
+		galleys = 10
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+}
+
+temple = {
+	#Walls gives fortlevel
+	tp_wall_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_wall_2 = {
+		upgrades_from = tp_wall_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_wall_3 = {
+		upgrades_from = tp_wall_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_wall_4 = {
+		upgrades_from = tp_wall_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_wall_5 = {
+		upgrades_from = tp_wall_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_wall_6 = {
+		upgrades_from = tp_wall_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		fort_level = 1.0
+		garrison_size = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Castle town, gives income
+	tp_town_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		tax_income = 2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_town_2 = {
+		upgrades_from = tp_town_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		tax_income = 2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_town_3 = {
+		upgrades_from = tp_town_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		tax_income = 2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_town_4 = {
+		upgrades_from = tp_town_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		tax_income = 2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_town_5 = {
+		upgrades_from = tp_town_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		tax_income = 2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_town_6 = {
+		upgrades_from = tp_town_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		tax_income = 2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	#Monastery size
+	tp_monastery_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_monastery_2 = {
+		upgrades_from = tp_monastery_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_monastery_3 = {
+		upgrades_from = tp_monastery_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_monastery_4 = {
+		upgrades_from = tp_monastery_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_monastery_5 = {
+		upgrades_from = tp_monastery_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_monastery_6 = {
+		upgrades_from = tp_monastery_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		archers = 25
+		pikemen = 75
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	# Militia barracks, gives light infantry and archers.
+	tp_barracks_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_2 = {
+		upgrades_from = tp_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_3 = {
+		upgrades_from = tp_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_4 = {
+		upgrades_from = tp_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_5 = {
+		upgrades_from = tp_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_6 = {
+		upgrades_from = tp_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		light_infantry = 100
+		archers = 50
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	# Holy order
+	tp_elite_barracks_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		light_infantry = 100
+		knights = 25
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_elite_barracks_2 = {
+		upgrades_from = tp_elite_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		light_infantry = 100
+		knights = 25
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_elite_barracks_3 = {
+		upgrades_from = tp_elite_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		light_infantry = 100
+		knights = 25
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_elite_barracks_4 = {
+		upgrades_from = tp_elite_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		light_infantry = 100
+		knights = 25
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_elite_barracks_5 = {
+		upgrades_from = tp_elite_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		light_infantry = 100
+		knights = 25
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_elite_barracks_6 = {
+		upgrades_from = tp_elite_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		heavy_infantry = 75
+		knights = 25
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+	
+	#Stable, gives light cavalry and some heavy cavalry
+	tp_school_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_school_2 = {
+		upgrades_from = tp_school_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_school_3 = {
+		upgrades_from = tp_school_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_school_4 = {
+		upgrades_from = tp_school_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_school_5 = {
+		upgrades_from = tp_school_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_school_6 = {
+		upgrades_from = tp_school_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+		tech_growth_modifier = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+}

@@ -6,14 +6,14 @@ title = c_polon
 # Settlements
 max_settlements = 4
 
-b_polon_castle = castle
 b_polon_city = city
+b_polon_castle = castle
 #b_polon_temple = temple
 #b_polon_castle_1 = castle
 
 # Misc
 culture = thalaskian
-religion = antitheist
+religion = sabrian_daak
 
 
 # History

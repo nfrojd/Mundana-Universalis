@@ -1,4 +1,4 @@
-# Niéfinse
+# Níefinse
 
 # County Title
 title = c_niefinse

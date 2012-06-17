@@ -1,4 +1,4 @@
-# ID: 103XXX
+# ID: 10_30XX
 103000 = {
 	name = "Jhim" # Colm
 	dynasty = 3000 #Ghazarim

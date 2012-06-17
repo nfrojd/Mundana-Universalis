@@ -3,6 +3,54 @@
 	name = "Khavos"
 	culture = thalaskian
 }
+801 = {
+	name = "Khanov"
+	culture = thalaskian
+}
+802 = {
+	name = "Turgan"
+	culture = thalaskian
+}
+803 = {
+	name = "Véreta"
+	culture = thalaskian
+}
+804 = {
+	name = "Charovilad"
+	culture = thalaskian
+}
+805 = {
+	name = "Izmerald"
+	culture = thalaskian
+}
+806 = {
+	name = "Yelvinko"
+	culture = thalaskian
+}
+807 = {
+	name = "Jeznyavo"
+	culture = thalaskian
+}
+808 = {
+	name = "Revo"
+	culture = thalaskian
+}
+809 = {
+	name = "Tiandra"
+	culture = thalaskian
+}
+810 = {
+	name = "Thaloum"
+	culture = thalaskian
+}
+811 = {
+	name = "Galjenko"
+	culture = thalaskian
+}
+812 = {
+	name = "Hader"
+	culture = thalaskian
+}
 820 = {
 	name = "Argadan"
 	culture = abhixia
@@ -754,6 +802,11 @@
 	name = "Vimari"
 	culture = pyar
 }
+2100 = {
+	name = "Rudani"
+	culture = pyar
+}
+
 2200 = {
 	name = "Visha"
 	culture = sanari
@@ -761,31 +814,6 @@
 2201 = {
 	name = "Ninarian"
 	culture = sanari
-}
-
-2100 = {
-	name = "Rudani"
-	culture = pyar
-}
-2700 = {
-	name = "Dah'touin"
-	culture = learam
-}
-2701 = {
-	name = "Kentai'y"
-	culture = learam
-}
-2702 = {
-	name = "Veísidh"
-	culture = learam
-}
-2703 = {
-	name = "Nan'sela"
-	culture = learam
-}
-2704 = {
-	name = "Silarna"
-	culture = learam
 }
 
 2400 = {
@@ -840,10 +868,33 @@
 	name = "Mùlaigh"
 	culture = tokon
 }
+
+2700 = {
+	name = "Dah'touin"
+	culture = learam
+}
+2701 = {
+	name = "Kentai'y"
+	culture = learam
+}
+2702 = {
+	name = "Veísidh"
+	culture = learam
+}
+2703 = {
+	name = "Nan'sela"
+	culture = learam
+}
+2704 = {
+	name = "Silarna"
+	culture = learam
+}
+
 3000 = {
 	name = "Ghazarim"
 	culture = cirefalier
 }
+
 4000 = {
 	name = "Vihar"
 	culture = ghor

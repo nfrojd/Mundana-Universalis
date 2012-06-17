@@ -46,6 +46,7 @@
 101204 = { # Nagors fru
 	name = "Owaine"
 	dynasty = 1057
+	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
@@ -56,10 +57,11 @@
 101205 = { # Nagors mor
 	name = "Constance"
 	dynasty = 1053
+	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
 
 	2884.1.1 = { birth = 2884.1.1 }
-	2999.1.1 = { death = 2999.1.1 }
+	2921.1.1 = { death = 2921.1.1 }
 }

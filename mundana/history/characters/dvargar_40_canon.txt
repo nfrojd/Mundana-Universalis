@@ -1,4 +1,4 @@
-# ID: 104XXX
+# ID: 10_40XX
 # Kholam-renk-Ghor
 # Narekh-renk-Ghor
 # Kholon-renk-Ghor-Drezin

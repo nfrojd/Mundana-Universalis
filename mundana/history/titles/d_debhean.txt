@@ -1,4 +1,3 @@
 2950.1.1 = {
-	liege="k_tokon"
-	holder=102400
+	holder=0
 }

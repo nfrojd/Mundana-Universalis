@@ -18,3 +18,14 @@ religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_salston_tor_castle = ca_keep_1
+	b_salston_tor_castle = ca_keep_2
+	b_salston_tor_castle = ca_wall_1
+	b_salston_tor_castle = ca_wall_2
+	b_salston_tor_castle = ca_wall_3
+	b_salston_tor_city = ct_town_1
+	b_salston_tor_city = ct_wall_1
+	b_salston_tor_castle_1 = ca_keep_1
+	b_salston_tor_castle_1 = ca_wall_1
+}

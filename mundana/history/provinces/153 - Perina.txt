@@ -6,14 +6,24 @@ title = c_perina
 # Settlements
 max_settlements = 4
 
-b_perina_castle = castle
 b_perina_city = city
+b_perina_castle = castle
 b_perina_temple = temple
 #b_perina_castle_1 = castle
 
 # Misc
 culture = thalaskian
-religion = antitheist
+religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_perina_city = ct_port_1
+	b_perina_city = ct_port_2
+	b_perina_city = ct_port_3
+	b_perina_city = ct_port_4
+	b_perina_castle = ca_keep_1
+	b_perina_castle = ca_keep_2
+	b_perina_castle = ca_wall_1
+	b_perina_castle = ca_wall_2
+}

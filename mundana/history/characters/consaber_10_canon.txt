@@ -146,7 +146,6 @@
 
 	2905.1.1 = { birth = 2905.1.1 }
 	2927.1.1 = { add_spouse = 101204 }
-	# 8 söner, 5 döttrar
 	2999.1.1 = { death = 2999.1.1 }
 }
 101008 = { # Greve, Alcheg
@@ -506,7 +505,7 @@
 	religion = "sabrian_daak"
 	father = 101005 # Morollan
 
-	2955.1.1 = { birth = 2955.1.1 }
+	2935.1.1 = { birth = 2935.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101037 = { # Greve, Flarne

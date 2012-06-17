@@ -1,0 +1,86 @@
+# ID: 10_22XX
+102200 = {
+	name = "Nador Belóir" #Arméchef
+	dynasty = 812
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102201 = {
+	name = "Ador Zarivir" #Sjöchef
+	dynasty = 803
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102202 = {
+	name = "Kalim Suyanir"
+	dynasty = 805
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102203 = {
+	name = "Fatia Mazoumira" # Baroness av Silersham/Welea?
+	dynasty = 805
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+	employer = 104001 # Khrun
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102204 = {
+	name = "Jesana"
+	dynasty = 803
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+	father = 102206
+
+	2928.1.1 = { birth = 2928.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102205 = {
+	name = "Padir"
+	dynasty = 803
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+	father = 102206
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102206 = {
+	name = "Jehan Haralir"
+	dynasty = 803
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2955.1.1 = { death = 2955.1.1 }
+}
+102207 = {
+	name = "Chasim Chasimir"
+	dynasty = 804
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

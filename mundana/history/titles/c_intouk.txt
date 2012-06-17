@@ -1,4 +1,4 @@
 2950.1.1 = {
-	liege="d_intouk"
+	liege="k_tokon"
 	holder=102400
 }

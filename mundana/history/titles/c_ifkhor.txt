@@ -1,4 +1,4 @@
 2950.1.1 = {
 	liege="d_ifkhor"
-	holder=100000
+	holder=100806
 }

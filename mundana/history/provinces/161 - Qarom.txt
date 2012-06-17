@@ -17,3 +17,12 @@ religion = antitheist
 
 
 # History
+1000.1.1 = {
+	b_qarom_castle = ca_keep_1
+	b_qarom_castle = ca_keep_2
+	b_qarom_castle = ca_wall_1
+	b_qarom_castle = ca_wall_2
+	b_qarom_city = ct_port_1
+	b_qarom_city = ct_port_2
+	b_qarom_city = ct_town_1
+}

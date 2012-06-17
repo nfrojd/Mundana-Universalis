@@ -1,0 +1,113 @@
+# ID: 10_20XX
+102000 = {
+	name = "Lytesse Visanni"
+	dynasty = 2200
+	female = yes
+
+	add_trait = "long_lived"
+
+	culture = "sanari"
+	religion = "sabrian_daak"
+#	religion = "agnostic"
+
+#	2500.1.1 = { birth = 2500.1.1 }
+	2900.1.1 = { birth = 2900.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102001 = {
+	name = "Hamak Xirhamir" #Arméchef
+	dynasty = 801
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102002 = {
+	name = "Gragg Ragar"
+#	dynasty = "Ragar"
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102003 = {
+	name = "Suyan Farakir" # Primod
+	dynasty = 801
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102004 = {
+	name = "Jehan Urugimir"
+	dynasty = 802
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102005 = {
+	name = "Myriam Kalimira"
+	dynasty = 806
+	female = yes
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2922.1.1 = { birth = 2922.1.1 } # 40-årsåldern
+	2999.1.1 = { death = 2999.1.1 }
+}
+102006 = {
+	name = "Palov Uelamir" # Fogde
+	dynasty = 811
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 } # Över 30-årsåldern
+	2999.1.1 = { death = 2999.1.1 }
+}
+102007 = {
+	name = "Padir"
+	dynasty = 806
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+	father = 102008
+	mother = 102005
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102008 = {
+	name = "Efram Makir"
+	dynasty = 806
+
+	culture = "thalaskian"
+	religion = "sabrian_daak"
+
+	2918.1.1 = { birth = 2918.1.1 }
+	2938.1.1 = { add_spouse = 102005 }
+	2963.1.1 = { death = 2963.1.1 }
+}
+102009 = {
+	name = "Ceviel Teni"
+	dynasty = 2200
+
+	add_trait = "long_lived"
+
+	culture = "sanari"
+	religion = "agnostic"
+
+#	2500.1.1 = { birth = 2500.1.1 }
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

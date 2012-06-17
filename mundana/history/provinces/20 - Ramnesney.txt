@@ -18,3 +18,15 @@ religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_ramnesney_castle = ca_keep_1
+	b_ramnesney_castle = ca_keep_2
+	b_ramnesney_castle = ca_wall_1
+	b_ramnesney_castle = ca_wall_2
+	b_ramnesney_city = ct_port_1
+	b_ramnesney_city = ct_town_1
+	b_ramnesney_city = ct_wall_1
+	b_ramnesney_city = ct_wall_2
+	b_ramnesney_temple = tp_academy_1
+	b_ramnesney_temple = tp_academy_2
+}

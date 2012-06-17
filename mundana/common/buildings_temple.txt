@@ -1,0 +1,308 @@
+	tp_wall_1 = {
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+
+		fort_level = 1.0
+#		garrison_size = 0.2
+		
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_wall_2 = {
+		upgrades_from = tp_wall_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+
+		fort_level = 2.0
+#		garrison_size = 0.2
+		
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_wall_3 = {
+		upgrades_from = tp_wall_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+
+		fort_level = 3.0
+#		garrison_size = 0.2
+		
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_wall_4 = {
+		upgrades_from = tp_wall_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+
+		fort_level = 4.0
+#		garrison_size = 0.2
+		
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_wall_5 = {
+		upgrades_from = tp_wall_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+
+		fort_level = 5.0
+#		garrison_size = 0.2
+		
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_wall_6 = {
+		upgrades_from = tp_wall_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+
+		fort_level = 6.0
+#		garrison_size = 0.2
+		
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+	tp_academy_1 = {
+		trigger = { NOT = { has_building = tp_barracks_1 } }
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+
+		tax_income = 1
+		tech_growth_modifier = 0.2
+		light_infantry = 50
+
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_academy_2 = {
+		upgrades_from = tp_academy_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+
+		tax_income = 2
+		tech_growth_modifier = 0.2
+		light_infantry = 50
+
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_academy_3 = {
+		upgrades_from = tp_academy_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+
+		tax_income = 3
+		tech_growth_modifier = 0.2
+		light_infantry = 50
+
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_academy_4 = {
+		upgrades_from = tp_academy_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+
+		tax_income = 4
+		tech_growth_modifier = 0.2
+		light_infantry = 50
+
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_academy_5 = {
+		upgrades_from = tp_academy_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+
+		tax_income = 5
+		tech_growth_modifier = 0.2
+		light_infantry = 50
+
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_academy_6 = {
+		upgrades_from = tp_academy_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+
+		tax_income = 6
+		tech_growth_modifier = 0.2
+		light_infantry = 50
+
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+
+
+	tp_barracks_1 = {
+		trigger = { NOT = { has_building = tp_academy_1 } }
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+
+		# 200
+#		light_infantry = 50
+		heavy_infantry = 100
+#		pikemen = 50
+#		archers = 50
+#		light_cavalry = 10
+		knights = 10
+
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_2 = {
+		upgrades_from = tp_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+
+		# 300
+#		light_infantry = 50
+		heavy_infantry = 200
+#		pikemen = 50
+#		archers = 50
+#		light_cavalry = 10
+		knights = 20
+
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_3 = {
+		upgrades_from = tp_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+
+		# 400
+#		light_infantry = 50
+		heavy_infantry = 300
+#		pikemen = 50
+#		archers = 50
+#		light_cavalry = 10
+		knights = 30
+
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_4 = {
+		upgrades_from = tp_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+
+		# 500
+#		light_infantry = 50
+		heavy_infantry = 400
+#		pikemen = 50
+#		archers = 50
+#		light_cavalry = 10
+		knights = 40
+
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_5 = {
+		upgrades_from = tp_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+
+		# 600
+#		light_infantry = 50
+		heavy_infantry = 500
+#		pikemen = 50
+#		archers = 50
+#		light_cavalry = 10
+		knights = 50
+
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_6 = {
+		upgrades_from = tp_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+
+		# 700
+#		light_infantry = 50
+		heavy_infantry = 600
+#		pikemen = 50
+#		archers = 50
+#		light_cavalry = 10
+		knights = 60
+
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}

@@ -1,7 +1,9 @@
 long_lived = {
 	health = 1000
 
+	fertility = -1.0
 	vassal_opinion = -10
+	sex_appeal_opinion = 20
 	ai_honor = -10
 }
 

@@ -6,14 +6,23 @@ title = c_ireda
 # Settlements
 max_settlements = 4
 
-b_ireda_castle = castle
 b_ireda_city = city
+b_ireda_castle = castle
 b_ireda_city_1 = city
 b_ireda_temple = temple
 
 # Misc
 culture = thalaskian
-religion = antitheist
+religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_ireda_city = ct_port_1
+	b_ireda_city = ct_port_2
+	b_ireda_city = ct_port_3
+	b_ireda_castle = ca_keep_1
+	b_ireda_castle = ca_keep_2
+	b_ireda_castle = ca_wall_1
+	b_ireda_castle = ca_wall_2
+}

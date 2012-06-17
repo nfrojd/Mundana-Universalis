@@ -1,4 +1,4 @@
 2950.1.1 = {
-	liege="d_ailleidh"
-	holder=102400
+	liege="k_tokon"
+	holder=102545
 }

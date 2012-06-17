@@ -6,14 +6,14 @@ title = c_shia
 # Settlements
 max_settlements = 4
 
-b_shia_castle = castle
 b_shia_city = city
+b_shia_castle = castle
 #b_shia_temple = temple
 #b_shia_castle_1 = castle
 
 # Misc
 culture = thalaskian
-religion = antitheist
+religion = sabrian_daak
 
 
 # History

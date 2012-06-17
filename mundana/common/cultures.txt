@@ -113,14 +113,13 @@ dwarven = {
 		father_name_chance = 10
 		
 		pat_grm_name_chance = 30
-		mat_grm_name_chance = 50
+		mat_grm_name_chance = 10
 		mother_name_chance = 10
 
 		modifier = default_culture_modifier
 	}
 }
-
-vanar = {
+sabrian = {
 	graphical_culture = westerngfx
 
 	perenn = {
@@ -141,15 +140,15 @@ vanar = {
 			Valla Vasla Welle Yrva Fiorina Shalya Rafalli
 		}
 
-		from_dynasty_prefix = "dun "
+#		from_dynasty_prefix = "dun "
 		
-		pat_grf_name_chance = 20
+		pat_grf_name_chance = 30
 		mat_grf_name_chance = 10
-		father_name_chance = 0
+		father_name_chance = 10
 		
-		pat_grm_name_chance = 20
+		pat_grm_name_chance = 30
 		mat_grm_name_chance = 10
-		mother_name_chance = 0
+		mother_name_chance = 10
 
 		modifier = default_culture_modifier
 	}
@@ -172,15 +171,15 @@ vanar = {
 			Valla Vasla Welle Yrva Fiorina Shalya Rafalli
 		}
 
-		from_dynasty_prefix = "dun "
+#		from_dynasty_prefix = "dun "
 		
-		pat_grf_name_chance = 20
+		pat_grf_name_chance = 30
 		mat_grf_name_chance = 10
-		father_name_chance = 0
+		father_name_chance = 30
 		
 		pat_grm_name_chance = 20
-		mat_grm_name_chance = 10
-		mother_name_chance = 0
+		mat_grm_name_chance = 20
+		mother_name_chance = 20
 
 		modifier = default_culture_modifier
 	}
@@ -213,6 +212,10 @@ vanar = {
 
 		modifier = default_culture_modifier
 	}
+}
+
+vanar = {
+	graphical_culture = westerngfx
 
 	asharier = {
 		graphical_culture = englishgfx
@@ -231,7 +234,7 @@ vanar = {
 			Unn Violetta Yennara Zara
 		}
 
-		from_dynasty_prefix = "dun "
+#		from_dynasty_prefix = "dun "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -257,7 +260,7 @@ vanar = {
 			Ariandra Damarella Dara Elektra Elysia Faranna Liora Nella Mortis Ovidia Tara Zandra
 		}
 
-		from_dynasty_prefix = "dun "
+#		from_dynasty_prefix = "dun "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -288,7 +291,7 @@ vanar = {
 			Vitalia Xandra Xena Yrgama Zena Zavia
 		}
 
-		from_dynasty_prefix = "dun "
+#		from_dynasty_prefix = "dun "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -322,7 +325,7 @@ vanar = {
 			Rizima Szza Vamalla Zhra Zhaya Jhimorza Jhazva Gzanna
 		}
 
-		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "hus "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10

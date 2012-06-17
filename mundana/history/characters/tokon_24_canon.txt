@@ -1,0 +1,51 @@
+# ID: 10_24XX
+102400 = {
+	name = "Cailleach Athvainn" # Ard Righ
+	dynasty = 2400
+
+	culture = "tokon"
+	religion = "dragon_cult"
+
+	2930.1.1 = { birth = 2930.1.1 } # 35-40-års åldern
+	2999.1.1 = { death = 2999.1.1 }
+}
+102401 = {
+	name = "Aidann Cíaran" # Riddare
+	dynasty = 2403
+
+	culture = "tokon"
+	religion = "dragon_cult"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102402 = {
+	name = "Bhàchuid Lochraen" # den fule # Spymaster
+	dynasty = 2404 # fake
+
+	culture = "tokon"
+	religion = "dragon_cult"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102403 = {
+	name = "Pelen Dunsain" # Hövding Cem-Shorn
+	dynasty = 2402
+
+	culture = "tokon"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102404 = {
+	name = "Parach da Ghuíl" # Hövding Alleidh
+	dynasty = 2406
+
+	culture = "tokon"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

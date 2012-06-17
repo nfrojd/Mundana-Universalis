@@ -6,14 +6,14 @@ title = c_derien
 # Settlements
 max_settlements = 4
 
-b_derien_castle = castle
 b_derien_city = city
+b_derien_castle = castle
 #b_derien_temple = temple
 #b_derien_castle_1 = castle
 
 # Misc
 culture = thalaskian
-religion = antitheist
+religion = sabrian_daak
 
 
 # History

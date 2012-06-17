@@ -12,8 +12,8 @@ b_kininae_an_oro_castle = castle
 #b_kininae_an_oro_castle_1 = castle
 
 # Misc
-culture = thalaskian
-religion = antitheist
+culture = sanari
+religion = agnostic
 
 
 # History

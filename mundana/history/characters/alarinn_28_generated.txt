@@ -1,0 +1,1101 @@
+# ID: 10_28XX
+102800 = {
+	name = "Sineval"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2949.1.1 = { add_spouse = 102850 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102801 = {
+	name = "Tearlan"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2951.1.1 = { add_spouse = 102851 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102802 = {
+	name = "Halarion"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2962.1.1 = { add_spouse = 102852 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102803 = {
+	name = "Oderen"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2945.1.1 = { add_spouse = 102853 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102804 = {
+	name = "Halarion"
+	dynasty = 2700
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2912.1.1 = { birth = 2912.1.1 }
+	2939.1.1 = { add_spouse = 102854 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102805 = {
+	name = "Halarion"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2955.1.1 = { add_spouse = 102855 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102806 = {
+	name = "Isanion"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2963.1.1 = { add_spouse = 102856 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102807 = {
+	name = "Morollan"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2961.1.1 = { add_spouse = 102857 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102808 = {
+	name = "Oderen"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2945.1.1 = { add_spouse = 102858 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102809 = {
+	name = "Ceranidan"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2949.1.1 = { add_spouse = 102859 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102810 = {
+	name = "Edarion"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2944.1.1 = { add_spouse = 102860 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102811 = {
+	name = "Ysanan"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2912.1.1 = { birth = 2912.1.1 }
+	2942.1.1 = { add_spouse = 102861 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102812 = {
+	name = "Renior"
+	dynasty = 2700
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2928.1.1 = { birth = 2928.1.1 }
+	2947.1.1 = { add_spouse = 102862 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102813 = {
+	name = "Ceranidan"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2951.1.1 = { add_spouse = 102863 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102814 = {
+	name = "Fialian"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2942.1.1 = { add_spouse = 102864 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102815 = {
+	name = "Isanion"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2957.1.1 = { add_spouse = 102865 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102816 = {
+	name = "Halarion"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2950.1.1 = { add_spouse = 102866 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102817 = {
+	name = "Renior"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2943.1.1 = { add_spouse = 102867 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102818 = {
+	name = "Edarion"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2928.1.1 = { birth = 2928.1.1 }
+	2956.1.1 = { add_spouse = 102868 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102819 = {
+	name = "Ceranidan"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2958.1.1 = { add_spouse = 102869 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102820 = {
+	name = "Tearlan"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2955.1.1 = { add_spouse = 102870 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102821 = {
+	name = "Denalian"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2947.1.1 = { add_spouse = 102871 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102822 = {
+	name = "Isanion"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2940.1.1 = { add_spouse = 102872 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102823 = {
+	name = "Renior"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2918.1.1 = { birth = 2918.1.1 }
+	2943.1.1 = { add_spouse = 102873 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102824 = {
+	name = "Tearlan"
+	dynasty = 2700
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2952.1.1 = { add_spouse = 102874 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102825 = {
+	name = "Isanion"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2963.1.1 = { add_spouse = 102875 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102826 = {
+	name = "Renior"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2912.1.1 = { birth = 2912.1.1 }
+	2941.1.1 = { add_spouse = 102876 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102827 = {
+	name = "Denalian"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2916.1.1 = { birth = 2916.1.1 }
+	2938.1.1 = { add_spouse = 102877 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102828 = {
+	name = "Virelan"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2953.1.1 = { add_spouse = 102878 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102829 = {
+	name = "Tearlan"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2957.1.1 = { add_spouse = 102879 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102830 = {
+	name = "Lunerian"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2957.1.1 = { add_spouse = 102880 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102831 = {
+	name = "Belion"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2948.1.1 = { add_spouse = 102881 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102832 = {
+	name = "Lunerian"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2942.1.1 = { add_spouse = 102882 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102833 = {
+	name = "Fialian"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2910.1.1 = { birth = 2910.1.1 }
+	2937.1.1 = { add_spouse = 102883 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102834 = {
+	name = "Alean"
+	dynasty = 2700
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2944.1.1 = { add_spouse = 102884 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102835 = {
+	name = "Virelan"
+	dynasty = 2700
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2914.1.1 = { birth = 2914.1.1 }
+	2937.1.1 = { add_spouse = 102885 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102836 = {
+	name = "Virelan"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2949.1.1 = { add_spouse = 102886 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102837 = {
+	name = "Halarion"
+	dynasty = 2703
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2950.1.1 = { add_spouse = 102887 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102838 = {
+	name = "Ysanan"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2952.1.1 = { add_spouse = 102888 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102839 = {
+	name = "Denalian"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2952.1.1 = { add_spouse = 102889 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102840 = {
+	name = "Ysanan"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2961.1.1 = { add_spouse = 102890 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102841 = {
+	name = "Uanir"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2961.1.1 = { add_spouse = 102891 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102842 = {
+	name = "Oderen"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2953.1.1 = { add_spouse = 102892 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102843 = {
+	name = "Guderian"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2949.1.1 = { add_spouse = 102893 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102844 = {
+	name = "Virelan"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2950.1.1 = { add_spouse = 102894 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102845 = {
+	name = "Belion"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2952.1.1 = { add_spouse = 102895 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102846 = {
+	name = "Lunerian"
+	dynasty = 2704
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2929.1.1 = { birth = 2929.1.1 }
+	2954.1.1 = { add_spouse = 102896 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102847 = {
+	name = "Isanion"
+	dynasty = 2702
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2961.1.1 = { add_spouse = 102897 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102848 = {
+	name = "Isanion"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2958.1.1 = { add_spouse = 102898 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102849 = {
+	name = "Morollan"
+	dynasty = 2701
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2945.1.1 = { add_spouse = 102899 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102850 = {
+	name = "Letesse"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102851 = {
+	name = "Mirya"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102852 = {
+	name = "Ceranidel"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102853 = {
+	name = "Evinal"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102854 = {
+	name = "Avaliel"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2907.1.1 = { birth = 2907.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102855 = {
+	name = "Ilian"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102856 = {
+	name = "Gialari"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102857 = {
+	name = "Tielesin"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102858 = {
+	name = "Riana"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2914.1.1 = { birth = 2914.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102859 = {
+	name = "Tielesin"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102860 = {
+	name = "Deneliel"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102861 = {
+	name = "Siusad"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2914.1.1 = { birth = 2914.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102862 = {
+	name = "Gialari"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102863 = {
+	name = "Letesse"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102864 = {
+	name = "Besiniel"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102865 = {
+	name = "Nyare"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102866 = {
+	name = "Yviol"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102867 = {
+	name = "Vyssa"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102868 = {
+	name = "Vyssa"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2927.1.1 = { birth = 2927.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102869 = {
+	name = "Deneliel"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102870 = {
+	name = "Riana"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102871 = {
+	name = "Yviol"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2914.1.1 = { birth = 2914.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102872 = {
+	name = "Siusad"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2919.1.1 = { birth = 2919.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102873 = {
+	name = "Yviol"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102874 = {
+	name = "Ceranidel"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2926.1.1 = { birth = 2926.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102875 = {
+	name = "Ilian"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102876 = {
+	name = "Nyare"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2907.1.1 = { birth = 2907.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102877 = {
+	name = "Deneliel"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2914.1.1 = { birth = 2914.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102878 = {
+	name = "Gialari"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2924.1.1 = { birth = 2924.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102879 = {
+	name = "Tielesin"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102880 = {
+	name = "Letesse"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102881 = {
+	name = "Yviol"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2915.1.1 = { birth = 2915.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102882 = {
+	name = "Letesse"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2918.1.1 = { birth = 2918.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102883 = {
+	name = "Deneliel"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2907.1.1 = { birth = 2907.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102884 = {
+	name = "Deneliel"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2925.1.1 = { birth = 2925.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102885 = {
+	name = "Feleiel"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2914.1.1 = { birth = 2914.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102886 = {
+	name = "Hedaiel"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2921.1.1 = { birth = 2921.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102887 = {
+	name = "Mirya"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102888 = {
+	name = "Feleiel"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102889 = {
+	name = "Evinal"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2929.1.1 = { birth = 2929.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102890 = {
+	name = "Besiniel"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102891 = {
+	name = "Tielesin"
+	dynasty = 2702
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102892 = {
+	name = "Hedaiel"
+	dynasty = 2701
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2923.1.1 = { birth = 2923.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102893 = {
+	name = "Deneliel"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102894 = {
+	name = "Odesse"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2920.1.1 = { birth = 2920.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102895 = {
+	name = "Yviol"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102896 = {
+	name = "Ceranidel"
+	dynasty = 2700
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102897 = {
+	name = "Odesse"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102898 = {
+	name = "Letesse"
+	dynasty = 2703
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+102899 = {
+	name = "Odesse"
+	dynasty = 2704
+	female = yes
+
+	culture = "learam"
+	religion = "dragon_cult"
+
+	2922.1.1 = { birth = 2922.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

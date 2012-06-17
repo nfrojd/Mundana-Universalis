@@ -1,4 +1,4 @@
 2950.1.1 = {
-	liege="k_uriens"
-	holder=101007
+	liege="e_consaber"
+	holder=102546
 }

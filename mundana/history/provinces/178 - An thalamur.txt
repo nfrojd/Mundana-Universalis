@@ -18,3 +18,21 @@ religion = antitheist
 
 
 # History
+1000.1.1 = {
+	b_an_thalamur_castle = ca_keep_1
+	b_an_thalamur_castle = ca_keep_2
+	b_an_thalamur_castle = ca_wall_1
+	b_an_thalamur_castle = ca_wall_2
+	b_an_thalamur_city = ct_port_1
+	b_an_thalamur_city = ct_port_2
+	b_an_thalamur_city = ct_port_3
+	b_an_thalamur_city = ct_port_4
+	b_an_thalamur_city = ct_town_1
+	b_an_thalamur_city = ct_town_2
+	b_an_thalamur_city = ct_town_3
+	b_an_thalamur_city = ct_town_4
+	b_an_thalamur_city = ct_town_5
+	b_an_thalamur_city = ct_wall_1
+	b_an_thalamur_city = ct_wall_2
+	b_an_thalamur_city = ct_wall_3
+}

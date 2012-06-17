@@ -19,3 +19,32 @@ religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_calnia_castle = ca_keep_1
+	b_calnia_castle = ca_keep_2
+	b_calnia_castle = ca_wall_1
+	b_calnia_castle = ca_wall_2
+	b_calnia_city = ct_port_1
+	b_calnia_city = ct_port_2
+	b_calnia_city = ct_port_3
+	b_calnia_city = ct_port_4
+	b_calnia_city = ct_port_5
+	b_calnia_city = ct_town_1
+	b_calnia_city = ct_town_2
+	b_calnia_city = ct_town_3
+	b_calnia_city = ct_town_4
+	b_calnia_city = ct_wall_1
+	b_calnia_city = ct_wall_2
+	b_calnia_city = ct_wall_3
+	b_calnia_temple = tp_academy_1
+	b_calnia_temple = tp_academy_2
+	b_calnia_temple = tp_academy_3
+	b_calnia_temple = tp_academy_4
+	b_calnia_castle_1 = ca_keep_1
+	b_calnia_castle_1 = ca_keep_2
+	b_calnia_castle_1 = ca_wall_1
+	b_calnia_castle_1 = ca_wall_2
+	b_legion_colonan = tp_academy_1
+	b_legion_colonan = tp_academy_2
+	b_legion_colonan = tp_academy_3
+}
