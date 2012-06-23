@@ -18,3 +18,9 @@ religion = antitheist
 
 
 # History
+1000.1.1 = {
+	b_kharath_castle = ca_keep_1
+	b_kharath_castle = ca_wall_1
+	b_kharath_city = ct_town_1
+	b_kharath_city_1 = ct_town_1
+}

@@ -1,3 +1,6 @@
+1000.1.1 = {
+	liege="d_hoglanden"
+}
 2950.1.1 = {
 	liege="k_alarinn"
 	holder=102839

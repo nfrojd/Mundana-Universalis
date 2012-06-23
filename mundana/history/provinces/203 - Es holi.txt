@@ -27,4 +27,6 @@ religion = antitheist
 	b_es_holi_city = ct_port_2
 	b_es_holi_city = ct_town_1
 	b_es_holi_city = ct_wall_1
+	b_es_holi_city_1 = ct_town_1
+	b_es_holi_city_2 = ct_town_1
 }

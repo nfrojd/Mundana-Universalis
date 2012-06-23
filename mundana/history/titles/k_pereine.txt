@@ -3,7 +3,12 @@
 	law = investiture_law_1
 	law = cognatic_succession
 	law = succ_feudal_elective
+	liege="e_thalamur"
 }
 2950.1.1 = {
+	holder=100006
+}
+2960.5.15 = {
 	holder=102000
+	liege=0
 }

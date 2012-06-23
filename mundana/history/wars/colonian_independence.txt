@@ -1,0 +1,22 @@
+name = "Colonian independence"
+
+casus_belli = {
+	actor = 104001
+	recipient = 100000
+	casus_belli = bid_for_independence
+	date = 2960.5.15
+}
+
+2960.5.15 = {
+	add_attacker = 104001
+	add_attacker = 102000
+	add_attacker = 101000
+	add_defender = 100000
+}
+
+2961.4.19 = {
+	rem_attacker = 104001
+	rem_attacker = 102000
+	rem_attacker = 101000
+	rem_defender = 100000
+}

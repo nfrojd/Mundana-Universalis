@@ -7,7 +7,7 @@ title = c_victaron
 max_settlements = 4
 
 b_victaron_city = city
-#b_victaron_castle = castle
+b_victaron_castle = castle
 #b_victaron_temple = temple
 #b_victaron_castle_1 = castle
 
@@ -19,4 +19,6 @@ religion = sabrian_daak
 # History
 1000.1.1 = {
 	b_victaron_city = ct_town_1
+	b_victaron_castle = ca_keep_1
+	b_victaron_castle = ca_wall_1
 }

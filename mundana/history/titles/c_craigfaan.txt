@@ -1,3 +1,6 @@
+1000.1.1 = {
+	liege="d_ailleidh"
+}
 2950.1.1 = {
 	liege="k_tokon"
 	holder=102528

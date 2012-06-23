@@ -50,5 +50,7 @@ sala;Sala;;;;;;;;;;;;;x
 vaganda;Vaganda;;;;;;;;;;;;;x
 zadhaz;Zadhaz;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-long_lived;Eternal life;;;;;;;;;;;;;
-gierash;Gierash;;;;;;;;;;;;;
+long_lived;Eternal life;;;;;;;;;;;;;x
+gierash;Gierash;;;;;;;;;;;;;x
+long_lived_desc;This character will never die due to old age;;;;;;;;;;;;;x
+gierash_desc;Nasty gierash;;;;;;;;;;;;;x

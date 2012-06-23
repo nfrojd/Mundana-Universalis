@@ -325,36 +325,39 @@ pretender_modifier = {
 ##########################################################################
 
 castle = {
-	tax_income = 5
-	fort_level = 3
+	tax_income = 4
+	fort_level = 2
 	build_cost_modifier = 500
 	build_time_modifier = 730
-	land_organisation = 0.2
-	levy_reinforce_rate = 1.25
 
 	heavy_infantry = 100
+
+	land_organisation = 0.2
+	levy_reinforce_rate = 1.25
 }
 
 city = {
-	tax_income = 15
+	tax_income = 8
 	fort_level = 0
 	build_cost_modifier = 500
 	build_time_modifier = 730
-	land_organisation = 0.2
 
 	light_infantry = 100
 	galleys = 5
+
+	land_organisation = 0.2
 }
 
 temple = {
-	tax_income = 10
-	fort_level = 0
+	tax_income = 6
+	fort_level = 1
 	build_cost_modifier = 500
 	build_time_modifier = 730
+
+	heavy_infantry = 100
+
 	land_organisation = 0.2
 	levy_reinforce_rate = 0.25
-
-	light_infantry = 100
 }
 
 trade_post = {
@@ -376,6 +379,29 @@ default_culture_modifier = {
 ##########################################################################
 # Landed title modifiers
 ##########################################################################
+
+# levy_size, 1 > 100%, 2 > 150%, 3 > 200%, etc
+
+levy_d_consentinerorden = {
+	levy_size = 1 # 250% + 600
+	heavy_infantry = 400
+	light_cavalry = 200
+	knights = 200
+}
+
+levy_d_st_eoboth = {
+	levy_size = 3 # 150% + 400
+	heavy_infantry = 400
+	light_cavalry = 200
+	knights = 200
+}
+
+levy_d_st_faulk = {
+	levy_size = 5 # 350% + 1000
+	heavy_infantry = 400
+	light_cavalry = 200
+	knights = 200
+}
 
 d_knights_templar_modifier = {
 	levy_size = 6

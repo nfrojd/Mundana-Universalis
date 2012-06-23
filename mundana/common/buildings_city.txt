@@ -88,7 +88,7 @@
 		}
 	}
 
-	ct_town_1 = {
+	ct_town_1 = { # Burgh, 0.8k - 2.5k
 		build_time = 1
 		build_cost = 100
 #		build_time = 365 #1y
@@ -108,7 +108,7 @@
 			always = no
 		}
 	}
-	ct_town_2 = {
+	ct_town_2 = { # Medium city, 3k - 8k
 		upgrades_from = ct_town_1
 		build_time = 1
 		build_cost = 200
@@ -129,7 +129,7 @@
 			always = no
 		}
 	}
-	ct_town_3 = {
+	ct_town_3 = { # Large city, 10k - 20k
 		upgrades_from = ct_town_2
 		build_time = 1
 		build_cost = 500
@@ -150,7 +150,7 @@
 			always = no
 		}
 	}
-	ct_town_4 = {
+	ct_town_4 = { # Huge city, 55k - 55k
 		upgrades_from = ct_town_3
 		build_time = 1
 		build_cost = 1000
@@ -171,7 +171,7 @@
 			always = no
 		}
 	}
-	ct_town_5 = {
+	ct_town_5 = { # Massive city, 90k - 90k
 		upgrades_from = ct_town_4
 		build_time = 1
 		build_cost = 2000
@@ -192,7 +192,7 @@
 			always = no
 		}
 	}
-	ct_town_6 = {
+	ct_town_6 = { # Metropolis
 		upgrades_from = ct_town_5
 		build_time = 1
 		build_cost = 5000

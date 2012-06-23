@@ -29,4 +29,5 @@ religion = antitheist
 	b_ivida_city = ct_town_1
 	b_ivida_city = ct_town_2
 	b_ivida_city = ct_wall_1
+	b_ivida_city_1 = ct_town_1
 }

@@ -7,10 +7,10 @@ title = c_abin_thukor
 max_settlements = 6
 
 b_abin_thukor_castle = castle
+b_abin_thukor_castle_1 = castle
 b_abin_thukor_city = city
 b_abin_thukor_city_1 = city
 b_abin_thukor_temple = temple
-b_abin_thukor_castle_1 = castle
 #b_abin_thukor_temple_1 = temple
 
 # Misc
@@ -24,6 +24,10 @@ religion = antitheist
 	b_abin_thukor_castle = ca_keep_2
 	b_abin_thukor_castle = ca_wall_1
 	b_abin_thukor_castle = ca_wall_2
+	b_abin_thukor_castle_1 = ca_keep_1
+	b_abin_thukor_castle_1 = ca_keep_2
+	b_abin_thukor_castle_1 = ca_wall_1
+	b_abin_thukor_castle_1 = ca_wall_2
 	b_abin_thukor_city = ct_port_1
 	b_abin_thukor_city = ct_port_2
 	b_abin_thukor_city = ct_port_3
@@ -34,4 +38,5 @@ religion = antitheist
 	b_abin_thukor_city = ct_town_3
 	b_abin_thukor_city = ct_wall_1
 	b_abin_thukor_city = ct_wall_2
+	b_abin_thukor_city_1 = ct_town_1
 }

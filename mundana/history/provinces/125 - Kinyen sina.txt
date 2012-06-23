@@ -18,6 +18,11 @@ religion = dragon_cult
 
 # History
 1000.1.1 = {
+	b_kinyen_sina_castle = ca_camp_1
+	b_kinyen_sina_castle = ca_camp_2
+	b_kinyen_sina_castle = ca_camp_3
+	b_kinyen_sina_castle = ca_camp_4
 	b_kinyen_sina_city = ct_port_1
 	b_kinyen_sina_city = ct_port_2
+	b_kinyen_sina_city = ct_town_1
 }

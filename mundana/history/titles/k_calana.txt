@@ -3,8 +3,8 @@
 	law = investiture_law_1
 	law = cognatic_succession
 	law = succ_feudal_elective
+	liege="e_consaber"
 }
 2950.1.1 = {
-	liege="e_consaber"
 	holder=101002
 }

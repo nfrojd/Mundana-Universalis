@@ -32,4 +32,5 @@ religion = antitheist
 	b_tagada_city = ct_wall_1
 	b_tagada_city = ct_wall_2
 	b_tagada_city = ct_wall_3
+	b_tagada_city_1 = ct_town_1
 }

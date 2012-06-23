@@ -1,4 +1,7 @@
+1000.1.1 = {
+	liege="d_creten"
+}
 2950.1.1 = {
-	liege="e_consaber"
+	liege="k_uriens"
 	holder=101626
 }

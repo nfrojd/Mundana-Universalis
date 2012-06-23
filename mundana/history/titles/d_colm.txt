@@ -1,3 +1,7 @@
+1000.1.1 = {
+	liege="k_nensema"
+}
 2950.1.1 = {
+	liege=0
 	holder=103000
 }

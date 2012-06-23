@@ -7,6 +7,12 @@ ca_dwarven_keep_3;Medium Stronghold;;;;;;;;;;;;;x
 ca_dwarven_keep_4;Large Stronghold;;;;;;;;;;;;;x
 ca_dwarven_keep_5;Great Stronghold;;;;;;;;;;;;;x
 ca_dwarven_keep_6;Massive Stronghold;;;;;;;;;;;;;x
+ca_camp_1;Tiny camp;;;;;;;;;;;;;x
+ca_camp_2;Small camp;;;;;;;;;;;;;x
+ca_camp_3;Medium camp;;;;;;;;;;;;;x
+ca_camp_4;Large camp;;;;;;;;;;;;;x
+ca_camp_5;Huge camp;;;;;;;;;;;;;x
+ca_camp_6;Massive camp;;;;;;;;;;;;;x
 ca_wall_1;Palissades;;;;;;;;;;;;;x
 ca_wall_2;Stone walls;;;;;;;;;;;;;x
 ca_wall_3;Double walls;;;;;;;;;;;;;x
@@ -43,11 +49,5 @@ tp_barracks_3;Large order;;;;;;;;;;;;;x
 tp_barracks_4;Huge order;;;;;;;;;;;;;x
 tp_barracks_5;Massive order;;;;;;;;;;;;;x
 tp_barracks_6;Glorious order;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

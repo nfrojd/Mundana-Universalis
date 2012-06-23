@@ -31,4 +31,5 @@ religion = antitheist
 	b_khovsosh_city = ct_town_2
 	b_khovsosh_city = ct_town_3
 	b_khovsosh_city = ct_wall_1
+	b_khovsosh_city_1 = ct_town_1
 }

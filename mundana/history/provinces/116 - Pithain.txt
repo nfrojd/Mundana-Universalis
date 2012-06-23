@@ -17,3 +17,8 @@ religion = dragon_cult
 
 
 # History
+1000.1.1 = {
+	b_pithain_castle = ca_camp_1
+	b_pithain_castle = ca_camp_2
+	b_pithain_castle = ca_camp_3
+}

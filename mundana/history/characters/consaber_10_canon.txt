@@ -55,6 +55,7 @@
 
 	add_trait = "zealous"
 	add_trait = "scholarly_theologian"
+	add_trait = "content"
 
 	culture = "conrier"
 	religion = "sabrian_daak"
@@ -138,6 +139,7 @@
 	add_trait = "brilliant_strategist"
 	add_trait = "strong"
 	add_trait = "proud"
+	add_trait = "content"
 
 	culture = "perenn"
 	religion = "sabrian_daak"
@@ -281,6 +283,8 @@
 	father = 101652
 	mother = 101653
 
+	add_trait = "content"
+
 	2915.1.1 = { birth = 2915.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
@@ -292,6 +296,8 @@
 	religion = "sabrian_daak"
 	father = 101200
 	mother = 101201
+
+	add_trait = "content"
 
 	2907.1.1 = { birth = 2907.1.1 }
 	2920.1.1 = { add_spouse = 101651 }
@@ -305,6 +311,8 @@
 	religion = "sabrian_daak"
 	father = 101202
 	mother = 101203
+
+	add_trait = "content"
 
 	2920.1.1 = { birth = 2920.1.1 }
 	2943.1.1 = { add_spouse = 101654 }

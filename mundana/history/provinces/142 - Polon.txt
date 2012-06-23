@@ -17,3 +17,8 @@ religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_polon_city = ct_town_1
+	b_polon_castle = ca_keep_1
+	b_polon_castle = ca_wall_1
+}

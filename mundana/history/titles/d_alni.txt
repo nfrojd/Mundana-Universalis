@@ -1,3 +1,6 @@
+1000.1.1 = {
+	liege="k_uriens"
+}
 2950.1.1 = {
 	liege="e_consaber"
 	holder=101019

@@ -7,36 +7,37 @@ daak = {
 	sabrian_daak = {
 		graphical_culture = westerngfx
 
-		icon = 2
-		color = { 0.7 0.5 0 }
+		icon = 1
+		color = { 0.9 0.2 0.2 }
 		
 		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
+		scripture_name = LIBERA
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			DAAK
 		}
 		
 		investiture = no
+		priests_can_marry = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = yes
 		can_grant_claim = yes
-		can_call_crusade = no
+		can_call_crusade = yes
 	}
 }
 
 non_religion = {
 	has_coa_on_barony_only = no
 	graphical_culture = westerngfx
-	crusade_cb = crusade
+#	crusade_cb = crusade
 	playable = yes
 
 	antitheist = {
 		graphical_culture = westerngfx
 
 		icon = 2
-		color = { 0.7 0.5 0 }
+		color = { 0.7 0.7 0.7 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
@@ -46,31 +47,20 @@ non_religion = {
 		}
 		
 		investiture = no
-		can_excommunicate = yes
+		priests_can_marry = yes
+		can_excommunicate = no
 		can_grant_divorce = yes
-		can_grant_invasion_cb = yes
-		can_grant_claim = yes
+		can_grant_invasion_cb = no
+		can_grant_claim = no
 		can_call_crusade = no
 	}
 	agnostic = {
 		graphical_culture = westerngfx
 
 		icon = 2
-		color = { 0.7 0.5 0 }
+		color = { 0.5 0.5 0.5 }
 		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_BIBLE
-		
-		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
-		}
-		
-		investiture = no
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = yes
-		can_grant_claim = yes
-		can_call_crusade = no
+		parent = antitheist
 	}
 }
 
@@ -83,7 +73,7 @@ cultural_religion = {
 	vontar = {
 		graphical_culture = westerngfx
 
-		icon = 5
+		icon = 3
 		color = { 0.6 0.0 0.0 }
 		god_names = {
 			VONTAR
@@ -96,8 +86,8 @@ cultural_religion = {
 	cirza = {
 		graphical_culture = westerngfx
 
-		icon = 5
-		color = { 0.6 0.0 0.0 }
+		icon = 4
+		color = { 0.0 0.6 0.0 }
 		god_names = {
 			CIRZA
 		}
@@ -109,7 +99,7 @@ cultural_religion = {
 	dragon_cult = {
 		graphical_culture = westerngfx
 
-		icon = 2
+		icon = 8
 		color = { 0.7 0.5 0 }
 		
 		crusade_name = "CRUSADE"
@@ -120,6 +110,7 @@ cultural_religion = {
 		}
 		
 		investiture = no
+		priests_can_marry = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = yes
@@ -129,17 +120,18 @@ cultural_religion = {
 	mahktah = {
 		graphical_culture = westerngfx
 
-		icon = 2
-		color = { 0.7 0.5 0 }
+		icon = 9
+		color = { 0.2 0.2 0.5 }
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BIBLE
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			MAHKTAH
 		}
 		
 		investiture = no
+		priests_can_marry = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = yes
@@ -216,6 +208,7 @@ christian = {
 		}
 		
 		investiture = no
+		priests_can_marry = yes
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = yes

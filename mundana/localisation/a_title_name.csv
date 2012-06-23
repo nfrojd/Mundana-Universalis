@@ -6,6 +6,8 @@ emperor_foa_female;Your Highness;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 king_title_ruler_consort;Consort;;;;;;;;;;;;;x
 king_title_ruler_consort_female;Consort;;;;;;;;;;;;;x
+city_king;Administrate;;;;;;;;;;;;;x
+city_king_female;Administrate;;;;;;;;;;;;;x
 king_foa;Your Highness;;;;;;;;;;;;;x
 king_foa_female;Your Highness;;;;;;;;;;;;;x
 city_kingdom_of;Republic of;;;;;;;;;;;;;x
@@ -31,7 +33,7 @@ temple_barony_of;Temple of;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 emperor_neromenzer;Magikrat;;;;;;;;;;;;;x
 emperor_female_neromenzer;Magikrat;;;;;;;;;;;;;x
-emperor_title_queen_mother_female_sabrian;;;;;;;;;;;;;;x
+emperor_title_queen_mother_female_neromenzer;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 king_neromenzer;Magikrat;;;;;;;;;;;;;x
 king_female_neromenzer;Magikrat;;;;;;;;;;;;;x
@@ -46,8 +48,12 @@ count_neromenzer;Administrat;;;;;;;;;;;;;x
 count_female_neromenzer;Administrat;;;;;;;;;;;;;x
 county_of_neromenzer;Tribune of;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-baron_neromenzer;Tribune;;;;;;;;;;;;;x
-baron_female_neromenzer;Tribune;;;;;;;;;;;;;x
+baron_neromenzer;Vhakal;;;;;;;;;;;;;x
+baron_female_neromenzer;Vhakal;;;;;;;;;;;;;x
+city_baron_neromenzer;Vhakal;;;;;;;;;;;;;x
+city_baron_neromenzer_female;Vhakal;;;;;;;;;;;;;x
+temple_baron_neromenzer;Vhakal;;;;;;;;;;;;;x
+temple_baron_neromenzer_female;Vhakal;;;;;;;;;;;;;x
 temple_barony_of_neromenzer;Academy of;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 emperor_sabrian;King;;;;;;;;;;;;;x
@@ -65,6 +71,8 @@ king_sabrian;Duke;;;;;;;;;;;;;x
 king_female_sabrian;Duchess;;;;;;;;;;;;;x
 king_title_ruler_consort_sabrian;Duke;;;;;;;;;;;;;x
 king_title_ruler_consort_female_sabrian;Duchess;;;;;;;;;;;;;x
+temple_king_sabrian;Primod;;;;;;;;;;;;;x
+temple_king_female_sabrian;Primod;;;;;;;;;;;;;x
 king_foa_sabrian;Your Grace;;;;;;;;;;;;;x
 king_foa_female_sabrian;Your Grace;;;;;;;;;;;;;x
 kingdom_of_sabrian;Duchy of;;;;;;;;;;;;;x
@@ -74,6 +82,8 @@ duke_sabrian;Count;;;;;;;;;;;;;x
 duke_female_sabrian;Countess;;;;;;;;;;;;;x
 duke_title_ruler_consort_sabrian;Count;;;;;;;;;;;;;x
 duke_title_ruler_consort_female_sabrian;Countess;;;;;;;;;;;;;x
+temple_duke_sabrian;Count;;;;;;;;;;;;;x
+temple_duke_female_sabrian;Countess;;;;;;;;;;;;;x
 duke_foa_sabrian;My Lord;;;;;;;;;;;;;x
 duke_foa_female_sabrian;My Lady;;;;;;;;;;;;;x
 duchy_of_sabrian;County of;;;;;;;;;;;;;x
@@ -117,8 +127,6 @@ duke_title_ruler_consort_cirefalier;Kurfurst;;;;;;;;;;;;;x
 duke_title_ruler_consort_female_cirefalier;Kurfurstinna;;;;;;;;;;;;;x
 duke_foa_cirefalier;My Lord;;;;;;;;;;;;;x
 duke_foa_female_cirefalier;My Lady;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

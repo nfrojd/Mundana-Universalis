@@ -17,3 +17,6 @@ religion = sabrian_daak
 
 
 # History
+1000.1.1 = {
+	b_derien_city = ct_town_1
+}
