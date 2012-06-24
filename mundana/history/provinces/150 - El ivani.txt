@@ -22,10 +22,10 @@ religion = antitheist
 	b_el_ivani_castle = ca_keep_2
 	b_el_ivani_castle = ca_wall_1
 	b_el_ivani_castle = ca_wall_2
-	b_el_ivani_city = ct_port_1
-	b_el_ivani_city = ct_port_2
-	b_el_ivani_city = ct_port_3
 	b_el_ivani_city = ct_town_1
 	b_el_ivani_city = ct_wall_1
 	b_el_ivani_city = ct_wall_2
+	b_el_ivani_city = ct_port_1
+	b_el_ivani_city = ct_port_2
+	b_el_ivani_city = ct_port_3
 }

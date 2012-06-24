@@ -6,8 +6,8 @@ title = c_colonan
 # Settlements
 max_settlements = 7
 
-b_colonan_city = city
 b_colonan_castle = castle
+b_colonan_city = city
 b_colonan_temple = temple
 #b_colonan_castle_1 = castle
 #b_colonan_city_1 = city
@@ -21,16 +21,24 @@ religion = sabrian_daak
 
 # History
 1000.1.1 = {
-	b_colonan_city = ct_port_1
-	b_colonan_city = ct_port_2
-	b_colonan_city = ct_port_3
-	b_colonan_city = ct_port_4
-	b_colonan_city = ct_town_1
-	b_colonan_city = ct_town_2
-	b_colonan_city = ct_town_3
-	b_colonan_city = ct_wall_1
 	b_colonan_castle = ca_keep_1
 	b_colonan_castle = ca_keep_2
 	b_colonan_castle = ca_wall_1
 	b_colonan_castle = ca_wall_2
+	b_colonan_city = ct_town_1
+	b_colonan_city = ct_town_2
+	b_colonan_city = ct_town_3
+	b_colonan_city = ct_wall_1
+	b_colonan_city = ct_wall_2
+	b_colonan_city = ct_wall_3
+	b_colonan_city = ct_port_1
+	b_colonan_city = ct_port_2
+	b_colonan_city = ct_port_3
+	b_colonan_city = ct_port_4
 }
+
+##### Custom start #####
+2961.4.20 = {
+	capital = b_colonan_city
+}
+##### Custom end #######

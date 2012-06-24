@@ -22,13 +22,13 @@ religion = antitheist
 	b_el_egor_castle = ca_keep_2
 	b_el_egor_castle = ca_wall_1
 	b_el_egor_castle = ca_wall_2
+	b_el_egor_city = ct_town_1
+	b_el_egor_city = ct_town_2
+	b_el_egor_city = ct_town_3
+	b_el_egor_city = ct_wall_1
 	b_el_egor_city = ct_port_1
 	b_el_egor_city = ct_port_2
 	b_el_egor_city = ct_port_3
 	b_el_egor_city = ct_port_4
 	b_el_egor_city = ct_port_5
-	b_el_egor_city = ct_town_1
-	b_el_egor_city = ct_town_2
-	b_el_egor_city = ct_town_3
-	b_el_egor_city = ct_wall_1
 }

@@ -1,0 +1,7 @@
+1000.1.1 = {
+	liege=0
+}
+2950.1.1 = {
+	liege="e_thalamur"
+	holder=100030
+}

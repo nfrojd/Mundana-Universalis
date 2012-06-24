@@ -21,10 +21,10 @@ religion = sabrian_daak
 1000.1.1 = {
 	b_aliana_castle = ca_keep_1
 	b_aliana_castle = ca_wall_1
+	b_aliana_city = ct_town_1
+	b_aliana_city = ct_wall_1
 	b_aliana_city = ct_port_1
 	b_aliana_city = ct_port_2
 	b_aliana_city = ct_port_3
-	b_aliana_city = ct_town_1
-	b_aliana_city = ct_wall_1
 	b_aliana_temple = tp_academy_1
 }

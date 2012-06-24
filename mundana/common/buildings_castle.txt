@@ -4,7 +4,6 @@
 #		build_time = 365 #1y
 
 		fort_level = 1.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 99
 		
@@ -19,7 +18,6 @@
 #		build_time = 730 #2y
 
 		fort_level = 2.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 98
 
@@ -34,7 +32,6 @@
 #		build_time = 1095 #3y
 
 		fort_level = 3.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 97
 		
@@ -49,7 +46,6 @@
 #		build_time = 1460 #4y
 
 		fort_level = 4.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 96
 
@@ -64,7 +60,6 @@
 #		build_time = 1825 #5y
 
 		fort_level = 5.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 95
 
@@ -79,7 +74,6 @@
 #		build_time = 2190 #6y
 
 		fort_level = 6.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 94
 
@@ -107,7 +101,7 @@
 		pikemen = 20
 		archers = 20
 		light_cavalry = 10
-#		knights = 100
+#		knights = 0
 
 		ai_creation_factor = 99
 		
@@ -261,18 +255,15 @@
 			culture_group = dwarven
 		}
 		build_time = 1
-		build_cost = 1000
+		build_cost = 200
 #		build_time = 365 #1y
 
 		tax_income = 2
 		fort_level = 1.0
-		# 200
-#		light_infantry = 100
-		heavy_infantry = 150
-		pikemen = 100
-		archers = 50
-#		light_cavalry = 10
-#		knights = 100
+		# 600
+		heavy_infantry = 300
+		pikemen = 200
+		archers = 100
 
 		ai_creation_factor = 99
 		
@@ -286,18 +277,15 @@
 		}
 		upgrades_from = ca_dwarven_keep_1
 		build_time = 1
-		build_cost = 2000
+		build_cost = 500
 #		build_time = 730 #2y
 
 		tax_income = 4
 		fort_level = 2.0
-		# 300
-#		light_infantry = 100
-		heavy_infantry = 225
-		pikemen = 150
-		archers = 75
-#		light_cavalry = 10
-#		knights = 100
+		# 900
+		heavy_infantry = 450
+		pikemen = 300
+		archers = 150
 
 		ai_creation_factor = 98
 
@@ -311,18 +299,15 @@
 		}
 		upgrades_from = ca_dwarven_keep_2
 		build_time = 1
-		build_cost = 5000
+		build_cost = 1000
 #		build_time = 1095 #3y
 
 		tax_income = 6
 		fort_level = 3.0
-		# 400
-#		light_infantry = 100
-		heavy_infantry = 300
-		pikemen = 200
-		archers = 100
-#		light_cavalry = 10
-#		knights = 100
+		# 1200
+		heavy_infantry = 600
+		pikemen = 400
+		archers = 200
 
 		ai_creation_factor = 97
 		
@@ -336,18 +321,15 @@
 		}
 		upgrades_from = ca_dwarven_keep_3
 		build_time = 1
-		build_cost = 10000
+		build_cost = 2000
 #		build_time = 1460 #4y
 
 		tax_income = 8
 		fort_level = 4.0
-		# 500
-#		light_infantry = 100
-		heavy_infantry = 375
-		pikemen = 250
-		archers = 125
-#		light_cavalry = 10
-#		knights = 100
+		# 1500
+		heavy_infantry = 750
+		pikemen = 500
+		archers = 250
 
 		ai_creation_factor = 96
 
@@ -361,18 +343,15 @@
 		}
 		upgrades_from = ca_dwarven_keep_4
 		build_time = 1
-		build_cost = 20000
+		build_cost = 5000
 #		build_time = 1825 #5y
 
 		tax_income = 10
 		fort_level = 5.0
-		# 600
-#		light_infantry = 100
-		heavy_infantry = 450
-		pikemen = 300
-		archers = 150
-#		light_cavalry = 10
-#		knights = 100
+		# 1800
+		heavy_infantry = 900
+		pikemen = 600
+		archers = 300
 
 		ai_creation_factor = 95
 
@@ -386,18 +365,15 @@
 		}
 		upgrades_from = ca_dwarven_keep_5
 		build_time = 1
-		build_cost = 50000
+		build_cost = 10000
 #		build_time = 2190 #6y
 
 		tax_income = 12
 		fort_level = 6.0
-		# 700
-#		light_infantry = 100
-		heavy_infantry = 525
-		pikemen = 350
-		archers = 175
-#		light_cavalry = 10
-#		knights = 100
+		# 2100
+		heavy_infantry = 1050
+		pikemen = 700
+		archers = 350
 
 		ai_creation_factor = 94
 
@@ -418,13 +394,12 @@
 #		build_time = 365 #1y
 
 		tax_income = 1
-		# 200
+		# 250
 		light_infantry = 100
 		heavy_infantry = 20
 		pikemen = 60
 		archers = 60
 		light_cavalry = 10
-#		knights = 100
 
 		ai_creation_factor = 99
 		
@@ -445,13 +420,12 @@
 #		build_time = 730 #2y
 
 		tax_income = 2
-		# 300
+		# 375
 		light_infantry = 150
 		heavy_infantry = 30
 		pikemen = 90
 		archers = 90
 		light_cavalry = 15
-#		knights = 100
 
 		ai_creation_factor = 98
 
@@ -472,13 +446,12 @@
 #		build_time = 1095 #3y
 
 		tax_income = 3
-		# 400
+		# 500
 		light_infantry = 200
 		heavy_infantry = 40
 		pikemen = 120
 		archers = 120
 		light_cavalry = 20
-#		knights = 100
 
 		ai_creation_factor = 97
 		
@@ -499,13 +472,12 @@
 #		build_time = 1460 #4y
 
 		tax_income = 4
-		# 500
+		# 625
 		light_infantry = 250
 		heavy_infantry = 50
 		pikemen = 150
 		archers = 150
 		light_cavalry = 25
-#		knights = 100
 
 		ai_creation_factor = 96
 
@@ -526,13 +498,12 @@
 #		build_time = 1825 #5y
 
 		tax_income = 5
-		# 600
+		# 750
 		light_infantry = 300
 		heavy_infantry = 60
 		pikemen = 180
 		archers = 180
 		light_cavalry = 30
-#		knights = 100
 
 		ai_creation_factor = 95
 
@@ -553,13 +524,12 @@
 #		build_time = 2190 #6y
 
 		tax_income = 6
-		# 700
+		# 875
 		light_infantry = 350
 		heavy_infantry = 70
 		pikemen = 210
 		archers = 210
 		light_cavalry = 35
-#		knights = 100
 
 		ai_creation_factor = 94
 

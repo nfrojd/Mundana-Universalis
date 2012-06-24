@@ -6,8 +6,8 @@ title = c_pher
 # Settlements
 max_settlements = 4
 
-b_pher_city = city
 b_pher_castle = castle
+b_pher_city = city
 b_pher_city_1 = city
 #b_pher_temple = temple
 
@@ -18,8 +18,14 @@ religion = sabrian_daak
 
 # History
 1000.1.1 = {
-	b_pher_city = ct_town_1
 	b_pher_castle = ca_keep_1
 	b_pher_castle = ca_wall_1
+	b_pher_city = ct_town_1
 	b_pher_city_1 = ct_town_1
 }
+
+##### Custom start #####
+2961.4.20 = {
+	capital = b_pher_city
+}
+##### Custom end #######

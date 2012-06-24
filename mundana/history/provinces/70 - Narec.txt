@@ -19,4 +19,9 @@ religion = vontar
 	b_narekh_renk_ghor = ca_dwarven_keep_2
 	b_narekh_renk_ghor = ca_dwarven_keep_3
 	b_narekh_renk_ghor = ca_dwarven_keep_4
+	b_narekh_renk_ghor = ca_wall_1
+	b_narekh_renk_ghor = ca_wall_2
+	b_narekh_renk_ghor = ca_wall_3
+	b_narekh_renk_ghor = ca_wall_4
+	b_narekh_renk_ghor = ca_wall_5
 }

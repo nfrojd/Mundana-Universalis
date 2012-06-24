@@ -4,7 +4,6 @@
 #		build_time = 365 #1y
 
 		fort_level = 1.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 99
 		
@@ -19,7 +18,6 @@
 #		build_time = 730 #2y
 
 		fort_level = 2.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 98
 
@@ -34,7 +32,6 @@
 #		build_time = 1095 #3y
 
 		fort_level = 3.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 97
 		
@@ -49,7 +46,6 @@
 #		build_time = 1460 #4y
 
 		fort_level = 4.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 96
 
@@ -64,7 +60,6 @@
 #		build_time = 1825 #5y
 
 		fort_level = 5.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 95
 
@@ -79,7 +74,6 @@
 #		build_time = 2190 #6y
 
 		fort_level = 6.0
-#		garrison_size = 0.2
 		
 		ai_creation_factor = 94
 
@@ -192,12 +186,8 @@
 		build_cost = 100
 #		build_time = 365 #1y
 
-		# 200
-#		light_infantry = 50
+		# 110
 		heavy_infantry = 100
-#		pikemen = 50
-#		archers = 50
-#		light_cavalry = 10
 		knights = 10
 
 		ai_creation_factor = 99
@@ -212,12 +202,8 @@
 		build_cost = 200
 #		build_time = 730 #2y
 
-		# 300
-#		light_infantry = 50
+		# 220
 		heavy_infantry = 200
-#		pikemen = 50
-#		archers = 50
-#		light_cavalry = 10
 		knights = 20
 
 		ai_creation_factor = 98
@@ -232,12 +218,8 @@
 		build_cost = 500
 #		build_time = 1095 #3y
 
-		# 400
-#		light_infantry = 50
+		# 330
 		heavy_infantry = 300
-#		pikemen = 50
-#		archers = 50
-#		light_cavalry = 10
 		knights = 30
 
 		ai_creation_factor = 97
@@ -252,12 +234,8 @@
 		build_cost = 1000
 #		build_time = 1460 #4y
 
-		# 500
-#		light_infantry = 50
+		# 440
 		heavy_infantry = 400
-#		pikemen = 50
-#		archers = 50
-#		light_cavalry = 10
 		knights = 40
 
 		ai_creation_factor = 96
@@ -272,12 +250,8 @@
 		build_cost = 2000
 #		build_time = 1825 #5y
 
-		# 600
-#		light_infantry = 50
+		# 550
 		heavy_infantry = 500
-#		pikemen = 50
-#		archers = 50
-#		light_cavalry = 10
 		knights = 50
 
 		ai_creation_factor = 95
@@ -292,12 +266,8 @@
 		build_cost = 5000
 #		build_time = 2190 #6y
 
-		# 700
-#		light_infantry = 50
+		# 660
 		heavy_infantry = 600
-#		pikemen = 50
-#		archers = 50
-#		light_cavalry = 10
 		knights = 60
 
 		ai_creation_factor = 94

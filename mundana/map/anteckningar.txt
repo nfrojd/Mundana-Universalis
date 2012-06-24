@@ -1,7 +1,0 @@
-Karta 1
-Rhung-Alari 1-81
-Hav: 701-724
-
-Karta 2
-Rhung-Alari 1-174
-Hav: 175-199

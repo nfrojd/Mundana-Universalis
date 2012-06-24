@@ -22,9 +22,9 @@ religion = antitheist
 	b_abin_ramadh_castle = ca_keep_2
 	b_abin_ramadh_castle = ca_wall_1
 	b_abin_ramadh_castle = ca_wall_2
-	b_abin_ramadh_city = ct_port_1
 	b_abin_ramadh_city = ct_town_1
 	b_abin_ramadh_city = ct_town_2
 	b_abin_ramadh_city = ct_wall_1
 	b_abin_ramadh_city = ct_wall_2
+	b_abin_ramadh_city = ct_port_1
 }

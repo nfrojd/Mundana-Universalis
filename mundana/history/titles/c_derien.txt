@@ -2,5 +2,6 @@
 	liege="d_perina"
 }
 2950.1.1 = {
+	liege="k_pereine"
 	holder=102109
 }

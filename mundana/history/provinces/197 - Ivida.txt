@@ -23,11 +23,11 @@ religion = antitheist
 	b_ivida_castle = ca_keep_2
 	b_ivida_castle = ca_wall_1
 	b_ivida_castle = ca_wall_2
-	b_ivida_city = ct_port_1
-	b_ivida_city = ct_port_2
-	b_ivida_city = ct_port_3
 	b_ivida_city = ct_town_1
 	b_ivida_city = ct_town_2
 	b_ivida_city = ct_wall_1
+	b_ivida_city = ct_port_1
+	b_ivida_city = ct_port_2
+	b_ivida_city = ct_port_3
 	b_ivida_city_1 = ct_town_1
 }

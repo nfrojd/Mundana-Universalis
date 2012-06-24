@@ -458,4 +458,103 @@
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
-}# Samt Rakhori
+}
+
+100030 = {
+	name = "Ximor" #Rakhori, p111
+	dynasty = 1000
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100031 = {
+	name = "Monavykos" #Rakhori, p112
+	dynasty = 1000
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100032 = {
+	name = "Lastrisagira" #Rakhori, p112
+	dynasty = 1000
+	female = yes
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2917.1.1 = { birth = 2917.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100033 = {
+	name = "Kavardanoc" #Rakhori, p111
+	dynasty = 1000
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100034 = {
+	name = "Onitam" #Rakhori, p111
+	dynasty = 1000
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100035 = {
+	name = "Orastro" #Rakhori, p111
+	dynasty = 1000
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100036 = {
+	name = "Sarlia" #Rakhori, p111
+	dynasty = 1000
+	female = yes
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+100037 = {
+	name = "Sighviler" #Rakhori, p111
+	dynasty = 1000
+
+	add_trait = "long_lived"
+
+	culture = "thalaskian"
+	religion = "antitheist"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

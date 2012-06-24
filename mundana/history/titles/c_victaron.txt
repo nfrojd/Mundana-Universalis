@@ -2,5 +2,6 @@
 	liege="d_victaron"
 }
 2950.1.1 = {
-	holder=102204
+	liege="k_colonan"
+	holder=102341
 }

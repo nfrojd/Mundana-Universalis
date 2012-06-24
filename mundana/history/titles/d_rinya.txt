@@ -2,5 +2,6 @@
 	liege="k_uriens"
 }
 2950.1.1 = {
+	liege=0
 	holder=102546
 }

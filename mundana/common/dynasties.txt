@@ -388,6 +388,10 @@
 	culture = zadhaz
 }
 
+1000 = {
+	name = "Rakhori"
+	culture = thalaskian
+}
 1001 = {
 	name = "Calana"
 	culture = perenn

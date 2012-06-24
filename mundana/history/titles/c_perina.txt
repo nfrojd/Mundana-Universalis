@@ -7,5 +7,6 @@
 }
 ##### Custom end #######
 2960.5.15 = {
+	liege="k_pereine"
 	holder=102000
 }

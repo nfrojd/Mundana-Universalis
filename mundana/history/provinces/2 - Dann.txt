@@ -19,4 +19,5 @@ religion = sabrian_daak
 # History
 1000.1.1 = {
 	b_dann_castle = ca_keep_1
+	b_dann_castle = ca_wall_1
 }

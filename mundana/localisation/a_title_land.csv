@@ -10,8 +10,8 @@ k_egor;Egor;;;;;;;;;;;;;x
 k_ifka;Ifka;;;;;;;;;;;;;x
 k_ikham;Ikham;;;;;;;;;;;;;x
 k_ivani;Ivani;;;;;;;;;;;;;x
-k_kholon;Kholon;;;;;;;;;;;;;x
-k_kholonmassivet;Kholonmassivet;;;;;;;;;;;;;x
+k_lower_kholon;Lower Kholon;;;;;;;;;;;;;x
+k_upper_kholon;Upper Kholon;;;;;;;;;;;;;x
 k_kovos;Kovos;;;;;;;;;;;;;x
 k_narekh;Narekh;;;;;;;;;;;;;x
 k_negaidh;Negaidh;;;;;;;;;;;;;x
@@ -55,11 +55,11 @@ d_ifkhor;Ifkhor;;;;;;;;;;;;;x
 d_ikham;Ikham;;;;;;;;;;;;;x
 d_intouk;Intouk;;;;;;;;;;;;;x
 d_ireda;Ireda;;;;;;;;;;;;;x
-d_kholon;Kholon;;;;;;;;;;;;;x
-d_kholonmassivet;Kholonmassivet;;;;;;;;;;;;;x
 d_khor;Khor;;;;;;;;;;;;;x
 d_khovsosh;Khovsosh;;;;;;;;;;;;;x
+d_kininae_an_oro;Kininaé'an oro;;;;;;;;;;;;;x
 d_laerm;Laerm;;;;;;;;;;;;;x
+d_lower_kholon;Lower Kholon;;;;;;;;;;;;;x
 d_mashoro;Mashoro;;;;;;;;;;;;;x
 d_nantien;Nantien;;;;;;;;;;;;;x
 d_narekh;Narekh;;;;;;;;;;;;;x
@@ -86,6 +86,7 @@ d_tarna;Tarna;;;;;;;;;;;;;x
 d_therga;Therga;;;;;;;;;;;;;x
 d_tresna;Tresna;;;;;;;;;;;;;x
 d_turin;Turin;;;;;;;;;;;;;x
+d_upper_kholon;Upper Kholon;;;;;;;;;;;;;x
 d_uter;Uter;;;;;;;;;;;;;x
 d_vastlanden;Västlanden;;;;;;;;;;;;;x
 d_victaron;Victaron;;;;;;;;;;;;;x
@@ -192,8 +193,8 @@ c_kentai_y;Kentai'y;;;;;;;;;;;;;x
 c_khal;Khal;;;;;;;;;;;;;x
 c_kharath;Kharath;;;;;;;;;;;;;x
 c_khla;Khla;;;;;;;;;;;;;x
-c_kholon;Kholon;;;;;;;;;;;;;x
-c_kholonmassivet;Kholonmassivet;;;;;;;;;;;;;x
+c_lower_kholon;Lower Kholon;;;;;;;;;;;;;x
+c_upper_kholon;Upper Kholon;;;;;;;;;;;;;x
 c_khorai;Khorai;;;;;;;;;;;;;x
 c_khovsosh;Khovsosh;;;;;;;;;;;;;x
 c_kininae_an_oro;Kininaé'an oro;;;;;;;;;;;;;x

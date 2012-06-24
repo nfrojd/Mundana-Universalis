@@ -21,4 +21,16 @@ religion = antitheist
 	b_sidra_castle = ca_keep_1
 	b_sidra_castle = ca_wall_1
 	b_sidra_city = ct_town_1
+	b_rakhori = tp_barracks_1
+	b_rakhori = tp_barracks_2
+	b_rakhori = tp_barracks_3
+	b_rakhori = tp_barracks_4
+	b_rakhori = tp_barracks_5
+	b_rakhori = tp_barracks_6
+	b_rakhori = tp_wall_1
+	b_rakhori = tp_wall_2
+	b_rakhori = tp_wall_3
+	b_rakhori = tp_wall_4
+	b_rakhori = tp_wall_5
+	b_rakhori = tp_wall_6
 }

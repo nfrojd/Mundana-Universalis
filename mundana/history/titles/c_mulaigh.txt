@@ -2,6 +2,6 @@
 	liege="d_nordlanden"
 }
 2950.1.1 = {
-	liege="k_tokon"
+	liege=0
 	holder=102507
 }

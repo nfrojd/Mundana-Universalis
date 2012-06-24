@@ -1,0 +1,6 @@
+1000.1.1 = {
+	liege="k_upper_kholon"
+}
+2950.1.1 = {
+	holder=104002
+}
