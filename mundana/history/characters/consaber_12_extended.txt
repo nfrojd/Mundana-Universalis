@@ -65,3 +65,152 @@
 	2884.1.1 = { birth = 2884.1.1 }
 	2921.1.1 = { death = 2921.1.1 }
 }
+101206 = { # Tardons fru
+	name = "Indina"
+	dynasty = 1101
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101207 = { # Tardons barn
+	name = "Elany"
+	dynasty = 1008
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101016
+	mother = 101206
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101208 = { # Tardons barn
+	name = "Marlech"
+	dynasty = 1008
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101016
+	mother = 101206
+
+	2952.1.1 = { birth = 2952.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101209 = { # Tardons barn
+	name = "Taban"
+	dynasty = 1008
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101016
+	mother = 101206
+
+	2955.1.1 = { birth = 2955.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101210 = { # Tardons barn
+	name = "Ina"
+	dynasty = 1008
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101016
+	mother = 101206
+
+	2959.1.1 = { birth = 2959.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101211 = { # Margans barn
+	name = "Ambrosin"
+	dynasty = 1060
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101017
+	mother = 101651
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101212 = { # Margans barn
+	name = "Alda"
+	dynasty = 1060
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101017
+	mother = 101651
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101213 = { # Margans barn
+	name = "Ferienne"
+	dynasty = 1060
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101017
+	mother = 101651
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101214 = { # Girdans barn
+	name = "Taran"
+	dynasty = 1061
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101018
+	mother = 101654
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101215 = { # Girdans barn
+	name = "Jaina"
+	dynasty = 1061
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101018
+	mother = 101654
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101216 = { # Girdans barn
+	name = "Dine"
+	dynasty = 1061
+	female = yes
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101018
+	mother = 101654
+
+	2952.1.1 = { birth = 2952.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+101217 = { # Girdans barn
+	name = "Umbarsin"
+	dynasty = 1061
+
+	culture = "conrier"
+	religion = "sabrian_daak"
+	father = 101018
+	mother = 101654
+
+	2959.1.1 = { birth = 2959.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

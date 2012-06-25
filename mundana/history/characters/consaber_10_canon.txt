@@ -14,6 +14,8 @@
 	learning = 6
 	fertility = 0.200
 
+	add_trait = "zealous"
+	add_trait = "humble"
 	add_trait = "charismatic_negotiator"
 
 	culture = "conrier"
@@ -22,7 +24,7 @@
 	mother = 101644
 
 	2927.1.1 = { birth = 2927.1.1 } # omkring 40 (42)
-	# Så att han kan revoka dem och ge dem till söner
+	# Consabers södra hertigdömen är till för kungens släktingar
 	2927.1.1 = {
 			add_claim = k_negaidh
 			add_claim = k_nensema
@@ -39,6 +41,7 @@
 	dynasty = 1066
 	female = yes
 
+	diplomacy = 6
 	add_trait = "underhanded_rogue"
 	add_trait = "fair"
 
@@ -50,10 +53,11 @@
 	2999.1.1 = { death = 2999.1.1 }
 }
 
-101002 = { # Hertig, Calana
+101002 = { # Hertig, Calana, Primod
 	name = "Erefan"
 	dynasty = 1050
 
+	learning = 14
 	add_trait = "scholarly_theologian"
 	add_trait = "zealous"
 	add_trait = "content"
@@ -81,7 +85,7 @@
 	2999.1.1 = { death = 2999.1.1 }
 }
 
-101004 = { # Greve, Calnia
+101004 = { # 1:a sjöherre, Greve, Calnia
 	name = "Ludich"
 	dynasty = 1052
 
@@ -95,7 +99,7 @@
 	2999.1.1 = { death = 2999.1.1 }
 }
 
-101005 = { # Greve, Ramnesney
+101005 = { # 2:a sjöherre, Greve, Ramnesney
 	name = "Morollan"
 	dynasty = 2000
 
@@ -108,14 +112,14 @@
 	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 } #Hustru Rika död 100+ år sedan, en alvisk son, fyra döda barn, 30 bastarder
-	#Andre amiral
 	2999.1.1 = { death = 2999.1.1 }
 }
-101006 = { # Greve, Agant
+101006 = { # Rikets konnetabel, Greve, Agant
 	name = "Heryn"
 	dynasty = 1053
 
-	add_trait = "thrifty_clerk"
+	intrigue = 11
+	add_trait = "intricate_webweaver"
 	add_trait = "just"
 	add_trait = "strong"
 	add_trait = "diligent"
@@ -125,7 +129,6 @@
 	religion = "sabrian_daak"
 
 	2912.1.1 = { birth = 2912.1.1 } # 55 år
-# Konnetabel sedan 3 år
 	2999.1.1 = { death = 2999.1.1 }
 }
 101007 = { # Hertig, Uriens, Greve, Cretén
@@ -133,10 +136,10 @@
 	dynasty = 1009
 
 	martial = 11
-	diplomacy = 8
-	intrigue = 9
-	stewardship = 9
-	learning = 9
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 5
+	learning = 5
 	add_trait = "brilliant_strategist"
 	add_trait = "strong"
 	add_trait = "proud"
@@ -151,20 +154,22 @@
 	2927.1.1 = { add_spouse = 101204 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-101008 = { # Greve, Alcheg
+101008 = { # Rikets skattmästare, Greve, Alcheg
 	name = "Tyrdal"
 	dynasty = 1054
 
+	stewardship = 13
 	add_trait = "fortune_builder"
 	add_trait = "scholar"
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101219
 
 	2905.1.1 = { birth = 2905.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-101009 = {
+101009 = { # Plebejförsamlingens talman, skeppsforskare
 	name = "Girhardt av Calnia" #
 #	dynasty = "Calnia"
 
@@ -175,10 +180,10 @@
 	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
-	#Plebejförsamlingens talman, skeppsforskare
+	
 	2999.1.1 = { death = 2999.1.1 }
 }
-101010 = {
+101010 = { # Deviskollegiets talman, folkräkning
 	name = "Ambrosin"
 	dynasty = 1055
 
@@ -190,25 +195,26 @@
 	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
-	#Deviskollegiets talman, folkräkning
+	
 	2999.1.1 = { death = 2999.1.1 }
 }
-101011 = {
+101011 = { # Domus magus
 	name = "Carpodim"
 #	dynasty = 1056
 
+	learning = 14
 	add_trait = "mastermind_theologian"
 	add_trait = "scholar"
+	add_trait = "long_lived"
 
 	culture = "conrier"
 	religion = "sabrian_daak"
 
-	2800.1.1 = { birth = 2800.1.1 } #100+, 167 år
-#	2850.1.1 = { give_title = title_longlived }
-	#Domus magus, akademiska studier
+#	2800.1.1 = { birth = 2800.1.1 } #100+, 167 år
+	2900.1.1 = { birth = 2900.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-101012 = {
+101012 = { # Konungens hovmästare
 	name = "Ysanar"
 	dynasty = 1056
 
@@ -220,12 +226,9 @@
 	father = 101657
 
 	2930.1.1 = { birth = 2930.1.1 }
-	#2950.1.1 = {
-	#    give_title = "title_prime_minister" #Konungens hovmästare
-	#}
 	2999.1.1 = { death = 2999.1.1 }
 }
-101013 = {
+101013 = { # Rikets härold
 	name = "Mirien"
 	dynasty = 1057
 
@@ -237,9 +240,6 @@
 	religion = "sabrian_daak"
 
 	2905.1.1 = { birth = 2905.1.1 }
-#	2950.1.1 = {
-#	    give_title = "title_foreign_minister" #Rikets härold
-#	}
 	2999.1.1 = { death = 2999.1.1 }
 }
 101014 = {
@@ -276,8 +276,8 @@
 	2999.1.1 = { death = 2999.1.1 }
 }
 101016 = { # Hertig, Negaidh
-	name = "Tardon Helmason" # alt Tardin, Kusin till Constantin
-	dynasty = 1008
+	name = "Tardon" # Kungens kusin
+	dynasty = 1008 # Negaidh (eller Helmason?)
 
 	culture = "conrier"
 	religion = "sabrian_daak"
@@ -286,7 +286,8 @@
 
 	add_trait = "content"
 
-	2915.1.1 = { birth = 2915.1.1 }
+	2929.1.1 = { birth = 2929.1.1 }
+	2946.1.1 = { add_spouse = 101206 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101017 = { # Hertig, Nensema
@@ -300,8 +301,8 @@
 
 	add_trait = "content"
 
-	2907.1.1 = { birth = 2907.1.1 }
-	2920.1.1 = { add_spouse = 101651 }
+	2914.1.1 = { birth = 2914.1.1 }
+	2930.1.1 = { add_spouse = 101651 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101018 = { # Hertig, Turina
@@ -399,6 +400,7 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101757
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -533,6 +535,7 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101218
 
 	2915.1.1 = { birth = 2915.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

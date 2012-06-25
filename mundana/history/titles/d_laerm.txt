@@ -2,5 +2,5 @@
 	liege="k_negaidh"
 }
 2950.1.1 = {
-	holder=101016
+	holder=101754
 }

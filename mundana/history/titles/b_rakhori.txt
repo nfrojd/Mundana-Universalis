@@ -1,7 +1,6 @@
 1000.1.1 = {
-	liege=0
+	liege="e_thalamur"
 }
 2950.1.1 = {
-	liege="e_thalamur"
 	holder=100030
 }

@@ -1,7 +1,6 @@
 1000.1.1 = {
-	liege=0
+	liege="d_nantien"
 }
 2950.1.1 = {
-	liege="d_nantien"
 	holder=101600
 }

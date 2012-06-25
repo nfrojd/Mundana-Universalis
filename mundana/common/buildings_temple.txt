@@ -83,7 +83,10 @@
 	}
 
 	tp_academy_1 = {
-		trigger = { NOT = { has_building = tp_barracks_1 } }
+		potential = {
+			NOT = { has_building = tp_barracks_1 }
+		}
+#		trigger = { NOT = { has_building = tp_barracks_1 } }
 		build_time = 1
 		build_cost = 100
 #		build_time = 365 #1y
@@ -192,7 +195,10 @@
 	}
 
 	tp_barracks_1 = {
-		trigger = { NOT = { has_building = tp_academy_1 } }
+		potential = {
+			NOT = { has_building = tp_academy_1 }
+		}
+#		trigger = { NOT = { has_building = tp_academy_1 } }
 		build_time = 1
 		build_cost = 100
 #		build_time = 365 #1y

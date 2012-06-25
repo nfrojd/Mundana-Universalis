@@ -2,6 +2,5 @@
 	liege="k_negaidh"
 }
 2950.1.1 = {
-	liege="e_consaber"
 	holder=101038
 }

@@ -1,5 +1,6 @@
 # ID: 10_17XX
 # Källa: Tiamelkampanjen
+
 101700 = { # Baron, Kardor
 	name = "Heri"
 	dynasty = 1612
@@ -40,6 +41,7 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101218
 
 	2913.1.1 = { birth = 2913.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -61,8 +63,9 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	mother = 101706
 
-	2916.1.1 = { birth = 2916.1.1 }
+	2935.1.1 = { birth = 2935.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101706 = { # Grevinna, Drafe
@@ -73,7 +76,7 @@
 	culture = "conrier"
 	religion = "sabrian_daak"
 
-	2935.1.1 = { birth = 2935.1.1 }
+	2916.1.1 = { birth = 2916.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101707 = { # Baron, Negellense
@@ -159,6 +162,7 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101002
 
 	2917.1.1 = { birth = 2917.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -189,6 +193,7 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101201
 
 	2910.1.1 = { birth = 2910.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -219,6 +224,7 @@
 
 	culture = "perenn"
 	religion = "sabrian_daak"
+	father = 101219
 
 	2913.1.1 = { birth = 2913.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -380,8 +386,9 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101737
 
-	2922.1.1 = { birth = 2922.1.1 }
+	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101737 = { # Greve, Ghia
@@ -391,7 +398,7 @@
 	culture = "conrier"
 	religion = "sabrian_daak"
 
-	2948.1.1 = { birth = 2948.1.1 }
+	2922.1.1 = { birth = 2922.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 101738 = { # Baron, Kredant
@@ -420,6 +427,8 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101018
+	mother = 101654
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -430,6 +439,8 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
+	father = 101018
+	mother = 101654
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2999.1.1 = { death = 2999.1.1 }

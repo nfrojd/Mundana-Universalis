@@ -1,7 +1,6 @@
 1000.1.1 = {
-	liege=0
+	liege="e_consaber"
 }
 2950.1.1 = {
-	liege="e_consaber"
 	holder=101022
 }
