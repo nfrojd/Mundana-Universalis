@@ -525,6 +525,7 @@
 	name = "Orastro" #Rakhori, p111
 	dynasty = 1000
 
+	add_trait = "elusive_shadow"
 	add_trait = "long_lived"
 
 	culture = "thalaskian"
@@ -538,6 +539,7 @@
 	dynasty = 1000
 	female = yes
 
+	add_trait = "elusive_shadow"
 	add_trait = "long_lived"
 
 	culture = "thalaskian"
@@ -550,6 +552,7 @@
 	name = "Sighviler" #Rakhori, p111
 	dynasty = 1000
 
+	add_trait = "elusive_shadow"
 	add_trait = "long_lived"
 
 	culture = "thalaskian"

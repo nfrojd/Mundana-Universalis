@@ -13,6 +13,7 @@
 	stewardship = 6
 	learning = 6
 	fertility = 0.200
+
 	add_trait = "charismatic_negotiator"
 
 	culture = "conrier"
@@ -53,8 +54,8 @@
 	name = "Erefan"
 	dynasty = 1050
 
-	add_trait = "zealous"
 	add_trait = "scholarly_theologian"
+	add_trait = "zealous"
 	add_trait = "content"
 
 	culture = "conrier"

@@ -144,7 +144,6 @@ k_rakhori = {
 	
 	title = "RAKHORI_TITLE_NAME"
 	foa = "RAKHORI_TITLE_FOA"
-	short_name = yes
 
 	# Always exists
 	landless = yes

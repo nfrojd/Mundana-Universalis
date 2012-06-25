@@ -128,8 +128,8 @@ duke_title_ruler_consort_female_cirefalier;Kurfurstinna;;;;;;;;;;;;;x
 duke_foa_cirefalier;My Lord;;;;;;;;;;;;;x
 duke_foa_female_cirefalier;My Lady;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
-rakhori_title_name;Coordinator;;;;;;;;;;;;;x
-rakhori_title_foa;Your Excellency;;;;;;;;;;;;;x
+RAKHORI_TITLE_NAME;Coordinator;;;;;;;;;;;;;x
+RAKHORI_TITLE_FOA;Your Excellency;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

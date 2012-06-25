@@ -89,8 +89,10 @@
 #		build_time = 365 #1y
 
 		tax_income = 1
-		tech_growth_modifier = 0.2
-		light_infantry = 50
+		tech_growth_modifier = 0.25
+
+		# 100
+		light_infantry = 100
 
 		ai_creation_factor = 99
 		
@@ -105,8 +107,10 @@
 #		build_time = 730 #2y
 
 		tax_income = 2
-		tech_growth_modifier = 0.2
-		light_infantry = 50
+		tech_growth_modifier = 0.25
+
+		# 200
+		light_infantry = 100
 
 		ai_creation_factor = 98
 
@@ -121,8 +125,10 @@
 #		build_time = 1095 #3y
 
 		tax_income = 3
-		tech_growth_modifier = 0.2
-		light_infantry = 50
+		tech_growth_modifier = 0.25
+
+		# 500
+		light_infantry = 300
 
 		ai_creation_factor = 97
 		
@@ -137,8 +143,10 @@
 #		build_time = 1460 #4y
 
 		tax_income = 4
-		tech_growth_modifier = 0.2
-		light_infantry = 50
+		tech_growth_modifier = 0.25
+
+		# 1000
+		light_infantry = 500
 
 		ai_creation_factor = 96
 
@@ -153,8 +161,10 @@
 #		build_time = 1825 #5y
 
 		tax_income = 5
-		tech_growth_modifier = 0.2
-		light_infantry = 50
+		tech_growth_modifier = 0.25
+
+		# 2000
+		light_infantry = 1000
 
 		ai_creation_factor = 95
 
@@ -169,8 +179,10 @@
 #		build_time = 2190 #6y
 
 		tax_income = 6
-		tech_growth_modifier = 0.2
-		light_infantry = 50
+		tech_growth_modifier = 0.25
+
+		# 5000
+		light_infantry = 3000
 
 		ai_creation_factor = 94
 
@@ -179,16 +191,15 @@
 		}
 	}
 
-
 	tp_barracks_1 = {
 		trigger = { NOT = { has_building = tp_academy_1 } }
 		build_time = 1
 		build_cost = 100
 #		build_time = 365 #1y
 
-		# 110
-		heavy_infantry = 100
-		knights = 10
+		# 100
+		heavy_infantry = 80
+		knights = 20
 
 		ai_creation_factor = 99
 		
@@ -202,8 +213,8 @@
 		build_cost = 200
 #		build_time = 730 #2y
 
-		# 220
-		heavy_infantry = 200
+		# 200
+		heavy_infantry = 80
 		knights = 20
 
 		ai_creation_factor = 98
@@ -218,9 +229,9 @@
 		build_cost = 500
 #		build_time = 1095 #3y
 
-		# 330
-		heavy_infantry = 300
-		knights = 30
+		# 500
+		heavy_infantry = 240
+		knights = 60
 
 		ai_creation_factor = 97
 		
@@ -234,9 +245,9 @@
 		build_cost = 1000
 #		build_time = 1460 #4y
 
-		# 440
+		# 1000
 		heavy_infantry = 400
-		knights = 40
+		knights = 100
 
 		ai_creation_factor = 96
 
@@ -250,9 +261,9 @@
 		build_cost = 2000
 #		build_time = 1825 #5y
 
-		# 550
-		heavy_infantry = 500
-		knights = 50
+		# 2000
+		heavy_infantry = 800
+		knights = 200
 
 		ai_creation_factor = 95
 
@@ -266,9 +277,9 @@
 		build_cost = 5000
 #		build_time = 2190 #6y
 
-		# 660
-		heavy_infantry = 600
-		knights = 60
+		# 5000
+		heavy_infantry = 2400
+		knights = 600
 
 		ai_creation_factor = 94
 

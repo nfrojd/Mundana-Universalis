@@ -1066,7 +1066,6 @@ temple = {
 		}
 	}
 
-
 	tp_barracks_1 = {
 		trigger = { NOT = { has_building = tp_academy_1 } }
 		build_time = 1
