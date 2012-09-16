@@ -3,6 +3,8 @@
 	name = "Ealpinn"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
+
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -14,20 +16,24 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
+
 	culture = "learam"
 	religion = "dragon_cult"
 	father = 102702
 
-	2934.1.1 = { birth = 2934.1.1 } # 30-års åldern
+	2932.1.1 = { birth = 2932.1.1 } # 30-års åldern
 	2999.1.1 = { death = 2999.1.1 }
 }
 102702 = {
 	name = "Kornay"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
+
 	culture = "learam"
 	religion = "dragon_cult"
 
-	2900.1.1 = { birth = 2900.1.1 } #
+	2900.1.1 = { birth = 2900.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }

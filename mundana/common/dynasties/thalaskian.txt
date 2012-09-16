@@ -1,0 +1,392 @@
+1000 = {
+	name = "Rakhori"
+	culture = thalaskian
+}
+800 = {
+	name = "Khavos"
+	culture = thalaskian
+}
+801 = {
+	name = "Khanov"
+	culture = thalaskian
+}
+802 = {
+	name = "Turgan"
+	culture = thalaskian
+}
+803 = {
+	name = "Véreta"
+	culture = thalaskian
+}
+804 = {
+	name = "Charovilad"
+	culture = thalaskian
+}
+805 = {
+	name = "Izmerald"
+	culture = thalaskian
+}
+806 = {
+	name = "Yelvinko"
+	culture = thalaskian
+}
+807 = {
+	name = "Jeznyavo"
+	culture = thalaskian
+}
+808 = {
+	name = "Revo"
+	culture = thalaskian
+}
+809 = {
+	name = "Tiandra"
+	culture = thalaskian
+}
+810 = {
+	name = "Thaloum"
+	culture = thalaskian
+}
+811 = {
+	name = "Galjenko"
+	culture = thalaskian
+}
+812 = {
+	name = "Hader"
+	culture = thalaskian
+}
+820 = {
+	name = "Argadan"
+	culture = abhixia
+}
+821 = {
+	name = "Asandan"
+	culture = abhixia
+}
+822 = {
+	name = "Beel"
+	culture = abhixia
+}
+823 = {
+	name = "Khemumbra"
+	culture = abhixia
+}
+824 = {
+	name = "Myriad"
+	culture = abhixia
+}
+825 = {
+	name = "Shadal"
+	culture = abhixia
+}
+826 = {
+	name = "Thrild"
+	culture = abhixia
+}
+827 = {
+	name = "Vilial"
+	culture = abhixia
+}
+
+840 = {
+	name = "Alaya"
+	culture = arginakus
+}
+841 = {
+	name = "Bhar"
+	culture = arginakus
+}
+842 = {
+	name = "Cevelori"
+	culture = arginakus
+}
+843 = {
+	name = "Khandal"
+	culture = arginakus
+}
+844 = {
+	name = "Lhemago"
+	culture = arginakus
+}
+845 = {
+	name = "Nogila"
+	culture = arginakus
+}
+846 = {
+	name = "Orthel"
+	culture = arginakus
+}
+847 = {
+	name = "Regal"
+	culture = arginakus
+}
+848 = {
+	name = "Vying"
+	culture = arginakus
+}
+
+860 = {
+	name = "Ahtes"
+	culture = cartika
+}
+861 = {
+	name = "Bartharum"
+	culture = cartika
+}
+862 = {
+	name = "Chagidal"
+	culture = cartika
+}
+863 = {
+	name = "Hadov"
+	culture = cartika
+}
+864 = {
+	name = "Halathar"
+	culture = cartika
+}
+865 = {
+	name = "Hillorn"
+	culture = cartika
+}
+866 = {
+	name = "Ilhiva"
+	culture = cartika
+}
+867 = {
+	name = "Ring"
+	culture = cartika
+}
+868 = {
+	name = "Sabrimal"
+	culture = cartika
+}
+869 = {
+	name = "Saghel"
+	culture = cartika
+}
+870 = {
+	name = "thal Qatada"
+	culture = cartika
+}
+
+880 = {
+	name = "Bakhor"
+	culture = harim
+}
+881 = {
+	name = "Imbravil"
+	culture = harim
+}
+882 = {
+	name = "Jesbin"
+	culture = harim
+}
+883 = {
+	name = "Kegalesh"
+	culture = harim
+}
+884 = {
+	name = "Kholash"
+	culture = harim
+}
+885 = {
+	name = "Saladar"
+	culture = harim
+}
+886 = {
+	name = "Veghellan"
+	culture = harim
+}
+
+900 = {
+	name = "Blashirch"
+	culture = kobinku
+}
+901 = {
+	name = "Dagath"
+	culture = kobinku
+}
+902 = {
+	name = "Ironbin"
+	culture = kobinku
+}
+903 = {
+	name = "Othstra"
+	culture = kobinku
+}
+904 = {
+	name = "Raor"
+	culture = kobinku
+}
+905 = {
+	name = "Sangal"
+	culture = kobinku
+}
+906 = {
+	name = "Untergel"
+	culture = kobinku
+}
+907 = {
+	name = "Ystica"
+	culture = kobinku
+}
+908 = {
+	name = "Kobinku"
+	culture = kobinku
+}
+
+920 = {
+	name = "Ashalan"
+	culture = myrdinor
+}
+921 = {
+	name = "Cabr"
+	culture = myrdinor
+}
+922 = {
+	name = "Chagul"
+	culture = myrdinor
+}
+923 = {
+	name = "Ghandhal"
+	culture = myrdinor
+}
+924 = {
+	name = "Imzash"
+	culture = myrdinor
+}
+925 = {
+	name = "Indal"
+	culture = myrdinor
+}
+926 = {
+	name = "Khala"
+	culture = myrdinor
+}
+927 = {
+	name = "Khoron"
+	culture = myrdinor
+}
+928 = {
+	name = "Vilirakh"
+	culture = myrdinor
+}
+929 = {
+	name = "thal Dubaral"
+	culture = myrdinor
+}
+
+940 = {
+	name = "Asabin"
+	culture = sala
+}
+941 = {
+	name = "Elkil"
+	culture = sala
+}
+942 = {
+	name = "Fandabin"
+	culture = sala
+}
+943 = {
+	name = "Genas"
+	culture = sala
+}
+944 = {
+	name = "Imbraes"
+	culture = sala
+}
+945 = {
+	name = "do Thukor"
+	culture = sala
+}
+946 = {
+	name = "Ulhem"
+	culture = sala
+}
+947 = {
+	name = "Varmagash"
+	culture = sala
+}
+948 = {
+	name = "Voroga"
+	culture = sala
+}
+
+960 = {
+	name = "Hradvell"
+	culture = vaganda
+}
+961 = {
+	name = "Ikambin"
+	culture = vaganda
+}
+962 = {
+	name = "Ivaorn"
+	culture = vaganda
+}
+963 = {
+	name = "Jakthbin"
+	culture = vaganda
+}
+964 = {
+	name = "Kamakir"
+	culture = vaganda
+}
+965 = {
+	name = "do Kampa"
+	culture = vaganda
+}
+966 = {
+	name = "Rimangash"
+	culture = vaganda
+}
+967 = {
+	name = "Sulanga"
+	culture = vaganda
+}
+968 = {
+	name = "Iljad"
+	culture = vaganda
+}
+
+980 = {
+	name = "Agathal"
+	culture = zadhaz
+}
+981 = {
+	name = "Augus"
+	culture = zadhaz
+}
+982 = {
+	name = "Frostgash"
+	culture = zadhaz
+}
+983 = {
+	name = "Indravin"
+	culture = zadhaz
+}
+984 = {
+	name = "Necobin"
+	culture = zadhaz
+}
+985 = {
+	name = "Rhadal"
+	culture = zadhaz
+}
+986 = {
+	name = "Viagella"
+	culture = zadhaz
+}
+987 = {
+	name = "Zashghul"
+	culture = zadhaz
+}
+988 = {
+	name = "Voroga"
+	culture = zadhaz
+}
+989 = {
+	name = "Saghel"
+	culture = zadhaz
+}

@@ -14,17 +14,16 @@
 	learning = 6
 	fertility = 0.200
 
-	add_trait = "zealous"
 	add_trait = "humble"
 	add_trait = "charismatic_negotiator"
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101586
+	father = 101186
 	mother = 101644
 
 	2927.1.1 = { birth = 2927.1.1 } # omkring 40 (42)
-	# Consabers södra hertigdömen är till för kungens släktingar
+	# Dan Breanns hertigdömen är till för kungens släktingar
 	2927.1.1 = {
 			add_claim = k_negaidh
 			add_claim = k_nensema
@@ -205,7 +204,7 @@
 	learning = 14
 	add_trait = "mastermind_theologian"
 	add_trait = "scholar"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "conrier"
 	religion = "sabrian_daak"

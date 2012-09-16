@@ -1,3 +1,4 @@
+castle = {
 	ca_wall_1 = {
 		build_time = 1
 		build_cost = 100
@@ -537,3 +538,4 @@
 			always = no
 		}
 	}
+}

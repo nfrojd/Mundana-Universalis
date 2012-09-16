@@ -5,7 +5,7 @@
 	culture = "zadhaz"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100000
 
 	2951.1.1 = { birth = 2951.1.1 }
@@ -18,7 +18,7 @@
 	culture = "zadhaz"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100000
 
 	2947.1.1 = { birth = 2947.1.1 }
@@ -31,7 +31,7 @@
 	culture = "zadhaz"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100000
 
 	2950.1.1 = { birth = 2950.1.1 }
@@ -45,7 +45,7 @@
 	culture = "zadhaz"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100000
 
 	2944.1.1 = { birth = 2944.1.1 }
@@ -59,7 +59,7 @@
 	culture = "zadhaz"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100000
 
 	2950.1.1 = { birth = 2950.1.1 }
@@ -73,7 +73,7 @@
 	culture = "zadhaz"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100000
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -86,7 +86,7 @@
 	culture = "arginakus"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	mother = 100001
 
 	2944.1.1 = { birth = 2944.1.1 }
@@ -99,7 +99,7 @@
 	culture = "arginakus"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	mother = 100001
 
 	2952.1.1 = { birth = 2952.1.1 }
@@ -112,7 +112,7 @@
 	culture = "arginakus"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	mother = 100001
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -126,7 +126,7 @@
 	culture = "arginakus"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	mother = 100001
 
 	2945.1.1 = { birth = 2945.1.1 }
@@ -140,7 +140,7 @@
 	culture = "arginakus"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	mother = 100001
 
 	2952.1.1 = { birth = 2952.1.1 }
@@ -154,7 +154,7 @@
 	culture = "arginakus"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	mother = 100001
 
 	2949.1.1 = { birth = 2949.1.1 }
@@ -167,7 +167,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100007
 
 	2952.1.1 = { birth = 2952.1.1 }
@@ -180,7 +180,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100007
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -194,7 +194,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100007
 
 	2941.1.1 = { birth = 2941.1.1 }
@@ -208,7 +208,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100007
 
 	2940.1.1 = { birth = 2940.1.1 }
@@ -222,7 +222,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100007
 
 	2941.1.1 = { birth = 2941.1.1 }
@@ -236,7 +236,7 @@
 	culture = "cartika"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100007
 
 	2932.1.1 = { birth = 2932.1.1 }
@@ -249,7 +249,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100005
 
 	2943.1.1 = { birth = 2943.1.1 }
@@ -262,7 +262,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100005
 
 	2942.1.1 = { birth = 2942.1.1 }
@@ -275,7 +275,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100005
 
 	2944.1.1 = { birth = 2944.1.1 }
@@ -289,7 +289,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100005
 
 	2951.1.1 = { birth = 2951.1.1 }
@@ -303,7 +303,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100005
 
 	2951.1.1 = { birth = 2951.1.1 }
@@ -317,7 +317,7 @@
 	culture = "kobinku"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100005
 
 	2949.1.1 = { birth = 2949.1.1 }
@@ -330,7 +330,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100008
 
 	2951.1.1 = { birth = 2951.1.1 }
@@ -343,7 +343,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100008
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -356,7 +356,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100008
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -370,7 +370,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100008
 
 	2945.1.1 = { birth = 2945.1.1 }
@@ -384,7 +384,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100008
 
 	2948.1.1 = { birth = 2948.1.1 }
@@ -398,7 +398,7 @@
 	culture = "myrdinor"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100008
 
 	2950.1.1 = { birth = 2950.1.1 }
@@ -411,7 +411,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100003
 
 	2950.1.1 = { birth = 2950.1.1 }
@@ -424,7 +424,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100003
 
 	2945.1.1 = { birth = 2945.1.1 }
@@ -437,7 +437,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100003
 
 	2949.1.1 = { birth = 2949.1.1 }
@@ -451,7 +451,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100003
 
 	2950.1.1 = { birth = 2950.1.1 }
@@ -465,7 +465,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100003
 
 	2949.1.1 = { birth = 2949.1.1 }
@@ -479,7 +479,7 @@
 	culture = "sala"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100003
 
 	2949.1.1 = { birth = 2949.1.1 }
@@ -492,7 +492,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100004
 
 	2951.1.1 = { birth = 2951.1.1 }
@@ -505,7 +505,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100004
 
 	2942.1.1 = { birth = 2942.1.1 }
@@ -518,7 +518,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100004
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -532,7 +532,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100004
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -546,7 +546,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100004
 
 	2945.1.1 = { birth = 2945.1.1 }
@@ -560,7 +560,7 @@
 	culture = "vaganda"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100004
 
 	2951.1.1 = { birth = 2951.1.1 }
@@ -573,7 +573,7 @@
 	culture = "abhixia"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	2951.1.1 = { birth = 2951.1.1 }
 	.1.1 = { add_spouse = 100093 }
@@ -587,7 +587,7 @@
 	culture = "abhixia"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	2950.1.1 = { birth = 2950.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -599,7 +599,7 @@
 	culture = "abhixia"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100092
 	mother = 100093
 
@@ -614,7 +614,7 @@
 	culture = "abhixia"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100092
 	mother = 100093
 
@@ -628,7 +628,7 @@
 	culture = "harim"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100002
 
 	2946.1.1 = { birth = 2946.1.1 }
@@ -641,7 +641,7 @@
 	culture = "harim"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100002
 
 	2947.1.1 = { birth = 2947.1.1 }
@@ -655,7 +655,7 @@
 	culture = "harim"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100002
 
 	2944.1.1 = { birth = 2944.1.1 }
@@ -669,7 +669,7 @@
 	culture = "harim"
 	religion = "antitheist"
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 	father = 100002
 
 	2946.1.1 = { birth = 2946.1.1 }

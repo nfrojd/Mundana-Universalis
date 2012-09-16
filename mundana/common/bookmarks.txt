@@ -1,9 +1,17 @@
 bookmark = {
-	name = "BM_100_YEARS_WAR"
-	desc = "BM_100_YEARS_WAR_DESC"
+	name = "MUNDANA_PRESENT_TIME"
+	desc = "MUNDANA_PRESENT_TIME_DESC"
 	date = 2967.1.1
 	
 	character = 101000 # Constantin XIV
 	character = 100000 # Igar Augus
-	character = 101025 # Igar Augus
+	character = 101604 # Count Burwell
+}
+bookmark = {
+	name = "MUNDANA_THALAMUR_WAR"
+	desc = "MUNDANA_THALAMUR_WAR_DESC"
+	date = 2960.5.15
+	
+	character = 101000 # Constantin XIV
+	character = 100000 # Igar Augus
 }

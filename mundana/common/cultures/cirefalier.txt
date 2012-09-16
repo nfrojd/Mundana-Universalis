@@ -1,0 +1,70 @@
+ciref = {
+	graphical_culture = westerngfx
+
+	cirefalier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Azit Bzern Cerec Chamicon Chimiri Chimsz Cirilz Dalarion Dalm Durzmal
+			Dzimm Dzom Dzrin Dzzo Ficon Gordaz Haramelo Harazmel Harori Jhim Krizkar
+			Kzazian Kzeck Mafalz Mzian Nahrzasz Nahrzezian Narzimm Nerzelan Nihariz
+			Nihirzazior Nihrzom Penarek Penrin Penzior Pomerz Pomimalo Ramm Remacoz
+			Remaziz Remirin Remiz Remzium Rimerek Szacoz Szakar Szararek Szaz Szcon
+			Szeri Szez Szezior Szlien Szmel Szri Tzacon Tzazo Tzeck Tzeziu Tzilan
+			Tziman Tzom Vamerz Zarem Zarz Zhamun Zhaz Zhazior Zhelz Zhizo Zimalo
+			Vrimzikiel Reirzan Rhazcom Ezori Mhoraz Mzan Tzar
+			Jhamzod
+		}
+		female_names = {
+			Azita Canaza Crisma Gannima Harira Jhimorza Meleka Narzomela Nilaza Nimaza
+			Rizima Szza Vamalla Zhra Zhaya Jhimorza Jhazva Gzanna
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	caserier = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Azit Bzern Cerec Chamicon Chimiri Chimsz Cirilz Dalarion Dalm Durzmal
+			Dzimm Dzom Dzrin Dzzo Ficon Gordaz Haramelo Harazmel Harori Jhim Krizkar
+			Kzazian Kzeck Mafalz Mzian Nahrzasz Nahrzezian Narzimm Nerzelan Nihariz
+			Nihirzazior Nihrzom Penarek Penrin Penzior Pomerz Pomimalo Ramm Remacoz
+			Remaziz Remirin Remiz Remzium Rimerek Szacoz Szakar Szararek Szaz Szcon
+			Szeri Szez Szezior Szlien Szmel Szri Tzacon Tzazo Tzeck Tzeziu Tzilan
+			Tziman Tzom Vamerz Zarem Zarz Zhamun Zhaz Zhazior Zhelz Zhizo Zimalo
+			Vrimzikiel Reirzan Rhazcom Ezori Mhoraz Mzan Tzar
+			Jhamzod
+		}
+		female_names = {
+			Azita Canaza Crisma Gannima Harira Jhimorza Meleka Narzomela Nilaza Nimaza
+			Rizima Szza Vamalla Zhra Zhaya Jhimorza Jhazva Gzanna
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

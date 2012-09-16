@@ -3,6 +3,7 @@
 	name = "Sineval"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -14,6 +15,7 @@
 	name = "Tearlan"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -25,6 +27,7 @@
 	name = "Halarion"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -36,6 +39,7 @@
 	name = "Oderen"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -47,6 +51,7 @@
 	name = "Halarion"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -58,6 +63,7 @@
 	name = "Halarion"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -69,6 +75,7 @@
 	name = "Isanion"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -80,6 +87,7 @@
 	name = "Morollan"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -91,6 +99,7 @@
 	name = "Oderen"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -102,6 +111,7 @@
 	name = "Ceranidan"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -113,6 +123,7 @@
 	name = "Edarion"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -124,6 +135,7 @@
 	name = "Ysanan"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -135,6 +147,7 @@
 	name = "Renior"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -146,6 +159,7 @@
 	name = "Ceranidan"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -157,6 +171,7 @@
 	name = "Fialian"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -168,6 +183,7 @@
 	name = "Isanion"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -179,6 +195,7 @@
 	name = "Halarion"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -190,6 +207,7 @@
 	name = "Renior"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -201,6 +219,7 @@
 	name = "Edarion"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -212,6 +231,7 @@
 	name = "Ceranidan"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -223,6 +243,7 @@
 	name = "Tearlan"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -234,6 +255,7 @@
 	name = "Denalian"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -245,6 +267,7 @@
 	name = "Isanion"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -256,6 +279,7 @@
 	name = "Renior"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -267,6 +291,7 @@
 	name = "Tearlan"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -278,6 +303,7 @@
 	name = "Isanion"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -289,6 +315,7 @@
 	name = "Renior"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -300,6 +327,7 @@
 	name = "Denalian"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -311,6 +339,7 @@
 	name = "Virelan"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -322,6 +351,7 @@
 	name = "Tearlan"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -333,6 +363,7 @@
 	name = "Lunerian"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -344,6 +375,7 @@
 	name = "Belion"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -355,6 +387,7 @@
 	name = "Lunerian"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -366,6 +399,7 @@
 	name = "Fialian"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -377,6 +411,7 @@
 	name = "Alean"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -388,6 +423,7 @@
 	name = "Virelan"
 	dynasty = 2700
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -399,6 +435,7 @@
 	name = "Virelan"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -410,6 +447,7 @@
 	name = "Halarion"
 	dynasty = 2703
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -421,6 +459,7 @@
 	name = "Ysanan"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -432,6 +471,7 @@
 	name = "Denalian"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -443,6 +483,7 @@
 	name = "Ysanan"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -454,6 +495,7 @@
 	name = "Uanir"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -465,6 +507,7 @@
 	name = "Oderen"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -476,6 +519,7 @@
 	name = "Guderian"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -487,6 +531,7 @@
 	name = "Virelan"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -498,6 +543,7 @@
 	name = "Belion"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -509,6 +555,7 @@
 	name = "Lunerian"
 	dynasty = 2704
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -520,6 +567,7 @@
 	name = "Isanion"
 	dynasty = 2702
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -531,6 +579,7 @@
 	name = "Isanion"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -542,6 +591,7 @@
 	name = "Morollan"
 	dynasty = 2701
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -554,6 +604,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -565,6 +616,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -576,6 +628,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -587,6 +640,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -598,6 +652,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -609,6 +664,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -620,6 +676,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -631,6 +688,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -642,6 +700,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -653,6 +712,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -664,6 +724,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -675,6 +736,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -686,6 +748,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -697,6 +760,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -708,6 +772,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -719,6 +784,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -730,6 +796,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -741,6 +808,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -752,6 +820,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -763,6 +832,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -774,6 +844,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -785,6 +856,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -796,6 +868,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -807,6 +880,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -818,6 +892,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -829,6 +904,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -840,6 +916,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -851,6 +928,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -862,6 +940,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -873,6 +952,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -884,6 +964,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -895,6 +976,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -906,6 +988,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -917,6 +1000,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -928,6 +1012,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -939,6 +1024,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -950,6 +1036,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -961,6 +1048,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -972,6 +1060,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -983,6 +1072,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -994,6 +1084,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1005,6 +1096,7 @@
 	dynasty = 2702
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1016,6 +1108,7 @@
 	dynasty = 2701
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1027,6 +1120,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1038,6 +1132,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1049,6 +1144,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1060,6 +1156,7 @@
 	dynasty = 2700
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1071,6 +1168,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1082,6 +1180,7 @@
 	dynasty = 2703
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 
@@ -1093,6 +1192,7 @@
 	dynasty = 2704
 	female = yes
 
+	add_trait = "elven_immortality"
 	culture = "learam"
 	religion = "dragon_cult"
 

@@ -1,6 +1,6 @@
-# ID: 10_15XX
+# ID: 10_11XX
 # Källa: Consaber 10-11
-101500 = {
+101100 = {
 	name = "Conner"
 	dynasty = 2407
 
@@ -11,1018 +11,1018 @@
 	1504.1.1 = { death = "1504.1.1" }
 }
 
-101501 = {
+101101 = {
 	name = "Marak"
 	dynasty = 2407
 
 	culture = "tokon"
 	religion = "dragon_cult"
-	father = 101500
+	father = 101100
 
 	1474.1.1 = { birth = "1474.1.1" }
 	1533.1.1 = { death = "1533.1.1" }
 }
 
-101502 = {
+101102 = {
 	name = "Conner"
 	dynasty = 2407
 
 	culture = "tokon"
 	religion = "dragon_cult"
-	father = 101501
+	father = 101101
 
 	1503.1.1 = { birth = "1503.1.1" }
 	1554.1.1 = { death = "1554.1.1" }
 }
 
-101503 = {
+101103 = {
 	name = "Marak"
 	dynasty = 2407
 
 	culture = "tokon"
 	religion = "dragon_cult"
-	father = 101502
+	father = 101102
 
 	1524.1.1 = { birth = "1524.1.1" }
 	1557.1.1 = { death = "1557.1.1" }
 }
 
-101504 = {
+101104 = {
 	name = "Conner"
 	dynasty = 2407
 
 	culture = "tokon"
 	religion = "dragon_cult"
-	father = 101503
+	father = 101103
 
 	1527.1.1 = { birth = "1527.1.1" }
 	1583.1.1 = { death = "1583.1.1" }
 }
 
-101505 = {
+101105 = {
 	name = "Conner"
 	dynasty = 2407
 
 	culture = "tokon"
 	religion = "dragon_cult"
-	father = 101504
+	father = 101104
 
 	1553.1.1 = { birth = "1553.1.1" }
 	1594.1.1 = { death = "1594.1.1" }
 }
 
-101506 = {
+101106 = {
 	name = "Calana"
 	dynasty = 1001
 	female = yes
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101505
+	father = 101105
 
 	1567.1.1 = { birth = "1567.1.1" }
 	1604.1.1 = { death = "1604.1.1" }
 }
 
-101507 = {
+101107 = {
 	name = "Lomach"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	mother = 101506
+	mother = 101106
 
 	1574.1.1 = { birth = "1574.1.1" }
 	1613.1.1 = { death = "1613.1.1" }
 }
 
-101508 = {
+101108 = {
 	name = "Conner"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101507
+	father = 101107
 
 	1583.1.1 = { birth = "1583.1.1" }
 	1635.1.1 = { death = "1635.1.1" }
 }
 
-101509 = {
+101109 = {
 	name = "Constantin"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101508
+	father = 101108
 
 	1605.1.1 = { birth = "1605.1.1" }
 	1657.1.1 = { death = "1657.1.1" }
 }
 
-101510 = {
+101110 = {
 	name = "Conner"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101509
+	father = 101109
 
 	1627.1.1 = { birth = "1627.1.1" }
 	1668.1.1 = { death = "1668.1.1" }
 }
 
-101511 = {
+101111 = {
 	name = "Constantin"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101510
+	father = 101110
 
 	1630.1.1 = { birth = "1630.1.1" }
 	1661.1.1 = { death = "1661.1.1" }
 }
 
-101512 = {
+101112 = {
 	name = "Conleigh"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101511
+	father = 101111
 
 	1638.1.1 = { birth = "1638.1.1" }
 	1668.1.1 = { death = "1668.1.1" }
 }
 
-101513 = {
+101113 = {
 	name = "Conleigh"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101512
+	father = 101112
 
 	1638.1.1 = { birth = "1638.1.1" }
 	1689.1.1 = { death = "1689.1.1" }
 }
 
-101514 = {
+101114 = {
 	name = "Calana"
 	dynasty = 1001
 	female = yes
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101513
+	father = 101113
 
 	1659.1.1 = { birth = "1659.1.1" }
 	1705.1.1 = { death = "1705.1.1" }
 }
 
-101515 = {
+101115 = {
 	name = "Calana"
 	dynasty = 1001
 	female = yes
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	mother = 101514
+	mother = 101114
 
 	1675.1.1 = { birth = "1675.1.1" }
 	1719.1.1 = { death = "1719.1.1" }
 }
 
-101516 = {
+101116 = {
 	name = "Conleigh"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	mother = 101515
+	mother = 101115
 
 	1689.1.1 = { birth = "1689.1.1" }
 	1735.1.1 = { death = "1735.1.1" }
 }
 
-101517 = {
+101117 = {
 	name = "Conner"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101516
+	father = 101116
 
 	1706.1.1 = { birth = "1706.1.1" }
 	1747.1.1 = { death = "1747.1.1" }
 }
 
-101518 = {
+101118 = {
 	name = "Conner"
 	dynasty = 1001
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101517
+	father = 101117
 
 	1717.1.1 = { birth = "1717.1.1" }
 	1755.1.1 = { death = "1755.1.1" }
 }
 
-101519 = {
+101119 = {
 	name = "Conleigh"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101518
+	father = 101118
 
 	1726.1.1 = { birth = "1726.1.1" }
 	1765.1.1 = { death = "1765.1.1" }
 }
 
-101520 = {
+101120 = {
 	name = "Conleigh"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101519
+	father = 101119
 
 	1735.1.1 = { birth = "1735.1.1" }
 	1799.1.1 = { death = "1799.1.1" }
 }
 
-101521 = {
+101121 = {
 	name = "Conner"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101520
+	father = 101120
 
 	1769.1.1 = { birth = "1769.1.1" }
 	1826.1.1 = { death = "1826.1.1" }
 }
 
-101522 = {
+101122 = {
 	name = "Conleigh"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101521
+	father = 101121
 
 	1796.1.1 = { birth = "1796.1.1" }
 	1848.1.1 = { death = "1848.1.1" }
 }
 
-101523 = {
+101123 = {
 	name = "Connacht"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101522
+	father = 101122
 
 	1847.1.1 = { birth = "1847.1.1" }
 	1856.1.1 = { death = "1856.1.1" }
 }
 
-101524 = {
+101124 = {
 	name = "Connacht"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101523
+	father = 101123
 
 	1826.1.1 = { birth = "1826.1.1" }
 	1900.1.1 = { death = "1900.1.1" }
 }
 
-101525 = {
+101125 = {
 	name = "Calana"
 	dynasty = 1002
 	female = yes
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101524
+	father = 101124
 
 	1870.1.1 = { birth = "1870.1.1" }
 	1906.1.1 = { death = "1906.1.1" }
 }
 
-101526 = {
+101126 = {
 	name = "Connact"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	mother = 101525
+	mother = 101125
 
 	1876.1.1 = { birth = "1876.1.1" }
 	1906.1.1 = { death = "1906.1.1" }
 }
 
-101527 = {
+101127 = {
 	name = "Conleigh"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101526
+	father = 101126
 
 	1876.1.1 = { birth = "1876.1.1" }
 	1911.1.1 = { death = "1911.1.1" }
 }
 
-101528 = {
+101128 = {
 	name = "Conleigh"
 	dynasty = 1002
 
 	culture = "perenn"
 	religion = "dragon_cult"
-	father = 101527
+	father = 101127
 
 	1881.1.1 = { birth = "1881.1.1" }
 	1934.1.1 = { death = "1934.1.1" }
 }
 
-101529 = {
+101129 = {
 	name = "Conner"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101528
+	father = 101128
 
 	1905.1.1 = { birth = "1905.1.1" }
 	1946.1.1 = { death = "1946.1.1" }
 }
 
-101530 = {
+101130 = {
 	name = "Constance"
 	dynasty = 1003
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101529
+	father = 101129
 
 	1916.1.1 = { birth = "1916.1.1" }
 	1999.1.1 = { death = "1999.1.1" }
 }
 
-101531 = {
+101131 = {
 	name = "Constance"
 	dynasty = 1003
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101530
+	mother = 101130
 
 	1969.1.1 = { birth = "1969.1.1" }
 	2045.1.1 = { death = "2045.1.1" }
 }
 
-101532 = {
+101132 = {
 	name = "Connacht"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101531
+	mother = 101131
 
 	2015.1.1 = { birth = "2015.1.1" }
 	2059.1.1 = { death = "2059.1.1" }
 }
 
-101533 = {
+101133 = {
 	name = "Conrad"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101532
+	father = 101132
 
 	2029.1.1 = { birth = "2029.1.1" }
 	2063.1.1 = { death = "2063.1.1" }
 }
 
-101534 = {
+101134 = {
 	name = "Constantin"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101533
+	father = 101133
 
 	2033.1.1 = { birth = "2033.1.1" }
 	2094.1.1 = { death = "2094.1.1" }
 }
 
-101535 = {
+101135 = {
 	name = "Constantin"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101534
+	father = 101134
 
 	2065.1.1 = { birth = "2065.1.1" }
 	2137.1.1 = { death = "2137.1.1" }
 }
 
-101536 = {
+101136 = {
 	name = "Constantin"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101535
+	father = 101135
 
 	2107.1.1 = { birth = "2107.1.1" }
 	2164.1.1 = { death = "2164.1.1" }
 }
 
-101537 = {
+101137 = {
 	name = "Constance"
 	dynasty = 1003
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101536
+	father = 101136
 
 	2134.1.1 = { birth = "2134.1.1" }
 	2175.1.1 = { death = "2175.1.1" }
 }
 
-101538 = {
+101138 = {
 	name = "Conrad"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101537
+	mother = 101137
 
 	2146.1.1 = { birth = "2146.1.1" }
 	2187.1.1 = { death = "2187.1.1" }
 }
 
-101539 = {
+101139 = {
 	name = "Conrad"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101538
+	father = 101138
 
 	2157.1.1 = { birth = "2157.1.1" }
 	2205.1.1 = { death = "2205.1.1" }
 }
 
-101540 = {
+101140 = {
 	name = "Conburgh"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101539
+	father = 101139
 
 	2175.1.1 = { birth = "2175.1.1" }
 	2212.1.1 = { death = "2212.1.1" }
 }
 
-101541 = {
+101141 = {
 	name = "Conburgh"
 	dynasty = 1003
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101540
+	father = 101140
 
 	2182.1.1 = { birth = "2182.1.1" }
 	2220.1.1 = { death = "2220.1.1" }
 }
 
-101542 = {
+101142 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101541
+	father = 101141
 
 	2191.1.1 = { birth = "2191.1.1" }
 	2246.1.1 = { death = "2246.1.1" }
 }
 
-101543 = {
+101143 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101542
+	father = 101142
 
 	2216.1.1 = { birth = "2216.1.1" }
 	2261.1.1 = { death = "2261.1.1" }
 }
 
-101544 = {
+101144 = {
 	name = "Constantin"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101543
+	father = 101143
 
 	2231.1.1 = { birth = "2231.1.1" }
 	2265.1.1 = { death = "2265.1.1" }
 }
 
-101545 = {
+101145 = {
 	name = "Constantin"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101544
+	father = 101144
 
 	2251.1.1 = { birth = "2251.1.1" }
 	2266.1.1 = { death = "2266.1.1" }
 }
 
-101546 = {
+101146 = {
 	name = "Fiorina"
 	dynasty = 1004
 	female = yes
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101545
+	father = 101145
 
 	2236.1.1 = { birth = "2236.1.1" }
 	2289.1.1 = { death = "2289.1.1" }
 }
 
-101547 = {
+101147 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	mother = 101546
+	mother = 101146
 
 	2259.1.1 = { birth = "2259.1.1" }
 	2291.1.1 = { death = "2291.1.1" }
 }
 
-101548 = {
+101148 = {
 	name = "Fiorina"
 	dynasty = 1004
 	female = yes
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101547
+	father = 101147
 
 	2261.1.1 = { birth = "2261.1.1" }
 	2302.1.1 = { death = "2302.1.1" }
 }
 
-101549 = {
+101149 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	mother = 101548
+	mother = 101148
 
 	2272.1.1 = { birth = "2272.1.1" }
 	2327.1.1 = { death = "2327.1.1" }
 }
 
-101550 = {
+101150 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101549
+	father = 101149
 
 	2297.1.1 = { birth = "2297.1.1" }
 	2365.1.1 = { death = "2365.1.1" }
 }
 
-101551 = {
+101151 = {
 	name = "Conrad"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101550
+	father = 101150
 
 	2335.1.1 = { birth = "2335.1.1" }
 	2398.1.1 = { death = "2398.1.1" }
 }
 
-101552 = {
+101152 = {
 	name = "Fiorina"
 	dynasty = 1004
 	female = yes
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101551
+	father = 101151
 
 	2368.1.1 = { birth = "2368.1.1" }
 	2404.1.1 = { death = "2404.1.1" }
 }
 
-101553 = {
+101153 = {
 	name = "Hertigen"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	mother = 101552
+	mother = 101152
 
 	2374.1.1 = { birth = "2374.1.1" }
 	2408.1.1 = { death = "2408.1.1" }
 }
 
-101554 = {
+101154 = {
 	name = "Conrad"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	mother = 101552
+	mother = 101152
 
 	2378.1.1 = { birth = "2378.1.1" }
 	2457.1.1 = { death = "2457.1.1" }
 }
 
-101555 = {
+101155 = {
 	name = "Constantin"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101554
+	father = 101154
 
 	2427.1.1 = { birth = "2427.1.1" }
 	2465.1.1 = { death = "2465.1.1" }
 }
 
-101556 = {
+101156 = {
 	name = "Constantin"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101555
+	father = 101155
 
 	2435.1.1 = { birth = "2435.1.1" }
 	2497.1.1 = { death = "2497.1.1" }
 }
 
-101557 = {
+101157 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101556
+	father = 101156
 
 	2467.1.1 = { birth = "2467.1.1" }
 	2521.1.1 = { death = "2521.1.1" }
 }
 
-101558 = {
+101158 = {
 	name = "Harold"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101557
+	father = 101157
 
 	2491.1.1 = { birth = "2491.1.1" }
 	2521.1.1 = { death = "2521.1.1" }
 }
 
-101559 = {
+101159 = {
 	name = "Conmore"
 	dynasty = 1004
 
 	culture = "perenn"
 	religion = "sabrian_daak"
-	father = 101558
+	father = 101158
 
 	2491.1.1 = { birth = "2491.1.1" }
 	2536.1.1 = { death = "2536.1.1" }
 }
 
-101560 = {
+101160 = {
 	name = "Conshorn"
 	dynasty = 1005
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101559
+	father = 101159
 
 	2506.1.1 = { birth = "2506.1.1" }
 	2555.1.1 = { death = "2555.1.1" }
 }
 
-101561 = {
+101161 = {
 	name = "Conshorn"
 	dynasty = 1005
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101560
+	father = 101160
 
 	2525.1.1 = { birth = "2525.1.1" }
 	2576.1.1 = { death = "2576.1.1" }
 }
 
-101562 = {
+101162 = {
 	name = "Conara"
 	dynasty = 1005
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101561
+	father = 101161
 
 	2546.1.1 = { birth = "2546.1.1" }
 	2580.1.1 = { death = "2580.1.1" }
 }
 
-101563 = {
+101163 = {
 	name = "Conshorn"
 	dynasty = 1005
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101562
+	mother = 101162
 
 	2550.1.1 = { birth = "2550.1.1" }
 	2594.1.1 = { death = "2594.1.1" }
 }
 
-101564 = {
+101164 = {
 	name = "Conshorn"
 	dynasty = 1005
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101563
+	father = 101163
 
 	2564.1.1 = { birth = "2564.1.1" }
 	2595.1.1 = { death = "2595.1.1" }
 }
 
-101565 = {
+101165 = {
 	name = "Conara"
 	dynasty = 1005
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101564
+	father = 101164
 
 	2565.1.1 = { birth = "2565.1.1" }
 	2604.1.1 = { death = "2604.1.1" }
 }
 
-101566 = {
+101166 = {
 	name = "Con´felya"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101565
+	mother = 101165
 
 	2577.1.1 = { birth = "2577.1.1" }
 	2615.1.1 = { death = "2615.1.1" }
 }
 
-101567 = {
+101167 = {
 	name = "Conburgh"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101566
+	father = 101166
 
 	2585.1.1 = { birth = "2585.1.1" }
 	2632.1.1 = { death = "2632.1.1" }
 }
 
-101568 = {
+101168 = {
 	name = "Conburgh"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101567
+	father = 101167
 
 	2602.1.1 = { birth = "2602.1.1" }
 	2635.1.1 = { death = "2635.1.1" }
 }
 
-101569 = {
+101169 = {
 	name = "Conburgh"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101568
+	father = 101168
 
 	2605.1.1 = { birth = "2605.1.1" }
 	2657.1.1 = { death = "2657.1.1" }
 }
 
-101570 = {
+101170 = {
 	name = "Conrad"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101569
+	father = 101169
 
 	2627.1.1 = { birth = "2627.1.1" }
 	2685.1.1 = { death = "2685.1.1" }
 }
 
-101571 = {
+101171 = {
 	name = "Constantin"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101570
+	father = 101170
 
 	2655.1.1 = { birth = "2655.1.1" }
 	2714.1.1 = { death = "2714.1.1" }
 }
 
-101572 = {
+101172 = {
 	name = "Conburgh"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101571
+	father = 101171
 
 	2684.1.1 = { birth = "2684.1.1" }
 	2735.1.1 = { death = "2735.1.1" }
 }
 
-101573 = {
+101173 = {
 	name = "Conburgh"
 	dynasty = 1006
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101572
+	father = 101172
 
 	2705.1.1 = { birth = "2705.1.1" }
 	2755.1.1 = { death = "2755.1.1" }
 }
 
-101574 = {
+101174 = {
 	name = "Conara"
 	dynasty = 1006
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101573
+	father = 101173
 
 	2725.1.1 = { birth = "2725.1.1" }
 	2761.1.1 = { death = "2761.1.1" }
 }
 
-101575 = {
+101175 = {
 	name = "Conisbrough"
 	dynasty = 1007
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101574
+	mother = 101174
 
 	2731.1.1 = { birth = "2731.1.1" }
 	2785.1.1 = { death = "2785.1.1" }
 }
 
-101576 = {
+101176 = {
 	name = "Constantin"
 	dynasty = 1007
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101575
+	father = 101175
 
 	2755.1.1 = { birth = "2755.1.1" }
 	2797.1.1 = { death = "2797.1.1" }
 }
 
-101577 = {
+101177 = {
 	name = "Constantin"
 	dynasty = 1007
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101576
+	father = 101176
 
 	2767.1.1 = { birth = "2767.1.1" }
 	2804.1.1 = { death = "2804.1.1" }
 }
 
-101578 = {
+101178 = {
 	name = "Conisbrough"
 	dynasty = 1007
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101577
+	father = 101177
 
 	2774.1.1 = { birth = "2774.1.1" }
 	2804.1.1 = { death = "2804.1.1" }
 }
 
-101579 = {
+101179 = {
 	name = "Conisbrough"
 	dynasty = 1007
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101578
+	father = 101178
 
 	2774.1.1 = { birth = "2774.1.1" }
 	2827.1.1 = { death = "2827.1.1" }
 }
 
-101580 = {
+101180 = {
 	name = "Constance"
 	dynasty = 1007
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101579
+	father = 101179
 
 	2797.1.1 = { birth = "2797.1.1" }
 	2840.1.1 = { death = "2840.1.1" }
 }
 
-101581 = {
+101181 = {
 	name = "Constance"
 	dynasty = 1007
 	female = yes
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101580
+	mother = 101180
 
 	2810.1.1 = { birth = "2810.1.1" }
 	2844.1.1 = { death = "2844.1.1" }
 }
 
-101582 = {
+101182 = {
 	name = "Constantin"
 	dynasty = 1008
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	mother = 101581
+	mother = 101181
 
 	2814.1.1 = { birth = "2814.1.1" }
 	2876.1.1 = { death = "2876.1.1" }
 }
 
-101583 = {
+101183 = {
 	name = "Conisbrough"
 	dynasty = 1008
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101582
+	father = 101182
 
 	2846.1.1 = { birth = "2846.1.1" }
 	2890.1.1 = { death = "2890.1.1" }
 }
 
-101584 = {
+101184 = {
 	name = "Conisbrough"
 	dynasty = 1008
 
@@ -1031,28 +1031,28 @@
 
 	2860.1.1 = { birth = "2860.1.1" }
 	2903.1.1 = { death = "2903.1.1" }
-	father = 101583
+	father = 101183
 }
 
-101585 = {
+101185 = {
 	name = "Conisbrough"
 	dynasty = 1008
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101584
+	father = 101184
 
 	2873.1.1 = { birth = "2873.1.1" }
 	2945.1.1 = { death = "2945.1.1" }
 }
 
-101586 = {
+101186 = {
 	name = "Conrad"
 	dynasty = 1008
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101585
+	father = 101185
 
 	2902.1.1 = { birth = "2902.1.1" }
 	2913.1.1 = { add_spouse = 101644 }

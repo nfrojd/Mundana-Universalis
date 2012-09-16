@@ -1,0 +1,205 @@
+k_tokon = {
+	color = { 103 140 20 }
+	color2 = { 171 211 75 }
+	
+	capital = 101
+	
+	religion = dragon_cult
+	culture = tokon
+	
+	antitheist = 200
+		sabrian_daak = 500
+
+	d_debhean = {
+		color = { 34 206 91 }
+		color2 = { 91 176 101 }
+		
+		c_alantulw_2 = {
+			color = { 8 144 58 }
+			color2 = { 13 188 55 }
+			
+			b_alantulw_2_castle = {}
+			b_alantulw_2_city = {}
+			b_alantulw_2_temple = {}
+			b_alantulw_2_castle_1 = {}
+		}
+		c_feleidh = {
+			color = { 9 232 89 }
+			color2 = { 41 158 67 }
+			
+			b_feleidh_castle = {}
+			b_feleidh_city = {}
+			b_feleidh_temple = {}
+			b_feleidh_castle_1 = {}
+		}
+		c_inniutok = {
+			color = { 27 178 38 }
+			color2 = { 107 225 117 }
+			
+			b_inniutok_castle = {}
+			b_inniutok_city = {}
+			b_inniutok_temple = {}
+			b_inniutok_castle_1 = {}
+		}
+		c_debhean = {
+			color = { 55 147 85 }
+			color2 = { 6 160 63 }
+			
+			b_debhean_castle = {}
+			b_debhean_city = {}
+			b_debhean_temple = {}
+			b_debhean_castle_1 = {}
+		}
+		c_tir_nieri = {
+			color = { 11 167 6 }
+			color2 = { 83 175 15 }
+			
+			b_tir_nieri_castle = {}
+			b_tir_nieri_city = {}
+			b_tir_nieri_temple = {}
+			b_tir_nieri_castle_1 = {}
+		}
+	}
+	d_ailleidh = {
+		color = { 93 181 127 }
+		color2 = { 2 235 10 }
+		
+		c_sliabh = {
+			color = { 38 192 121 }
+			color2 = { 88 167 37 }
+			
+			b_sliabh_castle = {}
+			b_sliabh_city = {}
+			b_sliabh_temple = {}
+			b_sliabh_castle_1 = {}
+		}
+		c_feeves = {
+			color = { 21 148 105 }
+			color2 = { 45 254 24 }
+			
+			b_feeves_castle = {}
+			b_feeves_city = {}
+			b_feeves_temple = {}
+			b_feeves_castle_1 = {}
+		}
+		c_craigfaan = {
+			color = { 91 144 39 }
+			color2 = { 13 246 106 }
+			
+			b_craigfaan_castle = {}
+			b_craigfaan_city = {}
+			b_craigfaan_temple = {}
+			b_craigfaan_castle_1 = {}
+		}
+		c_ailleidh = {
+			color = { 48 205 104 }
+			color2 = { 54 128 51 }
+			
+			b_ailleidh_castle = {}
+			b_ailleidh_city = {}
+			b_ailleidh_temple = {}
+			b_ailleidh_castle_1 = {}
+		}
+	}
+	d_intouk = {
+		color = { 77 247 80 }
+		color2 = { 81 232 29 }
+		
+		c_lewain = {
+			color = { 56 173 125 }
+			color2 = { 96 206 17 }
+			
+			b_lewain_castle = {}
+			b_lewain_city = {}
+			b_lewain_temple = {}
+			b_lewain_castle_1 = {}
+		}
+		c_intouk = {
+			color = { 108 235 38 }
+			color2 = { 109 228 110 }
+			
+			b_intouk_castle = {}
+			b_intouk_city = {}
+			b_intouk_temple = {}
+			b_intouk_city_1 = {}
+			b_intouk_castle_1 = {}
+		}
+		c_eirach = {
+			color = { 49 232 77 }
+			color2 = { 30 129 10 }
+			
+			b_eirach_castle = {}
+			b_eirach_city = {}
+			b_eirach_temple = {}
+			b_eirach_castle_1 = {}
+		}
+		c_rinntok = {
+			color = { 20 201 66 }
+			color2 = { 125 167 35 }
+			
+			b_rinntok_castle = {}
+			b_rinntok_city = {}
+			b_rinntok_temple = {}
+			b_rinntok_castle_1 = {}
+		}
+		c_owaidh = {
+			color = { 26 244 4 }
+			color2 = { 85 242 107 }
+			
+			b_owaidh_castle = {}
+			b_owaidh_city = {}
+			b_owaidh_temple = {}
+			b_owaidh_castle_1 = {}
+		}
+	}
+	d_nie = {
+		color = { 123 247 122 }
+		color2 = { 74 163 43 }
+		
+		c_pithain = {
+			color = { 71 169 112 }
+			color2 = { 5 185 55 }
+			
+			b_pithain_castle = {}
+			b_pithain_city = {}
+			b_pithain_temple = {}
+			b_pithain_castle_1 = {}
+		}
+		c_foradrach = {
+			color = { 9 153 19 }
+			color2 = { 45 240 65 }
+			
+			b_foradrach_castle = {}
+			b_foradrach_city = {}
+			b_foradrach_temple = {}
+			b_foradrach_castle_1 = {}
+		}
+		c_usiarach = {
+			color = { 25 165 105 }
+			color2 = { 80 185 24 }
+			
+			b_usiarach_castle = {}
+			b_usiarach_city = {}
+			b_usiarach_city_1 = {}
+			b_usiarach_temple = {}
+		}
+		c_tain = {
+			color = { 108 220 74 }
+			color2 = { 95 147 28 }
+			
+			b_tain_castle = {}
+			b_tain_city = {}
+			b_tain_temple = {}
+			b_tain_castle_1 = {}
+		}
+		c_ilaidh = {
+			color = { 88 142 66 }
+			color2 = { 70 146 98 }
+			
+			b_ilaidh_castle = {}
+			b_ilaidh_city = {}
+			b_ilaidh_temple = {}
+			b_ilaidh_castle_1 = {}
+		}
+	}
+}

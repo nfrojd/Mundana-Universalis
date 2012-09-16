@@ -1,4 +1,5 @@
-	ct_wall_1 = {
+temple = {
+	tp_wall_1 = {
 		build_time = 1
 		build_cost = 100
 #		build_time = 365 #1y
@@ -11,8 +12,8 @@
 			always = no
 		}
 	}
-	ct_wall_2 = {
-		upgrades_from = ct_wall_1
+	tp_wall_2 = {
+		upgrades_from = tp_wall_1
 		build_time = 1
 		build_cost = 200
 #		build_time = 730 #2y
@@ -25,8 +26,8 @@
 			always = no
 		}
 	}
-	ct_wall_3 = {
-		upgrades_from = ct_wall_2
+	tp_wall_3 = {
+		upgrades_from = tp_wall_2
 		build_time = 1
 		build_cost = 500
 #		build_time = 1095 #3y
@@ -39,8 +40,8 @@
 			always = no
 		}
 	}
-	ct_wall_4 = {
-		upgrades_from = ct_wall_3
+	tp_wall_4 = {
+		upgrades_from = tp_wall_3
 		build_time = 1
 		build_cost = 1000
 #		build_time = 1460 #4y
@@ -53,8 +54,8 @@
 			always = no
 		}
 	}
-	ct_wall_5 = {
-		upgrades_from = ct_wall_4
+	tp_wall_5 = {
+		upgrades_from = tp_wall_4
 		build_time = 1
 		build_cost = 2000
 #		build_time = 1825 #5y
@@ -67,8 +68,8 @@
 			always = no
 		}
 	}
-	ct_wall_6 = {
-		upgrades_from = ct_wall_5
+	tp_wall_6 = {
+		upgrades_from = tp_wall_5
 		build_time = 1
 		build_cost = 5000
 #		build_time = 2190 #6y
@@ -82,242 +83,215 @@
 		}
 	}
 
-	ct_town_1 = { # Burgh, 0.8k - 2.5k
+	tp_academy_1 = {
+		potential = {
+			NOT = { has_building = tp_barracks_1 }
+		}
+#		trigger = { NOT = { has_building = tp_barracks_1 } }
 		build_time = 1
 		build_cost = 100
 #		build_time = 365 #1y
 
-		tax_income = 2
-		# 200
-		light_infantry = 50
-		heavy_infantry = 50
-		pikemen = 50
-		archers = 50
-#		light_cavalry = 10
+		tax_income = 1
+		tech_growth_modifier = 0.25
 
-		ai_creation_factor = 99
-		
-		start = {
-			always = no
-		}
-	}
-	ct_town_2 = { # Medium city, 3k - 8k
-		upgrades_from = ct_town_1
-		build_time = 1
-		build_cost = 200
-#		build_time = 730 #2y
-
-		tax_income = 4
-		# 300
+		# 100
 		light_infantry = 100
-		heavy_infantry = 50
-		pikemen = 75
-		archers = 75
-#		light_cavalry = 10
 
-		ai_creation_factor = 98
-
-		start = {
-			always = no
-		}
-	}
-	ct_town_3 = { # Large city, 10k - 20k
-		upgrades_from = ct_town_2
-		build_time = 1
-		build_cost = 500
-#		build_time = 1095 #3y
-
-		tax_income = 6
-		# 400
-		light_infantry = 150
-		heavy_infantry = 50
-		pikemen = 100
-		archers = 100
-#		light_cavalry = 10
-
-		ai_creation_factor = 97
-		
-		start = {
-			always = no
-		}
-	}
-	ct_town_4 = { # Huge city, 55k - 55k
-		upgrades_from = ct_town_3
-		build_time = 1
-		build_cost = 1000
-#		build_time = 1460 #4y
-
-		tax_income = 8
-		# 500
-		light_infantry = 150
-		heavy_infantry = 100
-		pikemen = 125
-		archers = 125
-#		light_cavalry = 10
-
-		ai_creation_factor = 96
-
-		start = {
-			always = no
-		}
-	}
-	ct_town_5 = { # Massive city, 90k - 90k
-		upgrades_from = ct_town_4
-		build_time = 1
-		build_cost = 2000
-#		build_time = 1825 #5y
-
-		tax_income = 10
-		# 600
-		light_infantry = 200
-		heavy_infantry = 100
-		pikemen = 150
-		archers = 150
-#		light_cavalry = 10
-
-		ai_creation_factor = 95
-
-		start = {
-			always = no
-		}
-	}
-	ct_town_6 = { # Metropolis
-		upgrades_from = ct_town_5
-		build_time = 1
-		build_cost = 5000
-#		build_time = 2190 #6y
-
-		tax_income = 12
-		# 700
-		light_infantry = 200
-		heavy_infantry = 150
-		pikemen = 175
-		archers = 175
-#		light_cavalry = 10
-
-		ai_creation_factor = 94
-
-		start = {
-			always = no
-		}
-	}
-
-	ct_port_1 = {
-		potential = {
-			port = yes
-		}
-		prerequisites = { ct_wall_1 }
-		build_time = 1
-		build_cost = 100
-#		build_time = 365 #1y
-
-		fort_level = -1.0
-		tax_income = 2
-		galleys = 10
-		
 		ai_creation_factor = 99
 		
 		start = {
 			always = no
 		}
 	}
-	ct_port_2 = {
-		potential = {
-			port = yes
-		}
-		prerequisites = { ct_wall_2 }
-		upgrades_from = ct_port_1
+	tp_academy_2 = {
+		upgrades_from = tp_academy_1
 		build_time = 1
 		build_cost = 200
 #		build_time = 730 #2y
 
-		fort_level = -1.0
-		tax_income = 4
-		galleys = 15
-		
+		tax_income = 2
+		tech_growth_modifier = 0.25
+
+		# 200
+		light_infantry = 100
+
 		ai_creation_factor = 98
 
 		start = {
 			always = no
 		}
 	}
-	ct_port_3 = {
-		potential = {
-			port = yes
-		}
-		prerequisites = { ct_wall_2 }
-		upgrades_from = ct_port_2
+	tp_academy_3 = {
+		upgrades_from = tp_academy_2
 		build_time = 1
 		build_cost = 500
 #		build_time = 1095 #3y
 
-		fort_level = -1.0
-		tax_income = 6
-		galleys = 20
-		
+		tax_income = 3
+		tech_growth_modifier = 0.25
+
+		# 500
+		light_infantry = 300
+
 		ai_creation_factor = 97
 		
 		start = {
 			always = no
 		}
 	}
-	ct_port_4 = {
-		potential = {
-			port = yes
-		}
-		prerequisites = { ct_wall_3 }
-		upgrades_from = ct_port_3
+	tp_academy_4 = {
+		upgrades_from = tp_academy_3
 		build_time = 1
 		build_cost = 1000
 #		build_time = 1460 #4y
 
-		fort_level = -1.0
-		tax_income = 8
-		galleys = 25
-		
+		tax_income = 4
+		tech_growth_modifier = 0.25
+
+		# 1000
+		light_infantry = 500
+
 		ai_creation_factor = 96
 
 		start = {
 			always = no
 		}
 	}
-	ct_port_5 = {
-		potential = {
-			port = yes
-		}
-		prerequisites = { ct_wall_3 }
-		upgrades_from = ct_port_4
+	tp_academy_5 = {
+		upgrades_from = tp_academy_4
 		build_time = 1
 		build_cost = 2000
 #		build_time = 1825 #5y
 
-		fort_level = -1.0
-		tax_income = 10
-		galleys = 30
-		
+		tax_income = 5
+		tech_growth_modifier = 0.25
+
+		# 2000
+		light_infantry = 1000
+
 		ai_creation_factor = 95
 
 		start = {
 			always = no
 		}
 	}
-	ct_port_6 = {
-		potential = {
-			port = yes
-		}
-		prerequisites = { ct_wall_3 }
-		upgrades_from = ct_port_5
+	tp_academy_6 = {
+		upgrades_from = tp_academy_5
 		build_time = 1
 		build_cost = 5000
 #		build_time = 2190 #6y
 
-		fort_level = -1.0
-		tax_income = 12
-		galleys = 35
-		
+		tax_income = 6
+		tech_growth_modifier = 0.25
+
+		# 5000
+		light_infantry = 3000
+
 		ai_creation_factor = 94
 
 		start = {
 			always = no
 		}
 	}
+
+	tp_barracks_1 = {
+		potential = {
+			NOT = { has_building = tp_academy_1 }
+		}
+#		trigger = { NOT = { has_building = tp_academy_1 } }
+		build_time = 1
+		build_cost = 100
+#		build_time = 365 #1y
+
+		# 100
+		heavy_infantry = 80
+		knights = 20
+
+		ai_creation_factor = 99
+		
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_2 = {
+		upgrades_from = tp_barracks_1
+		build_time = 1
+		build_cost = 200
+#		build_time = 730 #2y
+
+		# 200
+		heavy_infantry = 80
+		knights = 20
+
+		ai_creation_factor = 98
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_3 = {
+		upgrades_from = tp_barracks_2
+		build_time = 1
+		build_cost = 500
+#		build_time = 1095 #3y
+
+		# 500
+		heavy_infantry = 240
+		knights = 60
+
+		ai_creation_factor = 97
+		
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_4 = {
+		upgrades_from = tp_barracks_3
+		build_time = 1
+		build_cost = 1000
+#		build_time = 1460 #4y
+
+		# 1000
+		heavy_infantry = 400
+		knights = 100
+
+		ai_creation_factor = 96
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_5 = {
+		upgrades_from = tp_barracks_4
+		build_time = 1
+		build_cost = 2000
+#		build_time = 1825 #5y
+
+		# 2000
+		heavy_infantry = 800
+		knights = 200
+
+		ai_creation_factor = 95
+
+		start = {
+			always = no
+		}
+	}
+	tp_barracks_6 = {
+		upgrades_from = tp_barracks_5
+		build_time = 1
+		build_cost = 5000
+#		build_time = 2190 #6y
+
+		# 5000
+		heavy_infantry = 2400
+		knights = 600
+
+		ai_creation_factor = 94
+
+		start = {
+			always = no
+		}
+	}
+}

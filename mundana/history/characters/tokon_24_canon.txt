@@ -3,6 +3,8 @@
 	name = "Cailleach Athvainn" # Ard Righ
 	dynasty = 2400
 
+	add_trait = "cynical"
+
 	culture = "tokon"
 	religion = "dragon_cult"
 

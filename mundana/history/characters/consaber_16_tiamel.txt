@@ -641,7 +641,7 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101585
+	father = 101185
 
 	2913.1.1 = { birth = 2913.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -652,7 +652,7 @@
 
 	culture = "conrier"
 	religion = "sabrian_daak"
-	father = 101585
+	father = 101185
 
 	2904.1.1 = { birth = 2904.1.1 }
 	2936.1.1 = { add_spouse = 101653 }

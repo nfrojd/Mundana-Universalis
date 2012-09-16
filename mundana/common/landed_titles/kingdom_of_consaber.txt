@@ -1,0 +1,1117 @@
+e_consaber = {
+	color = { 208 83 121 }
+	color2 = { 220 220 20 }
+	
+	capital = 75
+	
+	religion = sabrian_daak
+	
+	k_uriens = {
+		color = { 163 113 107 }
+		color2 = { 209 4 173 }
+		
+		capital = 88
+		
+		religion = sabrian_daak
+		culture = perenn
+		
+		antitheist = 500
+		sabrian_daak = 800
+
+		d_seredan = {
+			color = { 228 50 107 }
+			color2 = { 206 23 44 }
+			
+			c_dunreith = {
+				color = { 134 72 66 }
+				color2 = { 155 9 110 }
+				
+				b_dunreith_castle = {}
+				b_dunreith_st_faulk = {}
+				b_dunreith_city = {}
+				b_dunreith_temple = {}
+				b_dunreith_city_1 = {}
+			}
+			c_skenetrip = {
+				color = { 194 97 14 }
+				color2 = { 134 16 108 }
+				
+				b_skenetrip_castle = {}
+				b_skenetrip_city = {}
+				b_skenetrip_temple = {}
+				b_skenetrip_castle_1 = {}
+			}
+			c_tene = {
+				color = { 135 6 126 }
+				color2 = { 220 37 23 }
+				
+				b_tene_castle = {}
+				b_tene_city = {}
+				b_tene_temple = {}
+				b_tene_castle_1 = {}
+			}
+		}
+		d_rinya = {
+			color = { 226 31 71 }
+			color2 = { 139 67 16 }
+			
+			c_rinya = {
+				color = { 232 11 34 }
+				color2 = { 146 109 29 }
+				
+				b_rinya_temple = {}
+			}
+		}
+		d_firina = {
+			color = { 147 124 62 }
+			color2 = { 168 105 41 }
+			
+			c_firina = {
+				color = { 229 10 107 }
+				color2 = { 170 90 48 }
+				
+				b_firina_castle = {}
+				b_firina_city = {}
+				b_firina_temple = {}
+				b_firina_castle_1 = {}
+			}
+			c_herika = {
+				color = { 137 70 35 }
+				color2 = { 223 85 105 }
+				
+				b_herika_castle = {}
+				b_herika_city = {}
+				b_herika_temple = {}
+				b_herika_castle_1 = {}
+			}
+			c_mater = {
+				color = { 138 108 20 }
+				color2 = { 182 12 123 }
+				
+				b_mater_castle = {}
+				b_mater_city = {}
+				b_mater_temple = {}
+				b_mater_castle_1 = {}
+			}
+		}
+		d_baton = {
+			color = { 168 47 53 }
+			color2 = { 173 106 12 }
+			
+			c_rimon = {
+				color = { 156 55 24 }
+				color2 = { 149 16 76 }
+				
+				b_rimon_castle = {}
+				b_rimon_city = {}
+				b_rimon_temple = {}
+				b_rimon_castle_1 = {}
+			}
+			c_dunbaton = {
+				color = { 191 80 46 }
+				color2 = { 189 106 5 }
+				
+				b_dunbaton_castle = {}
+				b_dunbaton_city = {}
+				b_dunbaton_temple = {}
+				b_dunbaton_castle_1 = {}
+			}
+			c_grikentulw = {
+				color = { 184 74 4 }
+				color2 = { 220 87 58 }
+				
+				b_grikentulw_castle = {}
+				b_grikentulw_city = {}
+				b_grikentulw_temple = {}
+				b_grikentulw_castle_1 = {}
+			}
+		}
+		d_creten = {
+			color = { 202 115 37 }
+			color2 = { 140 28 43 }
+			
+			c_belos = {
+				color = { 179 85 76 }
+				color2 = { 202 7 13 }
+				
+				b_belos_castle = {}
+				b_belos_city = {}
+				b_belos_temple = {}
+				b_belos_castle_1 = {}
+			}
+			c_kardor = {
+				color = { 182 101 59 }
+				color2 = { 144 122 105 }
+				
+				b_kardor_castle = {}
+				b_kardor_city = {}
+				b_kardor_temple = {}
+				b_kardor_castle_1 = {}
+			}
+			c_kalo = {
+				color = { 203 113 96 }
+				color2 = { 153 103 67 }
+				
+				b_kalo_castle = {}
+				b_kalo_castle_1 = {}
+				b_kalo_temple = {}
+				b_kalo_city = {}
+				b_kalo_city_1 = {}
+				b_kalo_city_2 = {}
+			}
+			c_negel = {
+				color = { 199 75 112 }
+				color2 = { 242 24 113 }
+				
+				b_negel_castle = {}
+				b_negel_city = {}
+				b_negel_city_1 = {}
+				b_negel_temple = {}
+			}
+			c_uriens = {
+				color = { 145 11 38 }
+				color2 = { 145 46 61 }
+				
+				b_uriens_castle = {}
+				b_uriens_city = {}
+				b_uriens_temple = {}
+				b_uriens_city_1 = {}
+				b_uriens_castle_1 = {}
+			}
+			c_jaimon = {
+				color = { 229 95 120 }
+				color2 = { 160 19 79 }
+				
+				b_jaimon_castle = {}
+				b_jaimon_city = {}
+				b_jaimon_temple = {}
+				b_jaimon_castle_1 = {}
+			}
+		}
+		d_alni = {
+			color = { 231 13 85 }
+			color2 = { 242 82 98 }
+			
+			c_emnau = {
+				color = { 154 61 41 }
+				color2 = { 225 31 49 }
+				
+				b_emnau_castle = {}
+				b_emnau_city = {}
+				b_emnau_temple = {}
+				b_emnau_castle_1 = {}
+			}
+			c_aladene = {
+				color = { 161 24 48 }
+				color2 = { 242 120 43 }
+				
+				b_aladene_castle = {}
+				b_aladene_city = {}
+				b_aladene_temple = {}
+				b_aladene_castle_1 = {}
+			}
+			c_tesel = {
+				color = { 238 113 76 }
+				color2 = { 177 73 127 }
+				
+				b_tesel_castle = {}
+				b_tesel_city = {}
+				b_tesel_city_1 = {}
+				b_tesel_temple = {}
+			}
+			c_aliana = {
+				color = { 175 39 95 }
+				color2 = { 166 16 39 }
+				
+				b_aliana_castle = {}
+				b_aliana_city = {}
+				b_aliana_temple = {}
+				b_aliana_castle_1 = {}
+				b_aliana_city_1 = {}
+			}
+		}
+		d_nantien = {
+			color = { 150 57 19 }
+			color2 = { 192 17 122 }
+			
+			c_silersham = {
+				color = { 226 33 34 }
+				color2 = { 133 108 33 }
+				
+				b_silersham_castle = {}
+				b_silersham_city = {}
+				b_silersham_temple = {}
+				b_silersham_castle_1 = {}
+			}
+			c_ebrean = {
+				color = { 219 55 84 }
+				color2 = { 230 122 79 }
+				
+				b_ebrean_castle = {}
+				b_ebrean_city = {}
+				b_ebrean_temple = {}
+				b_ebrean_castle_1 = {}
+			}
+			c_welea = {
+				color = { 247 16 33 }
+				color2 = { 203 54 108 }
+				
+				b_welea_castle = {}
+				b_welea_city = {}
+				b_welea_temple = {}
+				b_welea_castle_1 = {}
+			}
+			c_salston_tor = {
+				color = { 237 93 56 }
+				color2 = { 182 98 29 }
+				
+				b_salston_tor_castle = {}
+				b_salston_tor_city = {}
+				b_salston_tor_castle_1 = {}
+				b_salston_tor_city_1 = {}
+				b_salston_tor_temple = {}
+			}
+		}
+	}
+	k_turina = {
+		color = { 213 34 9 }
+		color2 = { 204 60 151 }
+		
+		capital = 29
+		
+		religion = sabrian_daak
+		culture = conrier
+		
+		antitheist = 300
+		sabrian_daak = 800
+
+		d_turin = {
+			color = { 52 204 51 }
+			color2 = { 94 236 125 }
+			
+			c_korina = {
+				color = { 249 100 110 }
+				color2 = { 168 70 76 }
+				
+				b_korina_castle = {}
+				b_korina_city = {}
+				b_korina_temple = {}
+				b_korina_castle_1 = {}
+			}
+			c_kiril = {
+				color = { 241 14 55 }
+				color2 = { 242 26 61 }
+				
+				b_kiril_castle = {}
+				b_kiril_city = {}
+				b_kiril_temple = {}
+				b_kiril_castle_1 = {}
+			}
+			c_turina = {
+				color = { 173 97 57 }
+				color2 = { 222 20 126 }
+				
+				b_turina_castle = {}
+				b_turina_city = {}
+				b_turina_temple = {}
+				b_turina_school = {}
+				b_turina_castle_1 = {}
+			}
+			c_vimbern = {
+				color = { 213 35 46 }
+				color2 = { 136 18 125 }
+				
+				b_vimbern_castle = {}
+				b_vimbern_city = {}
+				b_vimbern_temple = {}
+				b_vimbern_castle_1 = {}
+			}
+			c_tuirn = {
+				color = { 168 105 68 }
+				color2 = { 217 20 106 }
+				
+				b_tuirn_castle = {}
+				b_tuirn_city = {}
+				b_tuirn_temple = {}
+				b_tuirn_castle_1 = {}
+			}
+		}
+		d_nol = {
+			color = { 85 192 3 }
+			color2 = { 46 173 82 }
+			
+			c_thia = {
+				color = { 189 23 103 }
+				color2 = { 206 64 40 }
+				
+				b_thia_castle = {}
+				b_thia_city = {}
+				b_thia_temple = {}
+				b_thia_castle_1 = {}
+			}
+			c_fhix = {
+				color = { 174 74 39 }
+				color2 = { 198 23 35 }
+				
+				b_fhix_castle = {}
+				b_fhix_city = {}
+				b_fhix_temple = {}
+				b_fhix_castle_1 = {}
+			}
+			c_ghia = {
+				color = { 244 99 83 }
+				color2 = { 158 26 3 }
+				
+				b_ghia_castle = {}
+				b_ghia_city = {}
+				b_ghia_temple = {}
+				b_ghia_castle_1 = {}
+			}
+		}
+		d_ebrin = {
+			color = { 96 232 73 }
+			color2 = { 8 169 88 }
+			
+			c_dunres = {
+				color = { 177 89 59 }
+				color2 = { 207 63 36 }
+				
+				b_dunres_castle = {}
+				b_dunres_city = {}
+				b_dunres_temple = {}
+				b_dunres_castle_1 = {}
+			}
+			c_fen = {
+				color = { 203 122 57 }
+				color2 = { 190 9 50 }
+				
+				b_fen_castle = {}
+				b_fen_city = {}
+				b_fen_temple = {}
+				b_fen_castle_1 = {}
+			}
+			c_ehgine = {
+				color = { 170 44 81 }
+				color2 = { 147 17 114 }
+				
+				b_ehgine_castle = {}
+				b_ehgine_city = {}
+				b_ehgine_temple = {}
+				b_ehgine_castle_1 = {}
+			}
+			c_salni = {
+				color = { 165 110 90 }
+				color2 = { 197 32 100 }
+				
+				b_salni_castle = {}
+				b_salni_city = {}
+				b_salni_temple = {}
+				b_salni_castle_1 = {}
+			}
+		}
+	}
+	k_nensema = {
+		color = { 195 125 9 }
+		color2 = { 226 105 175 }
+		
+		capital = 5
+		
+		religion = sabrian_daak
+		culture = conrier
+		
+		antitheist = 300
+		sabrian_daak = 800
+
+		d_vimna = {
+			color = { 180 95 17 }
+			color2 = { 217 62 126 }
+			
+			c_meredith = {
+				color = { 144 74 102 }
+				color2 = { 178 10 96 }
+				
+				b_meredith_castle = {}
+				b_meredith_city = {}
+				b_meredith_temple = {}
+				b_meredith_castle_1 = {}
+			}
+			c_iriant = {
+				color = { 149 71 46 }
+				color2 = { 132 102 33 }
+				
+				b_iriant_castle = {}
+				b_iriant_city = {}
+				b_iriant_temple = {}
+				b_iriant_castle_1 = {}
+			}
+			c_myndar = {
+				color = { 177 124 49 }
+				color2 = { 171 24 52 }
+				
+				b_myndar_castle = {}
+				b_myndar_city = {}
+				b_myndar_temple = {}
+				b_myndar_castle_1 = {}
+				b_myndar_city_1 = {}
+			}
+		}
+		d_prowe = {
+			color = { 147 75 91 }
+			color2 = { 158 32 114 }
+			
+			c_varna = {
+				color = { 189 108 103 }
+				color2 = { 183 50 74 }
+				
+				b_varna_castle = {}
+				b_varna_city = {}
+				b_varna_temple = {}
+				b_varna_castle_1 = {}
+			}
+			c_dann = {
+				color = { 172 111 23 }
+				color2 = { 189 113 93 }
+				
+				b_dann_castle = {}
+				b_dann_city = {}
+				b_dann_temple = {}
+				b_dann_castle_1 = {}
+			}
+			c_drafe = {
+				color = { 233 48 65 }
+				color2 = { 144 103 10 }
+				
+				b_drafe_castle = {}
+				b_drafe_city = {}
+				b_drafe_temple = {}
+				b_drafe_castle_1 = {}
+			}
+		}
+		d_tarna = {
+			color = { 136 127 97 }
+			color2 = { 231 17 103 }
+			
+			c_treigh = {
+				color = { 188 34 110 }
+				color2 = { 245 53 63 }
+				
+				b_treigh_castle = {}
+				b_treigh_city = {}
+				b_treigh_temple = {}
+			}
+			c_laerika = {
+				color = { 208 54 63 }
+				color2 = { 184 45 35 }
+				
+				b_laerika_castle = {}
+				b_laerika_city = {}
+				b_laerika_temple = {}
+				b_laerika_castle_1 = {}
+			}
+			c_grike = {
+				color = { 196 114 40 }
+				color2 = { 239 86 51 }
+				
+				b_grike_castle = {}
+				b_grike_city = {}
+				b_grike_temple = {}
+				b_grike_castle_1 = {}
+			}
+		}
+		d_colm = {
+			color = { 126 182 169 }
+			color2 = { 124 224 171 }
+			
+			c_colm = {
+				color = { 232 35 21 }
+				color2 = { 236 14 112 }
+				
+				b_remezior_krack = {}
+				b_kholam_renk_ghor = {}
+			}
+		}
+		d_ramnesney = {
+			color = { 200 3 34 }
+			color2 = { 216 85 79 }
+			
+			c_ramnesney = {
+				color = { 128 84 120 }
+				color2 = { 249 18 45 }
+				
+				b_ramnesney_castle = {}
+				b_ramnesney_city = {}
+				b_ramnesney_temple = {}
+				b_ramnesney_castle_1 = {}
+				b_ramnesney_city_1 = {}
+			}
+			c_negan = {
+				color = { 240 74 112 }
+				color2 = { 252 32 104 }
+				
+				b_negan_castle = {}
+				b_negan_city = {}
+				b_negan_temple = {}
+				b_negan_castle_1 = {}
+			}
+			c_laer = {
+				color = { 145 80 61 }
+				color2 = { 216 104 102 }
+				
+				b_laer_castle = {}
+				b_laer_city = {}
+				b_laer_temple = {}
+				b_laer_castle_1 = {}
+			}
+			c_wella = {
+				color = { 232 89 6 }
+				color2 = { 144 7 15 }
+				
+				b_wella_castle = {}
+				b_wella_city = {}
+				b_wella_temple = {}
+				b_wella_castle_1 = {}
+			}
+		}
+		d_nensen = {
+			color = { 227 67 123 }
+			color2 = { 222 0 116 }
+			
+			c_bret = {
+				color = { 192 30 99 }
+				color2 = { 221 112 61 }
+				
+				b_bret_castle = {}
+				b_bret_city = {}
+				b_bret_temple = {}
+				b_bret_castle_1 = {}
+			}
+			c_nann = {
+				color = { 178 18 118 }
+				color2 = { 215 96 80 }
+				
+				b_nann_castle = {}
+				b_nann_city = {}
+				b_nann_temple = {}
+				b_nann_castle_1 = {}
+			}
+			c_nensema = {
+				color = { 211 112 55 }
+				color2 = { 208 23 50 }
+				
+				b_nensema_castle = {}
+				b_nensema_city = {}
+				b_nensema_temple = {}
+				b_nensema_castle_1 = {}
+				b_nensema_city_1 = {}
+			}
+		}
+		d_rim = {
+			color = { 149 92 55 }
+			color2 = { 147 35 125 }
+			
+			c_marnoc = {
+				color = { 234 104 42 }
+				color2 = { 186 22 34 }
+				
+				b_marnoc_castle = {}
+				b_marnoc_city = {}
+				b_marnoc_temple = {}
+				b_marnoc_castle_1 = {}
+			}
+			c_vormon = {
+				color = { 173 90 37 }
+				color2 = { 212 39 36 }
+				
+				b_vormon_castle = {}
+				b_vormon_city = {}
+				b_vormon_temple = {}
+				b_vormon_castle_1 = {}
+			}
+			c_alarik = {
+				color = { 140 34 65 }
+				color2 = { 221 9 85 }
+				
+				b_alarik_castle = {}
+				b_alarik_city = {}
+				b_alarik_temple = {}
+				b_alarik_castle_1 = {}
+			}
+			c_finvarik = {
+				color = { 253 55 28 }
+				color2 = { 170 31 60 }
+				
+				b_finvarik_castle = {}
+				b_finvarik_city = {}
+				b_finvarik_temple = {}
+				b_finvarik_castle_1 = {}
+			}
+		}
+	}
+	k_negaidh = {
+		color = { 197 4 73 }
+		color2 = { 166 103 139 }
+		
+		capital = 42
+		
+		religion = sabrian_daak
+		culture = conrier
+		
+		antitheist = 300
+		sabrian_daak = 800
+
+		d_negin = {
+			color = { 166 37 103 }
+			color2 = { 143 49 121 }
+			
+			c_fene = {
+				color = { 239 25 50 }
+				color2 = { 177 84 51 }
+				
+				b_fene_castle = {}
+				b_fene_city = {}
+				b_fene_temple = {}
+				b_fene_castle_1 = {}
+			}
+			c_saiwick = {
+				color = { 164 84 46 }
+				color2 = { 195 15 111 }
+				
+				b_saiwick_castle = {}
+				b_saiwick_city = {}
+				b_saiwick_temple = {}
+				b_saiwick_castle_1 = {}
+			}
+			c_calo = {
+				color = { 194 127 20 }
+				color2 = { 240 120 16 }
+				
+				b_calo_castle = {}
+				b_calo_city = {}
+				b_calo_temple = {}
+				b_calo_castle_1 = {}
+			}
+			c_nana = {
+				color = { 139 53 54 }
+				color2 = { 252 84 46 }
+				
+				b_nana_castle = {}
+				b_nana_city = {}
+				b_nana_temple = {}
+				b_nana_castle_1 = {}
+			}
+		}
+		d_tresna = {
+			color = { 245 97 66 }
+			color2 = { 243 32 92 }
+			
+			c_serurik = {
+				color = { 186 14 18 }
+				color2 = { 183 87 43 }
+				
+				b_serurik_castle = {}
+				b_serurik_city = {}
+				b_serurik_temple = {}
+				b_serurik_castle_1 = {}
+			}
+			c_mela = {
+				color = { 165 15 27 }
+				color2 = { 190 110 94 }
+				
+				b_mela_castle = {}
+				b_mela_city = {}
+				b_mela_temple = {}
+				b_mela_castle_1 = {}
+			}
+			c_negaidh = {
+				color = { 191 79 37 }
+				color2 = { 152 30 91 }
+				
+				b_negaidh_castle = {}
+				b_negaidh_city = {}
+				b_negaidh_temple = {}
+				b_negaidh_castle_1 = {}
+			}
+			c_aganne = {
+				color = { 193 90 102 }
+				color2 = { 214 79 24 }
+				
+				b_aganne_castle = {}
+				b_aganne_city = {}
+				b_aganne_temple = {}
+				b_aganne_castle_1 = {}
+			}
+		}
+		d_flarne = {
+			color = { 239 25 103 }
+			color2 = { 158 120 28 }
+			
+			c_faimon = {
+				color = { 212 20 120 }
+				color2 = { 229 105 112 }
+				
+				b_faimon_castle = {}
+				b_faimon_city = {}
+				b_faimon_temple = {}
+				b_faimon_castle_1 = {}
+			}
+			c_regant = {
+				color = { 161 84 101 }
+				color2 = { 173 31 38 }
+				
+				b_regant_castle = {}
+				b_regant_city = {}
+				b_regant_temple = {}
+				b_regant_castle_1 = {}
+			}
+			c_mirnas = {
+				color = { 155 95 115 }
+				color2 = { 201 47 109 }
+				
+				b_mirnas_castle = {}
+				b_mirnas_city = {}
+				b_mirnas_temple = {}
+				b_mirnas_castle_1 = {}
+			}
+		}
+		d_arsacke = {
+			color = { 224 116 57 }
+			color2 = { 229 93 99 }
+			
+			c_kirine = {
+				color = { 245 0 86 }
+				color2 = { 206 19 48 }
+				
+				b_kirine_castle = {}
+				b_kirine_city = {}
+				b_kirine_temple = {}
+				b_kirine_castle_1 = {}
+			}
+			c_ornia = {
+				color = { 191 53 49 }
+				color2 = { 150 9 90 }
+				
+				b_ornia_castle = {}
+				b_ornia_city = {}
+				b_ornia_temple = {}
+				b_ornia_castle_1 = {}
+			}
+			c_rebenn = {
+				color = { 180 46 55 }
+				color2 = { 207 47 81 }
+				
+				b_rebenn_castle = {}
+				b_rebenn_city = {}
+				b_rebenn_temple = {}
+				b_rebenn_castle_1 = {}
+			}
+		}
+		d_alcheg = {
+			color = { 250 28 20 }
+			color2 = { 238 58 110 }
+			
+			c_alcheg = {
+				color = { 178 34 32 }
+				color2 = { 139 126 29 }
+				
+				b_alcheg_castle = {}
+				b_alcheg_city = {}
+				b_alcheg_temple = {}
+				b_alcheg_castle_1 = {}
+			}
+			c_nelos = {
+				color = { 188 123 112 }
+				color2 = { 146 51 125 }
+				
+				b_nelos_castle = {}
+				b_nelos_city = {}
+				b_nelos_temple = {}
+				b_nelos_castle_1 = {}
+			}
+			c_ybersiel = {
+				color = { 200 68 84 }
+				color2 = { 206 10 13 }
+				
+				b_ybersiel_castle = {}
+				b_ybersiel_city = {}
+				b_ybersiel_temple = {}
+				b_ybersiel_castle_1 = {}
+			}
+		}
+		d_laerm = {
+			color = { 243 127 93 }
+			color2 = { 180 108 14 }
+			
+			c_lareigh = {
+				color = { 149 117 7 }
+				color2 = { 231 4 107 }
+				
+				b_lareigh_castle = {}
+				b_lareigh_city = {}
+				b_lareigh_temple = {}
+				b_lareigh_castle_1 = {}
+			}
+			c_deber = {
+				color = { 141 126 58 }
+				color2 = { 205 3 38 }
+				
+				b_deber_castle = {}
+				b_deber_city = {}
+				b_deber_temple = {}
+				b_deber_castle_1 = {}
+			}
+		}
+	}
+	k_calana = {
+		color = { 209 87 111 }
+		color2 = { 213 101 210 }
+		
+		capital = 75
+		
+		religion = sabrian_daak
+		culture = perenn
+		
+		antitheist = 400
+		sabrian_daak = 900
+
+		d_felosi = {
+			color = { 168 57 84 }
+			color2 = { 197 82 6 }
+			
+			c_euter = {
+				color = { 211 85 35 }
+				color2 = { 184 102 6 }
+				
+				b_euter_castle = {}
+				b_euter_city = {}
+				b_euter_temple = {}
+				b_euter_castle_1 = {}
+			}
+			c_fella = {
+				color = { 140 113 64 }
+				color2 = { 248 51 45 }
+				
+				b_fella_castle = {}
+				b_fella_city = {}
+				b_fella_temple = {}
+				b_fella_castle_1 = {}
+			}
+		}
+		d_agant = {
+			color = { 192 99 120 }
+			color2 = { 252 117 40 }
+			
+			c_agant = {
+				color = { 252 36 112 }
+				color2 = { 227 113 82 }
+				
+				b_agant_castle = {}
+				b_agant_city = {}
+				b_agant_temple = {}
+				b_agant_castle_1 = {}
+			}
+			c_kredant = {
+				color = { 245 101 86 }
+				color2 = { 158 13 0 }
+				
+				b_kredant_castle = {}
+				b_kredant_city = {}
+				b_kredant_temple = {}
+				b_kredant_castle_1 = {}
+			}
+			c_oldell = {
+				color = { 191 10 5 }
+				color2 = { 138 42 28 }
+				
+				b_oldell_castle = {}
+				b_oldell_city = {}
+				b_oldell_temple = {}
+				b_oldell_castle_1 = {}
+				b_oldell_city_1 = {}
+			}
+		}
+		d_cralo = {
+			color = { 130 108 31 }
+			color2 = { 250 74 84 }
+			
+			c_orvina = {
+				color = { 223 107 4 }
+				color2 = { 135 74 26 }
+				
+				b_orvina_castle = {}
+				b_orvina_city = {}
+				b_orvina_temple = {}
+				b_orvina_castle_1 = {}
+			}
+			c_rebera = {
+				color = { 142 35 113 }
+				color2 = { 162 121 98 }
+				
+				b_rebera_castle = {}
+				b_rebera_city = {}
+				b_rebera_temple = {}
+				b_rebera_castle_1 = {}
+			}
+			c_picarel = {
+				color = { 233 68 100 }
+				color2 = { 253 91 93 }
+				
+				b_picarel_castle = {}
+				b_picarel_city = {}
+				b_picarel_temple = {}
+				b_picarel_castle_1 = {}
+			}
+			c_cralann = {
+				color = { 143 95 40 }
+				color2 = { 155 0 44 }
+				
+				b_cralann_castle = {}
+				b_cralann_city = {}
+				b_cralann_temple = {}
+				b_cralann_castle_1 = {}
+			}
+		}
+		d_uter = {
+			color = { 187 66 101 }
+			color2 = { 205 12 110 }
+			
+			c_sema = {
+				color = { 199 74 7 }
+				color2 = { 165 103 5 }
+				
+				b_sema_temple = {}
+				b_sema_city = {}
+				b_sema_castle = {}
+				b_sema_castle_1 = {}
+			}
+			c_ulw = {
+				color = { 206 96 49 }
+				color2 = { 218 83 33 }
+				
+				b_ulw_castle = {}
+				b_ulw_city = {}
+				b_ulw_temple = {}
+				b_ulw_castle_1 = {}
+			}
+			c_elara = {
+				color = { 201 31 69 }
+				color2 = { 253 8 8 }
+				
+				b_elara_castle = {}
+				b_elara_city = {}
+				b_elara_temple = {}
+				b_elara_castle_1 = {}
+			}
+			c_turika = {
+				color = { 158 75 10 }
+				color2 = { 190 16 49 }
+				
+				b_turika_castle = {}
+				b_turika_city = {}
+				b_turika_temple = {}
+				b_turika_castle_1 = {}
+			}
+		}
+		d_calnia = {
+			color = { 166 117 126 }
+			color2 = { 130 64 3 }
+			
+			c_sara = {
+				color = { 212 100 73 }
+				color2 = { 181 79 90 }
+				
+				b_sara_castle = {}
+				b_sara_city = {}
+				b_sara_temple = {}
+				b_sara_castle_1 = {}
+			}
+			c_calnia = {
+				color = { 150 116 28 }
+				color2 = { 233 102 81 }
+				
+				b_calnia_castle = {}
+				b_calnia_city = {}
+				b_calnia_temple = {}
+				b_calnia_castle_1 = {}
+				b_legion_colonan = {}
+				b_calnia_city_1 = {}
+			}
+			c_alchegel = {
+				color = { 192 58 71 }
+				color2 = { 211 57 81 }
+				
+				b_alchegel_castle = {}
+				b_alchegel_city = {}
+				b_alchegel_city_1 = {}
+				b_alchegel_temple = {}
+			}
+			c_cresnarney = {
+				color = { 223 127 100 }
+				color2 = { 211 114 45 }
+				
+				b_cresnarney_castle = {}
+				b_cresnarney_city = {}
+				b_cresnarney_temple = {}
+				b_cresnarney_castle_1 = {}
+			}
+			c_negellense = {
+				color = { 216 68 23 }
+				color2 = { 162 76 81 }
+				
+				b_negellense_castle = {}
+				b_negellense_city = {}
+				b_negellense_temple = {}
+				b_negellense_castle_1 = {}
+			}
+			c_hesne = {
+				color = { 173 111 43 }
+				color2 = { 209 38 1 }
+				
+				b_hesne_castle = {}
+				b_hesne_city = {}
+				b_hesne_temple = {}
+				b_hesne_castle_1 = {}
+			}
+		}
+		d_skywif = {
+			color = { 191 35 123 }
+			color2 = { 195 95 103 }
+			
+			c_irinn = {
+				color = { 130 114 103 }
+				color2 = { 182 107 48 }
+				
+				b_irinn_castle = {}
+				b_irinn_city = {}
+				b_irinn_city_1 = {}
+				b_irinn_temple = {}
+			}
+			c_fileigh = {
+				color = { 137 30 45 }
+				color2 = { 173 99 4 }
+				
+				b_fileigh_castle = {}
+				b_fileigh_city = {}
+				b_fileigh_temple = {}
+				b_fileigh_castle_1 = {}
+			}
+			c_alantulw = {
+				color = { 167 39 59 }
+				color2 = { 237 112 110 }
+				
+				b_alantulw_castle = {}
+				b_alantulw_city = {}
+				b_alantulw_city_1 = {}
+				b_alantulw_temple = {}
+			}
+			c_urekeny = {
+				color = { 149 98 107 }
+				color2 = { 198 20 93 }
+				
+				b_urekeny_castle = {}
+				b_urekeny_city = {}
+				b_urekeny_city_1 = {}
+				b_urekeny_temple = {}
+			}
+		}
+	}
+}

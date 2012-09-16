@@ -3,12 +3,13 @@
 	name = "Lytesse Visanni"
 	dynasty = 2200
 	female = yes
-
-	add_trait = "long_lived"
+	
+#	add_trait = "elven_immortality"
 
 	culture = "sanari"
 	religion = "sabrian_daak"
 #	religion = "agnostic"
+#	immortal = 29
 
 #	2500.1.1 = { birth = 2500.1.1 }
 	2900.1.1 = { birth = 2900.1.1 }
@@ -102,7 +103,7 @@
 	name = "Ceviel Teni"
 	dynasty = 2200
 
-	add_trait = "long_lived"
+	add_trait = "elven_immortality"
 
 	culture = "sanari"
 	religion = "agnostic"

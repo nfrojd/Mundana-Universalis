@@ -1,0 +1,595 @@
+# HOLY ORDER TITLES
+d_consentinerorden = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_consentinerorden
+}
+d_st_eoboth = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_st_eoboth
+}
+d_st_faulk = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_st_faulk
+}
+d_arvorns_hammare = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_arvorns_hammare
+}
+d_herm_nove = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_herm_nove
+}
+d_fexiororden = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_fexiororden
+}
+d_klockringarorden = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_klockringarorden
+}
+d_zorianorden = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_zorianorden
+}
+d_granasch_muhadin = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_granasch_muhadin
+}
+d_cirzaorden = {
+	color = { 230 230 230 }
+	color2 = { 0 255 0 }
+	
+	capital = 75 # Calnia
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = sabrian_daak
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = unit_d_cirzaorden
+}
+
+# MERCENARY TITLES
+d_blodsbroderna = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_blodsbroderna
+}
+d_det_dolda_inseglets_barare = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_det_dolda_inseglets_barare
+}
+d_draparna = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_draparna
+}
+d_konungens_trogna = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_konungens_trogna
+}
+d_lejonligan = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_lejonligan
+}
+d_sjohastarnas_orden = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_sjohastarnas_orden
+}
+d_svarta_svardets_beskyddare = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_svarta_svardets_beskyddare
+}
+d_vandrarna_under_stjarnan = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_vandrarna_under_stjarnan
+}
+d_vargriddarna = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_vargriddarna
+}
+d_rattvisans_brodraskap = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_rattvisans_brodraskap
+}
+d_ordo_oraculum = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_ordo_oraculum
+}
+d_nyckelorden = {
+	color = { 100 100 30 }
+	color2 = { 0 255 0 }
+
+	capital = 1 # Colm
+	
+	# Hire Trigger
+#	allow = {
+#		religion_group = pagan_group
+#		religion_group = christian
+#	}
+
+	# Parent Religion 
+#	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	modifier = unit_d_nyckelorden
+}

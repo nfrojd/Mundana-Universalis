@@ -3,6 +3,7 @@
 	name = "Igar"
 	dynasty = 981
 
+	immortal = 20
 	martial = 2
 	diplomacy = 10
 	intrigue = 7
@@ -10,12 +11,15 @@
 	learning = 7
 	add_trait = "charismatic_negotiator"
 	add_trait = "lustful"
-	add_trait = "long_lived"
+#	add_trait = "magic_immortality"
 
 	culture = "zadhaz"
 	religion = "antitheist"
 
 	2880.1.1 = { birth = 2880.1.1 } #age 87
+#	2929.1.1 = {
+#		add_trait = "magic_immortality"
+#	}
 	2963.1.1 = { add_spouse = 100009 }
 	2999.1.1 = { death = 2999.1.1 }
 }
@@ -32,7 +36,7 @@
 	add_trait = "intricate_webweaver"
 	add_trait = "deceitful"
 	add_trait = "paranoid"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "arginakus"
 	religion = "antitheist"
@@ -52,7 +56,7 @@
 	add_trait = "skilled_tactician"
 	add_trait = "wroth"
 	add_trait = "cruel"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "harim"
 	religion = "antitheist"
@@ -83,7 +87,7 @@
 	learning = 6
 	add_trait = "grey_eminence"
 	add_trait = "lustful"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "sala"
 	religion = "antitheist"
@@ -102,7 +106,7 @@
 	learning = 9
 	add_trait = "mastermind_theologian"
 	add_trait = "mystic"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "vaganda"
 	religion = "antitheist"
@@ -124,7 +128,7 @@
 	add_trait = "cruel"
 	add_trait = "temperate"
 	add_trait = "kinslayer"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "kobinku"
 	religion = "antitheist"
@@ -143,7 +147,7 @@
 	learning = 7
 	add_trait = "mastermind_theologian"
 	add_trait = "scholar"
-	add_trait = "long_lived"
+	add_trait = "elven_immortality"
 
 	culture = "sanari" #abhixia
 	religion = "antitheist"
@@ -173,7 +177,7 @@
 	add_trait = "mastermind_theologian"
 	add_trait = "cruel"
 	add_trait = "just"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "cartika"
 	religion = "antitheist"
@@ -192,7 +196,7 @@
 	learning = 4
 	add_trait = "skilled_tactician"
 	add_trait = "brave"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "myrdinor"
 	religion = "antitheist"
@@ -218,7 +222,7 @@
 	add_trait = "lustful"
 	add_trait = "fair"
 	add_trait = "deceitful"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -464,7 +468,7 @@
 	name = "Ximor" #Rakhori, p111
 	dynasty = 1000
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -476,7 +480,7 @@
 	name = "Monavykos" #Rakhori, p112
 	dynasty = 1000
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -489,7 +493,7 @@
 	dynasty = 1000
 	female = yes
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -501,7 +505,7 @@
 	name = "Kavardanoc" #Rakhori, p111
 	dynasty = 1000
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -513,7 +517,7 @@
 	name = "Onitam" #Rakhori, p111
 	dynasty = 1000
 
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -526,7 +530,7 @@
 	dynasty = 1000
 
 	add_trait = "elusive_shadow"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -540,7 +544,7 @@
 	female = yes
 
 	add_trait = "elusive_shadow"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"
@@ -553,7 +557,7 @@
 	dynasty = 1000
 
 	add_trait = "elusive_shadow"
-	add_trait = "long_lived"
+	add_trait = "magic_immortality"
 
 	culture = "thalaskian"
 	religion = "antitheist"

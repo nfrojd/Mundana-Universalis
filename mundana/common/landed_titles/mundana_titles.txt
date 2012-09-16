@@ -1,0 +1,4 @@
+## To be used
+# dignity = counties added
+# gain_effect = {}
+# allow = {}

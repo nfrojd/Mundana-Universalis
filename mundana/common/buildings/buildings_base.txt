@@ -21,12 +21,3 @@
 # Added		1.0		3.0		6.0		10.0	15.0	21.0
 # Triggers are in Province scope. The From Scope contains the settlement holder (character)
 # start trigger is in title scope.
-
-castle = {
-}
-
-city = {
-}
-
-temple = {
-}

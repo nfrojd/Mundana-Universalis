@@ -1,0 +1,958 @@
+e_thalamur = {
+	color = { 7 6 162 }
+	color2 = { 120 255 120 }
+	
+	capital = 178
+	
+	religion = antitheist
+	culture = thalaskian
+	
+	k_ara = {
+		color = { 17 64 139 }
+		color2 = { 101 233 252 }
+		
+		capital = 159
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 800
+		sabrian_daak = 300
+
+		d_arah = {
+			color = { 152 64 150 }
+			color2 = { 163 73 133 }
+			
+			c_aghral = {
+				color = { 236 57 132 }
+				color2 = { 206 4 240 }
+				
+				b_aghral_castle = {}
+				b_aghral_city = {}
+				b_aghral_city_1 = {}
+				b_aghral_temple = {}
+			}
+			c_arakh = {
+				color = { 187 72 155 }
+				color2 = { 234 120 220 }
+				
+				b_arakh_castle = {}
+				b_arakh_city = {}
+				b_arakh_temple = {}
+				b_arakh_castle_1 = {}
+			}
+		}
+		d_qarom = {
+			color = { 188 37 235 }
+			color2 = { 181 26 175 }
+			
+			c_abin_ramadh = {
+				color = { 220 85 153 }
+				color2 = { 190 27 232 }
+				
+				b_abin_ramadh_castle = {}
+				b_abin_ramadh_city = {}
+				b_abin_ramadh_temple = {}
+				b_abin_ramadh_castle_1 = {}
+			}
+			c_qarom = {
+				color = { 242 80 234 }
+				color2 = { 155 74 197 }
+				
+				b_qarom_castle = {}
+				b_qarom_city = {}
+				b_qarom_temple = {}
+				b_qarom_castle_1 = {}
+			}
+			c_farn = {
+				color = { 203 43 249 }
+				color2 = { 219 124 138 }
+				
+				b_farn_castle = {}
+				b_farn_city = {}
+				b_farn_temple = {}
+				b_farn_castle_1 = {}
+			}
+		}
+		d_therga = {
+			color = { 178 28 205 }
+			color2 = { 151 22 253 }
+			
+			c_lhavala = {
+				color = { 154 109 181 }
+				color2 = { 165 0 168 }
+				
+				b_lhavala_castle = {}
+				b_lhavala_temple = {}
+				b_lhavala_city = {}
+				b_lhavala_castle_1 = {}
+			}
+			c_gastmarkerna = {
+				color = { 155 60 150 }
+				color2 = { 147 114 202 }
+				
+				b_gastmarkerna_castle = {}
+				b_gastmarkerna_city = {}
+				b_gastmarkerna_temple = {}
+				b_gastmarkerna_castle_1 = {}
+			}
+			c_therga = {
+				color = { 218 68 217 }
+				color2 = { 155 27 163 }
+				
+				b_therga_castle = {}
+				b_therga_city = {}
+				b_therga_temple = {}
+				b_therga_castle_1 = {}
+			}
+		}
+	}
+	k_colonan = {
+		color = { 45 3 170 }
+		color2 = { 65 200 153 }
+		
+		capital = 143
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 600
+		sabrian_daak = 500
+
+		d_victaron = {
+			color = { 178 96 30 }
+			color2 = { 174 68 75 }
+			
+			c_apax = {
+				color = { 181 22 131 }
+				color2 = { 218 43 149 }
+				
+				b_apax_castle = {}
+				b_apax_city = {}
+				b_apax_temple = {}
+				b_apax_castle_1 = {}
+			}
+			c_victaron = {
+				color = { 193 120 240 }
+				color2 = { 248 123 129 }
+				
+				b_victaron_castle = {}
+				b_victaron_city = {}
+				b_victaron_temple = {}
+				b_victaron_castle_1 = {}
+			}
+			c_rubis = {
+				color = { 243 38 154 }
+				color2 = { 203 30 134 }
+				
+				b_rubis_castle = {}
+				b_rubis_city = {}
+				b_rubis_temple = {}
+				b_rubis_castle_1 = {}
+			}
+		}
+		d_colonan = {
+			color = { 135 4 23 }
+			color2 = { 223 68 44 }
+			
+			c_polon = {
+				color = { 140 104 235 }
+				color2 = { 141 127 219 }
+				
+				b_polon_castle = {}
+				b_polon_city = {}
+				b_polon_temple = {}
+				b_polon_castle_1 = {}
+			}
+			c_colonan = {
+				color = { 211 40 177 }
+				color2 = { 187 98 139 }
+				
+				b_colonan_castle = {}
+				b_colonan_city = {}
+				b_colonan_temple = {}
+				b_colonan_castle_1 = {}
+				b_colonan_city_1 = {}
+				b_colonan_temple_1 = {}
+				b_colonan_castle_2 = {}
+			}
+			c_shia = {
+				color = { 229 55 240 }
+				color2 = { 189 54 148 }
+				
+				b_shia_castle = {}
+				b_shia_city = {}
+				b_shia_temple = {}
+				b_shia_castle_1 = {}
+			}
+		}
+	}
+	k_sava = {
+		color = { 63 81 134 }
+		color2 = { 86 166 212 }
+		
+		capital = 169
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 800
+		sabrian_daak = 200
+
+		d_eovir = {
+			color = { 244 80 199 }
+			color2 = { 196 52 217 }
+			
+			c_reh = {
+				color = { 190 115 198 }
+				color2 = { 143 74 234 }
+				
+				b_reh_castle = {}
+				b_reh_city = {}
+				b_reh_temple = {}
+				b_reh_castle_1 = {}
+			}
+			c_wembsal = {
+				color = { 211 81 180 }
+				color2 = { 219 122 160 }
+				
+				b_wembsal_castle = {}
+				b_wembsal_city = {}
+				b_wembsal_temple = {}
+				b_wembsal_castle_1 = {}
+			}
+			c_sidqal = {
+				color = { 129 78 197 }
+				color2 = { 227 4 184 }
+				
+				b_sidqal_castle = {}
+				b_sidqal_city = {}
+				b_sidqal_temple = {}
+				b_sidqal_castle_1 = {}
+			}
+			c_jamal = {
+				color = { 217 24 228 }
+				color2 = { 216 12 173 }
+				
+				b_jamal_castle = {}
+				b_jamal_city = {}
+				b_jamal_temple = {}
+				b_jamal_castle_1 = {}
+			}
+		}
+		d_parash = {
+			color = { 149 44 196 }
+			color2 = { 133 106 196 }
+			
+			c_yndrath = {
+				color = { 136 22 160 }
+				color2 = { 201 44 230 }
+				
+				b_yndrath_castle = {}
+				b_yndrath_city = {}
+				b_yndrath_temple = {}
+				b_yndrath_castle_1 = {}
+			}
+			c_parash = {
+				color = { 158 12 247 }
+				color2 = { 226 64 196 }
+				
+				b_parash_castle = {}
+				b_parash_city = {}
+				b_parash_temple = {}
+				b_parash_castle_1 = {}
+			}
+			c_strakh = {
+				color = { 221 125 211 }
+				color2 = { 218 68 202 }
+				
+				b_strakh_castle = {}
+				b_strakh_city = {}
+				b_strakh_temple = {}
+				b_strakh_castle_1 = {}
+			}
+		}
+		d_savirah = {
+			color = { 191 74 251 }
+			color2 = { 166 60 230 }
+			
+			c_dan = {
+				color = { 156 62 169 }
+				color2 = { 231 107 180 }
+				
+				b_dan_castle = {}
+				b_dan_city = {}
+				b_dan_temple = {}
+				b_dan_castle_1 = {}
+			}
+			c_savirah = {
+				color = { 228 25 190 }
+				color2 = { 184 102 245 }
+				
+				b_savirah_castle = {}
+				b_savirah_city = {}
+				b_savirah_temple = {}
+				b_savirah_castle_1 = {}
+			}
+			c_ikamur = {
+				color = { 153 78 226 }
+				color2 = { 254 71 219 }
+				
+				b_ikamur_castle = {}
+				b_ikamur_city = {}
+				b_ikamur_temple = {}
+				b_ikamur_castle_1 = {}
+			}
+		}
+	}
+	k_egor = {
+		color = { 7 60 145 }
+		color2 = { 80 140 181 }
+		
+		capital = 205
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 900
+		sabrian_daak = 100
+
+		d_el_egor = {
+			color = { 156 13 222 }
+			color2 = { 152 106 247 }
+			
+			c_khal = {
+				color = { 192 34 222 }
+				color2 = { 162 119 176 }
+				
+				b_khal_castle = {}
+				b_khal_city = {}
+				b_khal_temple = {}
+				b_khal_castle_1 = {}
+			}
+			c_evor = {
+				color = { 134 49 209 }
+				color2 = { 203 68 229 }
+				
+				b_evor_castle = {}
+				b_evor_city = {}
+				b_evor_temple = {}
+				b_evor_castle_1 = {}
+			}
+			c_el_egor = {
+				color = { 205 3 143 }
+				color2 = { 140 115 145 }
+				
+				b_el_egor_castle = {}
+				b_el_egor_city = {}
+				b_el_egor_temple = {}
+				b_el_egor_castle_1 = {}
+			}
+			c_tav_sezhi = {
+				color = { 151 99 129 }
+				color2 = { 221 55 227 }
+				
+				b_tav_sezhi_castle = {}
+				b_tav_sezhi_city = {}
+				b_tav_sezhi_temple = {}
+				b_tav_sezhi_castle_1 = {}
+			}
+			c_es_holi = {
+				color = { 134 101 152 }
+				color2 = { 224 85 178 }
+				
+				b_es_holi_castle = {}
+				b_es_holi_city = {}
+				b_es_holi_temple = {}
+				b_es_holi_city_1 = {}
+				b_es_holi_city_2 = {}
+			}
+		}
+		d_abin_thukor = {
+			color = { 162 87 176 }
+			color2 = { 198 66 198 }
+			
+			c_abin_thukor = {
+				color = { 188 15 236 }
+				color2 = { 254 22 169 }
+				
+				b_abin_thukor_castle = {}
+				b_abin_thukor_castle_1 = {}
+				b_abin_thukor_city = {}
+				b_abin_thukor_city_1 = {}
+				b_abin_thukor_temple = {}
+				b_abin_thukor_temple_1 = {}
+			}
+			c_per = {
+				color = { 140 97 227 }
+				color2 = { 156 61 170 }
+				
+				b_per_castle = {}
+				b_per_city = {}
+				b_per_city_1 = {}
+				b_per_temple = {}
+			}
+			c_el_arga = {
+				color = { 172 68 252 }
+				color2 = { 237 66 248 }
+				
+				b_el_arga_castle = {}
+				b_el_arga_city = {}
+				b_el_arga_city_1 = {}
+				b_el_arga_temple = {}
+			}
+			c_es_hidha = {
+				color = { 198 65 222 }
+				color2 = { 216 17 224 }
+				
+				b_es_hidha_castle = {}
+				b_es_hidha_city = {}
+				b_es_hidha_city_1 = {}
+				b_es_hidha_temple = {}
+			}
+		}
+		d_sirmon = {
+			color = { 199 43 244 }
+			color2 = { 189 87 222 }
+			
+			c_savher = {
+				color = { 174 51 140 }
+				color2 = { 187 70 148 }
+				
+				b_savher_castle = {}
+				b_savher_city = {}
+				b_savher_temple = {}
+				b_savher_castle_1 = {}
+			}
+			c_dani = {
+				color = { 184 12 144 }
+				color2 = { 148 92 199 }
+				
+				b_dani_castle = {}
+				b_dani_city = {}
+				b_dani_temple = {}
+				b_dani_castle_1 = {}
+			}
+			c_qatha = {
+				color = { 160 80 172 }
+				color2 = { 179 59 159 }
+				
+				b_qatha_castle = {}
+				b_qatha_city = {}
+				b_qatha_temple = {}
+				b_qatha_castle_1 = {}
+			}
+			c_grond = {
+				color = { 253 65 179 }
+				color2 = { 217 56 201 }
+				
+				b_grond_castle = {}
+				b_grond_city = {}
+				b_grond_temple = {}
+				b_grond_castle_1 = {}
+			}
+			c_jamur = {
+				color = { 219 71 207 }
+				color2 = { 217 77 217 }
+				
+				b_jamur_castle = {}
+				b_jamur_city = {}
+				b_jamur_temple = {}
+				b_jamur_castle_1 = {}
+			}
+		}
+	}
+	k_pereine = {
+		color = { 90 45 174 }
+		color2 = { 2 153 184 }
+		
+		capital = 153
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 700
+		sabrian_daak = 400
+
+		d_kininae_an_oro = {
+			color = { 39 165 30 }
+			color2 = { 8 139 8 }
+			
+			c_kininae_an_oro = {
+				color = { 54 135 88 }
+				color2 = { 90 203 99 }
+				
+				b_kininae_an_oro_castle = {}
+				b_kininae_an_oro_city = {}
+				b_kininae_an_oro_temple = {}
+				b_kininae_an_oro_castle_1 = {}
+			}
+		}
+		d_ireda = {
+			color = { 200 123 73 }
+			color2 = { 191 96 56 }
+			
+			c_pher = {
+				color = { 166 34 131 }
+				color2 = { 250 52 172 }
+				
+				b_pher_castle = {}
+				b_pher_city = {}
+				b_pher_city_1 = {}
+				b_pher_temple = {}
+			}
+			c_ireda = {
+				color = { 251 1 244 }
+				color2 = { 166 21 240 }
+				
+				b_ireda_castle = {}
+				b_ireda_city = {}
+				b_ireda_city_1 = {}
+				b_ireda_temple = {}
+			}
+		}
+		d_perina = {
+			color = { 196 110 66 }
+			color2 = { 150 31 68 }
+			
+			c_derien = {
+				color = { 220 77 249 }
+				color2 = { 137 32 233 }
+				
+				b_derien_castle = {}
+				b_derien_city = {}
+				b_derien_temple = {}
+				b_derien_castle_1 = {}
+			}
+			c_perina = {
+				color = { 176 64 232 }
+				color2 = { 171 51 145 }
+				
+				b_perina_castle = {}
+				b_perina_city = {}
+				b_perina_temple = {}
+				b_perina_castle_1 = {}
+			}
+		}
+	}
+	k_ivani = {
+		color = { 106 36 182 }
+		color2 = { 113 249 133 }
+		
+		capital = 144
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 800
+		sabrian_daak = 400
+
+		d_el_ivani = {
+			color = { 202 38 136 }
+			color2 = { 252 49 198 }
+			
+			c_vortha = {
+				color = { 212 8 216 }
+				color2 = { 212 57 168 }
+				
+				b_vortha_castle = {}
+				b_vortha_city = {}
+				b_vortha_temple = {}
+				b_vortha_castle_1 = {}
+			}
+			c_el_ivani = {
+				color = { 225 6 206 }
+				color2 = { 204 102 243 }
+				
+				b_el_ivani_castle = {}
+				b_el_ivani_city = {}
+				b_el_ivani_temple = {}
+				b_el_ivani_castle_1 = {}
+			}
+		}
+		d_qatada = {
+			color = { 227 22 139 }
+			color2 = { 144 79 186 }
+			
+			c_qatada = {
+				color = { 189 1 240 }
+				color2 = { 131 60 249 }
+				
+				b_qatada_castle = {}
+				b_qatada_city = {}
+				b_qatada_temple = {}
+				b_qatada_castle_1 = {}
+			}
+			c_svrox = {
+				color = { 188 114 143 }
+				color2 = { 155 94 158 }
+				
+				b_svrox_castle = {}
+				b_svrox_city = {}
+				b_svrox_temple = {}
+				b_svrox_castle_1 = {}
+			}
+		}
+		d_adaluth = {
+			color = { 178 40 214 }
+			color2 = { 229 80 168 }
+			
+			c_ikrem = {
+				color = { 138 62 140 }
+				color2 = { 210 95 192 }
+				
+				b_ikrem_castle = {}
+				b_ikrem_city = {}
+				b_ikrem_temple = {}
+				b_ikrem_castle_1 = {}
+			}
+			c_strighil = {
+				color = { 134 80 144 }
+				color2 = { 165 26 205 }
+				
+				b_strighil_castle = {}
+				b_strighil_city = {}
+				b_strighil_temple = {}
+				b_strighil_castle_1 = {}
+			}
+			c_adaluth = {
+				color = { 191 53 152 }
+				color2 = { 198 34 220 }
+				
+				b_adaluth_castle = {}
+				b_adaluth_city = {}
+				b_adaluth_temple = {}
+				b_adaluth_castle_1 = {}
+			}
+		}
+	}
+	k_taga = {
+		color = { 116 64 145 }
+		color2 = { 104 145 190 }
+		
+		capital = 186
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 900
+		sabrian_daak = 100
+
+		d_khor = {
+			color = { 222 25 149 }
+			color2 = { 140 80 245 }
+			
+			c_khorai = {
+				color = { 130 94 251 }
+				color2 = { 149 80 155 }
+				
+				b_khorai_castle = {}
+				b_khorai_city = {}
+				b_khorai_temple = {}
+				b_khorai_castle_1 = {}
+			}
+			c_sidra = {
+				color = { 180 66 172 }
+				color2 = { 197 23 218 }
+				
+				b_sidra_castle = {}
+				b_sidra_city = {}
+				b_rakhori = {}
+				b_sidra_castle_1 = {}
+			}
+			c_ferena = {
+				color = { 157 74 205 }
+				color2 = { 164 100 248 }
+				
+				b_ferena_castle = {}
+				b_ferena_city = {}
+				b_ferena_temple = {}
+				b_ferena_castle_1 = {}
+			}
+		}
+		d_tagada = {
+			color = { 188 57 235 }
+			color2 = { 157 115 184 }
+			
+			c_minder = {
+				color = { 227 101 240 }
+				color2 = { 131 69 134 }
+				
+				b_minder_castle = {}
+				b_minder_city = {}
+				b_minder_temple = {}
+				b_minder_castle_1 = {}
+			}
+			c_leth = {
+				color = { 164 78 215 }
+				color2 = { 208 2 175 }
+				
+				b_leth_castle = {}
+				b_leth_city = {}
+				b_leth_city_1 = {}
+				b_leth_temple = {}
+			}
+			c_tagada = {
+				color = { 153 118 254 }
+				color2 = { 233 12 211 }
+				
+				b_tagada_castle = {}
+				b_tagada_city = {}
+				b_tagada_temple = {}
+				b_tagada_city_1 = {}
+				b_tagada_castle_1 = {}
+			}
+		}
+		d_ifar = {
+			color = { 179 0 129 }
+			color2 = { 209 7 239 }
+			
+			c_bhanor = {
+				color = { 246 116 133 }
+				color2 = { 168 10 249 }
+				
+				b_bhanor_castle = {}
+				b_bhanor_city = {}
+				b_bhanor_temple = {}
+				b_bhanor_castle_1 = {}
+			}
+			c_khla = {
+				color = { 158 63 178 }
+				color2 = { 205 116 147 }
+				
+				b_khla_castle = {}
+				b_khla_city = {}
+				b_khla_temple = {}
+				b_khla_castle_1 = {}
+			}
+			c_ash = {
+				color = { 138 100 178 }
+				color2 = { 163 122 163 }
+				
+				b_ash_castle = {}
+				b_ash_city = {}
+				b_ash_temple = {}
+				b_ash_castle_1 = {}
+			}
+		}
+	}
+	k_kovos = {
+		color = { 91 122 164 }
+		color2 = { 25 213 199 }
+		
+		capital = 199
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 900
+		sabrian_daak = 100
+
+		d_khovsosh = {
+			color = { 215 15 208 }
+			color2 = { 129 93 229 }
+			
+			c_qara = {
+				color = { 244 46 214 }
+				color2 = { 138 105 201 }
+				
+				b_qara_castle = {}
+				b_qara_city = {}
+				b_qara_city_1 = {}
+				b_qara_temple = {}
+			}
+			c_ilaella = {
+				color = { 192 5 243 }
+				color2 = { 229 14 213 }
+				
+				b_ilaella_castle = {}
+				b_ilaella_city = {}
+				b_ilaella_temple = {}
+				b_ilaella_castle_1 = {}
+			}
+			c_arah = {
+				color = { 206 35 212 }
+				color2 = { 207 96 177 }
+				
+				b_arah_castle = {}
+				b_arah_city = {}
+				b_arah_city_1 = {}
+				b_arah_temple = {}
+			}
+			c_khovsosh = {
+				color = { 245 65 158 }
+				color2 = { 193 3 230 }
+				
+				b_khovsosh_castle = {}
+				b_khovsosh_city = {}
+				b_khovsosh_temple = {}
+				b_khovsosh_city_1 = {}
+				b_khovsosh_castle_1 = {}
+			}
+			c_gash = {
+				color = { 176 20 148 }
+				color2 = { 186 103 178 }
+				
+				b_gash_castle = {}
+				b_gash_city = {}
+				b_gash_temple = {}
+				b_gash_castle_1 = {}
+			}
+		}
+		d_horta = {
+			color = { 154 91 135 }
+			color2 = { 147 112 155 }
+			
+			c_el_vha = {
+				color = { 49 215 13 }
+				color2 = { 51 224 69 }
+				
+				b_el_vha_castle = {}
+				b_el_vha_city = {}
+				b_el_vha_city_1 = {}
+				b_el_vha_city_2 = {}
+				b_el_vha_temple = {}
+			}
+			c_es_orakh = {
+				color = { 149 4 185 }
+				color2 = { 172 42 172 }
+				
+				b_es_orakh_castle = {}
+				b_es_orakh_city = {}
+				b_es_orakh_temple = {}
+				b_es_orakh_castle_1 = {}
+			}
+			c_takhor = {
+				color = { 219 64 158 }
+				color2 = { 160 17 189 }
+				
+				b_takhor_castle = {}
+				b_takhor_city = {}
+				b_takhor_temple = {}
+				b_takhor_castle_1 = {}
+			}
+		}
+		d_mashoro = {
+			color = { 171 76 135 }
+			color2 = { 222 51 130 }
+			
+			c_ivida = {
+				color = { 223 24 145 }
+				color2 = { 213 111 219 }
+				
+				b_ivida_castle = {}
+				b_ivida_city = {}
+				b_ivida_temple = {}
+				b_ivida_city_1 = {}
+				b_ivida_castle_1 = {}
+			}
+			c_mashoro = {
+				color = { 148 95 245 }
+				color2 = { 131 94 203 }
+				
+				b_mashoro_castle = {}
+				b_mashoro_city = {}
+				b_mashoro_temple = {}
+				b_mashoro_city_1 = {}
+				b_mashoro_castle_1 = {}
+			}
+			c_kharath = {
+				color = { 148 31 185 }
+				color2 = { 169 34 226 }
+				
+				b_kharath_castle = {}
+				b_kharath_city = {}
+				b_kharath_city_1 = {}
+				b_kharath_temple = {}
+				b_kharath_castle_1 = {}
+			}
+		}
+	}
+	k_ifka = {
+		color = { 62 84 241 }
+		color2 = { 36 240 154 }
+		
+		capital = 177
+		
+		religion = antitheist
+		culture = thalaskian
+		
+		antitheist = 900
+		sabrian_daak = 100
+
+		d_ifkhor = {
+			color = { 187 19 249 }
+			color2 = { 198 7 183 }
+			
+			c_thara = {
+				color = { 189 36 191 }
+				color2 = { 176 74 137 }
+				
+				b_thara_castle = {}
+				b_thara_city = {}
+				b_thara_temple = {}
+				b_thara_castle_1 = {}
+			}
+			c_im_moran = {
+				color = { 162 43 130 }
+				color2 = { 214 92 195 }
+				
+				b_im_moran_castle = {}
+				b_im_moran_city = {}
+				b_im_moran_temple = {}
+				b_im_moran_castle_1 = {}
+			}
+			c_dharim = {
+				color = { 175 78 138 }
+				color2 = { 188 24 208 }
+				
+				b_dharim_castle = {}
+				b_dharim_city = {}
+				b_dharim_temple = {}
+				b_dharim_castle_1 = {}
+			}
+			c_ifkhor = {
+				color = { 238 32 166 }
+				color2 = { 185 112 176 }
+				
+				b_ifkhor_castle = {}
+				b_ifkhor_city = {}
+				b_ifkhor_temple = {}
+				b_ifkhor_castle_1 = {}
+			}
+		}
+		d_dubaral = {
+			color = { 147 62 191 }
+			color2 = { 215 33 175 }
+			
+			c_sornost = {
+				color = { 4 159 92 }
+				color2 = { 71 180 30 }
+				
+				b_sornost_castle = {}
+				b_sornost_city = {}
+				b_sornost_temple = {}
+				b_sornost_castle_1 = {}
+			}
+			c_ifdel = {
+				color = { 33 231 56 }
+				color2 = { 72 231 104 }
+				
+				b_ifdel_castle = {}
+				b_ifdel_city = {}
+				b_ifdel_city_1 = {}
+				b_ifdel_temple = {}
+			}
+			c_an_thalamur = {
+				color = { 84 221 68 }
+				color2 = { 38 136 70 }
+				
+				b_an_thalamur_castle = {}
+				b_an_thalamur_city = {}
+				b_an_thalamur_temple = {}
+				b_an_thalamur_castle_1 = {}
+				b_an_thalamur_city_1 = {}
+			}
+		}
+	}
+}

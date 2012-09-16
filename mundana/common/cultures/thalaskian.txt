@@ -1,0 +1,333 @@
+neromenzer = {
+	graphical_culture = westerngfx
+	
+	thalaskian = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	abhixia = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	arginakus = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	cartika = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	harim = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	kobinku = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	myrdinor = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	sala = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	vaganda = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	zadhaz = {
+		graphical_culture = easternslavicgfx
+		graphical_unit_culture = western
+		
+		color = { 0.2 0.4 0.1 }
+
+		male_names = {
+			Amir Beló Daoud Efram Farak Gadiv Ghegellan Hamak Iznogud Jehan
+			Kalim Khagan Lashtor Lifem Mazoum Nadir Noratha Oroga Padir Phegatan
+			Quino Reubin Samhan Suyan Takhim Urugim Veshin Voloch Xirham Ydor Zamir
+		}
+		female_names = {
+			Amida Bathara Beyuni Diash Elias Fatia Guada Haryena Idala Jesana Kalina
+			Lyshana Myriyam Nadia Odia Piana Qyena Revana Sadara Satima Talya Uria
+			Viena Volocha Zema Ydia Ziana
+		}
+		from_dynasty_prefix = "thal "
+		
+		male_patronym = "ir"
+		female_patronym = "ira"
+		prefix = no
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

@@ -1,0 +1,84 @@
+k_upper_kholon = {
+	color = { 229 27 23 }
+	color2 = { 214 123 231 }
+	
+	capital = 137
+	
+	religion = vontar
+	culture = roghan
+	
+	d_upper_kholon = {
+		color = { 232 181 58 }
+		color2 = { 169 151 106 }
+		
+		c_upper_kholon = {
+			color = { 153 183 9 }
+			color2 = { 147 148 117 }
+			
+			b_kholon_renk_roghan = {}
+		}
+	}
+}
+k_narekh = {
+	color = { 145 22 6 }
+	color2 = { 253 116 254 }
+	
+	capital = 70
+	
+	religion = vontar
+	culture = ghor
+	
+	d_narekh = {
+		color = { 206 216 100 }
+		color2 = { 207 237 110 }
+		
+		c_narec = {
+			color = { 193 191 120 }
+			color2 = { 166 233 110 }
+			
+			b_narekh_renk_ghor = {}
+		}
+	}
+}
+k_lower_kholon = {
+	color = { 27 23 214 }
+	color2 = { 123 231 229 }
+	
+	capital = 136
+	
+	religion = vontar
+	culture = ghor
+	
+	d_lower_kholon = {
+		color = { 235 236 78 }
+		color2 = { 156 248 24 }
+		
+		c_lower_kholon = {
+			color = { 128 162 6 }
+			color2 = { 231 178 3 }
+			
+			b_kholon_renk_ghor_drezin = {}
+		}
+	}
+}
+k_ikham = {
+	color = { 116 40 186 }
+	color2 = { 74 229 216 }
+	
+	capital = 185
+	
+	religion = vontar
+	culture = ghor
+	
+	d_ikham = {
+		color = { 154 245 21 }
+		color2 = { 245 160 0 }
+		
+		c_ikham = {
+			color = { 240 183 14 }
+			color2 = { 192 155 40 }
+			
+			b_ikham_renk_ghor = {}
+		}
+	}
+}

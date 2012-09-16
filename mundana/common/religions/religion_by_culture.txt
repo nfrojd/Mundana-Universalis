@@ -1,0 +1,75 @@
+cultural_religion = {
+	has_coa_on_barony_only = no
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+
+	vontar = {
+		graphical_culture = westerngfx
+
+		icon = 3
+		color = { 0.6 0.0 0.0 }
+		god_names = {
+			VONTAR
+		}
+		crusade_name = "HOLY_WAR"
+		scripture_name = VOHN_NORN
+		priests_can_marry = yes
+		can_grant_divorce = yes
+	}
+	cirza = {
+		graphical_culture = westerngfx
+
+		icon = 4
+		color = { 0.0 0.6 0.0 }
+		god_names = {
+			CIRZA
+		}
+		crusade_name = "HOLY_WAR"
+		scripture_name = TZORLACK
+		priests_can_marry = yes
+		can_grant_divorce = yes
+	}
+	dragon_cult = {
+		graphical_culture = westerngfx
+
+		icon = 8
+		color = { 0.7 0.5 0 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		investiture = no
+		priests_can_marry = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = yes
+		can_grant_claim = yes
+		can_call_crusade = no
+	}
+	mahktah = {
+		graphical_culture = westerngfx
+
+		icon = 9
+		color = { 0.2 0.2 0.5 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BIBLE
+		
+		god_names = {
+			MAHKTAH
+		}
+		
+		investiture = no
+		priests_can_marry = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = yes
+		can_grant_claim = yes
+		can_call_crusade = no
+	}
+}

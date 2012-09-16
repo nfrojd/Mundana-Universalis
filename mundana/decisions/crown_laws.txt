@@ -10,11 +10,8 @@ de_jure_laws = {
 		group = centralization
 		default = yes
 		
-		feudal_opinion = 20
+		feudal_opinion = 40
 		
-		potential = {
-			NOT = { has_law = centralization_0 }
-		}
 		allow = {
 			has_law = centralization_1
 		}
@@ -55,11 +52,8 @@ de_jure_laws = {
 		show_as_title = yes
 		group = centralization
 		
-		feudal_opinion = 10
+		feudal_opinion = 30
 		
-		potential = {
-			NOT = { has_law = centralization_1 }
-		}
 		allow = {
 			OR = {
 				has_law = centralization_0
@@ -79,7 +73,8 @@ de_jure_laws = {
 		ai_will_revoke = {
 			factor = 0
 		}
-		effect = {
+		
+		pass_effect = {
 			hidden_tooltip = {
 				if = { 
 					limit = {
@@ -100,7 +95,9 @@ de_jure_laws = {
 					}
 				}
 			}
-			
+		}
+		
+		effect = {
 			hidden_tooltip = {
 				revoke_law = centralization_0
 				revoke_law = centralization_1
@@ -127,11 +124,8 @@ de_jure_laws = {
 		show_as_title = yes
 		group = centralization
 		
-		feudal_opinion = 0
+		feudal_opinion = 20
 		
-		potential = {
-			NOT = { has_law = centralization_2 }
-		}
 		allow = {
 			OR = {
 				has_law = centralization_1
@@ -151,7 +145,8 @@ de_jure_laws = {
 		ai_will_revoke = {
 			factor = 0
 		}
-		effect = {
+		
+		pass_effect = {
 			hidden_tooltip = {
 				if = { 
 					limit = {
@@ -172,7 +167,9 @@ de_jure_laws = {
 					}
 				}
 			}
+		}
 		
+		effect = {
 			hidden_tooltip = {
 				revoke_law = centralization_0
 				revoke_law = centralization_1
@@ -199,11 +196,8 @@ de_jure_laws = {
 		show_as_title = yes
 		group = centralization
 		
-		feudal_opinion = -10
+		feudal_opinion = 10
 		
-		potential = {
-			NOT = { has_law = centralization_3 }
-		}
 		allow = {
 			OR = {
 				has_law = centralization_2
@@ -223,7 +217,8 @@ de_jure_laws = {
 		ai_will_revoke = {
 			factor = 0
 		}
-		effect = {
+		
+		pass_effect = {
 			hidden_tooltip = {
 				if = { 
 					limit = {
@@ -244,6 +239,9 @@ de_jure_laws = {
 					}
 				}
 			}
+		}
+		
+		effect = {
 		
 			hidden_tooltip = {
 				revoke_law = centralization_0
@@ -271,11 +269,8 @@ de_jure_laws = {
 		show_as_title = yes
 		group = centralization
 		
-		feudal_opinion = -20
+		feudal_opinion = 0
 		
-		potential = {
-			NOT = { has_law = centralization_4 }
-		}
 		allow = {
 			has_law = centralization_3
 		}
@@ -292,7 +287,8 @@ de_jure_laws = {
 		ai_will_revoke = {
 			factor = 0
 		}
-		effect = {
+		
+		pass_effect = {
 			hidden_tooltip = {
 				if = { 
 					limit = {
@@ -313,7 +309,9 @@ de_jure_laws = {
 					}
 				}
 			}
+		}
 		
+		effect = {
 			hidden_tooltip = {
 				revoke_law = centralization_0
 				revoke_law = centralization_1
@@ -343,7 +341,6 @@ de_jure_laws = {
 		group = investiture_law
 		default = yes
 		potential = {
-			NOT = { has_law = investiture_law_0 }
 			holder_scope = { religion = catholic }
 		}
 		revoke_allowed = {
@@ -371,7 +368,6 @@ de_jure_laws = {
 		temple_all_opinion = 25 # Bishops will be grateful to their liege for their appointment
 		group = investiture_law
 		potential = {
-			NOT = { has_law = investiture_law_1 }
 			holder_scope = { religion = catholic }
 		}
 		revoke_allowed = {
