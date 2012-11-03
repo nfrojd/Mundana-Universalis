@@ -1,0 +1,20 @@
+# Salina
+
+# County Title
+title = c_salina
+
+# Settlements
+max_settlements = 1
+
+b_salina_castle = castle
+
+# Misc
+culture = asharier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_salina_castle = ca_keep_1
+	b_salina_castle = ca_wall_1
+}

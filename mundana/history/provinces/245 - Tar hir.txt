@@ -1,0 +1,20 @@
+# Tar-Hir
+
+# County Title
+title = c_tar_hir
+
+# Settlements
+max_settlements = 1
+
+b_tar_hir_castle = castle
+
+# Misc
+culture = ghor
+religion = vontar
+
+
+# History
+1000.1.1 = {
+	b_tar_hir_castle = ca_keep_1
+	b_tar_hir_castle = ca_wall_1
+}

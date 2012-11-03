@@ -1,0 +1,20 @@
+# Nelons torp
+
+# County Title
+title = c_nelons_torp
+
+# Settlements
+max_settlements = 1
+
+b_nelons_torp_castle = castle
+
+# Misc
+culture = asharier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_nelons_torp_castle = ca_keep_1
+	b_nelons_torp_castle = ca_wall_1
+}

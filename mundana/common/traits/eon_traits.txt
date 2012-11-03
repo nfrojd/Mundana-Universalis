@@ -1,0 +1,31 @@
+long_lived = {
+	health = 1000
+
+	fertility = -1.0
+	vassal_opinion = -10
+	sex_appeal_opinion = 20
+	ai_honor = -10
+}
+
+magic_immortality = {
+	immortal = yes
+	ai_honor = -10
+}
+
+elven_immortality = {
+	immortal = yes
+	health = 3.0
+}
+
+gierash = {
+	is_health = yes
+	is_illness = yes
+
+	diplomacy = -2
+	health = 10
+	fertility = -0.2
+	
+	sex_appeal_opinion = -50
+	
+	vassal_opinion = -20
+}

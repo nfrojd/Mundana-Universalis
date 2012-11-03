@@ -1,0 +1,20 @@
+# Khrun
+
+# County Title
+title = c_khrun
+
+# Settlements
+max_settlements = 1
+
+b_khrun_castle = castle
+
+# Misc
+culture = ghor
+religion = vontar
+
+
+# History
+1000.1.1 = {
+	b_khrun_castle = ca_keep_1
+	b_khrun_castle = ca_wall_1
+}

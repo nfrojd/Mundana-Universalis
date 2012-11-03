@@ -1,3 +1,24 @@
+k_khazim = {
+	color = { 193 115 72 }
+	color2 = { 88 85 75 }
+	
+	capital = 357
+	
+	religion = vontar
+	culture = ghor
+	
+	d_khazim = {
+		color = { 121 239 204 }
+		color2 = { 112 167 218 }
+		
+		c_khazim = {
+			color = { 91 141 141 }
+			color2 = { 45 162 182 }
+			
+			b_khazim_castle = {}
+		}
+	}
+}
 k_upper_kholon = {
 	color = { 229 27 23 }
 	color2 = { 214 123 231 }
@@ -8,12 +29,12 @@ k_upper_kholon = {
 	culture = roghan
 	
 	d_upper_kholon = {
-		color = { 232 181 58 }
-		color2 = { 169 151 106 }
+		color = { 143 146 127 }
+		color2 = { 158 146 60 }
 		
 		c_upper_kholon = {
-			color = { 153 183 9 }
-			color2 = { 147 148 117 }
+			color = { 173 220 62 }
+			color2 = { 246 245 60 }
 			
 			b_kholon_renk_roghan = {}
 		}
@@ -29,14 +50,56 @@ k_narekh = {
 	culture = ghor
 	
 	d_narekh = {
-		color = { 206 216 100 }
-		color2 = { 207 237 110 }
+		color = { 143 149 104 }
+		color2 = { 237 143 101 }
 		
 		c_narec = {
-			color = { 193 191 120 }
-			color2 = { 166 233 110 }
+			color = { 227 132 86 }
+			color2 = { 161 139 47 }
 			
 			b_narekh_renk_ghor = {}
+		}
+	}
+}
+k_zarakh = {
+	color = { 222 103 75 }
+	color2 = { 127 159 175 }
+	
+	capital = 223
+	
+	religion = vontar
+	culture = ghor
+	
+	d_zarakh = {
+		color = { 28 250 215 }
+		color2 = { 73 131 145 }
+		
+		c_zarakh = {
+			color = { 69 243 238 }
+			color2 = { 0 208 156 }
+			
+			b_zarakh_castle = {}
+		}
+	}
+}
+k_tar_hir = {
+	color = { 148 81 32 }
+	color2 = { 144 166 125 }
+	
+	capital = 245
+	
+	religion = vontar
+	culture = ghor
+	
+	d_tar_hir = {
+		color = { 60 180 133 }
+		color2 = { 9 171 237 }
+		
+		c_tar_hir = {
+			color = { 94 172 171 }
+			color2 = { 107 232 218 }
+			
+			b_tar_hir_castle = {}
 		}
 	}
 }
@@ -50,14 +113,35 @@ k_lower_kholon = {
 	culture = ghor
 	
 	d_lower_kholon = {
-		color = { 235 236 78 }
-		color2 = { 156 248 24 }
+		color = { 235 154 16 }
+		color2 = { 217 215 12 }
 		
 		c_lower_kholon = {
-			color = { 128 162 6 }
-			color2 = { 231 178 3 }
+			color = { 171 135 121 }
+			color2 = { 210 219 98 }
 			
 			b_kholon_renk_ghor_drezin = {}
+		}
+	}
+}
+k_kraalen = {
+	color = { 21 90 22 }
+	color2 = { 168 156 158 }
+	
+	capital = 244
+	
+	religion = vontar
+	culture = roghan
+	
+	d_kraalen = {
+		color = { 38 195 198 }
+		color2 = { 48 222 229 }
+		
+		c_kraalen = {
+			color = { 62 143 253 }
+			color2 = { 86 219 216 }
+			
+			b_kraalen_castle = {}
 		}
 	}
 }
@@ -71,14 +155,35 @@ k_ikham = {
 	culture = ghor
 	
 	d_ikham = {
-		color = { 154 245 21 }
-		color2 = { 245 160 0 }
+		color = { 254 178 115 }
+		color2 = { 203 138 59 }
 		
 		c_ikham = {
-			color = { 240 183 14 }
-			color2 = { 192 155 40 }
+			color = { 241 242 127 }
+			color2 = { 176 233 4 }
 			
 			b_ikham_renk_ghor = {}
+		}
+	}
+}
+k_khrun = {
+	color = { 148 184 160 }
+	color2 = { 35 133 118 }
+	
+	capital = 313
+	
+	religion = vontar
+	culture = ghor
+	
+	d_khrun = {
+		color = { 114 152 137 }
+		color2 = { 10 174 161 }
+		
+		c_khrun = {
+			color = { 101 129 183 }
+			color2 = { 122 227 207 }
+			
+			b_khrun_castle = {}
 		}
 	}
 }

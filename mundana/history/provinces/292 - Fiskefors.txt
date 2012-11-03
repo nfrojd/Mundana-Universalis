@@ -1,0 +1,20 @@
+# Fiskefors
+
+# County Title
+title = c_fiskefors
+
+# Settlements
+max_settlements = 1
+
+b_fiskefors_castle = castle
+
+# Misc
+culture = soldier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_fiskefors_castle = ca_keep_1
+	b_fiskefors_castle = ca_wall_1
+}

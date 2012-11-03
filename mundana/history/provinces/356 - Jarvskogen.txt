@@ -1,0 +1,20 @@
+# Järvskogen
+
+# County Title
+title = c_jarvskogen
+
+# Settlements
+max_settlements = 1
+
+b_jarvskogen_castle = castle
+
+# Misc
+culture = sanari
+religion = agnostic
+
+
+# History
+1000.1.1 = {
+	b_jarvskogen_castle = ca_keep_1
+	b_jarvskogen_castle = ca_wall_1
+}

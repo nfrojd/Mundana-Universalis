@@ -1,0 +1,20 @@
+# Södra Sunari
+
+# County Title
+title = c_sodra_sunari
+
+# Settlements
+max_settlements = 1
+
+b_sodra_sunari_castle = castle
+
+# Misc
+culture = sanari
+religion = agnostic
+
+
+# History
+1000.1.1 = {
+	b_sodra_sunari_castle = ca_keep_1
+	b_sodra_sunari_castle = ca_wall_1
+}

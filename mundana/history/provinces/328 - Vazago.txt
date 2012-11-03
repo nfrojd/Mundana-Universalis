@@ -1,0 +1,20 @@
+# Vazago
+
+# County Title
+title = c_vazago
+
+# Settlements
+max_settlements = 1
+
+b_vazago_castle = castle
+
+# Misc
+culture = vastmarkare
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_vazago_castle = ca_keep_1
+	b_vazago_castle = ca_wall_1
+}

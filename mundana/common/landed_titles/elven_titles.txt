@@ -1,0 +1,78 @@
+k_jarvskogen = {
+	color = { 95 102 235 }
+	color2 = { 172 240 141 }
+	
+	capital = 356
+	
+	religion = agnostic
+	culture = sanari
+	
+	d_jarvskogen = {
+		color = { 88 242 250 }
+		color2 = { 75 158 206 }
+		
+		c_jarvskogen = {
+			color = { 126 179 164 }
+			color2 = { 11 197 133 }
+			
+			b_jarvskogen_castle = {}
+		}
+	}
+}
+k_sunari = {
+	color = { 244 70 158 }
+	color2 = { 203 138 187 }
+	
+	capital = 361
+	
+	religion = agnostic
+	culture = sanari
+	
+	d_sunari = {
+		color = { 6 190 231 }
+		color2 = { 109 223 149 }
+		
+		c_sodra_sunari = {
+			color = { 107 218 197 }
+			color2 = { 38 183 225 }
+			
+			b_sodra_sunari_castle = {}
+		}
+		c_halea = {
+			color = { 79 171 129 }
+			color2 = { 82 196 171 }
+			
+			b_halea_castle = {}
+		}
+		c_sinai = {
+			color = { 14 200 160 }
+			color2 = { 59 158 215 }
+			
+			b_sinai_castle = {}
+		}
+		c_ostra_sunari = {
+			color = { 99 213 159 }
+			color2 = { 74 253 138 }
+			
+			b_ostra_sunari_castle = {}
+		}
+		c_vastra_sunari = {
+			color = { 65 200 152 }
+			color2 = { 5 156 154 }
+			
+			b_vastra_sunari_castle = {}
+		}
+		c_norra_sunari = {
+			color = { 53 156 204 }
+			color2 = { 21 240 188 }
+			
+			b_norra_sunari_castle = {}
+		}
+		c_emori = {
+			color = { 76 149 161 }
+			color2 = { 67 248 146 }
+			
+			b_emori_castle = {}
+		}
+	}
+}

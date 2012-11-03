@@ -1,0 +1,20 @@
+# Remzian Krack
+
+# County Title
+title = c_remzian_krack
+
+# Settlements
+max_settlements = 1
+
+b_remzian_krack_castle = castle
+
+# Misc
+culture = caserier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_remzian_krack_castle = ca_keep_1
+	b_remzian_krack_castle = ca_wall_1
+}

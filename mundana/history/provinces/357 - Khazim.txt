@@ -1,0 +1,20 @@
+# Khazim
+
+# County Title
+title = c_khazim
+
+# Settlements
+max_settlements = 1
+
+b_khazim_castle = castle
+
+# Misc
+culture = ghor
+religion = vontar
+
+
+# History
+1000.1.1 = {
+	b_khazim_castle = ca_keep_1
+	b_khazim_castle = ca_wall_1
+}

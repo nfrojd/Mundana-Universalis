@@ -1,0 +1,20 @@
+# Tukulle
+
+# County Title
+title = c_tukulle
+
+# Settlements
+max_settlements = 1
+
+b_tukulle_castle = castle
+
+# Misc
+culture = asharier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_tukulle_castle = ca_keep_1
+	b_tukulle_castle = ca_wall_1
+}

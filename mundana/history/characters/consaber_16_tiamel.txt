@@ -409,7 +409,7 @@
 	dynasty = 1611
 	female = yes
 
-	culture = "cirefalier"
+	culture = "caserier"
 	religion = "cirza"
 
 	2944.1.1 = { birth = 2944.1.1 }

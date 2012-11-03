@@ -1,0 +1,20 @@
+# Borons ängar
+
+# County Title
+title = c_borons_angar
+
+# Settlements
+max_settlements = 1
+
+b_borons_angar_castle = castle
+
+# Misc
+culture = soldier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_borons_angar_castle = ca_keep_1
+	b_borons_angar_castle = ca_wall_1
+}

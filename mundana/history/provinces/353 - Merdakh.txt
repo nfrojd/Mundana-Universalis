@@ -1,0 +1,20 @@
+# Merdakh
+
+# County Title
+title = c_merdakh
+
+# Settlements
+max_settlements = 1
+
+b_merdakh_castle = castle
+
+# Misc
+culture = damarier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_merdakh_castle = ca_keep_1
+	b_merdakh_castle = ca_wall_1
+}

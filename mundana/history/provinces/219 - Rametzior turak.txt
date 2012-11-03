@@ -1,0 +1,20 @@
+# Rametzior Turak
+
+# County Title
+title = c_rametzior_turak
+
+# Settlements
+max_settlements = 1
+
+b_rametzior_turak_castle = castle
+
+# Misc
+culture = caserier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_rametzior_turak_castle = ca_keep_1
+	b_rametzior_turak_castle = ca_wall_1
+}

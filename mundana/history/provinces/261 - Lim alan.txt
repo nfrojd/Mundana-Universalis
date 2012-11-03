@@ -1,0 +1,20 @@
+# Lim'alan
+
+# County Title
+title = c_lim_alan
+
+# Settlements
+max_settlements = 1
+
+b_lim_alan_castle = castle
+
+# Misc
+culture = asharier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_lim_alan_castle = ca_keep_1
+	b_lim_alan_castle = ca_wall_1
+}

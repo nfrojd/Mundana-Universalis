@@ -868,155 +868,155 @@ b_savher_castle;Castle Savher;;;;;;;;;;;;;x
 b_savher_city;Savher;;;;;;;;;;;;;x
 b_savher_temple;Savher Academy;;;;;;;;;;;;;x
 b_savher_castle_1;Savher Castle;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+b_narzkar_falz_castle;Narzkar Falz Castle;;;;;;;;;;;;;x
+b_zamm_daliz_castle;Zamm Daliz Castle;;;;;;;;;;;;;x
+b_haraziz_krack_castle;Haraziz Krack Castle;;;;;;;;;;;;;x
+b_rametzior_turak_castle;Rametzior Turak Castle;;;;;;;;;;;;;x
+b_jhamalo_gedonia_castle;Jhamalo Gedonia Castle;;;;;;;;;;;;;x
+b_szaracon_tamatz_castle;Szaracon Tamatz Castle;;;;;;;;;;;;;x
+b_zaza_castle;Zaza Castle;;;;;;;;;;;;;x
+b_zarakh_castle;Zarakh Castle;;;;;;;;;;;;;x
+b_celturok_meloin_castle;Celturok Meloin Castle;;;;;;;;;;;;;x
+b_marek_pomian_castle;Marek Pomian Castle;;;;;;;;;;;;;x
+b_remzian_krack_castle;Remzian Krack Castle;;;;;;;;;;;;;x
+b_mitheras_kullar_castle;Mitheras Kullar Castle;;;;;;;;;;;;;x
+b_tivar_castle;Tivar Castle;;;;;;;;;;;;;x
+b_sunnanmark_castle;Sunnanmark Castle;;;;;;;;;;;;;x
+b_cermiras_kronomark_castle;Cermiras kronomark Castle;;;;;;;;;;;;;x
+b_vitterdal_castle;Vitterdal Castle;;;;;;;;;;;;;x
+b_st_kira_castle;S:t Kira Castle;;;;;;;;;;;;;x
+b_angird_castle;Angird Castle;;;;;;;;;;;;;x
+b_talarra_castle;Talarra Castle;;;;;;;;;;;;;x
+b_durum_castle;Durum Castle;;;;;;;;;;;;;x
+b_iltariet_castle;Iltariet Castle;;;;;;;;;;;;;x
+b_val_timan_duandan_castle;Val Timan & Duandan Castle;;;;;;;;;;;;;x
+b_arlons_kronomark_castle;Arlons kronomark Castle;;;;;;;;;;;;;x
+b_ramdors_fallna_marker_castle;Ramdors fallna marker Castle;;;;;;;;;;;;;x
+b_val_ordos_castle;Val Ordos Castle;;;;;;;;;;;;;x
+b_valdus_castle;Valdus Castle;;;;;;;;;;;;;x
+b_navar_castle;Navar Castle;;;;;;;;;;;;;x
+b_nahira_castle;Nahira Castle;;;;;;;;;;;;;x
+b_kraalen_castle;Kraalen Castle;;;;;;;;;;;;;x
+b_tar_hir_castle;Tar-Hir Castle;;;;;;;;;;;;;x
+b_altona_castle;Altona Castle;;;;;;;;;;;;;x
+b_lugdum_castle;Lugdum Castle;;;;;;;;;;;;;x
+b_rhonum_castle;Rhonum Castle;;;;;;;;;;;;;x
+b_dimveden_castle;Dimveden Castle;;;;;;;;;;;;;x
+b_avantinen_castle;Avantinen Castle;;;;;;;;;;;;;x
+b_daggbacken_castle;Daggbacken Castle;;;;;;;;;;;;;x
+b_kallan_castle;Källan Castle;;;;;;;;;;;;;x
+b_foran_rim_castle;Foran Rim Castle;;;;;;;;;;;;;x
+b_jarla_castle;Jarla Castle;;;;;;;;;;;;;x
+b_vaderbrunn_castle;Väderbrunn Castle;;;;;;;;;;;;;x
+b_sinna_castle;Sinna Castle;;;;;;;;;;;;;x
+b_morelis_castle;Morelis Castle;;;;;;;;;;;;;x
+b_hodunshus_castle;Hodunshus Castle;;;;;;;;;;;;;x
+b_rahls_unbahr_castle;Rahls-Unbahr Castle;;;;;;;;;;;;;x
+b_nannlond_castle;Nannlond Castle;;;;;;;;;;;;;x
+b_lim_alan_castle;Lim'alan Castle;;;;;;;;;;;;;x
+b_nada_castle;Nada Castle;;;;;;;;;;;;;x
+b_chelos_castle;Chelos Castle;;;;;;;;;;;;;x
+b_sodra_nada_castle;Södra Nada Castle;;;;;;;;;;;;;x
+b_philias_castle;Philias Castle;;;;;;;;;;;;;x
+b_nimto_castle;Nimto Castle;;;;;;;;;;;;;x
+b_miletta_castle;Miletta Castle;;;;;;;;;;;;;x
+b_salina_castle;Salina Castle;;;;;;;;;;;;;x
+b_ralon_castle;Ralon Castle;;;;;;;;;;;;;x
+b_dunvik_castle;Dunvik Castle;;;;;;;;;;;;;x
+b_tuzan_rim_castle;Tuzan Rim Castle;;;;;;;;;;;;;x
+b_tyldon_castle;Tyldon Castle;;;;;;;;;;;;;x
+b_passelon_castle;Passelon Castle;;;;;;;;;;;;;x
+b_suttung_castle;Suttung Castle;;;;;;;;;;;;;x
+b_camard_castle;Camard Castle;;;;;;;;;;;;;x
+b_linbold_castle;Linbold Castle;;;;;;;;;;;;;x
+b_nelons_torp_castle;Nelons torp Castle;;;;;;;;;;;;;x
+b_harken_castle;Harken Castle;;;;;;;;;;;;;x
+b_fala_castle;Fala Castle;;;;;;;;;;;;;x
+b_tukulle_castle;Tukulle Castle;;;;;;;;;;;;;x
+b_ross_castle;Ross Castle;;;;;;;;;;;;;x
+b_haledon_castle;Haledon Castle;;;;;;;;;;;;;x
+b_stenrake_castle;Stenrake Castle;;;;;;;;;;;;;x
+b_jisselon_castle;Jisselon Castle;;;;;;;;;;;;;x
+b_harnby_castle;Harnby Castle;;;;;;;;;;;;;x
+b_maher_castle;Maher Castle;;;;;;;;;;;;;x
+b_chadarian_castle;Chadarian Castle;;;;;;;;;;;;;x
+b_stormon_castle;Stormön Castle;;;;;;;;;;;;;x
+b_colland_castle;Colland Castle;;;;;;;;;;;;;x
+b_hamasland_castle;Hamasland Castle;;;;;;;;;;;;;x
+b_kathar_castle;Kathar Castle;;;;;;;;;;;;;x
+b_fiskefors_castle;Fiskefors Castle;;;;;;;;;;;;;x
+b_vitas_castle;Vitås Castle;;;;;;;;;;;;;x
+b_korndala_castle;Korndala Castle;;;;;;;;;;;;;x
+b_daan_hammal_castle;Daan Hammal Castle;;;;;;;;;;;;;x
+b_gripnas_castle;Gripnäs Castle;;;;;;;;;;;;;x
+b_tallkusten_castle;Tallkusten Castle;;;;;;;;;;;;;x
+b_gildeskog_castle;Gildeskog Castle;;;;;;;;;;;;;x
+b_lundnas_castle;Lundnäs Castle;;;;;;;;;;;;;x
+b_wargborg_castle;Wargborg Castle;;;;;;;;;;;;;x
+b_jhamalo_tamatz_castle;Jhamalo Tamatz Castle;;;;;;;;;;;;;x
+b_torneskogen_castle;Törneskogen Castle;;;;;;;;;;;;;x
+b_nordmark_castle;Nordmark Castle;;;;;;;;;;;;;x
+b_borons_angar_castle;Borons ängar Castle;;;;;;;;;;;;;x
+b_hemingaland_castle;Hemingaland Castle;;;;;;;;;;;;;x
+b_backfors_castle;Bäckfors Castle;;;;;;;;;;;;;x
+b_minuvielsmark_castle;Minuvielsmark Castle;;;;;;;;;;;;;x
+b_trollhems_berg_castle;Trollhems berg Castle;;;;;;;;;;;;;x
+b_vasterbrygga_castle;Västerbrygga Castle;;;;;;;;;;;;;x
+b_vanaland_castle;Vanaland Castle;;;;;;;;;;;;;x
+b_bergsdalarna_castle;Bergsdalarna Castle;;;;;;;;;;;;;x
+b_kiaz_castle;Kiaz Castle;;;;;;;;;;;;;x
+b_khrun_castle;Khrun Castle;;;;;;;;;;;;;x
+b_ostbrant_castle;Östbrant Castle;;;;;;;;;;;;;x
+b_ostmark_castle;Östmark Castle;;;;;;;;;;;;;x
+b_wibbesmark_castle;Wibbesmark Castle;;;;;;;;;;;;;x
+b_skogsmark_castle;Skogsmark Castle;;;;;;;;;;;;;x
+b_vastanskog_castle;Västanskog Castle;;;;;;;;;;;;;x
+b_gryningsskog_castle;Gryningsskog Castle;;;;;;;;;;;;;x
+b_borganas_castle;Borganäs Castle;;;;;;;;;;;;;x
+b_kungsvik_castle;Kungsvik Castle;;;;;;;;;;;;;x
+b_vorum_castle;Vorum Castle;;;;;;;;;;;;;x
+b_bjorna_berg_castle;Björna berg Castle;;;;;;;;;;;;;x
+b_solds_kronomark_castle;Solds kronomark Castle;;;;;;;;;;;;;x
+b_ramsals_vila_castle;Ramsals vila Castle;;;;;;;;;;;;;x
+b_vinon_castle;Vinön Castle;;;;;;;;;;;;;x
+b_ralkom_castle;Ralkom Castle;;;;;;;;;;;;;x
+b_vazago_castle;Vazago Castle;;;;;;;;;;;;;x
+b_rampor_castle;Rampor Castle;;;;;;;;;;;;;x
+b_haxkitteln_castle;Häxkitteln Castle;;;;;;;;;;;;;x
+b_forsfara_castle;Forsfara Castle;;;;;;;;;;;;;x
+b_quilla_castle;Quilla Castle;;;;;;;;;;;;;x
+b_sista_bryggan_castle;Sista bryggan Castle;;;;;;;;;;;;;x
+b_vastborg_castle;Västborg Castle;;;;;;;;;;;;;x
+b_varnos_castle;Varnos Castle;;;;;;;;;;;;;x
+b_egentliga_krylomar_castle;Egentliga Krylomar Castle;;;;;;;;;;;;;x
+b_talmark_castle;Talmark Castle;;;;;;;;;;;;;x
+b_duncarck_castle;Duncarck Castle;;;;;;;;;;;;;x
+b_kaplandet_castle;Kaplandet Castle;;;;;;;;;;;;;x
+b_vakto_castle;Vaktö Castle;;;;;;;;;;;;;x
+b_hammaroarna_castle;Hammaröarna Castle;;;;;;;;;;;;;x
+b_calemslan_castle;Calemslän Castle;;;;;;;;;;;;;x
+b_mirron_castle;Mirron Castle;;;;;;;;;;;;;x
+b_famiria_castle;Famiria Castle;;;;;;;;;;;;;x
+b_megadar_castle;Megádar Castle;;;;;;;;;;;;;x
+b_tronmark_castle;Tronmark Castle;;;;;;;;;;;;;x
+b_graborg_castle;Gråborg Castle;;;;;;;;;;;;;x
+b_gordogar_castle;Gordogar Castle;;;;;;;;;;;;;x
+b_carzimar_castle;Carzimar Castle;;;;;;;;;;;;;x
+b_caulos_castle;Caulos Castle;;;;;;;;;;;;;x
+b_dimmestrand_castle;Dimmestrand Castle;;;;;;;;;;;;;x
+b_ateus_castle;Ateus Castle;;;;;;;;;;;;;x
+b_merdakh_castle;Merdakh Castle;;;;;;;;;;;;;x
+b_harvada_castle;Harvada Castle;;;;;;;;;;;;;x
+b_culnar_castle;Culnar Castle;;;;;;;;;;;;;x
+b_jarvskogen_castle;Järvskogen Castle;;;;;;;;;;;;;x
+b_khazim_castle;Khazim Castle;;;;;;;;;;;;;x
+b_sodra_sunari_castle;Södra Sunari Castle;;;;;;;;;;;;;x
+b_ostra_sunari_castle;Östra Sunari Castle;;;;;;;;;;;;;x
+b_sinai_castle;Sinai Castle;;;;;;;;;;;;;x
+b_halea_castle;Halea Castle;;;;;;;;;;;;;x
+b_norra_sunari_castle;Norra Sunari Castle;;;;;;;;;;;;;x
+b_emori_castle;Emori Castle;;;;;;;;;;;;;x
+b_vastra_sunari_castle;Västra Sunari Castle;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

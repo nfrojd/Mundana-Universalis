@@ -1,0 +1,20 @@
+# Zamm Daliz
+
+# County Title
+title = c_zamm_daliz
+
+# Settlements
+max_settlements = 1
+
+b_zamm_daliz_castle = castle
+
+# Misc
+culture = caserier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_zamm_daliz_castle = ca_keep_1
+	b_zamm_daliz_castle = ca_wall_1
+}

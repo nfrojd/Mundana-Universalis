@@ -1,3 +1,11 @@
+# SPECIAL TRAIT FLAGS
+#
+# pilgrimage = yes		- The character is away and will need a regent, but does not lose any wards, etc
+# incapacitating = yes	- The character is essentially a vegetable
+# immortal = yes		- The character will not die of age or poor health, but can be executed (and killed by event effects)
+# inherit_chance = X	- Chance of passing on the trait to children
+#
+
 ############
 # EDUCATION
 ############
@@ -135,6 +143,8 @@ brilliant_strategist = {
 	learning = -1
 	
 	health = 0.5
+
+	leadership_traits = 1
 }
 
 # ECCLESIASTICAL OUTCOMES
@@ -257,8 +267,8 @@ pneumonic = {
 }
 syphilitic = {
 	is_health = yes
-	congenital = yes
 	is_illness = yes
+	inherit_chance = 10
 	
 	sex_appeal_opinion = -30
 	
@@ -395,10 +405,14 @@ has_small_pox = {
 }
 
 ############################
-# SOFT STATUS - Undecided
+# HARD STATUS - DO NOT REMOVE!
 ############################
 
 crusader = {
+	potential = {
+		religion_group = christian
+	}
+	
 	martial = 2
 	
 	church_opinion = 25
@@ -406,10 +420,6 @@ crusader = {
 	
 	ai_zeal = 10
 }
-
-############################
-# HARD STATUS - DO NOT ADD OR REMOVE!
-############################
 
 bastard = {
 	diplomacy = -1
@@ -435,6 +445,10 @@ excommunicated = {
 	same_religion_opinion = -30
 }
 kinslayer = {
+	potential = {
+		NOT = { religion_group = muslim }
+	}
+
 	diplomacy = -3
 	
 	dynasty_opinion = -25
@@ -453,8 +467,8 @@ homosexual = {
 #####################
 
 clubfooted = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -10
 	same_opinion = 5
@@ -462,8 +476,8 @@ clubfooted = {
 	martial = -1
 }
 harelip = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -10
 	same_opinion = 5
@@ -471,8 +485,8 @@ harelip = {
 	diplomacy = -1
 }
 hunchback = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -30
 	same_opinion = 5
@@ -482,8 +496,8 @@ hunchback = {
 	martial = -1
 }
 lisp = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -5
 	same_opinion = 5
@@ -491,16 +505,16 @@ lisp = {
 	diplomacy = -1
 }
 stutter = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	same_opinion = 5
 	
 	diplomacy = -1
 }
 fair = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = 30
 	
@@ -511,8 +525,8 @@ fair = {
 	diplomacy = 1
 }
 ugly = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -20
 	
@@ -523,8 +537,8 @@ ugly = {
 	diplomacy = -1
 }
 dwarf = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 50
 	
 	sex_appeal_opinion = -30
 	same_opinion = 10
@@ -532,8 +546,8 @@ dwarf = {
 	martial = -1
 }
 genius = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	opposites =  {
 		imbecile
@@ -553,8 +567,8 @@ genius = {
 	
 }
 quick = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	opposites =  {
 		imbecile
@@ -571,8 +585,8 @@ quick = {
 	ai_rationality = 15
 }
 slow = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	opposites =  {
 		imbecile
@@ -589,8 +603,8 @@ slow = {
 	ai_rationality = -15
 }
 imbecile = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -30
 	
@@ -612,7 +626,7 @@ imbecile = {
 }
 inbred = {
 	inbred = yes
-	congenital = yes
+	inherit_chance = 25
 	
 	sex_appeal_opinion = -30
 	
@@ -629,8 +643,8 @@ inbred = {
 	ai_rationality = -20
 }
 strong = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	opposites =  {
 		weak
@@ -646,8 +660,8 @@ strong = {
 	vassal_opinion = 10
 }
 weak = {
-	congenital = yes
 	birth = yes
+	inherit_chance = 25
 	
 	opposites =  {
 		strong
@@ -668,6 +682,10 @@ weak = {
 
 celibate = {
 	lifestyle = yes
+	
+	potential = {
+		NOT = { religion_group = muslim }
+	}
 	
 	opposites =  {
 		hedonist
@@ -729,6 +747,10 @@ impaler = {
 	same_opinion = 20
 	
 	ai_honor = -15
+	
+	command_modifier = {
+		morale_offence = 0.1
+	}
 }
 duelist = {
 	lifestyle = yes
@@ -780,6 +802,11 @@ lustful = {
 }
 chaste = {
 	personality = yes
+	
+	potential = {
+		NOT = { religion_group = muslim }
+	}
+	
 	opposites =  {
 		lustful
 	}
@@ -940,6 +967,10 @@ patient = {
 	opposite_opinion = -10
 	
 	ai_rationality = 10
+	
+	command_modifier = {
+		defence = 0.2
+	}
 }
 proud = {
 	personality = yes
@@ -1002,6 +1033,10 @@ craven = {
 	vassal_opinion = -5
 	
 	martial = -2
+	
+	command_modifier = {
+		morale_defence = -0.2
+	}
 }
 brave = {
 	personality = yes
@@ -1014,6 +1049,10 @@ brave = {
 	same_opinion = 10
 	
 	martial = 2
+	
+	command_modifier = {
+		morale_defence = 0.1
+	}
 }
 shy = {
 	personality = yes
@@ -1117,7 +1156,6 @@ cynical = {
 	
 	ai_rationality = 10
 	ai_zeal = -100
-	
 }
 zealous = {
 	personality = yes
@@ -1171,4 +1209,99 @@ cruel = {
 	vassal_opinion = -10
 	ai_honor = -10
 	ai_greed = 10
+	
+	command_modifier = {
+		morale_offence = 0.1
+	}
+}
+
+#Leadership traits
+light_foot_leader = {
+	leader = yes
+	
+	command_modifier = {
+		light_infantry = 0.2
+		heavy_infantry = -0.1
+	}
+}
+
+heavy_infantry_leader = {
+	leader = yes
+	
+	command_modifier = {
+		heavy_infantry = 0.2
+		cavalry = -0.1
+	}
+}
+
+cavalry_leader = {
+	leader = yes
+	
+	command_modifier = {
+		cavalry = 0.2
+		light_infantry = -0.1
+	}
+}
+
+inspiring_leader = {
+	leader = yes
+	
+	command_modifier = {
+		morale_defence = 0.1
+		center = 0.1
+	}
+}
+
+trickster = {
+	leader = yes
+	
+	command_modifier = {
+		morale_offence = 0.1
+		defence = -0.2
+	}
+}
+
+organizer = {
+	leader = yes
+	
+	command_modifier = {
+		speed = 0.2
+		retreat = 0.1
+	}
+}
+
+defensive_leader = {
+	leader = yes
+	
+	command_modifier = {
+		defence = 0.1
+		damage = -0.2
+	}
+}
+
+experimenter = {
+	leader = yes
+	
+	command_modifier = {
+		random = 0.3
+	}
+}
+
+flanker = {
+	leader = yes
+	
+	command_modifier = {
+		flank = 0.2
+		center = -0.2
+	}
+}
+
+aggressive_leader = {
+	leader = yes
+	
+	command_modifier = {
+		pursue = 0.2
+		damage = 0.1
+		defence = -0.2
+	}
 }

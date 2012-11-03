@@ -1,0 +1,20 @@
+# Ralkom
+
+# County Title
+title = c_ralkom
+
+# Settlements
+max_settlements = 1
+
+b_ralkom_castle = castle
+
+# Misc
+culture = vastmarkare
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_ralkom_castle = ca_keep_1
+	b_ralkom_castle = ca_wall_1
+}

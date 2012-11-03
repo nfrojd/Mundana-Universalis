@@ -1,0 +1,20 @@
+# Lundnäs
+
+# County Title
+title = c_lundnas
+
+# Settlements
+max_settlements = 1
+
+b_lundnas_castle = castle
+
+# Misc
+culture = soldier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_lundnas_castle = ca_keep_1
+	b_lundnas_castle = ca_wall_1
+}

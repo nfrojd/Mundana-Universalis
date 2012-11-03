@@ -1,0 +1,85 @@
+k_caserion = {
+	color = { 104 164 42 }
+	color2 = { 244 225 46 }
+	
+	capital = 225
+	
+	religion = cirza
+	culture = caserier
+	
+	d_rametzior_turak = {
+		color = { 84 166 192 }
+		color2 = { 81 176 206 }
+		
+		c_jhamalo_gedonia = {
+			color = { 5 150 234 }
+			color2 = { 113 169 147 }
+			
+			b_jhamalo_gedonia_castle = {}
+		}
+		c_rametzior_turak = {
+			color = { 29 140 237 }
+			color2 = { 63 173 202 }
+			
+			b_rametzior_turak_castle = {}
+		}
+		c_zaza = {
+			color = { 25 220 227 }
+			color2 = { 61 220 183 }
+			
+			b_zaza_castle = {}
+		}
+		c_szaracon_tamatz = {
+			color = { 1 214 158 }
+			color2 = { 22 224 194 }
+			
+			b_szaracon_tamatz_castle = {}
+		}
+	}
+	d_marek_pomian = {
+		color = { 48 243 164 }
+		color2 = { 111 168 201 }
+		
+		c_celturok_meloin = {
+			color = { 49 226 207 }
+			color2 = { 91 160 184 }
+			
+			b_celturok_meloin_castle = {}
+		}
+		c_marek_pomian = {
+			color = { 9 200 188 }
+			color2 = { 94 228 237 }
+			
+			b_marek_pomian_castle = {}
+		}
+		c_remzian_krack = {
+			color = { 69 188 176 }
+			color2 = { 59 128 210 }
+			
+			b_remzian_krack_castle = {}
+		}
+	}
+	d_narzkar_falz = {
+		color = { 47 162 141 }
+		color2 = { 120 157 161 }
+		
+		c_zamm_daliz = {
+			color = { 31 214 253 }
+			color2 = { 98 132 219 }
+			
+			b_zamm_daliz_castle = {}
+		}
+		c_narzkar_falz = {
+			color = { 71 167 144 }
+			color2 = { 122 152 223 }
+			
+			b_narzkar_falz_castle = {}
+		}
+		c_haraziz_krack = {
+			color = { 45 232 186 }
+			color2 = { 89 233 198 }
+			
+			b_haraziz_krack_castle = {}
+		}
+	}
+}

@@ -20,12 +20,12 @@ e_thalamur = {
 		sabrian_daak = 300
 
 		d_arah = {
-			color = { 152 64 150 }
-			color2 = { 163 73 133 }
+			color = { 133 32 160 }
+			color2 = { 153 22 163 }
 			
 			c_aghral = {
-				color = { 236 57 132 }
-				color2 = { 206 4 240 }
+				color = { 182 10 207 }
+				color2 = { 243 57 225 }
 				
 				b_aghral_castle = {}
 				b_aghral_city = {}
@@ -33,8 +33,8 @@ e_thalamur = {
 				b_aghral_temple = {}
 			}
 			c_arakh = {
-				color = { 187 72 155 }
-				color2 = { 234 120 220 }
+				color = { 180 41 187 }
+				color2 = { 159 13 209 }
 				
 				b_arakh_castle = {}
 				b_arakh_city = {}
@@ -43,12 +43,12 @@ e_thalamur = {
 			}
 		}
 		d_qarom = {
-			color = { 188 37 235 }
-			color2 = { 181 26 175 }
+			color = { 178 126 139 }
+			color2 = { 184 64 197 }
 			
 			c_abin_ramadh = {
-				color = { 220 85 153 }
-				color2 = { 190 27 232 }
+				color = { 253 87 153 }
+				color2 = { 164 67 131 }
 				
 				b_abin_ramadh_castle = {}
 				b_abin_ramadh_city = {}
@@ -56,8 +56,8 @@ e_thalamur = {
 				b_abin_ramadh_castle_1 = {}
 			}
 			c_qarom = {
-				color = { 242 80 234 }
-				color2 = { 155 74 197 }
+				color = { 241 4 185 }
+				color2 = { 200 84 219 }
 				
 				b_qarom_castle = {}
 				b_qarom_city = {}
@@ -65,8 +65,8 @@ e_thalamur = {
 				b_qarom_castle_1 = {}
 			}
 			c_farn = {
-				color = { 203 43 249 }
-				color2 = { 219 124 138 }
+				color = { 200 68 142 }
+				color2 = { 242 62 173 }
 				
 				b_farn_castle = {}
 				b_farn_city = {}
@@ -75,12 +75,12 @@ e_thalamur = {
 			}
 		}
 		d_therga = {
-			color = { 178 28 205 }
-			color2 = { 151 22 253 }
+			color = { 190 112 195 }
+			color2 = { 234 3 226 }
 			
 			c_lhavala = {
-				color = { 154 109 181 }
-				color2 = { 165 0 168 }
+				color = { 222 30 210 }
+				color2 = { 139 81 139 }
 				
 				b_lhavala_castle = {}
 				b_lhavala_temple = {}
@@ -88,8 +88,8 @@ e_thalamur = {
 				b_lhavala_castle_1 = {}
 			}
 			c_gastmarkerna = {
-				color = { 155 60 150 }
-				color2 = { 147 114 202 }
+				color = { 244 82 141 }
+				color2 = { 248 79 206 }
 				
 				b_gastmarkerna_castle = {}
 				b_gastmarkerna_city = {}
@@ -97,8 +97,8 @@ e_thalamur = {
 				b_gastmarkerna_castle_1 = {}
 			}
 			c_therga = {
-				color = { 218 68 217 }
-				color2 = { 155 27 163 }
+				color = { 140 37 205 }
+				color2 = { 246 67 236 }
 				
 				b_therga_castle = {}
 				b_therga_city = {}
@@ -120,12 +120,12 @@ e_thalamur = {
 		sabrian_daak = 500
 
 		d_victaron = {
-			color = { 178 96 30 }
-			color2 = { 174 68 75 }
+			color = { 252 82 71 }
+			color2 = { 138 86 70 }
 			
 			c_apax = {
-				color = { 181 22 131 }
-				color2 = { 218 43 149 }
+				color = { 143 105 169 }
+				color2 = { 160 51 210 }
 				
 				b_apax_castle = {}
 				b_apax_city = {}
@@ -133,8 +133,8 @@ e_thalamur = {
 				b_apax_castle_1 = {}
 			}
 			c_victaron = {
-				color = { 193 120 240 }
-				color2 = { 248 123 129 }
+				color = { 216 103 192 }
+				color2 = { 160 24 220 }
 				
 				b_victaron_castle = {}
 				b_victaron_city = {}
@@ -142,8 +142,8 @@ e_thalamur = {
 				b_victaron_castle_1 = {}
 			}
 			c_rubis = {
-				color = { 243 38 154 }
-				color2 = { 203 30 134 }
+				color = { 179 74 208 }
+				color2 = { 170 72 224 }
 				
 				b_rubis_castle = {}
 				b_rubis_city = {}
@@ -152,12 +152,12 @@ e_thalamur = {
 			}
 		}
 		d_colonan = {
-			color = { 135 4 23 }
-			color2 = { 223 68 44 }
+			color = { 139 90 123 }
+			color2 = { 219 125 17 }
 			
 			c_polon = {
-				color = { 140 104 235 }
-				color2 = { 141 127 219 }
+				color = { 246 26 183 }
+				color2 = { 157 16 195 }
 				
 				b_polon_castle = {}
 				b_polon_city = {}
@@ -165,8 +165,8 @@ e_thalamur = {
 				b_polon_castle_1 = {}
 			}
 			c_colonan = {
-				color = { 211 40 177 }
-				color2 = { 187 98 139 }
+				color = { 161 119 235 }
+				color2 = { 147 18 134 }
 				
 				b_colonan_castle = {}
 				b_colonan_city = {}
@@ -177,8 +177,8 @@ e_thalamur = {
 				b_colonan_castle_2 = {}
 			}
 			c_shia = {
-				color = { 229 55 240 }
-				color2 = { 189 54 148 }
+				color = { 140 74 245 }
+				color2 = { 249 108 165 }
 				
 				b_shia_castle = {}
 				b_shia_city = {}
@@ -200,12 +200,12 @@ e_thalamur = {
 		sabrian_daak = 200
 
 		d_eovir = {
-			color = { 244 80 199 }
-			color2 = { 196 52 217 }
+			color = { 134 25 135 }
+			color2 = { 190 33 188 }
 			
 			c_reh = {
-				color = { 190 115 198 }
-				color2 = { 143 74 234 }
+				color = { 152 109 190 }
+				color2 = { 170 117 224 }
 				
 				b_reh_castle = {}
 				b_reh_city = {}
@@ -213,8 +213,8 @@ e_thalamur = {
 				b_reh_castle_1 = {}
 			}
 			c_wembsal = {
-				color = { 211 81 180 }
-				color2 = { 219 122 160 }
+				color = { 160 58 169 }
+				color2 = { 179 75 209 }
 				
 				b_wembsal_castle = {}
 				b_wembsal_city = {}
@@ -222,8 +222,8 @@ e_thalamur = {
 				b_wembsal_castle_1 = {}
 			}
 			c_sidqal = {
-				color = { 129 78 197 }
-				color2 = { 227 4 184 }
+				color = { 155 49 131 }
+				color2 = { 136 16 243 }
 				
 				b_sidqal_castle = {}
 				b_sidqal_city = {}
@@ -231,8 +231,8 @@ e_thalamur = {
 				b_sidqal_castle_1 = {}
 			}
 			c_jamal = {
-				color = { 217 24 228 }
-				color2 = { 216 12 173 }
+				color = { 201 76 173 }
+				color2 = { 140 91 148 }
 				
 				b_jamal_castle = {}
 				b_jamal_city = {}
@@ -241,12 +241,12 @@ e_thalamur = {
 			}
 		}
 		d_parash = {
-			color = { 149 44 196 }
-			color2 = { 133 106 196 }
+			color = { 214 36 134 }
+			color2 = { 209 44 242 }
 			
 			c_yndrath = {
-				color = { 136 22 160 }
-				color2 = { 201 44 230 }
+				color = { 143 82 217 }
+				color2 = { 195 19 170 }
 				
 				b_yndrath_castle = {}
 				b_yndrath_city = {}
@@ -254,8 +254,8 @@ e_thalamur = {
 				b_yndrath_castle_1 = {}
 			}
 			c_parash = {
-				color = { 158 12 247 }
-				color2 = { 226 64 196 }
+				color = { 170 9 230 }
+				color2 = { 216 127 149 }
 				
 				b_parash_castle = {}
 				b_parash_city = {}
@@ -263,8 +263,8 @@ e_thalamur = {
 				b_parash_castle_1 = {}
 			}
 			c_strakh = {
-				color = { 221 125 211 }
-				color2 = { 218 68 202 }
+				color = { 181 34 251 }
+				color2 = { 225 9 215 }
 				
 				b_strakh_castle = {}
 				b_strakh_city = {}
@@ -273,12 +273,12 @@ e_thalamur = {
 			}
 		}
 		d_savirah = {
-			color = { 191 74 251 }
-			color2 = { 166 60 230 }
+			color = { 179 126 184 }
+			color2 = { 246 45 229 }
 			
 			c_dan = {
-				color = { 156 62 169 }
-				color2 = { 231 107 180 }
+				color = { 194 87 160 }
+				color2 = { 202 27 181 }
 				
 				b_dan_castle = {}
 				b_dan_city = {}
@@ -286,8 +286,8 @@ e_thalamur = {
 				b_dan_castle_1 = {}
 			}
 			c_savirah = {
-				color = { 228 25 190 }
-				color2 = { 184 102 245 }
+				color = { 213 103 172 }
+				color2 = { 151 105 210 }
 				
 				b_savirah_castle = {}
 				b_savirah_city = {}
@@ -295,8 +295,8 @@ e_thalamur = {
 				b_savirah_castle_1 = {}
 			}
 			c_ikamur = {
-				color = { 153 78 226 }
-				color2 = { 254 71 219 }
+				color = { 138 19 201 }
+				color2 = { 139 95 252 }
 				
 				b_ikamur_castle = {}
 				b_ikamur_city = {}
@@ -318,12 +318,12 @@ e_thalamur = {
 		sabrian_daak = 100
 
 		d_el_egor = {
-			color = { 156 13 222 }
-			color2 = { 152 106 247 }
+			color = { 219 4 204 }
+			color2 = { 235 56 184 }
 			
 			c_khal = {
-				color = { 192 34 222 }
-				color2 = { 162 119 176 }
+				color = { 155 98 203 }
+				color2 = { 211 64 197 }
 				
 				b_khal_castle = {}
 				b_khal_city = {}
@@ -331,8 +331,8 @@ e_thalamur = {
 				b_khal_castle_1 = {}
 			}
 			c_evor = {
-				color = { 134 49 209 }
-				color2 = { 203 68 229 }
+				color = { 250 64 231 }
+				color2 = { 180 124 210 }
 				
 				b_evor_castle = {}
 				b_evor_city = {}
@@ -340,8 +340,8 @@ e_thalamur = {
 				b_evor_castle_1 = {}
 			}
 			c_el_egor = {
-				color = { 205 3 143 }
-				color2 = { 140 115 145 }
+				color = { 212 118 170 }
+				color2 = { 177 93 221 }
 				
 				b_el_egor_castle = {}
 				b_el_egor_city = {}
@@ -349,8 +349,8 @@ e_thalamur = {
 				b_el_egor_castle_1 = {}
 			}
 			c_tav_sezhi = {
-				color = { 151 99 129 }
-				color2 = { 221 55 227 }
+				color = { 158 35 135 }
+				color2 = { 236 118 200 }
 				
 				b_tav_sezhi_castle = {}
 				b_tav_sezhi_city = {}
@@ -358,8 +358,8 @@ e_thalamur = {
 				b_tav_sezhi_castle_1 = {}
 			}
 			c_es_holi = {
-				color = { 134 101 152 }
-				color2 = { 224 85 178 }
+				color = { 232 82 231 }
+				color2 = { 188 23 191 }
 				
 				b_es_holi_castle = {}
 				b_es_holi_city = {}
@@ -369,12 +369,12 @@ e_thalamur = {
 			}
 		}
 		d_abin_thukor = {
-			color = { 162 87 176 }
-			color2 = { 198 66 198 }
+			color = { 142 14 194 }
+			color2 = { 212 102 240 }
 			
 			c_abin_thukor = {
-				color = { 188 15 236 }
-				color2 = { 254 22 169 }
+				color = { 145 4 162 }
+				color2 = { 245 50 211 }
 				
 				b_abin_thukor_castle = {}
 				b_abin_thukor_castle_1 = {}
@@ -384,8 +384,8 @@ e_thalamur = {
 				b_abin_thukor_temple_1 = {}
 			}
 			c_per = {
-				color = { 140 97 227 }
-				color2 = { 156 61 170 }
+				color = { 141 78 177 }
+				color2 = { 240 92 214 }
 				
 				b_per_castle = {}
 				b_per_city = {}
@@ -393,8 +393,8 @@ e_thalamur = {
 				b_per_temple = {}
 			}
 			c_el_arga = {
-				color = { 172 68 252 }
-				color2 = { 237 66 248 }
+				color = { 180 4 243 }
+				color2 = { 225 49 190 }
 				
 				b_el_arga_castle = {}
 				b_el_arga_city = {}
@@ -402,8 +402,8 @@ e_thalamur = {
 				b_el_arga_temple = {}
 			}
 			c_es_hidha = {
-				color = { 198 65 222 }
-				color2 = { 216 17 224 }
+				color = { 197 106 162 }
+				color2 = { 204 71 251 }
 				
 				b_es_hidha_castle = {}
 				b_es_hidha_city = {}
@@ -412,12 +412,12 @@ e_thalamur = {
 			}
 		}
 		d_sirmon = {
-			color = { 199 43 244 }
-			color2 = { 189 87 222 }
+			color = { 138 60 179 }
+			color2 = { 241 39 166 }
 			
 			c_savher = {
-				color = { 174 51 140 }
-				color2 = { 187 70 148 }
+				color = { 188 58 166 }
+				color2 = { 237 15 242 }
 				
 				b_savher_castle = {}
 				b_savher_city = {}
@@ -425,8 +425,8 @@ e_thalamur = {
 				b_savher_castle_1 = {}
 			}
 			c_dani = {
-				color = { 184 12 144 }
-				color2 = { 148 92 199 }
+				color = { 213 14 204 }
+				color2 = { 244 52 185 }
 				
 				b_dani_castle = {}
 				b_dani_city = {}
@@ -434,8 +434,8 @@ e_thalamur = {
 				b_dani_castle_1 = {}
 			}
 			c_qatha = {
-				color = { 160 80 172 }
-				color2 = { 179 59 159 }
+				color = { 178 23 214 }
+				color2 = { 209 51 184 }
 				
 				b_qatha_castle = {}
 				b_qatha_city = {}
@@ -443,8 +443,8 @@ e_thalamur = {
 				b_qatha_castle_1 = {}
 			}
 			c_grond = {
-				color = { 253 65 179 }
-				color2 = { 217 56 201 }
+				color = { 251 50 249 }
+				color2 = { 135 26 253 }
 				
 				b_grond_castle = {}
 				b_grond_city = {}
@@ -452,8 +452,8 @@ e_thalamur = {
 				b_grond_castle_1 = {}
 			}
 			c_jamur = {
-				color = { 219 71 207 }
-				color2 = { 217 77 217 }
+				color = { 162 62 140 }
+				color2 = { 163 20 161 }
 				
 				b_jamur_castle = {}
 				b_jamur_city = {}
@@ -475,12 +475,12 @@ e_thalamur = {
 		sabrian_daak = 400
 
 		d_kininae_an_oro = {
-			color = { 39 165 30 }
-			color2 = { 8 139 8 }
+			color = { 25 208 32 }
+			color2 = { 92 178 100 }
 			
 			c_kininae_an_oro = {
-				color = { 54 135 88 }
-				color2 = { 90 203 99 }
+				color = { 105 236 116 }
+				color2 = { 89 228 97 }
 				
 				b_kininae_an_oro_castle = {}
 				b_kininae_an_oro_city = {}
@@ -489,12 +489,12 @@ e_thalamur = {
 			}
 		}
 		d_ireda = {
-			color = { 200 123 73 }
-			color2 = { 191 96 56 }
+			color = { 147 29 118 }
+			color2 = { 205 88 84 }
 			
 			c_pher = {
-				color = { 166 34 131 }
-				color2 = { 250 52 172 }
+				color = { 187 17 149 }
+				color2 = { 131 124 150 }
 				
 				b_pher_castle = {}
 				b_pher_city = {}
@@ -502,8 +502,8 @@ e_thalamur = {
 				b_pher_temple = {}
 			}
 			c_ireda = {
-				color = { 251 1 244 }
-				color2 = { 166 21 240 }
+				color = { 167 99 156 }
+				color2 = { 148 56 157 }
 				
 				b_ireda_castle = {}
 				b_ireda_city = {}
@@ -512,12 +512,12 @@ e_thalamur = {
 			}
 		}
 		d_perina = {
-			color = { 196 110 66 }
-			color2 = { 150 31 68 }
+			color = { 185 62 122 }
+			color2 = { 228 62 10 }
 			
 			c_derien = {
-				color = { 220 77 249 }
-				color2 = { 137 32 233 }
+				color = { 139 25 250 }
+				color2 = { 167 13 232 }
 				
 				b_derien_castle = {}
 				b_derien_city = {}
@@ -525,8 +525,8 @@ e_thalamur = {
 				b_derien_castle_1 = {}
 			}
 			c_perina = {
-				color = { 176 64 232 }
-				color2 = { 171 51 145 }
+				color = { 236 37 129 }
+				color2 = { 226 14 190 }
 				
 				b_perina_castle = {}
 				b_perina_city = {}
@@ -548,12 +548,12 @@ e_thalamur = {
 		sabrian_daak = 400
 
 		d_el_ivani = {
-			color = { 202 38 136 }
-			color2 = { 252 49 198 }
+			color = { 235 28 132 }
+			color2 = { 140 100 153 }
 			
 			c_vortha = {
-				color = { 212 8 216 }
-				color2 = { 212 57 168 }
+				color = { 162 52 133 }
+				color2 = { 147 5 137 }
 				
 				b_vortha_castle = {}
 				b_vortha_city = {}
@@ -561,8 +561,8 @@ e_thalamur = {
 				b_vortha_castle_1 = {}
 			}
 			c_el_ivani = {
-				color = { 225 6 206 }
-				color2 = { 204 102 243 }
+				color = { 174 114 253 }
+				color2 = { 244 56 208 }
 				
 				b_el_ivani_castle = {}
 				b_el_ivani_city = {}
@@ -571,12 +571,12 @@ e_thalamur = {
 			}
 		}
 		d_qatada = {
-			color = { 227 22 139 }
-			color2 = { 144 79 186 }
+			color = { 224 61 198 }
+			color2 = { 165 73 226 }
 			
 			c_qatada = {
-				color = { 189 1 240 }
-				color2 = { 131 60 249 }
+				color = { 160 102 194 }
+				color2 = { 246 44 172 }
 				
 				b_qatada_castle = {}
 				b_qatada_city = {}
@@ -584,8 +584,8 @@ e_thalamur = {
 				b_qatada_castle_1 = {}
 			}
 			c_svrox = {
-				color = { 188 114 143 }
-				color2 = { 155 94 158 }
+				color = { 152 13 237 }
+				color2 = { 187 48 243 }
 				
 				b_svrox_castle = {}
 				b_svrox_city = {}
@@ -594,12 +594,12 @@ e_thalamur = {
 			}
 		}
 		d_adaluth = {
-			color = { 178 40 214 }
-			color2 = { 229 80 168 }
+			color = { 227 60 165 }
+			color2 = { 201 63 161 }
 			
 			c_ikrem = {
-				color = { 138 62 140 }
-				color2 = { 210 95 192 }
+				color = { 240 78 230 }
+				color2 = { 137 24 135 }
 				
 				b_ikrem_castle = {}
 				b_ikrem_city = {}
@@ -607,8 +607,8 @@ e_thalamur = {
 				b_ikrem_castle_1 = {}
 			}
 			c_strighil = {
-				color = { 134 80 144 }
-				color2 = { 165 26 205 }
+				color = { 178 14 204 }
+				color2 = { 185 63 169 }
 				
 				b_strighil_castle = {}
 				b_strighil_city = {}
@@ -616,8 +616,8 @@ e_thalamur = {
 				b_strighil_castle_1 = {}
 			}
 			c_adaluth = {
-				color = { 191 53 152 }
-				color2 = { 198 34 220 }
+				color = { 172 98 189 }
+				color2 = { 206 52 164 }
 				
 				b_adaluth_castle = {}
 				b_adaluth_city = {}
@@ -639,12 +639,12 @@ e_thalamur = {
 		sabrian_daak = 100
 
 		d_khor = {
-			color = { 222 25 149 }
-			color2 = { 140 80 245 }
+			color = { 151 120 179 }
+			color2 = { 154 1 248 }
 			
 			c_khorai = {
-				color = { 130 94 251 }
-				color2 = { 149 80 155 }
+				color = { 207 32 189 }
+				color2 = { 208 91 198 }
 				
 				b_khorai_castle = {}
 				b_khorai_city = {}
@@ -652,8 +652,8 @@ e_thalamur = {
 				b_khorai_castle_1 = {}
 			}
 			c_sidra = {
-				color = { 180 66 172 }
-				color2 = { 197 23 218 }
+				color = { 207 49 145 }
+				color2 = { 156 31 244 }
 				
 				b_sidra_castle = {}
 				b_sidra_city = {}
@@ -661,8 +661,8 @@ e_thalamur = {
 				b_sidra_castle_1 = {}
 			}
 			c_ferena = {
-				color = { 157 74 205 }
-				color2 = { 164 100 248 }
+				color = { 208 100 231 }
+				color2 = { 224 36 195 }
 				
 				b_ferena_castle = {}
 				b_ferena_city = {}
@@ -671,12 +671,12 @@ e_thalamur = {
 			}
 		}
 		d_tagada = {
-			color = { 188 57 235 }
-			color2 = { 157 115 184 }
+			color = { 152 14 238 }
+			color2 = { 145 80 172 }
 			
 			c_minder = {
-				color = { 227 101 240 }
-				color2 = { 131 69 134 }
+				color = { 200 96 243 }
+				color2 = { 225 112 158 }
 				
 				b_minder_castle = {}
 				b_minder_city = {}
@@ -684,8 +684,8 @@ e_thalamur = {
 				b_minder_castle_1 = {}
 			}
 			c_leth = {
-				color = { 164 78 215 }
-				color2 = { 208 2 175 }
+				color = { 159 101 232 }
+				color2 = { 172 44 225 }
 				
 				b_leth_castle = {}
 				b_leth_city = {}
@@ -693,8 +693,8 @@ e_thalamur = {
 				b_leth_temple = {}
 			}
 			c_tagada = {
-				color = { 153 118 254 }
-				color2 = { 233 12 211 }
+				color = { 207 87 158 }
+				color2 = { 189 20 205 }
 				
 				b_tagada_castle = {}
 				b_tagada_city = {}
@@ -704,12 +704,12 @@ e_thalamur = {
 			}
 		}
 		d_ifar = {
-			color = { 179 0 129 }
-			color2 = { 209 7 239 }
+			color = { 131 114 179 }
+			color2 = { 182 32 249 }
 			
 			c_bhanor = {
-				color = { 246 116 133 }
-				color2 = { 168 10 249 }
+				color = { 247 3 158 }
+				color2 = { 171 30 248 }
 				
 				b_bhanor_castle = {}
 				b_bhanor_city = {}
@@ -717,8 +717,8 @@ e_thalamur = {
 				b_bhanor_castle_1 = {}
 			}
 			c_khla = {
-				color = { 158 63 178 }
-				color2 = { 205 116 147 }
+				color = { 133 68 148 }
+				color2 = { 149 89 137 }
 				
 				b_khla_castle = {}
 				b_khla_city = {}
@@ -726,8 +726,8 @@ e_thalamur = {
 				b_khla_castle_1 = {}
 			}
 			c_ash = {
-				color = { 138 100 178 }
-				color2 = { 163 122 163 }
+				color = { 173 73 219 }
+				color2 = { 186 124 230 }
 				
 				b_ash_castle = {}
 				b_ash_city = {}
@@ -749,12 +749,12 @@ e_thalamur = {
 		sabrian_daak = 100
 
 		d_khovsosh = {
-			color = { 215 15 208 }
-			color2 = { 129 93 229 }
+			color = { 167 114 132 }
+			color2 = { 222 2 145 }
 			
 			c_qara = {
-				color = { 244 46 214 }
-				color2 = { 138 105 201 }
+				color = { 190 98 212 }
+				color2 = { 243 76 242 }
 				
 				b_qara_castle = {}
 				b_qara_city = {}
@@ -762,8 +762,8 @@ e_thalamur = {
 				b_qara_temple = {}
 			}
 			c_ilaella = {
-				color = { 192 5 243 }
-				color2 = { 229 14 213 }
+				color = { 149 17 245 }
+				color2 = { 140 53 132 }
 				
 				b_ilaella_castle = {}
 				b_ilaella_city = {}
@@ -771,8 +771,8 @@ e_thalamur = {
 				b_ilaella_castle_1 = {}
 			}
 			c_arah = {
-				color = { 206 35 212 }
-				color2 = { 207 96 177 }
+				color = { 219 47 199 }
+				color2 = { 179 112 204 }
 				
 				b_arah_castle = {}
 				b_arah_city = {}
@@ -780,8 +780,8 @@ e_thalamur = {
 				b_arah_temple = {}
 			}
 			c_khovsosh = {
-				color = { 245 65 158 }
-				color2 = { 193 3 230 }
+				color = { 226 29 180 }
+				color2 = { 172 85 187 }
 				
 				b_khovsosh_castle = {}
 				b_khovsosh_city = {}
@@ -790,8 +790,8 @@ e_thalamur = {
 				b_khovsosh_castle_1 = {}
 			}
 			c_gash = {
-				color = { 176 20 148 }
-				color2 = { 186 103 178 }
+				color = { 128 52 139 }
+				color2 = { 250 44 183 }
 				
 				b_gash_castle = {}
 				b_gash_city = {}
@@ -800,12 +800,12 @@ e_thalamur = {
 			}
 		}
 		d_horta = {
-			color = { 154 91 135 }
-			color2 = { 147 112 155 }
+			color = { 212 107 168 }
+			color2 = { 177 48 128 }
 			
 			c_el_vha = {
-				color = { 49 215 13 }
-				color2 = { 51 224 69 }
+				color = { 63 187 21 }
+				color2 = { 2 217 67 }
 				
 				b_el_vha_castle = {}
 				b_el_vha_city = {}
@@ -814,8 +814,8 @@ e_thalamur = {
 				b_el_vha_temple = {}
 			}
 			c_es_orakh = {
-				color = { 149 4 185 }
-				color2 = { 172 42 172 }
+				color = { 155 50 136 }
+				color2 = { 153 28 176 }
 				
 				b_es_orakh_castle = {}
 				b_es_orakh_city = {}
@@ -823,8 +823,8 @@ e_thalamur = {
 				b_es_orakh_castle_1 = {}
 			}
 			c_takhor = {
-				color = { 219 64 158 }
-				color2 = { 160 17 189 }
+				color = { 167 22 187 }
+				color2 = { 206 99 233 }
 				
 				b_takhor_castle = {}
 				b_takhor_city = {}
@@ -833,12 +833,12 @@ e_thalamur = {
 			}
 		}
 		d_mashoro = {
-			color = { 171 76 135 }
-			color2 = { 222 51 130 }
+			color = { 191 73 253 }
+			color2 = { 155 79 233 }
 			
 			c_ivida = {
-				color = { 223 24 145 }
-				color2 = { 213 111 219 }
+				color = { 212 85 131 }
+				color2 = { 144 73 192 }
 				
 				b_ivida_castle = {}
 				b_ivida_city = {}
@@ -847,8 +847,8 @@ e_thalamur = {
 				b_ivida_castle_1 = {}
 			}
 			c_mashoro = {
-				color = { 148 95 245 }
-				color2 = { 131 94 203 }
+				color = { 176 71 152 }
+				color2 = { 254 94 186 }
 				
 				b_mashoro_castle = {}
 				b_mashoro_city = {}
@@ -857,8 +857,8 @@ e_thalamur = {
 				b_mashoro_castle_1 = {}
 			}
 			c_kharath = {
-				color = { 148 31 185 }
-				color2 = { 169 34 226 }
+				color = { 209 16 145 }
+				color2 = { 211 8 166 }
 				
 				b_kharath_castle = {}
 				b_kharath_city = {}
@@ -881,12 +881,12 @@ e_thalamur = {
 		sabrian_daak = 100
 
 		d_ifkhor = {
-			color = { 187 19 249 }
-			color2 = { 198 7 183 }
+			color = { 170 20 221 }
+			color2 = { 229 95 129 }
 			
 			c_thara = {
-				color = { 189 36 191 }
-				color2 = { 176 74 137 }
+				color = { 183 12 133 }
+				color2 = { 180 47 169 }
 				
 				b_thara_castle = {}
 				b_thara_city = {}
@@ -894,8 +894,8 @@ e_thalamur = {
 				b_thara_castle_1 = {}
 			}
 			c_im_moran = {
-				color = { 162 43 130 }
-				color2 = { 214 92 195 }
+				color = { 147 83 143 }
+				color2 = { 132 77 214 }
 				
 				b_im_moran_castle = {}
 				b_im_moran_city = {}
@@ -903,8 +903,8 @@ e_thalamur = {
 				b_im_moran_castle_1 = {}
 			}
 			c_dharim = {
-				color = { 175 78 138 }
-				color2 = { 188 24 208 }
+				color = { 221 44 222 }
+				color2 = { 192 97 210 }
 				
 				b_dharim_castle = {}
 				b_dharim_city = {}
@@ -912,8 +912,8 @@ e_thalamur = {
 				b_dharim_castle_1 = {}
 			}
 			c_ifkhor = {
-				color = { 238 32 166 }
-				color2 = { 185 112 176 }
+				color = { 155 69 232 }
+				color2 = { 177 91 155 }
 				
 				b_ifkhor_castle = {}
 				b_ifkhor_city = {}
@@ -922,12 +922,12 @@ e_thalamur = {
 			}
 		}
 		d_dubaral = {
-			color = { 147 62 191 }
-			color2 = { 215 33 175 }
+			color = { 174 18 150 }
+			color2 = { 208 123 251 }
 			
 			c_sornost = {
-				color = { 4 159 92 }
-				color2 = { 71 180 30 }
+				color = { 62 231 92 }
+				color2 = { 69 217 99 }
 				
 				b_sornost_castle = {}
 				b_sornost_city = {}
@@ -935,8 +935,8 @@ e_thalamur = {
 				b_sornost_castle_1 = {}
 			}
 			c_ifdel = {
-				color = { 33 231 56 }
-				color2 = { 72 231 104 }
+				color = { 90 159 49 }
+				color2 = { 74 226 114 }
 				
 				b_ifdel_castle = {}
 				b_ifdel_city = {}
@@ -944,8 +944,8 @@ e_thalamur = {
 				b_ifdel_temple = {}
 			}
 			c_an_thalamur = {
-				color = { 84 221 68 }
-				color2 = { 38 136 70 }
+				color = { 28 238 1 }
+				color2 = { 108 149 65 }
 				
 				b_an_thalamur_castle = {}
 				b_an_thalamur_city = {}

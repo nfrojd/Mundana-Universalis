@@ -1,0 +1,6 @@
+1000.1.1 = {
+	liege="d_narzkar_falz"
+}
+2950.1.1 = {
+	holder=102700
+}

@@ -1,0 +1,985 @@
+k_asharien = {
+	color = { 111 131 203 }
+	color2 = { 248 148 166 }
+	
+	capital = 275
+	
+	religion = samori
+	culture = asharier
+	
+	d_asha = {
+		color = { 90 131 168 }
+		color2 = { 0 221 174 }
+		
+		c_dunvik = {
+			color = { 52 246 237 }
+			color2 = { 39 202 148 }
+			
+			b_dunvik_castle = {}
+		}
+		c_ralon = {
+			color = { 17 191 231 }
+			color2 = { 58 191 229 }
+			
+			b_ralon_castle = {}
+		}
+		c_salina = {
+			color = { 29 160 254 }
+			color2 = { 114 150 147 }
+			
+			b_salina_castle = {}
+		}
+	}
+	d_nimto = {
+		color = { 72 214 214 }
+		color2 = { 19 206 210 }
+		
+		c_miletta = {
+			color = { 122 199 254 }
+			color2 = { 52 235 145 }
+			
+			b_miletta_castle = {}
+		}
+		c_philias = {
+			color = { 109 247 151 }
+			color2 = { 69 162 157 }
+			
+			b_philias_castle = {}
+		}
+		c_nimto = {
+			color = { 68 137 186 }
+			color2 = { 37 166 134 }
+			
+			b_nimto_castle = {}
+		}
+	}
+	d_rahls_unbahr = {
+		color = { 32 229 166 }
+		color2 = { 50 176 143 }
+		
+		c_morelis = {
+			color = { 42 136 229 }
+			color2 = { 108 165 244 }
+			
+			b_morelis_castle = {}
+		}
+		c_sinna = {
+			color = { 33 224 181 }
+			color2 = { 83 250 159 }
+			
+			b_sinna_castle = {}
+		}
+		c_rahls_unbahr = {
+			color = { 52 162 251 }
+			color2 = { 56 175 195 }
+			
+			b_rahls_unbahr_castle = {}
+		}
+		c_hodunshus = {
+			color = { 14 229 152 }
+			color2 = { 70 166 219 }
+			
+			b_hodunshus_castle = {}
+		}
+	}
+	d_chadarian = {
+		color = { 66 254 178 }
+		color2 = { 99 159 226 }
+		
+		c_haledon = {
+			color = { 20 236 241 }
+			color2 = { 115 203 130 }
+			
+			b_haledon_castle = {}
+		}
+		c_chadarian = {
+			color = { 115 224 239 }
+			color2 = { 58 155 253 }
+			
+			b_chadarian_castle = {}
+		}
+		c_harnby = {
+			color = { 85 174 214 }
+			color2 = { 46 159 249 }
+			
+			b_harnby_castle = {}
+		}
+		c_colland = {
+			color = { 51 168 169 }
+			color2 = { 48 173 213 }
+			
+			b_colland_castle = {}
+		}
+		c_stormon = {
+			color = { 57 181 163 }
+			color2 = { 57 157 227 }
+			
+			b_stormon_castle = {}
+		}
+		c_jisselon = {
+			color = { 121 241 174 }
+			color2 = { 89 146 239 }
+			
+			b_jisselon_castle = {}
+		}
+		c_stenrake = {
+			color = { 106 136 150 }
+			color2 = { 36 246 241 }
+			
+			b_stenrake_castle = {}
+		}
+		c_maher = {
+			color = { 15 163 207 }
+			color2 = { 15 252 136 }
+			
+			b_maher_castle = {}
+		}
+	}
+	d_nada = {
+		color = { 44 228 248 }
+		color2 = { 40 164 174 }
+		
+		c_chelos = {
+			color = { 37 171 160 }
+			color2 = { 84 171 152 }
+			
+			b_chelos_castle = {}
+		}
+		c_sodra_nada = {
+			color = { 47 143 194 }
+			color2 = { 15 179 179 }
+			
+			b_sodra_nada_castle = {}
+		}
+		c_nada = {
+			color = { 81 157 151 }
+			color2 = { 10 178 206 }
+			
+			b_nada_castle = {}
+		}
+	}
+	d_daggbacken = {
+		color = { 41 204 139 }
+		color2 = { 113 238 216 }
+		
+		c_avantinen = {
+			color = { 107 244 172 }
+			color2 = { 114 191 170 }
+			
+			b_avantinen_castle = {}
+		}
+		c_daggbacken = {
+			color = { 84 177 204 }
+			color2 = { 64 148 140 }
+			
+			b_daggbacken_castle = {}
+		}
+		c_kallan = {
+			color = { 117 239 157 }
+			color2 = { 30 155 187 }
+			
+			b_kallan_castle = {}
+		}
+	}
+	d_cermira = {
+		color = { 43 153 210 }
+		color2 = { 24 143 154 }
+		
+		c_mitheras_kullar = {
+			color = { 71 235 128 }
+			color2 = { 96 128 241 }
+			
+			b_mitheras_kullar_castle = {}
+		}
+		c_cermiras_kronomark = {
+			color = { 77 156 131 }
+			color2 = { 32 182 253 }
+			
+			b_cermiras_kronomark_castle = {}
+		}
+		c_vitterdal = {
+			color = { 18 181 246 }
+			color2 = { 85 143 190 }
+			
+			b_vitterdal_castle = {}
+		}
+		c_tivar = {
+			color = { 0 155 233 }
+			color2 = { 28 249 130 }
+			
+			b_tivar_castle = {}
+		}
+		c_st_kira = {
+			color = { 44 191 163 }
+			color2 = { 84 224 237 }
+			
+			b_st_kira_castle = {}
+		}
+		c_sunnanmark = {
+			color = { 33 191 142 }
+			color2 = { 114 173 230 }
+			
+			b_sunnanmark_castle = {}
+		}
+	}
+	d_fala = {
+		color = { 98 176 179 }
+		color2 = { 7 228 145 }
+		
+		c_fala = {
+			color = { 115 209 242 }
+			color2 = { 36 128 199 }
+			
+			b_fala_castle = {}
+		}
+		c_ross = {
+			color = { 98 253 245 }
+			color2 = { 82 165 167 }
+			
+			b_ross_castle = {}
+		}
+		c_tukulle = {
+			color = { 110 235 206 }
+			color2 = { 72 134 190 }
+			
+			b_tukulle_castle = {}
+		}
+		c_harken = {
+			color = { 85 187 159 }
+			color2 = { 127 161 174 }
+			
+			b_harken_castle = {}
+		}
+	}
+	d_jarla = {
+		color = { 36 188 129 }
+		color2 = { 62 144 208 }
+		
+		c_foran_rim = {
+			color = { 23 176 130 }
+			color2 = { 94 210 182 }
+			
+			b_foran_rim_castle = {}
+		}
+		c_jarla = {
+			color = { 109 136 247 }
+			color2 = { 123 236 249 }
+			
+			b_jarla_castle = {}
+		}
+		c_vaderbrunn = {
+			color = { 47 254 238 }
+			color2 = { 93 196 188 }
+			
+			b_vaderbrunn_castle = {}
+		}
+	}
+	d_tuzan_rim = {
+		color = { 75 240 236 }
+		color2 = { 68 199 218 }
+		
+		c_tyldon = {
+			color = { 107 128 141 }
+			color2 = { 5 181 159 }
+			
+			b_tyldon_castle = {}
+		}
+		c_tuzan_rim = {
+			color = { 68 204 205 }
+			color2 = { 76 174 162 }
+			
+			b_tuzan_rim_castle = {}
+		}
+	}
+	d_lim_alan = {
+		color = { 37 231 251 }
+		color2 = { 7 208 130 }
+		
+		c_nannlond = {
+			color = { 97 201 159 }
+			color2 = { 20 172 206 }
+			
+			b_nannlond_castle = {}
+		}
+		c_lim_alan = {
+			color = { 59 141 156 }
+			color2 = { 18 251 146 }
+			
+			b_lim_alan_castle = {}
+		}
+	}
+	d_camard = {
+		color = { 89 166 136 }
+		color2 = { 95 202 174 }
+		
+		c_passelon = {
+			color = { 107 154 212 }
+			color2 = { 60 190 231 }
+			
+			b_passelon_castle = {}
+		}
+		c_suttung = {
+			color = { 75 241 182 }
+			color2 = { 20 196 254 }
+			
+			b_suttung_castle = {}
+		}
+		c_camard = {
+			color = { 115 151 235 }
+			color2 = { 78 208 140 }
+			
+			b_camard_castle = {}
+		}
+		c_nelons_torp = {
+			color = { 59 141 170 }
+			color2 = { 125 161 197 }
+			
+			b_nelons_torp_castle = {}
+		}
+		c_linbold = {
+			color = { 127 254 171 }
+			color2 = { 91 156 241 }
+			
+			b_linbold_castle = {}
+		}
+	}
+}
+k_damarien = {
+	color = { 38 55 131 }
+	color2 = { 228 234 198 }
+	
+	capital = 346
+	
+	religion = sabrian_daak
+	culture = damarier
+	
+	d_krylomar = {
+		color = { 20 239 240 }
+		color2 = { 40 204 249 }
+		
+		c_egentliga_krylomar = {
+			color = { 85 242 175 }
+			color2 = { 21 253 154 }
+			
+			b_egentliga_krylomar_castle = {}
+		}
+		c_talmark = {
+			color = { 21 248 238 }
+			color2 = { 21 200 183 }
+			
+			b_talmark_castle = {}
+		}
+		c_varnos = {
+			color = { 119 246 183 }
+			color2 = { 74 194 231 }
+			
+			b_varnos_castle = {}
+		}
+	}
+	d_deogotha = {
+		color = { 9 243 246 }
+		color2 = { 126 253 217 }
+		
+		c_carzimar = {
+			color = { 111 225 185 }
+			color2 = { 70 149 212 }
+			
+			b_carzimar_castle = {}
+		}
+		c_caulos = {
+			color = { 112 147 153 }
+			color2 = { 110 213 175 }
+			
+			b_caulos_castle = {}
+		}
+		c_dimmestrand = {
+			color = { 64 137 199 }
+			color2 = { 43 252 208 }
+			
+			b_dimmestrand_castle = {}
+		}
+	}
+	d_targatia = {
+		color = { 123 182 175 }
+		color2 = { 113 134 216 }
+		
+		c_gordogar = {
+			color = { 115 183 185 }
+			color2 = { 108 171 182 }
+			
+			b_gordogar_castle = {}
+		}
+		c_graborg = {
+			color = { 49 151 189 }
+			color2 = { 89 238 228 }
+			
+			b_graborg_castle = {}
+		}
+		c_tronmark = {
+			color = { 61 157 142 }
+			color2 = { 39 214 186 }
+			
+			b_tronmark_castle = {}
+		}
+		c_megadar = {
+			color = { 18 222 217 }
+			color2 = { 86 230 153 }
+			
+			b_megadar_castle = {}
+		}
+	}
+	d_hammarnaset = {
+		color = { 52 181 216 }
+		color2 = { 39 138 167 }
+		
+		c_kaplandet = {
+			color = { 66 163 128 }
+			color2 = { 23 243 217 }
+			
+			b_kaplandet_castle = {}
+		}
+		c_vakto = {
+			color = { 118 177 154 }
+			color2 = { 43 156 247 }
+			
+			b_vakto_castle = {}
+		}
+		c_duncarck = {
+			color = { 26 212 173 }
+			color2 = { 55 183 220 }
+			
+			b_duncarck_castle = {}
+		}
+		c_hammaroarna = {
+			color = { 23 243 130 }
+			color2 = { 14 226 219 }
+			
+			b_hammaroarna_castle = {}
+		}
+	}
+	d_porfyrien = {
+		color = { 17 153 159 }
+		color2 = { 13 239 139 }
+		
+		c_calemslan = {
+			color = { 53 202 182 }
+			color2 = { 66 208 213 }
+			
+			b_calemslan_castle = {}
+		}
+		c_mirron = {
+			color = { 8 140 218 }
+			color2 = { 48 163 140 }
+			
+			b_mirron_castle = {}
+		}
+		c_famiria = {
+			color = { 94 184 250 }
+			color2 = { 84 134 174 }
+			
+			b_famiria_castle = {}
+		}
+	}
+	d_lemira_infernus = {
+		color = { 108 166 138 }
+		color2 = { 43 202 167 }
+		
+		c_harvada = {
+			color = { 95 179 246 }
+			color2 = { 55 228 203 }
+			
+			b_harvada_castle = {}
+		}
+		c_culnar = {
+			color = { 53 237 166 }
+			color2 = { 30 193 172 }
+			
+			b_culnar_castle = {}
+		}
+		c_ateus = {
+			color = { 4 186 210 }
+			color2 = { 108 142 142 }
+			
+			b_ateus_castle = {}
+		}
+		c_merdakh = {
+			color = { 119 147 224 }
+			color2 = { 24 202 184 }
+			
+			b_merdakh_castle = {}
+		}
+	}
+}
+k_soldarn = {
+	color = { 238 92 64 }
+	color2 = { 189 238 189 }
+	
+	capital = 324
+	
+	religion = samori
+	culture = soldier
+	
+	d_jhamalo_tamatz = {
+		color = { 110 168 178 }
+		color2 = { 12 228 248 }
+		
+		c_wargborg = {
+			color = { 121 217 206 }
+			color2 = { 1 159 154 }
+			
+			b_wargborg_castle = {}
+		}
+		c_lundnas = {
+			color = { 52 158 250 }
+			color2 = { 43 183 172 }
+			
+			b_lundnas_castle = {}
+		}
+		c_torneskogen = {
+			color = { 6 128 134 }
+			color2 = { 94 135 217 }
+			
+			b_torneskogen_castle = {}
+		}
+		c_jhamalo_tamatz = {
+			color = { 8 222 212 }
+			color2 = { 85 172 240 }
+			
+			b_jhamalo_tamatz_castle = {}
+		}
+	}
+	d_kungsvik = {
+		color = { 13 200 141 }
+		color2 = { 58 241 188 }
+		
+		c_kungsvik = {
+			color = { 124 190 195 }
+			color2 = { 59 137 175 }
+			
+			b_kungsvik_castle = {}
+		}
+		c_borganas = {
+			color = { 102 193 195 }
+			color2 = { 8 212 167 }
+			
+			b_borganas_castle = {}
+		}
+		c_tallkusten = {
+			color = { 110 190 133 }
+			color2 = { 39 175 160 }
+			
+			b_tallkusten_castle = {}
+		}
+	}
+	d_hadarlons skogar = {
+		color = { 89 212 169 }
+		color2 = { 110 151 185 }
+		
+		c_gildeskog = {
+			color = { 87 246 156 }
+			color2 = { 80 128 142 }
+			
+			b_gildeskog_castle = {}
+		}
+		c_vastanskog = {
+			color = { 43 240 222 }
+			color2 = { 60 142 215 }
+			
+			b_vastanskog_castle = {}
+		}
+		c_gryningsskog = {
+			color = { 23 205 235 }
+			color2 = { 70 215 182 }
+			
+			b_gryningsskog_castle = {}
+		}
+	}
+	d_trollhems_berg = {
+		color = { 40 217 191 }
+		color2 = { 4 144 216 }
+		
+		c_trollhems_berg = {
+			color = { 16 142 236 }
+			color2 = { 33 215 172 }
+			
+			b_trollhems_berg_castle = {}
+		}
+		c_minuvielsmark = {
+			color = { 9 144 186 }
+			color2 = { 38 244 170 }
+			
+			b_minuvielsmark_castle = {}
+		}
+		c_backfors = {
+			color = { 54 191 231 }
+			color2 = { 30 245 207 }
+			
+			b_backfors_castle = {}
+		}
+	}
+	d_vasterbrygga = {
+		color = { 101 161 163 }
+		color2 = { 86 174 177 }
+		
+		c_bergsdalarna = {
+			color = { 24 160 175 }
+			color2 = { 114 201 168 }
+			
+			b_bergsdalarna_castle = {}
+		}
+		c_vanaland = {
+			color = { 111 210 239 }
+			color2 = { 24 154 186 }
+			
+			b_vanaland_castle = {}
+		}
+		c_vasterbrygga = {
+			color = { 64 195 149 }
+			color2 = { 78 136 166 }
+			
+			b_vasterbrygga_castle = {}
+		}
+	}
+	d_borons_angar = {
+		color = { 46 206 209 }
+		color2 = { 107 187 220 }
+		
+		c_wibbesmark = {
+			color = { 77 161 191 }
+			color2 = { 117 200 140 }
+			
+			b_wibbesmark_castle = {}
+		}
+		c_borons_angar = {
+			color = { 99 230 199 }
+			color2 = { 52 223 217 }
+			
+			b_borons_angar_castle = {}
+		}
+		c_hemingaland = {
+			color = { 95 156 205 }
+			color2 = { 109 201 132 }
+			
+			b_hemingaland_castle = {}
+		}
+		c_nordmark = {
+			color = { 77 194 174 }
+			color2 = { 82 141 209 }
+			
+			b_nordmark_castle = {}
+		}
+	}
+	d_katharsis = {
+		color = { 105 194 251 }
+		color2 = { 83 189 174 }
+		
+		c_kathar = {
+			color = { 72 182 233 }
+			color2 = { 56 159 182 }
+			
+			b_kathar_castle = {}
+		}
+		c_hamasland = {
+			color = { 13 158 201 }
+			color2 = { 63 227 238 }
+			
+			b_hamasland_castle = {}
+		}
+		c_fiskefors = {
+			color = { 13 230 155 }
+			color2 = { 113 144 249 }
+			
+			b_fiskefors_castle = {}
+		}
+	}
+	d_ostmark = {
+		color = { 96 128 203 }
+		color2 = { 9 134 211 }
+		
+		c_vorum = {
+			color = { 106 188 158 }
+			color2 = { 22 253 248 }
+			
+			b_vorum_castle = {}
+		}
+		c_skogsmark = {
+			color = { 15 142 204 }
+			color2 = { 73 226 165 }
+			
+			b_skogsmark_castle = {}
+		}
+		c_bjorna_berg = {
+			color = { 113 165 157 }
+			color2 = { 23 166 252 }
+			
+			b_bjorna_berg_castle = {}
+		}
+		c_ostmark = {
+			color = { 60 216 219 }
+			color2 = { 73 155 149 }
+			
+			b_ostmark_castle = {}
+		}
+		c_ostbrant = {
+			color = { 88 207 165 }
+			color2 = { 86 177 252 }
+			
+			b_ostbrant_castle = {}
+		}
+	}
+	d_daan_hammal = {
+		color = { 69 230 216 }
+		color2 = { 94 130 149 }
+		
+		c_daan_hammal = {
+			color = { 52 253 251 }
+			color2 = { 87 231 210 }
+			
+			b_daan_hammal_castle = {}
+		}
+		c_korndala = {
+			color = { 122 179 166 }
+			color2 = { 54 198 195 }
+			
+			b_korndala_castle = {}
+		}
+		c_gripnas = {
+			color = { 90 144 132 }
+			color2 = { 22 203 196 }
+			
+			b_gripnas_castle = {}
+		}
+		c_vitas = {
+			color = { 92 160 210 }
+			color2 = { 35 232 167 }
+			
+			b_vitas_castle = {}
+		}
+	}
+	d_solds_kronomark = {
+		color = { 127 218 146 }
+		color2 = { 85 230 213 }
+		
+		c_solds_kronomark = {
+			color = { 47 133 248 }
+			color2 = { 100 140 152 }
+			
+			b_solds_kronomark_castle = {}
+		}
+		c_ramsals_vila = {
+			color = { 10 142 135 }
+			color2 = { 91 179 155 }
+			
+			b_ramsals_vila_castle = {}
+		}
+		c_vinon = {
+			color = { 103 214 146 }
+			color2 = { 58 196 208 }
+			
+			b_vinon_castle = {}
+		}
+	}
+}
+k_drunok = {
+	color = { 107 151 189 }
+	color2 = { 56 13 38 }
+	
+	capital = 238
+	
+	religion = sabrian_daak
+	culture = drunokier
+	
+	d_val_pavane = {
+		color = { 107 130 231 }
+		color2 = { 32 246 248 }
+		
+		c_durum = {
+			color = { 35 154 214 }
+			color2 = { 114 202 212 }
+			
+			b_durum_castle = {}
+		}
+		c_talarra = {
+			color = { 90 181 207 }
+			color2 = { 77 132 202 }
+			
+			b_talarra_castle = {}
+		}
+		c_angird = {
+			color = { 107 141 204 }
+			color2 = { 73 135 220 }
+			
+			b_angird_castle = {}
+		}
+		c_iltariet = {
+			color = { 69 244 240 }
+			color2 = { 20 158 153 }
+			
+			b_iltariet_castle = {}
+		}
+	}
+	d_valo = {
+		color = { 63 185 252 }
+		color2 = { 12 175 225 }
+		
+		c_val_ordos = {
+			color = { 39 199 202 }
+			color2 = { 111 176 206 }
+			
+			b_val_ordos_castle = {}
+		}
+		c_nahira = {
+			color = { 125 176 186 }
+			color2 = { 41 145 168 }
+			
+			b_nahira_castle = {}
+		}
+		c_navar = {
+			color = { 55 152 209 }
+			color2 = { 43 191 213 }
+			
+			b_navar_castle = {}
+		}
+		c_valdus = {
+			color = { 39 218 142 }
+			color2 = { 68 170 191 }
+			
+			b_valdus_castle = {}
+		}
+	}
+	d_kintikla = {
+		color = { 124 212 234 }
+		color2 = { 42 154 170 }
+		
+		c_dimveden = {
+			color = { 84 156 175 }
+			color2 = { 57 133 143 }
+			
+			b_dimveden_castle = {}
+		}
+		c_rhonum = {
+			color = { 108 209 166 }
+			color2 = { 68 180 174 }
+			
+			b_rhonum_castle = {}
+		}
+		c_altona = {
+			color = { 100 229 245 }
+			color2 = { 73 167 150 }
+			
+			b_altona_castle = {}
+		}
+		c_lugdum = {
+			color = { 70 152 235 }
+			color2 = { 88 205 170 }
+			
+			b_lugdum_castle = {}
+		}
+	}
+	d_pavara = {
+		color = { 117 203 208 }
+		color2 = { 57 242 170 }
+		
+		c_ramdors_fallna_marker = {
+			color = { 6 190 246 }
+			color2 = { 72 164 131 }
+			
+			b_ramdors_fallna_marker_castle = {}
+		}
+		c_arlons_kronomark = {
+			color = { 49 178 225 }
+			color2 = { 122 217 169 }
+			
+			b_arlons_kronomark_castle = {}
+		}
+		c_val_timan_duandan = {
+			color = { 91 188 232 }
+			color2 = { 26 157 156 }
+			
+			b_val_timan_duandan_castle = {}
+		}
+	}
+}
+k_vastmark = {
+	color = { 162 102 39 }
+	color2 = { 140 243 27 }
+	
+	capital = 329
+	
+	religion = samori
+	culture = vastmarkare
+	
+	d_quilla = {
+		color = { 13 234 158 }
+		color2 = { 22 189 195 }
+		
+		c_quilla = {
+			color = { 58 157 137 }
+			color2 = { 103 151 199 }
+			
+			b_quilla_castle = {}
+		}
+	}
+	d_rampor = {
+		color = { 23 194 162 }
+		color2 = { 30 159 145 }
+		
+		c_rampor = {
+			color = { 12 194 196 }
+			color2 = { 56 129 219 }
+			
+			b_rampor_castle = {}
+		}
+		c_vazago = {
+			color = { 112 185 132 }
+			color2 = { 36 215 190 }
+			
+			b_vazago_castle = {}
+		}
+	}
+	d_forsfara = {
+		color = { 23 166 183 }
+		color2 = { 10 149 199 }
+		
+		c_sista_bryggan = {
+			color = { 70 192 176 }
+			color2 = { 50 197 186 }
+			
+			b_sista_bryggan_castle = {}
+		}
+		c_forsfara = {
+			color = { 122 172 216 }
+			color2 = { 11 155 135 }
+			
+			b_forsfara_castle = {}
+		}
+		c_haxkitteln = {
+			color = { 93 203 217 }
+			color2 = { 71 187 205 }
+			
+			b_haxkitteln_castle = {}
+		}
+	}
+	d_vastborg = {
+		color = { 10 156 149 }
+		color2 = { 79 153 233 }
+		
+		c_vastborg = {
+			color = { 125 183 205 }
+			color2 = { 108 174 184 }
+			
+			b_vastborg_castle = {}
+		}
+	}
+	d_ralkom = {
+		color = { 68 161 221 }
+		color2 = { 4 128 152 }
+		
+		c_ralkom = {
+			color = { 96 241 210 }
+			color2 = { 54 232 165 }
+			
+			b_ralkom_castle = {}
+		}
+	}
+}

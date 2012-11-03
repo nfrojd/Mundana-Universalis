@@ -1,0 +1,20 @@
+# Passelon
+
+# County Title
+title = c_passelon
+
+# Settlements
+max_settlements = 1
+
+b_passelon_castle = castle
+
+# Misc
+culture = asharier
+religion = samori
+
+
+# History
+1000.1.1 = {
+	b_passelon_castle = ca_keep_1
+	b_passelon_castle = ca_wall_1
+}
