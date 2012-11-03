@@ -1,0 +1,24 @@
+# Minarin
+
+# County Title
+title = c_minarin
+
+# Settlements
+max_settlements = 3
+
+b_minarin_castle = castle
+b_minarin_city = city
+b_minarin_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_minarin_castle = ca_keep_1
+	b_minarin_castle = ca_wall_1
+	b_minarin_city = ct_town_1
+	b_minarin_city = ct_wall_1
+}

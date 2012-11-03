@@ -1,0 +1,24 @@
+# Szara Daliz
+
+# County Title
+title = c_szara_daliz
+
+# Settlements
+max_settlements = 3
+
+b_szara_daliz_castle = castle
+b_szara_daliz_city = city
+b_szara_daliz_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_szara_daliz_castle = ca_keep_1
+	b_szara_daliz_castle = ca_wall_1
+	b_szara_daliz_city = ct_town_1
+	b_szara_daliz_city = ct_wall_1
+}

@@ -11,8 +11,8 @@ b_kiaz_city = city
 b_kiaz_temple = temple
 
 # Misc
-culture = ghor
-religion = vontar
+culture = frakk
+religion = mahktah
 
 
 # History

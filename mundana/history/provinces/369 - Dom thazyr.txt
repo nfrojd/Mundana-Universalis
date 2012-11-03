@@ -1,0 +1,24 @@
+# Dom Thazyr
+
+# County Title
+title = c_dom_thazyr
+
+# Settlements
+max_settlements = 3
+
+b_dom_thazyr_castle = castle
+b_dom_thazyr_city = city
+b_dom_thazyr_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_dom_thazyr_castle = ca_keep_1
+	b_dom_thazyr_castle = ca_wall_1
+	b_dom_thazyr_city = ct_town_1
+	b_dom_thazyr_city = ct_wall_1
+}

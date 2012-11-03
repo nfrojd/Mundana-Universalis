@@ -1,0 +1,24 @@
+# Alamis
+
+# County Title
+title = c_alamis
+
+# Settlements
+max_settlements = 3
+
+b_alamis_castle = castle
+b_alamis_city = city
+b_alamis_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_alamis_castle = ca_keep_1
+	b_alamis_castle = ca_wall_1
+	b_alamis_city = ct_town_1
+	b_alamis_city = ct_wall_1
+}

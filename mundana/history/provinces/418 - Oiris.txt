@@ -1,0 +1,24 @@
+# Oiris
+
+# County Title
+title = c_oiris
+
+# Settlements
+max_settlements = 3
+
+b_oiris_castle = castle
+b_oiris_city = city
+b_oiris_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_oiris_castle = ca_keep_1
+	b_oiris_castle = ca_wall_1
+	b_oiris_city = ct_town_1
+	b_oiris_city = ct_wall_1
+}

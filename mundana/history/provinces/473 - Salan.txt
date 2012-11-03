@@ -1,0 +1,24 @@
+# Salan
+
+# County Title
+title = c_salan
+
+# Settlements
+max_settlements = 3
+
+b_salan_castle = castle
+b_salan_city = city
+b_salan_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_salan_castle = ca_keep_1
+	b_salan_castle = ca_wall_1
+	b_salan_city = ct_town_1
+	b_salan_city = ct_wall_1
+}

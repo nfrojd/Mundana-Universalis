@@ -1,0 +1,24 @@
+# Lakhasia
+
+# County Title
+title = c_lakhasia
+
+# Settlements
+max_settlements = 3
+
+b_lakhasia_castle = castle
+b_lakhasia_city = city
+b_lakhasia_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_lakhasia_castle = ca_keep_1
+	b_lakhasia_castle = ca_wall_1
+	b_lakhasia_city = ct_town_1
+	b_lakhasia_city = ct_wall_1
+}

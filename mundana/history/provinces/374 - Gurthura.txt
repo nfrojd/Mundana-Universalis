@@ -1,0 +1,24 @@
+# Gurthûra
+
+# County Title
+title = c_gurthura
+
+# Settlements
+max_settlements = 3
+
+b_gurthura_castle = castle
+b_gurthura_city = city
+b_gurthura_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_gurthura_castle = ca_keep_1
+	b_gurthura_castle = ca_wall_1
+	b_gurthura_city = ct_town_1
+	b_gurthura_city = ct_wall_1
+}

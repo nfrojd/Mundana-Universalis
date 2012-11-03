@@ -1,0 +1,24 @@
+# Rehava
+
+# County Title
+title = c_rehava
+
+# Settlements
+max_settlements = 3
+
+b_rehava_castle = castle
+b_rehava_city = city
+b_rehava_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_rehava_castle = ca_keep_1
+	b_rehava_castle = ca_wall_1
+	b_rehava_city = ct_town_1
+	b_rehava_city = ct_wall_1
+}

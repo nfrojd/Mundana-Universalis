@@ -1,0 +1,24 @@
+# Absalon
+
+# County Title
+title = c_absalon
+
+# Settlements
+max_settlements = 3
+
+b_absalon_castle = castle
+b_absalon_city = city
+b_absalon_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_absalon_castle = ca_keep_1
+	b_absalon_castle = ca_wall_1
+	b_absalon_city = ct_town_1
+	b_absalon_city = ct_wall_1
+}

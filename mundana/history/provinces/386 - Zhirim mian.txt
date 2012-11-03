@@ -1,0 +1,24 @@
+# Zhirim Mian
+
+# County Title
+title = c_zhirim_mian
+
+# Settlements
+max_settlements = 3
+
+b_zhirim_mian_castle = castle
+b_zhirim_mian_city = city
+b_zhirim_mian_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_zhirim_mian_castle = ca_keep_1
+	b_zhirim_mian_castle = ca_wall_1
+	b_zhirim_mian_city = ct_town_1
+	b_zhirim_mian_city = ct_wall_1
+}

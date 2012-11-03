@@ -1,0 +1,24 @@
+# Kaith
+
+# County Title
+title = c_kaith
+
+# Settlements
+max_settlements = 3
+
+b_kaith_castle = castle
+b_kaith_city = city
+b_kaith_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_kaith_castle = ca_keep_1
+	b_kaith_castle = ca_wall_1
+	b_kaith_city = ct_town_1
+	b_kaith_city = ct_wall_1
+}

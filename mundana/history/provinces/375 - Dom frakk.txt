@@ -1,0 +1,24 @@
+# Dom Frakk
+
+# County Title
+title = c_dom_frakk
+
+# Settlements
+max_settlements = 3
+
+b_dom_frakk_castle = castle
+b_dom_frakk_city = city
+b_dom_frakk_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_dom_frakk_castle = ca_keep_1
+	b_dom_frakk_castle = ca_wall_1
+	b_dom_frakk_city = ct_town_1
+	b_dom_frakk_city = ct_wall_1
+}

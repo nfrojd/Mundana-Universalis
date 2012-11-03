@@ -1,0 +1,24 @@
+# Tzarmun Riskoz
+
+# County Title
+title = c_tzarmun_riskoz
+
+# Settlements
+max_settlements = 3
+
+b_tzarmun_riskoz_castle = castle
+b_tzarmun_riskoz_city = city
+b_tzarmun_riskoz_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_tzarmun_riskoz_castle = ca_keep_1
+	b_tzarmun_riskoz_castle = ca_wall_1
+	b_tzarmun_riskoz_city = ct_town_1
+	b_tzarmun_riskoz_city = ct_wall_1
+}

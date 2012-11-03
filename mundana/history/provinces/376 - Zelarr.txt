@@ -1,0 +1,24 @@
+# Zelarr
+
+# County Title
+title = c_zelarr
+
+# Settlements
+max_settlements = 3
+
+b_zelarr_castle = castle
+b_zelarr_city = city
+b_zelarr_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_zelarr_castle = ca_keep_1
+	b_zelarr_castle = ca_wall_1
+	b_zelarr_city = ct_town_1
+	b_zelarr_city = ct_wall_1
+}

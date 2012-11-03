@@ -8,16 +8,200 @@ k_kiaz = {
 	culture = ghor
 	
 	d_kiaz = {
-		color = { 79 206 249 }
-		color2 = { 66 132 244 }
+		color = { 123 212 213 }
+		color2 = { 41 205 156 }
 		
 		c_kiaz = {
-			color = { 111 178 252 }
-			color2 = { 89 129 231 }
+			color = { 67 164 232 }
+			color2 = { 62 128 204 }
 			
 			b_kiaz_castle = {}
 			b_kiaz_city = {}
 			b_kiaz_temple = {}
+		}
+	}
+}
+k_tarkas = {
+	color = { 9 186 134 }
+	color2 = { 5 128 150 }
+	
+	d_gnar_muur = {
+		color = { 33 200 229 }
+		color2 = { 98 225 137 }
+		
+		c_alna = {
+			color = { 55 160 162 }
+			color2 = { 49 249 215 }
+			
+			b_alna_castle = {}
+			b_alna_city = {}
+			b_alna_temple = {}
+		}
+		c_gnar_muur = {
+			color = { 74 214 171 }
+			color2 = { 84 201 198 }
+			
+			b_gnar_muur_castle = {}
+			b_gnar_muur_city = {}
+			b_gnar_muur_temple = {}
+		}
+		c_malgoarhens = {
+			color = { 37 218 228 }
+			color2 = { 118 149 137 }
+			
+			b_malgoarhens_castle = {}
+			b_malgoarhens_city = {}
+			b_malgoarhens_temple = {}
+		}
+	}
+}
+k_takalorr = {
+	color = { 77 187 203 }
+	color2 = { 20 209 191 }
+	
+	d_sodra_takalorr = {
+		color = { 17 171 165 }
+		color2 = { 56 179 224 }
+		
+		c_dom_thader = {
+			color = { 55 187 229 }
+			color2 = { 83 181 186 }
+			
+			b_dom_thader_castle = {}
+			b_dom_thader_city = {}
+			b_dom_thader_temple = {}
+		}
+		c_dom_frakk = {
+			color = { 25 150 163 }
+			color2 = { 65 144 159 }
+			
+			b_dom_frakk_castle = {}
+			b_dom_frakk_city = {}
+			b_dom_frakk_temple = {}
+		}
+		c_ezelarr = {
+			color = { 47 225 241 }
+			color2 = { 90 150 168 }
+			
+			b_ezelarr_castle = {}
+			b_ezelarr_city = {}
+			b_ezelarr_temple = {}
+		}
+		c_gurthura = {
+			color = { 50 174 192 }
+			color2 = { 94 143 159 }
+			
+			b_gurthura_castle = {}
+			b_gurthura_city = {}
+			b_gurthura_temple = {}
+		}
+	}
+	d_uraz = {
+		color = { 59 136 159 }
+		color2 = { 57 142 175 }
+		
+		c_zelarr = {
+			color = { 111 165 190 }
+			color2 = { 122 138 155 }
+			
+			b_zelarr_castle = {}
+			b_zelarr_city = {}
+			b_zelarr_temple = {}
+		}
+		c_norra_uraz = {
+			color = { 40 171 215 }
+			color2 = { 94 204 133 }
+			
+			b_norra_uraz_castle = {}
+			b_norra_uraz_city = {}
+			b_norra_uraz_temple = {}
+		}
+		c_sodra_uraz = {
+			color = { 33 236 130 }
+			color2 = { 79 173 137 }
+			
+			b_sodra_uraz_castle = {}
+			b_sodra_uraz_city = {}
+			b_sodra_uraz_temple = {}
+		}
+	}
+	d_vastra_takalorr = {
+		color = { 82 188 166 }
+		color2 = { 48 132 164 }
+		
+		c_dom_krotz = {
+			color = { 124 232 152 }
+			color2 = { 29 233 254 }
+			
+			b_dom_krotz_castle = {}
+			b_dom_krotz_city = {}
+			b_dom_krotz_temple = {}
+		}
+		c_dom_harzagu = {
+			color = { 43 141 209 }
+			color2 = { 116 133 195 }
+			
+			b_dom_harzagu_castle = {}
+			b_dom_harzagu_city = {}
+			b_dom_harzagu_temple = {}
+		}
+		c_dom_ezaar = {
+			color = { 93 131 214 }
+			color2 = { 111 181 167 }
+			
+			b_dom_ezaar_castle = {}
+			b_dom_ezaar_city = {}
+			b_dom_ezaar_temple = {}
+		}
+	}
+	d_tibanbukten = {
+		color = { 50 173 198 }
+		color2 = { 102 153 205 }
+		
+		c_dom_thazyr = {
+			color = { 95 176 184 }
+			color2 = { 83 140 180 }
+			
+			b_dom_thazyr_castle = {}
+			b_dom_thazyr_city = {}
+			b_dom_thazyr_temple = {}
+		}
+		c_kharlahura = {
+			color = { 0 224 135 }
+			color2 = { 11 193 132 }
+			
+			b_kharlahura_castle = {}
+			b_kharlahura_city = {}
+			b_kharlahura_temple = {}
+		}
+		c_tiban = {
+			color = { 45 217 211 }
+			color2 = { 1 222 169 }
+			
+			b_tiban_castle = {}
+			b_tiban_city = {}
+			b_tiban_temple = {}
+		}
+	}
+	d_kalarr = {
+		color = { 82 142 183 }
+		color2 = { 11 141 177 }
+		
+		c_dom_kazer = {
+			color = { 10 150 229 }
+			color2 = { 46 230 187 }
+			
+			b_dom_kazer_castle = {}
+			b_dom_kazer_city = {}
+			b_dom_kazer_temple = {}
+		}
+		c_kalarr = {
+			color = { 98 248 172 }
+			color2 = { 97 169 180 }
+			
+			b_kalarr_castle = {}
+			b_kalarr_city = {}
+			b_kalarr_temple = {}
 		}
 	}
 }

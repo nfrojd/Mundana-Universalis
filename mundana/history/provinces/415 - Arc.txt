@@ -1,0 +1,24 @@
+# Ar
+
+# County Title
+title = c_arc
+
+# Settlements
+max_settlements = 3
+
+b_arc_castle = castle
+b_arc_city = city
+b_arc_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_arc_castle = ca_keep_1
+	b_arc_castle = ca_wall_1
+	b_arc_city = ct_town_1
+	b_arc_city = ct_wall_1
+}

@@ -1,0 +1,24 @@
+# Sarason
+
+# County Title
+title = c_sarason
+
+# Settlements
+max_settlements = 3
+
+b_sarason_castle = castle
+b_sarason_city = city
+b_sarason_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_sarason_castle = ca_keep_1
+	b_sarason_castle = ca_wall_1
+	b_sarason_city = ct_town_1
+	b_sarason_city = ct_wall_1
+}

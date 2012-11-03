@@ -1,0 +1,24 @@
+# Tartan
+
+# County Title
+title = c_tartan
+
+# Settlements
+max_settlements = 3
+
+b_tartan_castle = castle
+b_tartan_city = city
+b_tartan_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_tartan_castle = ca_keep_1
+	b_tartan_castle = ca_wall_1
+	b_tartan_city = ct_town_1
+	b_tartan_city = ct_wall_1
+}

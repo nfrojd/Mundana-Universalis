@@ -1,0 +1,24 @@
+# Cirza Falz
+
+# County Title
+title = c_cirza_falz
+
+# Settlements
+max_settlements = 3
+
+b_cirza_falz_castle = castle
+b_cirza_falz_city = city
+b_cirza_falz_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_cirza_falz_castle = ca_keep_1
+	b_cirza_falz_castle = ca_wall_1
+	b_cirza_falz_city = ct_town_1
+	b_cirza_falz_city = ct_wall_1
+}

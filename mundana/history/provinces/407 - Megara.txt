@@ -1,0 +1,24 @@
+# Megara
+
+# County Title
+title = c_megara
+
+# Settlements
+max_settlements = 3
+
+b_megara_castle = castle
+b_megara_city = city
+b_megara_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_megara_castle = ca_keep_1
+	b_megara_castle = ca_wall_1
+	b_megara_city = ct_town_1
+	b_megara_city = ct_wall_1
+}

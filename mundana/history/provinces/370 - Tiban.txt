@@ -1,0 +1,24 @@
+# Tiban
+
+# County Title
+title = c_tiban
+
+# Settlements
+max_settlements = 3
+
+b_tiban_castle = castle
+b_tiban_city = city
+b_tiban_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_tiban_castle = ca_keep_1
+	b_tiban_castle = ca_wall_1
+	b_tiban_city = ct_town_1
+	b_tiban_city = ct_wall_1
+}

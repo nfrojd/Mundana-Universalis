@@ -1,0 +1,24 @@
+# Obscenitanes
+
+# County Title
+title = c_obscenitanes
+
+# Settlements
+max_settlements = 3
+
+b_obscenitanes_castle = castle
+b_obscenitanes_city = city
+b_obscenitanes_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_obscenitanes_castle = ca_keep_1
+	b_obscenitanes_castle = ca_wall_1
+	b_obscenitanes_city = ct_town_1
+	b_obscenitanes_city = ct_wall_1
+}

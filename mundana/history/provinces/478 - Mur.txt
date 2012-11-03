@@ -1,0 +1,24 @@
+# Mur
+
+# County Title
+title = c_mur
+
+# Settlements
+max_settlements = 3
+
+b_mur_castle = castle
+b_mur_city = city
+b_mur_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_mur_castle = ca_keep_1
+	b_mur_castle = ca_wall_1
+	b_mur_city = ct_town_1
+	b_mur_city = ct_wall_1
+}

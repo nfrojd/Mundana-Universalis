@@ -1,0 +1,24 @@
+# Jarum
+
+# County Title
+title = c_jarum
+
+# Settlements
+max_settlements = 3
+
+b_jarum_castle = castle
+b_jarum_city = city
+b_jarum_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_jarum_castle = ca_keep_1
+	b_jarum_castle = ca_wall_1
+	b_jarum_city = ct_town_1
+	b_jarum_city = ct_wall_1
+}

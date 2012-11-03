@@ -1315,393 +1315,393 @@ b_emori_temple;Emori temple;;;;;;;;;;;;;x
 b_vastra_sunari_castle;Västra Sunari;;;;;;;;;;;;;x
 b_vastra_sunari_city;Västra Sunari city;;;;;;;;;;;;;x
 b_vastra_sunari_temple;Västra Sunari temple;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
-;;;;;;;;;;;;;;x
+b_piratoarna_castle;Piratöarna castle;;;;;;;;;;;;;x
+b_piratoarna_city;Piratöarna city;;;;;;;;;;;;;x
+b_piratoarna_temple;Piratöarna temple;;;;;;;;;;;;;x
+b_dom_harzagu_castle;Dom Harzagu castle;;;;;;;;;;;;;x
+b_dom_harzagu_city;Dom Harzagu city;;;;;;;;;;;;;x
+b_dom_harzagu_temple;Dom Harzagu temple;;;;;;;;;;;;;x
+b_dom_krotz_castle;Dom Krotz castle;;;;;;;;;;;;;x
+b_dom_krotz_city;Dom Krotz city;;;;;;;;;;;;;x
+b_dom_krotz_temple;Dom Krotz temple;;;;;;;;;;;;;x
+b_dom_ezaar_castle;Dom Ezaar castle;;;;;;;;;;;;;x
+b_dom_ezaar_city;Dom Ezaar city;;;;;;;;;;;;;x
+b_dom_ezaar_temple;Dom Ezaar temple;;;;;;;;;;;;;x
+b_dom_thazyr_castle;Dom Thazyr castle;;;;;;;;;;;;;x
+b_dom_thazyr_city;Dom Thazyr city;;;;;;;;;;;;;x
+b_dom_thazyr_temple;Dom Thazyr temple;;;;;;;;;;;;;x
+b_tiban_castle;Tiban castle;;;;;;;;;;;;;x
+b_tiban_city;Tiban city;;;;;;;;;;;;;x
+b_tiban_temple;Tiban temple;;;;;;;;;;;;;x
+b_kharlahura_castle;Kharlahûra castle;;;;;;;;;;;;;x
+b_kharlahura_city;Kharlahûra city;;;;;;;;;;;;;x
+b_kharlahura_temple;Kharlahûra temple;;;;;;;;;;;;;x
+b_ezelarr_castle;Ezelarr castle;;;;;;;;;;;;;x
+b_ezelarr_city;Ezelarr city;;;;;;;;;;;;;x
+b_ezelarr_temple;Ezelarr temple;;;;;;;;;;;;;x
+b_dom_thader_castle;Dom Thader castle;;;;;;;;;;;;;x
+b_dom_thader_city;Dom Thader city;;;;;;;;;;;;;x
+b_dom_thader_temple;Dom Thader temple;;;;;;;;;;;;;x
+b_gurthura_castle;Gurthûra castle;;;;;;;;;;;;;x
+b_gurthura_city;Gurthûra city;;;;;;;;;;;;;x
+b_gurthura_temple;Gurthûra temple;;;;;;;;;;;;;x
+b_dom_frakk_castle;Dom Frakk castle;;;;;;;;;;;;;x
+b_dom_frakk_city;Dom Frakk city;;;;;;;;;;;;;x
+b_dom_frakk_temple;Dom Frakk temple;;;;;;;;;;;;;x
+b_zelarr_castle;Zelarr castle;;;;;;;;;;;;;x
+b_zelarr_city;Zelarr city;;;;;;;;;;;;;x
+b_zelarr_temple;Zelarr temple;;;;;;;;;;;;;x
+b_norra_uraz_castle;Norra Uraz castle;;;;;;;;;;;;;x
+b_norra_uraz_city;Norra Uraz city;;;;;;;;;;;;;x
+b_norra_uraz_temple;Norra Uraz temple;;;;;;;;;;;;;x
+b_sodra_uraz_castle;Södra Uraz castle;;;;;;;;;;;;;x
+b_sodra_uraz_city;Södra Uraz city;;;;;;;;;;;;;x
+b_sodra_uraz_temple;Södra Uraz temple;;;;;;;;;;;;;x
+b_kalarr_castle;Kalarr castle;;;;;;;;;;;;;x
+b_kalarr_city;Kalarr city;;;;;;;;;;;;;x
+b_kalarr_temple;Kalarr temple;;;;;;;;;;;;;x
+b_dom_kazer_castle;Dom Kazer castle;;;;;;;;;;;;;x
+b_dom_kazer_city;Dom Kazer city;;;;;;;;;;;;;x
+b_dom_kazer_temple;Dom Kazer temple;;;;;;;;;;;;;x
+b_dzara_pomian_castle;Dzara Pomian castle;;;;;;;;;;;;;x
+b_dzara_pomian_city;Dzara Pomian city;;;;;;;;;;;;;x
+b_dzara_pomian_temple;Dzara Pomian temple;;;;;;;;;;;;;x
+b_cirza_falz_castle;Cirza Falz castle;;;;;;;;;;;;;x
+b_cirza_falz_city;Cirza Falz city;;;;;;;;;;;;;x
+b_cirza_falz_temple;Cirza Falz temple;;;;;;;;;;;;;x
+b_bzadaliz_castle;Bzadaliz castle;;;;;;;;;;;;;x
+b_bzadaliz_city;Bzadaliz city;;;;;;;;;;;;;x
+b_bzadaliz_temple;Bzadaliz temple;;;;;;;;;;;;;x
+b_minarin_castle;Minarin castle;;;;;;;;;;;;;x
+b_minarin_city;Minarin city;;;;;;;;;;;;;x
+b_minarin_temple;Minarin temple;;;;;;;;;;;;;x
+b_kzamin_castle;Kzamin castle;;;;;;;;;;;;;x
+b_kzamin_city;Kzamin city;;;;;;;;;;;;;x
+b_kzamin_temple;Kzamin temple;;;;;;;;;;;;;x
+b_zhirim_mian_castle;Zhirim Mian castle;;;;;;;;;;;;;x
+b_zhirim_mian_city;Zhirim Mian city;;;;;;;;;;;;;x
+b_zhirim_mian_temple;Zhirim Mian temple;;;;;;;;;;;;;x
+b_emriaz_castle;Emriaz castle;;;;;;;;;;;;;x
+b_emriaz_city;Emriaz city;;;;;;;;;;;;;x
+b_emriaz_temple;Emriaz temple;;;;;;;;;;;;;x
+b_nahrzmel_castle;Nahrzmel castle;;;;;;;;;;;;;x
+b_nahrzmel_city;Nahrzmel city;;;;;;;;;;;;;x
+b_nahrzmel_temple;Nahrzmel temple;;;;;;;;;;;;;x
+b_szara_daliz_castle;Szara Daliz castle;;;;;;;;;;;;;x
+b_szara_daliz_city;Szara Daliz city;;;;;;;;;;;;;x
+b_szara_daliz_temple;Szara Daliz temple;;;;;;;;;;;;;x
+b_ciremelo_castle;Ciremelo castle;;;;;;;;;;;;;x
+b_ciremelo_city;Ciremelo city;;;;;;;;;;;;;x
+b_ciremelo_temple;Ciremelo temple;;;;;;;;;;;;;x
+b_remrin_castle;Remrin castle;;;;;;;;;;;;;x
+b_remrin_city;Remrin city;;;;;;;;;;;;;x
+b_remrin_temple;Remrin temple;;;;;;;;;;;;;x
+b_tzarmun_riskoz_castle;Tzarmun Riskoz castle;;;;;;;;;;;;;x
+b_tzarmun_riskoz_city;Tzarmun Riskoz city;;;;;;;;;;;;;x
+b_tzarmun_riskoz_temple;Tzarmun Riskoz temple;;;;;;;;;;;;;x
+b_ciredaliz_castle;Ciredaliz castle;;;;;;;;;;;;;x
+b_ciredaliz_city;Ciredaliz city;;;;;;;;;;;;;x
+b_ciredaliz_temple;Ciredaliz temple;;;;;;;;;;;;;x
+b_lemirion_castle;Lemirion castle;;;;;;;;;;;;;x
+b_lemirion_city;Lemirion city;;;;;;;;;;;;;x
+b_lemirion_temple;Lemirion temple;;;;;;;;;;;;;x
+b_beren_castle;Beren castle;;;;;;;;;;;;;x
+b_beren_city;Beren city;;;;;;;;;;;;;x
+b_beren_temple;Beren temple;;;;;;;;;;;;;x
+b_raal_castle;Raal castle;;;;;;;;;;;;;x
+b_raal_city;Raal city;;;;;;;;;;;;;x
+b_raal_temple;Raal temple;;;;;;;;;;;;;x
+b_rehava_castle;Rehava castle;;;;;;;;;;;;;x
+b_rehava_city;Rehava city;;;;;;;;;;;;;x
+b_rehava_temple;Rehava temple;;;;;;;;;;;;;x
+b_dram_castle;Dram castle;;;;;;;;;;;;;x
+b_dram_city;Dram city;;;;;;;;;;;;;x
+b_dram_temple;Dram temple;;;;;;;;;;;;;x
+b_maazen_castle;Maazen castle;;;;;;;;;;;;;x
+b_maazen_city;Maazen city;;;;;;;;;;;;;x
+b_maazen_temple;Maazen temple;;;;;;;;;;;;;x
+b_cadarenes_castle;Cadarënes castle;;;;;;;;;;;;;x
+b_cadarenes_city;Cadarënes city;;;;;;;;;;;;;x
+b_cadarenes_temple;Cadarënes temple;;;;;;;;;;;;;x
+b_amra_castle;Amra castle;;;;;;;;;;;;;x
+b_amra_city;Amra city;;;;;;;;;;;;;x
+b_amra_temple;Amra temple;;;;;;;;;;;;;x
+b_calus_castle;Calus castle;;;;;;;;;;;;;x
+b_calus_city;Calus city;;;;;;;;;;;;;x
+b_calus_temple;Calus temple;;;;;;;;;;;;;x
+b_jukon_castle;Jukon castle;;;;;;;;;;;;;x
+b_jukon_city;Jukon city;;;;;;;;;;;;;x
+b_jukon_temple;Jukon temple;;;;;;;;;;;;;x
+b_vira_castle;Vira castle;;;;;;;;;;;;;x
+b_vira_city;Vira city;;;;;;;;;;;;;x
+b_vira_temple;Vira temple;;;;;;;;;;;;;x
+b_obscenitanes_castle;Obscenitanes castle;;;;;;;;;;;;;x
+b_obscenitanes_city;Obscenitanes city;;;;;;;;;;;;;x
+b_obscenitanes_temple;Obscenitanes temple;;;;;;;;;;;;;x
+b_anarios_castle;Anarios castle;;;;;;;;;;;;;x
+b_anarios_city;Anarios city;;;;;;;;;;;;;x
+b_anarios_temple;Anarios temple;;;;;;;;;;;;;x
+b_megara_castle;Megara castle;;;;;;;;;;;;;x
+b_megara_city;Megara city;;;;;;;;;;;;;x
+b_megara_temple;Megara temple;;;;;;;;;;;;;x
+b_perineus_castle;Perineus castle;;;;;;;;;;;;;x
+b_perineus_city;Perineus city;;;;;;;;;;;;;x
+b_perineus_temple;Perineus temple;;;;;;;;;;;;;x
+b_lagath_castle;Lagath castle;;;;;;;;;;;;;x
+b_lagath_city;Lagath city;;;;;;;;;;;;;x
+b_lagath_temple;Lagath temple;;;;;;;;;;;;;x
+b_agadir_castle;Agadir castle;;;;;;;;;;;;;x
+b_agadir_city;Agadir city;;;;;;;;;;;;;x
+b_agadir_temple;Agadir temple;;;;;;;;;;;;;x
+b_cenes_castle;Cenes castle;;;;;;;;;;;;;x
+b_cenes_city;Cenes city;;;;;;;;;;;;;x
+b_cenes_temple;Cenes temple;;;;;;;;;;;;;x
+b_morus_castle;Morus castle;;;;;;;;;;;;;x
+b_morus_city;Morus city;;;;;;;;;;;;;x
+b_morus_temple;Morus temple;;;;;;;;;;;;;x
+b_corell_castle;Corell castle;;;;;;;;;;;;;x
+b_corell_city;Corell city;;;;;;;;;;;;;x
+b_corell_temple;Corell temple;;;;;;;;;;;;;x
+b_arconos_castle;Arconos castle;;;;;;;;;;;;;x
+b_arconos_city;Arconos city;;;;;;;;;;;;;x
+b_arconos_temple;Arconos temple;;;;;;;;;;;;;x
+b_arc_castle;Arc castle;;;;;;;;;;;;;x
+b_arc_city;Arc city;;;;;;;;;;;;;x
+b_arc_temple;Arc temple;;;;;;;;;;;;;x
+b_daval_castle;Daval castle;;;;;;;;;;;;;x
+b_daval_city;Daval city;;;;;;;;;;;;;x
+b_daval_temple;Daval temple;;;;;;;;;;;;;x
+b_acoti_castle;Acoti castle;;;;;;;;;;;;;x
+b_acoti_city;Acoti city;;;;;;;;;;;;;x
+b_acoti_temple;Acoti temple;;;;;;;;;;;;;x
+b_oiris_castle;Oiris castle;;;;;;;;;;;;;x
+b_oiris_city;Oiris city;;;;;;;;;;;;;x
+b_oiris_temple;Oiris temple;;;;;;;;;;;;;x
+b_coloarkan_castle;Coloarkan castle;;;;;;;;;;;;;x
+b_coloarkan_city;Coloarkan city;;;;;;;;;;;;;x
+b_coloarkan_temple;Coloarkan temple;;;;;;;;;;;;;x
+b_periman_castle;Periman castle;;;;;;;;;;;;;x
+b_periman_city;Periman city;;;;;;;;;;;;;x
+b_periman_temple;Periman temple;;;;;;;;;;;;;x
+b_hamath_castle;Hamath castle;;;;;;;;;;;;;x
+b_hamath_city;Hamath city;;;;;;;;;;;;;x
+b_hamath_temple;Hamath temple;;;;;;;;;;;;;x
+b_tugres_castle;Tugres castle;;;;;;;;;;;;;x
+b_tugres_city;Tugres city;;;;;;;;;;;;;x
+b_tugres_temple;Tugres temple;;;;;;;;;;;;;x
+b_carik_castle;Carik castle;;;;;;;;;;;;;x
+b_carik_city;Carik city;;;;;;;;;;;;;x
+b_carik_temple;Carik temple;;;;;;;;;;;;;x
+b_tartan_castle;Tartan castle;;;;;;;;;;;;;x
+b_tartan_city;Tartan city;;;;;;;;;;;;;x
+b_tartan_temple;Tartan temple;;;;;;;;;;;;;x
+b_leo_castle;Leo castle;;;;;;;;;;;;;x
+b_leo_city;Leo city;;;;;;;;;;;;;x
+b_leo_temple;Leo temple;;;;;;;;;;;;;x
+b_primala_castle;Primala castle;;;;;;;;;;;;;x
+b_primala_city;Primala city;;;;;;;;;;;;;x
+b_primala_temple;Primala temple;;;;;;;;;;;;;x
+b_ralborion_castle;Ralborion castle;;;;;;;;;;;;;x
+b_ralborion_city;Ralborion city;;;;;;;;;;;;;x
+b_ralborion_temple;Ralborion temple;;;;;;;;;;;;;x
+b_gila_castle;Gila castle;;;;;;;;;;;;;x
+b_gila_city;Gila city;;;;;;;;;;;;;x
+b_gila_temple;Gila temple;;;;;;;;;;;;;x
+b_erat_castle;Erat castle;;;;;;;;;;;;;x
+b_erat_city;Erat city;;;;;;;;;;;;;x
+b_erat_temple;Erat temple;;;;;;;;;;;;;x
+b_yorasini_castle;Yorasini castle;;;;;;;;;;;;;x
+b_yorasini_city;Yorasini city;;;;;;;;;;;;;x
+b_yorasini_temple;Yorasini temple;;;;;;;;;;;;;x
+b_turimand_castle;Turimand castle;;;;;;;;;;;;;x
+b_turimand_city;Turimand city;;;;;;;;;;;;;x
+b_turimand_temple;Turimand temple;;;;;;;;;;;;;x
+b_erafalan_castle;Erafalan castle;;;;;;;;;;;;;x
+b_erafalan_city;Erafalan city;;;;;;;;;;;;;x
+b_erafalan_temple;Erafalan temple;;;;;;;;;;;;;x
+b_aiaon_castle;Aiaon castle;;;;;;;;;;;;;x
+b_aiaon_city;Aiaon city;;;;;;;;;;;;;x
+b_aiaon_temple;Aiaon temple;;;;;;;;;;;;;x
+b_athor_castle;Athor castle;;;;;;;;;;;;;x
+b_athor_city;Athor city;;;;;;;;;;;;;x
+b_athor_temple;Athor temple;;;;;;;;;;;;;x
+b_rher_castle;Rher castle;;;;;;;;;;;;;x
+b_rher_city;Rher city;;;;;;;;;;;;;x
+b_rher_temple;Rher temple;;;;;;;;;;;;;x
+b_sor_castle;Sor castle;;;;;;;;;;;;;x
+b_sor_city;Sor city;;;;;;;;;;;;;x
+b_sor_temple;Sor temple;;;;;;;;;;;;;x
+b_kaith_castle;Kaith castle;;;;;;;;;;;;;x
+b_kaith_city;Kaith city;;;;;;;;;;;;;x
+b_kaith_temple;Kaith temple;;;;;;;;;;;;;x
+b_thara_castle;Thara castle;;;;;;;;;;;;;x
+b_thara_city;Thara city;;;;;;;;;;;;;x
+b_thara_temple;Thara temple;;;;;;;;;;;;;x
+b_zorlakh_castle;Zorlakh castle;;;;;;;;;;;;;x
+b_zorlakh_city;Zorlakh city;;;;;;;;;;;;;x
+b_zorlakh_temple;Zorlakh temple;;;;;;;;;;;;;x
+b_irian_castle;Irian castle;;;;;;;;;;;;;x
+b_irian_city;Irian city;;;;;;;;;;;;;x
+b_irian_temple;Irian temple;;;;;;;;;;;;;x
+b_giana_castle;Giana castle;;;;;;;;;;;;;x
+b_giana_city;Giana city;;;;;;;;;;;;;x
+b_giana_temple;Giana temple;;;;;;;;;;;;;x
+b_azoni_castle;Azoni castle;;;;;;;;;;;;;x
+b_azoni_city;Azoni city;;;;;;;;;;;;;x
+b_azoni_temple;Azoni temple;;;;;;;;;;;;;x
+b_randarro_castle;Randarro castle;;;;;;;;;;;;;x
+b_randarro_city;Randarro city;;;;;;;;;;;;;x
+b_randarro_temple;Randarro temple;;;;;;;;;;;;;x
+b_tarmond_castle;Tarmond castle;;;;;;;;;;;;;x
+b_tarmond_city;Tarmond city;;;;;;;;;;;;;x
+b_tarmond_temple;Tarmond temple;;;;;;;;;;;;;x
+b_arbido_castle;Arbido castle;;;;;;;;;;;;;x
+b_arbido_city;Arbido city;;;;;;;;;;;;;x
+b_arbido_temple;Arbido temple;;;;;;;;;;;;;x
+b_monastos_castle;Monastos castle;;;;;;;;;;;;;x
+b_monastos_city;Monastos city;;;;;;;;;;;;;x
+b_monastos_temple;Monastos temple;;;;;;;;;;;;;x
+b_tibara_castle;Tibara castle;;;;;;;;;;;;;x
+b_tibara_city;Tibara city;;;;;;;;;;;;;x
+b_tibara_temple;Tibara temple;;;;;;;;;;;;;x
+b_arkiz_castle;Arkiz castle;;;;;;;;;;;;;x
+b_arkiz_city;Arkiz city;;;;;;;;;;;;;x
+b_arkiz_temple;Arkiz temple;;;;;;;;;;;;;x
+b_nizam_castle;Nizam castle;;;;;;;;;;;;;x
+b_nizam_city;Nizam city;;;;;;;;;;;;;x
+b_nizam_temple;Nizam temple;;;;;;;;;;;;;x
+b_quarran_castle;Quarran castle;;;;;;;;;;;;;x
+b_quarran_city;Quarran city;;;;;;;;;;;;;x
+b_quarran_temple;Quarran temple;;;;;;;;;;;;;x
+b_binkh_castle;Binkh castle;;;;;;;;;;;;;x
+b_binkh_city;Binkh city;;;;;;;;;;;;;x
+b_binkh_temple;Binkh temple;;;;;;;;;;;;;x
+b_sarason_castle;Sarason castle;;;;;;;;;;;;;x
+b_sarason_city;Sarason city;;;;;;;;;;;;;x
+b_sarason_temple;Sarason temple;;;;;;;;;;;;;x
+b_selenens_castle;Selenëns castle;;;;;;;;;;;;;x
+b_selenens_city;Selenëns city;;;;;;;;;;;;;x
+b_selenens_temple;Selenëns temple;;;;;;;;;;;;;x
+b_larason_castle;Larason castle;;;;;;;;;;;;;x
+b_larason_city;Larason city;;;;;;;;;;;;;x
+b_larason_temple;Larason temple;;;;;;;;;;;;;x
+b_ghalenthu_castle;Ghalenthu castle;;;;;;;;;;;;;x
+b_ghalenthu_city;Ghalenthu city;;;;;;;;;;;;;x
+b_ghalenthu_temple;Ghalenthu temple;;;;;;;;;;;;;x
+b_lakhasia_castle;Lakhasia castle;;;;;;;;;;;;;x
+b_lakhasia_city;Lakhasia city;;;;;;;;;;;;;x
+b_lakhasia_temple;Lakhasia temple;;;;;;;;;;;;;x
+b_urath_castle;Urath castle;;;;;;;;;;;;;x
+b_urath_city;Urath city;;;;;;;;;;;;;x
+b_urath_temple;Urath temple;;;;;;;;;;;;;x
+b_khoi_castle;Khoi castle;;;;;;;;;;;;;x
+b_khoi_city;Khoi city;;;;;;;;;;;;;x
+b_khoi_temple;Khoi temple;;;;;;;;;;;;;x
+b_variso_castle;Variso castle;;;;;;;;;;;;;x
+b_variso_city;Variso city;;;;;;;;;;;;;x
+b_variso_temple;Variso temple;;;;;;;;;;;;;x
+b_bolos_castle;Bolos castle;;;;;;;;;;;;;x
+b_bolos_city;Bolos city;;;;;;;;;;;;;x
+b_bolos_temple;Bolos temple;;;;;;;;;;;;;x
+b_pelu_ka_omo_castle;Pelu-ka Omo castle;;;;;;;;;;;;;x
+b_pelu_ka_omo_city;Pelu-ka Omo city;;;;;;;;;;;;;x
+b_pelu_ka_omo_temple;Pelu-ka Omo temple;;;;;;;;;;;;;x
+b_acheronus_castle;Acheronus castle;;;;;;;;;;;;;x
+b_acheronus_city;Acheronus city;;;;;;;;;;;;;x
+b_acheronus_temple;Acheronus temple;;;;;;;;;;;;;x
+b_doralom_castle;Doralom castle;;;;;;;;;;;;;x
+b_doralom_city;Doralom city;;;;;;;;;;;;;x
+b_doralom_temple;Doralom temple;;;;;;;;;;;;;x
+b_lamur_castle;Lamur castle;;;;;;;;;;;;;x
+b_lamur_city;Lamur city;;;;;;;;;;;;;x
+b_lamur_temple;Lamur temple;;;;;;;;;;;;;x
+b_tiber_castle;Tiber castle;;;;;;;;;;;;;x
+b_tiber_city;Tiber city;;;;;;;;;;;;;x
+b_tiber_temple;Tiber temple;;;;;;;;;;;;;x
+b_rithera_castle;Rithera castle;;;;;;;;;;;;;x
+b_rithera_city;Rithera city;;;;;;;;;;;;;x
+b_rithera_temple;Rithera temple;;;;;;;;;;;;;x
+b_orno_castle;Orno castle;;;;;;;;;;;;;x
+b_orno_city;Orno city;;;;;;;;;;;;;x
+b_orno_temple;Orno temple;;;;;;;;;;;;;x
+b_taman_har_castle;Taman Har castle;;;;;;;;;;;;;x
+b_taman_har_city;Taman Har city;;;;;;;;;;;;;x
+b_taman_har_temple;Taman Har temple;;;;;;;;;;;;;x
+b_sabesta_castle;Sabesta castle;;;;;;;;;;;;;x
+b_sabesta_city;Sabesta city;;;;;;;;;;;;;x
+b_sabesta_temple;Sabesta temple;;;;;;;;;;;;;x
+b_trios_castle;Trios castle;;;;;;;;;;;;;x
+b_trios_city;Trios city;;;;;;;;;;;;;x
+b_trios_temple;Trios temple;;;;;;;;;;;;;x
+b_chora_castle;Chora castle;;;;;;;;;;;;;x
+b_chora_city;Chora city;;;;;;;;;;;;;x
+b_chora_temple;Chora temple;;;;;;;;;;;;;x
+b_egia_castle;Egia castle;;;;;;;;;;;;;x
+b_egia_city;Egia city;;;;;;;;;;;;;x
+b_egia_temple;Egia temple;;;;;;;;;;;;;x
+b_salan_castle;Salan castle;;;;;;;;;;;;;x
+b_salan_city;Salan city;;;;;;;;;;;;;x
+b_salan_temple;Salan temple;;;;;;;;;;;;;x
+b_szal_dorian_castle;Szal Dorian castle;;;;;;;;;;;;;x
+b_szal_dorian_city;Szal Dorian city;;;;;;;;;;;;;x
+b_szal_dorian_temple;Szal Dorian temple;;;;;;;;;;;;;x
+b_falano_castle;Falano castle;;;;;;;;;;;;;x
+b_falano_city;Falano city;;;;;;;;;;;;;x
+b_falano_temple;Falano temple;;;;;;;;;;;;;x
+b_alna_castle;Alna castle;;;;;;;;;;;;;x
+b_alna_city;Alna city;;;;;;;;;;;;;x
+b_alna_temple;Alna temple;;;;;;;;;;;;;x
+b_gnar_muur_castle;Gnar-Muur castle;;;;;;;;;;;;;x
+b_gnar_muur_city;Gnar-Muur city;;;;;;;;;;;;;x
+b_gnar_muur_temple;Gnar-Muur temple;;;;;;;;;;;;;x
+b_mur_castle;Mur castle;;;;;;;;;;;;;x
+b_mur_city;Mur city;;;;;;;;;;;;;x
+b_mur_temple;Mur temple;;;;;;;;;;;;;x
+b_malgoarhens_castle;Malgoarhëns castle;;;;;;;;;;;;;x
+b_malgoarhens_city;Malgoarhëns city;;;;;;;;;;;;;x
+b_malgoarhens_temple;Malgoarhëns temple;;;;;;;;;;;;;x
+b_savias_castle;Savias castle;;;;;;;;;;;;;x
+b_savias_city;Savias city;;;;;;;;;;;;;x
+b_savias_temple;Savias temple;;;;;;;;;;;;;x
+b_absalon_castle;Absalon castle;;;;;;;;;;;;;x
+b_absalon_city;Absalon city;;;;;;;;;;;;;x
+b_absalon_temple;Absalon temple;;;;;;;;;;;;;x
+b_jarum_castle;Jarum castle;;;;;;;;;;;;;x
+b_jarum_city;Jarum city;;;;;;;;;;;;;x
+b_jarum_temple;Jarum temple;;;;;;;;;;;;;x
+b_alamis_castle;Alamis castle;;;;;;;;;;;;;x
+b_alamis_city;Alamis city;;;;;;;;;;;;;x
+b_alamis_temple;Alamis temple;;;;;;;;;;;;;x
+b_altarios_castle;Altarios castle;;;;;;;;;;;;;x
+b_altarios_city;Altarios city;;;;;;;;;;;;;x
+b_altarios_temple;Altarios temple;;;;;;;;;;;;;x
+b_talgon_castle;Talgon castle;;;;;;;;;;;;;x
+b_talgon_city;Talgon city;;;;;;;;;;;;;x
+b_talgon_temple;Talgon temple;;;;;;;;;;;;;x
+b_corsis_castle;Corsis castle;;;;;;;;;;;;;x
+b_corsis_city;Corsis city;;;;;;;;;;;;;x
+b_corsis_temple;Corsis temple;;;;;;;;;;;;;x
+b_davos_castle;Davos castle;;;;;;;;;;;;;x
+b_davos_city;Davos city;;;;;;;;;;;;;x
+b_davos_temple;Davos temple;;;;;;;;;;;;;x
+b_itesa_castle;Itesa castle;;;;;;;;;;;;;x
+b_itesa_city;Itesa city;;;;;;;;;;;;;x
+b_itesa_temple;Itesa temple;;;;;;;;;;;;;x
+b_kelamith_castle;Kelamith castle;;;;;;;;;;;;;x
+b_kelamith_city;Kelamith city;;;;;;;;;;;;;x
+b_kelamith_temple;Kelamith temple;;;;;;;;;;;;;x
+b_achiman_castle;Achiman castle;;;;;;;;;;;;;x
+b_achiman_city;Achiman city;;;;;;;;;;;;;x
+b_achiman_temple;Achiman temple;;;;;;;;;;;;;x
+b_chan_castle;Chan castle;;;;;;;;;;;;;x
+b_chan_city;Chan city;;;;;;;;;;;;;x
+b_chan_temple;Chan temple;;;;;;;;;;;;;x
+b_kuman_castle;Kuman castle;;;;;;;;;;;;;x
+b_kuman_city;Kuman city;;;;;;;;;;;;;x
+b_kuman_temple;Kuman temple;;;;;;;;;;;;;x
+b_xanto_castle;Xanto castle;;;;;;;;;;;;;x
+b_xanto_city;Xanto city;;;;;;;;;;;;;x
+b_xanto_temple;Xanto temple;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

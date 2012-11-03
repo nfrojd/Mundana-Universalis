@@ -1,0 +1,24 @@
+# Kuman
+
+# County Title
+title = c_kuman
+
+# Settlements
+max_settlements = 3
+
+b_kuman_castle = castle
+b_kuman_city = city
+b_kuman_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_kuman_castle = ca_keep_1
+	b_kuman_castle = ca_wall_1
+	b_kuman_city = ct_town_1
+	b_kuman_city = ct_wall_1
+}

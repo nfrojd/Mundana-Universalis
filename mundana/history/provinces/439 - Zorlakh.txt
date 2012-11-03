@@ -1,0 +1,24 @@
+# Zorlakh
+
+# County Title
+title = c_zorlakh
+
+# Settlements
+max_settlements = 3
+
+b_zorlakh_castle = castle
+b_zorlakh_city = city
+b_zorlakh_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_zorlakh_castle = ca_keep_1
+	b_zorlakh_castle = ca_wall_1
+	b_zorlakh_city = ct_town_1
+	b_zorlakh_city = ct_wall_1
+}

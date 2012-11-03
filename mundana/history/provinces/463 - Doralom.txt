@@ -1,0 +1,24 @@
+# Doralom
+
+# County Title
+title = c_doralom
+
+# Settlements
+max_settlements = 3
+
+b_doralom_castle = castle
+b_doralom_city = city
+b_doralom_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_doralom_castle = ca_keep_1
+	b_doralom_castle = ca_wall_1
+	b_doralom_city = ct_town_1
+	b_doralom_city = ct_wall_1
+}

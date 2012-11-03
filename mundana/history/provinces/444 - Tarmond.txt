@@ -1,0 +1,24 @@
+# Tarmond
+
+# County Title
+title = c_tarmond
+
+# Settlements
+max_settlements = 3
+
+b_tarmond_castle = castle
+b_tarmond_city = city
+b_tarmond_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_tarmond_castle = ca_keep_1
+	b_tarmond_castle = ca_wall_1
+	b_tarmond_city = ct_town_1
+	b_tarmond_city = ct_wall_1
+}

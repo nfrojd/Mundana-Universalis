@@ -1,0 +1,24 @@
+# Södra Uraz
+
+# County Title
+title = c_sodra_uraz
+
+# Settlements
+max_settlements = 3
+
+b_sodra_uraz_castle = castle
+b_sodra_uraz_city = city
+b_sodra_uraz_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_sodra_uraz_castle = ca_keep_1
+	b_sodra_uraz_castle = ca_wall_1
+	b_sodra_uraz_city = ct_town_1
+	b_sodra_uraz_city = ct_wall_1
+}

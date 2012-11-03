@@ -1,0 +1,24 @@
+# Corell
+
+# County Title
+title = c_corell
+
+# Settlements
+max_settlements = 3
+
+b_corell_castle = castle
+b_corell_city = city
+b_corell_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_corell_castle = ca_keep_1
+	b_corell_castle = ca_wall_1
+	b_corell_city = ct_town_1
+	b_corell_city = ct_wall_1
+}

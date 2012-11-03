@@ -1,0 +1,24 @@
+# Nahrzmel
+
+# County Title
+title = c_nahrzmel
+
+# Settlements
+max_settlements = 3
+
+b_nahrzmel_castle = castle
+b_nahrzmel_city = city
+b_nahrzmel_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_nahrzmel_castle = ca_keep_1
+	b_nahrzmel_castle = ca_wall_1
+	b_nahrzmel_city = ct_town_1
+	b_nahrzmel_city = ct_wall_1
+}

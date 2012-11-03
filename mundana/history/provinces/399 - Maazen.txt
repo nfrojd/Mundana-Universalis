@@ -1,0 +1,24 @@
+# Maazen
+
+# County Title
+title = c_maazen
+
+# Settlements
+max_settlements = 3
+
+b_maazen_castle = castle
+b_maazen_city = city
+b_maazen_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_maazen_castle = ca_keep_1
+	b_maazen_castle = ca_wall_1
+	b_maazen_city = ct_town_1
+	b_maazen_city = ct_wall_1
+}

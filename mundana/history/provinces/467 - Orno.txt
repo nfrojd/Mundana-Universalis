@@ -1,0 +1,24 @@
+# Orno
+
+# County Title
+title = c_orno
+
+# Settlements
+max_settlements = 3
+
+b_orno_castle = castle
+b_orno_city = city
+b_orno_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_orno_castle = ca_keep_1
+	b_orno_castle = ca_wall_1
+	b_orno_city = ct_town_1
+	b_orno_city = ct_wall_1
+}

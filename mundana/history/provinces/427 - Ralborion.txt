@@ -1,0 +1,24 @@
+# Ralborion
+
+# County Title
+title = c_ralborion
+
+# Settlements
+max_settlements = 3
+
+b_ralborion_castle = castle
+b_ralborion_city = city
+b_ralborion_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_ralborion_castle = ca_keep_1
+	b_ralborion_castle = ca_wall_1
+	b_ralborion_city = ct_town_1
+	b_ralborion_city = ct_wall_1
+}

@@ -1,0 +1,24 @@
+# Corsis
+
+# County Title
+title = c_corsis
+
+# Settlements
+max_settlements = 3
+
+b_corsis_castle = castle
+b_corsis_city = city
+b_corsis_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_corsis_castle = ca_keep_1
+	b_corsis_castle = ca_wall_1
+	b_corsis_city = ct_town_1
+	b_corsis_city = ct_wall_1
+}

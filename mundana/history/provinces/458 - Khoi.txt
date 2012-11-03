@@ -1,0 +1,24 @@
+# Khoi
+
+# County Title
+title = c_khoi
+
+# Settlements
+max_settlements = 3
+
+b_khoi_castle = castle
+b_khoi_city = city
+b_khoi_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_khoi_castle = ca_keep_1
+	b_khoi_castle = ca_wall_1
+	b_khoi_city = ct_town_1
+	b_khoi_city = ct_wall_1
+}

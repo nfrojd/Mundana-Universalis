@@ -1,0 +1,9451 @@
+# ID: 10_6XXX
+106100 = {
+	name = "Lash"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106101 = {
+	name = "Igvand"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106102 = {
+	name = "Igar"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106103 = {
+	name = "Samhan"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106104 = {
+	name = "Jehan"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106105 = {
+	name = "Zamir"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106106 = {
+	name = "Makir"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106107 = {
+	name = "Suyan"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106108 = {
+	name = "Larym"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106109 = {
+	name = "Oroga"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106110 = {
+	name = "Drach"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106111 = {
+	name = "Kalim"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106112 = {
+	name = "Iznogud"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106113 = {
+	name = "Zamir"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106114 = {
+	name = "Noratha"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106115 = {
+	name = "Amir"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106116 = {
+	name = "Makir"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106117 = {
+	name = "Danor"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106118 = {
+	name = "Haral"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106119 = {
+	name = "Shangi"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106120 = {
+	name = "Reubin"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106121 = {
+	name = "Qamak"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106122 = {
+	name = "Havir"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106123 = {
+	name = "Voloch"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106124 = {
+	name = "Zamir"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106125 = {
+	name = "Daoud"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106126 = {
+	name = "Qamak"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106127 = {
+	name = "Myroga"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106128 = {
+	name = "Drach"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106129 = {
+	name = "Farak"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106130 = {
+	name = "Olhan"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106131 = {
+	name = "Zifem"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106132 = {
+	name = "Ydor"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106133 = {
+	name = "Palov"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106134 = {
+	name = "Havir"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106135 = {
+	name = "Garad"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106136 = {
+	name = "Danor"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106137 = {
+	name = "Iznogud"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106138 = {
+	name = "Padir"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106139 = {
+	name = "Reqmin"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106140 = {
+	name = "Lashtor"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106141 = {
+	name = "Noratha"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106142 = {
+	name = "Padir"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106143 = {
+	name = "Urugim"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106144 = {
+	name = "Voloch"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106145 = {
+	name = "Sanguis"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106146 = {
+	name = "Efram"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106147 = {
+	name = "Sanguis"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106148 = {
+	name = "Efram"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106149 = {
+	name = "Mazdok"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106150 = {
+	name = "Amida"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106151 = {
+	name = "Odia"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106152 = {
+	name = "Elias"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106153 = {
+	name = "Elias"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106154 = {
+	name = "Diash"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106155 = {
+	name = "Uria"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106156 = {
+	name = "Myriam"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106157 = {
+	name = "Amida"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106158 = {
+	name = "Qyena"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106159 = {
+	name = "Elias"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106160 = {
+	name = "Revana"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106161 = {
+	name = "Talya"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106162 = {
+	name = "Volokia"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106163 = {
+	name = "Piana"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106164 = {
+	name = "Beyuni"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106165 = {
+	name = "Lyshana"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106166 = {
+	name = "Satima"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106167 = {
+	name = "Piana"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106168 = {
+	name = "Volokia"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106169 = {
+	name = "Volokia"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106170 = {
+	name = "Myriam"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106171 = {
+	name = "Volokia"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106172 = {
+	name = "Odia"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106173 = {
+	name = "Odia"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106174 = {
+	name = "Sadara"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106175 = {
+	name = "Zema"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106176 = {
+	name = "Amida"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106177 = {
+	name = "Amida"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106178 = {
+	name = "Elias"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106179 = {
+	name = "Ziana"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106180 = {
+	name = "Sadara"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106181 = {
+	name = "Volocha"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106182 = {
+	name = "Guada"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106183 = {
+	name = "Lyshana"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106184 = {
+	name = "Satima"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106185 = {
+	name = "Volokia"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106186 = {
+	name = "Haryena"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106187 = {
+	name = "Elias"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106188 = {
+	name = "Elias"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106189 = {
+	name = "Idala"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106190 = {
+	name = "Qyena"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106191 = {
+	name = "Idala"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106192 = {
+	name = "Myriyam"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106193 = {
+	name = "Volocha"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106194 = {
+	name = "Talya"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106195 = {
+	name = "Jualla"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106196 = {
+	name = "Qyena"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106197 = {
+	name = "Sadara"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106198 = {
+	name = "Fatia"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106199 = {
+	name = "Talya"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106200 = {
+	name = "Zifem"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106201 = {
+	name = "Takhim"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106202 = {
+	name = "Kalim"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106203 = {
+	name = "Zifem"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106204 = {
+	name = "Jehan"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106205 = {
+	name = "Uelam"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106206 = {
+	name = "Lifem"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106207 = {
+	name = "Makir"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106208 = {
+	name = "Vashin"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106209 = {
+	name = "Nadir"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106210 = {
+	name = "Vidir"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106211 = {
+	name = "Voloch"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106212 = {
+	name = "Hagir"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106213 = {
+	name = "Amir"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106214 = {
+	name = "Zamir"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106215 = {
+	name = "Qamak"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106216 = {
+	name = "Nadir"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106217 = {
+	name = "Shangi"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106218 = {
+	name = "Haral"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106219 = {
+	name = "Padir"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106220 = {
+	name = "Myroga"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106221 = {
+	name = "Farak"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106222 = {
+	name = "Ydor"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106223 = {
+	name = "Igvand"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106224 = {
+	name = "Havir"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106225 = {
+	name = "Urugim"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106226 = {
+	name = "Lash"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106227 = {
+	name = "Gadiv"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106228 = {
+	name = "Gadiv"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106229 = {
+	name = "Kalim"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106230 = {
+	name = "Drach"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106231 = {
+	name = "Amir"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106232 = {
+	name = "Kheran"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106233 = {
+	name = "Khagan"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106234 = {
+	name = "Efram"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106235 = {
+	name = "Vidir"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106236 = {
+	name = "Iznogud"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106237 = {
+	name = "Samhan"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106238 = {
+	name = "Lifem"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106239 = {
+	name = "Lashtor"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106240 = {
+	name = "Vashin"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106241 = {
+	name = "Palov"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106242 = {
+	name = "Nazam"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106243 = {
+	name = "Ghegellan"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106244 = {
+	name = "Im-berefel"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106245 = {
+	name = "Zifem"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106246 = {
+	name = "Khagan"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106247 = {
+	name = "Igvand"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106248 = {
+	name = "Makir"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106249 = {
+	name = "Nadir"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106250 = {
+	name = "Bathara"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106251 = {
+	name = "Sadara"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106252 = {
+	name = "Haryena"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106253 = {
+	name = "Elias"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106254 = {
+	name = "Myriyam"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106255 = {
+	name = "Guada"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106256 = {
+	name = "Ziana"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106257 = {
+	name = "Viena"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106258 = {
+	name = "Guada"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106259 = {
+	name = "Amida"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106260 = {
+	name = "Lyshana"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106261 = {
+	name = "Liselle"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106262 = {
+	name = "Nadia"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106263 = {
+	name = "Guada"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106264 = {
+	name = "Viena"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106265 = {
+	name = "Talya"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106266 = {
+	name = "Elias"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106267 = {
+	name = "Volokia"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106268 = {
+	name = "Haryena"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106269 = {
+	name = "Ydia"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106270 = {
+	name = "Nadia"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106271 = {
+	name = "Liselle"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106272 = {
+	name = "Viena"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106273 = {
+	name = "Elias"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106274 = {
+	name = "Viena"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106275 = {
+	name = "Lyshana"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106276 = {
+	name = "Lyshana"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106277 = {
+	name = "Ziana"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106278 = {
+	name = "Uria"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106279 = {
+	name = "Myriam"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106280 = {
+	name = "Elias"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106281 = {
+	name = "Volokia"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106282 = {
+	name = "Ydia"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106283 = {
+	name = "Jualla"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106284 = {
+	name = "Revana"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106285 = {
+	name = "Jesana"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106286 = {
+	name = "Beyuni"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106287 = {
+	name = "Talya"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106288 = {
+	name = "Jualla"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106289 = {
+	name = "Ydia"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106290 = {
+	name = "Bathara"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106291 = {
+	name = "Nadia"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106292 = {
+	name = "Guada"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106293 = {
+	name = "Guada"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106294 = {
+	name = "Beyuni"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106295 = {
+	name = "Revana"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106296 = {
+	name = "Kalina"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106297 = {
+	name = "Kalina"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106298 = {
+	name = "Liselle"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106299 = {
+	name = "Diash"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106300 = {
+	name = "Iznogud"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106301 = {
+	name = "Ash"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106302 = {
+	name = "Beló"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106303 = {
+	name = "Garad"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106304 = {
+	name = "Noratha"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106305 = {
+	name = "Suron"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106306 = {
+	name = "Efram"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106307 = {
+	name = "Makir"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106308 = {
+	name = "Mazdok"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106309 = {
+	name = "Daoud"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106310 = {
+	name = "Mazdok"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106311 = {
+	name = "Havir"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106312 = {
+	name = "Lifem"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106313 = {
+	name = "Vurgh"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106314 = {
+	name = "Veshin"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106315 = {
+	name = "Haral"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106316 = {
+	name = "Voloch"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106317 = {
+	name = "Reubin"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106318 = {
+	name = "Mazdok"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106319 = {
+	name = "Quino"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106320 = {
+	name = "Vidir"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106321 = {
+	name = "Haral"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106322 = {
+	name = "Shangi"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106323 = {
+	name = "Nadir"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106324 = {
+	name = "Sanguis"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106325 = {
+	name = "Larym"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106326 = {
+	name = "Takhim"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106327 = {
+	name = "Oroga"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106328 = {
+	name = "Shangi"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106329 = {
+	name = "Danor"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106330 = {
+	name = "Suyan"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106331 = {
+	name = "Noratha"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106332 = {
+	name = "Jehan"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106333 = {
+	name = "Igar"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106334 = {
+	name = "Jehan"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106335 = {
+	name = "Haral"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106336 = {
+	name = "Radom"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106337 = {
+	name = "Havir"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106338 = {
+	name = "Kheran"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106339 = {
+	name = "Padir"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106340 = {
+	name = "Nazam"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106341 = {
+	name = "Samhan"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106342 = {
+	name = "Radom"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106343 = {
+	name = "Reubin"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106344 = {
+	name = "Efram"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106345 = {
+	name = "Shangi"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106346 = {
+	name = "Garad"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106347 = {
+	name = "Danor"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106348 = {
+	name = "Samhan"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106349 = {
+	name = "Haral"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106350 = {
+	name = "Jesana"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106351 = {
+	name = "Lyshana"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106352 = {
+	name = "Qyena"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106353 = {
+	name = "Liselle"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106354 = {
+	name = "Jualla"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106355 = {
+	name = "Fatia"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106356 = {
+	name = "Volokia"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106357 = {
+	name = "Lyshana"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106358 = {
+	name = "Piana"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106359 = {
+	name = "Talya"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106360 = {
+	name = "Idala"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106361 = {
+	name = "Amida"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106362 = {
+	name = "Diash"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106363 = {
+	name = "Uria"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106364 = {
+	name = "Bathara"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106365 = {
+	name = "Jualla"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106366 = {
+	name = "Myriyam"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106367 = {
+	name = "Talya"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106368 = {
+	name = "Satima"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106369 = {
+	name = "Jualla"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106370 = {
+	name = "Satima"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106371 = {
+	name = "Qyena"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106372 = {
+	name = "Lyshana"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106373 = {
+	name = "Lyshana"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106374 = {
+	name = "Zema"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106375 = {
+	name = "Satima"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106376 = {
+	name = "Liselle"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106377 = {
+	name = "Zema"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106378 = {
+	name = "Diash"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106379 = {
+	name = "Liselle"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106380 = {
+	name = "Idala"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106381 = {
+	name = "Amida"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106382 = {
+	name = "Volocha"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106383 = {
+	name = "Ydia"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106384 = {
+	name = "Volocha"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106385 = {
+	name = "Ydia"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106386 = {
+	name = "Sadara"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106387 = {
+	name = "Liselle"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106388 = {
+	name = "Kalina"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106389 = {
+	name = "Idala"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106390 = {
+	name = "Ziana"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106391 = {
+	name = "Liselle"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106392 = {
+	name = "Elias"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106393 = {
+	name = "Nadia"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106394 = {
+	name = "Qyena"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106395 = {
+	name = "Zema"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106396 = {
+	name = "Amida"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106397 = {
+	name = "Diash"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106398 = {
+	name = "Piana"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106399 = {
+	name = "Volocha"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106400 = {
+	name = "Qamak"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106401 = {
+	name = "Beló"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106402 = {
+	name = "Phegatan"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106403 = {
+	name = "Sanguis"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106404 = {
+	name = "Reubin"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106405 = {
+	name = "Farak"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106406 = {
+	name = "Mazoum"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106407 = {
+	name = "Beló"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106408 = {
+	name = "Shangi"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106409 = {
+	name = "Zifem"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106410 = {
+	name = "Takhim"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106411 = {
+	name = "Sekhar"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106412 = {
+	name = "Olhan"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106413 = {
+	name = "Quino"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106414 = {
+	name = "Suyan"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106415 = {
+	name = "Hamak"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106416 = {
+	name = "Ghegellan"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106417 = {
+	name = "Reubin"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106418 = {
+	name = "Mazdok"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106419 = {
+	name = "Larym"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106420 = {
+	name = "Danor"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106421 = {
+	name = "Kheran"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106422 = {
+	name = "Veshin"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106423 = {
+	name = "Voloch"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106424 = {
+	name = "Igvand"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106425 = {
+	name = "Hagir"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106426 = {
+	name = "Xirham"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106427 = {
+	name = "Mazdok"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106428 = {
+	name = "Suyan"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106429 = {
+	name = "Ash"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106430 = {
+	name = "Samhan"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106431 = {
+	name = "Ash"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106432 = {
+	name = "Haral"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106433 = {
+	name = "Reqmin"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106434 = {
+	name = "Ash"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106435 = {
+	name = "Lifem"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106436 = {
+	name = "Ghegellan"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106437 = {
+	name = "Amir"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106438 = {
+	name = "Jehan"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106439 = {
+	name = "Amir"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106440 = {
+	name = "Efram"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106441 = {
+	name = "Uelam"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106442 = {
+	name = "Xirham"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106443 = {
+	name = "Reqmin"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106444 = {
+	name = "Suyan"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106445 = {
+	name = "Haral"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106446 = {
+	name = "Ghegellan"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106447 = {
+	name = "Urugim"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106448 = {
+	name = "Makir"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106449 = {
+	name = "Gadiv"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106450 = {
+	name = "Fatia"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106451 = {
+	name = "Piana"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106452 = {
+	name = "Guada"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106453 = {
+	name = "Haryena"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106454 = {
+	name = "Satima"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106455 = {
+	name = "Sadara"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106456 = {
+	name = "Elias"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106457 = {
+	name = "Piana"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106458 = {
+	name = "Viena"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106459 = {
+	name = "Ydia"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106460 = {
+	name = "Haryena"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106461 = {
+	name = "Haryena"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106462 = {
+	name = "Qyena"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106463 = {
+	name = "Talya"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106464 = {
+	name = "Elias"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106465 = {
+	name = "Revana"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106466 = {
+	name = "Lyshana"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106467 = {
+	name = "Jualla"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106468 = {
+	name = "Talya"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106469 = {
+	name = "Odia"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106470 = {
+	name = "Haryena"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106471 = {
+	name = "Ydia"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106472 = {
+	name = "Guada"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106473 = {
+	name = "Odia"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106474 = {
+	name = "Satima"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106475 = {
+	name = "Myriyam"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106476 = {
+	name = "Ziana"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106477 = {
+	name = "Idala"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106478 = {
+	name = "Myriyam"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106479 = {
+	name = "Guada"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106480 = {
+	name = "Myriam"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106481 = {
+	name = "Lyshana"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106482 = {
+	name = "Myriam"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106483 = {
+	name = "Myriyam"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106484 = {
+	name = "Guada"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106485 = {
+	name = "Piana"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106486 = {
+	name = "Zema"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106487 = {
+	name = "Haryena"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106488 = {
+	name = "Satima"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106489 = {
+	name = "Amida"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106490 = {
+	name = "Ydia"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106491 = {
+	name = "Lyshana"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106492 = {
+	name = "Kalina"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106493 = {
+	name = "Bathara"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106494 = {
+	name = "Liselle"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106495 = {
+	name = "Viena"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106496 = {
+	name = "Fatia"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106497 = {
+	name = "Myriam"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106498 = {
+	name = "Lyshana"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106499 = {
+	name = "Idala"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106500 = {
+	name = "Im-berefel"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106501 = {
+	name = "Vidir"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106502 = {
+	name = "Palov"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106503 = {
+	name = "Uelam"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106504 = {
+	name = "Olhan"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106505 = {
+	name = "Drach"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106506 = {
+	name = "Mazoum"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106507 = {
+	name = "Mazoum"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106508 = {
+	name = "Vurgh"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106509 = {
+	name = "Reqmin"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106510 = {
+	name = "Kheran"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106511 = {
+	name = "Vurgh"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106512 = {
+	name = "Drach"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106513 = {
+	name = "Ash"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106514 = {
+	name = "Suron"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106515 = {
+	name = "Igar"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106516 = {
+	name = "Mazoum"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106517 = {
+	name = "Ghegellan"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106518 = {
+	name = "Veshin"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106519 = {
+	name = "Uelam"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106520 = {
+	name = "Myroga"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106521 = {
+	name = "Xirham"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106522 = {
+	name = "Iznogud"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106523 = {
+	name = "Nadir"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106524 = {
+	name = "Padir"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106525 = {
+	name = "Havir"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106526 = {
+	name = "Kalim"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106527 = {
+	name = "Jehan"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106528 = {
+	name = "Suyan"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106529 = {
+	name = "Lashtor"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106530 = {
+	name = "Beló"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106531 = {
+	name = "Khagan"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106532 = {
+	name = "Farak"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106533 = {
+	name = "Vidir"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106534 = {
+	name = "Qamak"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106535 = {
+	name = "Danor"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106536 = {
+	name = "Padir"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106537 = {
+	name = "Xirham"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106538 = {
+	name = "Makir"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106539 = {
+	name = "Garad"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106540 = {
+	name = "Garad"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106541 = {
+	name = "Noratha"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106542 = {
+	name = "Beló"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106543 = {
+	name = "Haral"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106544 = {
+	name = "Veshin"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106545 = {
+	name = "Samhan"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106546 = {
+	name = "Nadir"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106547 = {
+	name = "Ash"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106548 = {
+	name = "Amir"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106549 = {
+	name = "Zamir"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106550 = {
+	name = "Piana"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106551 = {
+	name = "Zema"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106552 = {
+	name = "Zema"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106553 = {
+	name = "Jualla"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106554 = {
+	name = "Satima"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106555 = {
+	name = "Jualla"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106556 = {
+	name = "Piana"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106557 = {
+	name = "Volocha"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106558 = {
+	name = "Viena"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106559 = {
+	name = "Volokia"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106560 = {
+	name = "Sadara"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106561 = {
+	name = "Ziana"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106562 = {
+	name = "Sadara"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106563 = {
+	name = "Amida"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106564 = {
+	name = "Idala"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106565 = {
+	name = "Kalina"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106566 = {
+	name = "Odia"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106567 = {
+	name = "Odia"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106568 = {
+	name = "Beyuni"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106569 = {
+	name = "Volokia"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106570 = {
+	name = "Liselle"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106571 = {
+	name = "Liselle"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106572 = {
+	name = "Ziana"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106573 = {
+	name = "Jesana"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106574 = {
+	name = "Kalina"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106575 = {
+	name = "Volokia"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106576 = {
+	name = "Beyuni"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106577 = {
+	name = "Talya"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106578 = {
+	name = "Liselle"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106579 = {
+	name = "Haryena"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106580 = {
+	name = "Sadara"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106581 = {
+	name = "Beyuni"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106582 = {
+	name = "Bathara"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106583 = {
+	name = "Revana"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106584 = {
+	name = "Revana"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106585 = {
+	name = "Liselle"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106586 = {
+	name = "Ydia"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106587 = {
+	name = "Myriam"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106588 = {
+	name = "Amida"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106589 = {
+	name = "Myriyam"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106590 = {
+	name = "Jualla"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106591 = {
+	name = "Bathara"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106592 = {
+	name = "Fatia"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106593 = {
+	name = "Bathara"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106594 = {
+	name = "Nadia"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106595 = {
+	name = "Volokia"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106596 = {
+	name = "Amida"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106597 = {
+	name = "Volokia"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106598 = {
+	name = "Odia"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106599 = {
+	name = "Ziana"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106600 = {
+	name = "Makir"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106601 = {
+	name = "Igar"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106602 = {
+	name = "Daoud"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106603 = {
+	name = "Beló"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106604 = {
+	name = "Drach"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106605 = {
+	name = "Qamak"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106606 = {
+	name = "Igvand"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106607 = {
+	name = "Reqmin"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106608 = {
+	name = "Olhan"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106609 = {
+	name = "Lash"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106610 = {
+	name = "Beló"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106611 = {
+	name = "Ydor"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106612 = {
+	name = "Suron"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106613 = {
+	name = "Kheran"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106614 = {
+	name = "Nadir"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106615 = {
+	name = "Havir"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106616 = {
+	name = "Xirham"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106617 = {
+	name = "Hagir"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106618 = {
+	name = "Farak"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106619 = {
+	name = "Igar"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106620 = {
+	name = "Ash"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106621 = {
+	name = "Takhim"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106622 = {
+	name = "Hagir"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106623 = {
+	name = "Radom"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106624 = {
+	name = "Shangi"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106625 = {
+	name = "Oroga"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106626 = {
+	name = "Mazdok"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106627 = {
+	name = "Amir"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106628 = {
+	name = "Ydor"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106629 = {
+	name = "Uelam"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106630 = {
+	name = "Suron"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106631 = {
+	name = "Xirham"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106632 = {
+	name = "Urugim"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106633 = {
+	name = "Khagan"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106634 = {
+	name = "Hagir"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106635 = {
+	name = "Sekhar"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106636 = {
+	name = "Gadiv"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106637 = {
+	name = "Khagan"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106638 = {
+	name = "Mazoum"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106639 = {
+	name = "Uelam"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106640 = {
+	name = "Reubin"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106641 = {
+	name = "Reubin"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106642 = {
+	name = "Ydor"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106643 = {
+	name = "Noratha"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106644 = {
+	name = "Ash"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106645 = {
+	name = "Vashin"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106646 = {
+	name = "Igvand"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106647 = {
+	name = "Ghegellan"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106648 = {
+	name = "Noratha"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106649 = {
+	name = "Urugim"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106650 = {
+	name = "Kalina"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106651 = {
+	name = "Sadara"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106652 = {
+	name = "Myriyam"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106653 = {
+	name = "Haryena"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106654 = {
+	name = "Odia"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106655 = {
+	name = "Idala"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106656 = {
+	name = "Jesana"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106657 = {
+	name = "Lyshana"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106658 = {
+	name = "Viena"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106659 = {
+	name = "Qyena"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106660 = {
+	name = "Myriam"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106661 = {
+	name = "Piana"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106662 = {
+	name = "Uria"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106663 = {
+	name = "Kalina"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106664 = {
+	name = "Myriyam"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106665 = {
+	name = "Bathara"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106666 = {
+	name = "Uria"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106667 = {
+	name = "Beyuni"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106668 = {
+	name = "Beyuni"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106669 = {
+	name = "Ydia"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106670 = {
+	name = "Liselle"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106671 = {
+	name = "Satima"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106672 = {
+	name = "Uria"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106673 = {
+	name = "Odia"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106674 = {
+	name = "Liselle"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106675 = {
+	name = "Amida"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106676 = {
+	name = "Nadia"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106677 = {
+	name = "Volocha"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106678 = {
+	name = "Volocha"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106679 = {
+	name = "Beyuni"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106680 = {
+	name = "Piana"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106681 = {
+	name = "Amida"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106682 = {
+	name = "Nadia"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106683 = {
+	name = "Piana"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106684 = {
+	name = "Liselle"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106685 = {
+	name = "Zema"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106686 = {
+	name = "Qyena"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106687 = {
+	name = "Elias"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106688 = {
+	name = "Viena"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106689 = {
+	name = "Haryena"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106690 = {
+	name = "Jesana"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106691 = {
+	name = "Piana"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106692 = {
+	name = "Uria"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106693 = {
+	name = "Bathara"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106694 = {
+	name = "Zema"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106695 = {
+	name = "Jualla"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106696 = {
+	name = "Lyshana"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106697 = {
+	name = "Ydia"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106698 = {
+	name = "Myriyam"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106699 = {
+	name = "Haryena"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106700 = {
+	name = "Kheran"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106701 = {
+	name = "Farak"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106702 = {
+	name = "Noratha"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106703 = {
+	name = "Hagir"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106704 = {
+	name = "Jehan"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106705 = {
+	name = "Daoud"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106706 = {
+	name = "Palov"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106707 = {
+	name = "Suron"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106708 = {
+	name = "Zamir"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106709 = {
+	name = "Daoud"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106710 = {
+	name = "Nazam"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106711 = {
+	name = "Zamir"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106712 = {
+	name = "Voloch"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106713 = {
+	name = "Shangi"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106714 = {
+	name = "Hagir"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106715 = {
+	name = "Ash"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106716 = {
+	name = "Olhan"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106717 = {
+	name = "Nazam"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106718 = {
+	name = "Qamak"
+	dynasty = 2003
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106719 = {
+	name = "Vidir"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106720 = {
+	name = "Uelam"
+	dynasty = 2017
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106721 = {
+	name = "Noratha"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106722 = {
+	name = "Zamir"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106723 = {
+	name = "Haral"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106724 = {
+	name = "Vurgh"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106725 = {
+	name = "Danor"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106726 = {
+	name = "Zifem"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106727 = {
+	name = "Khagan"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106728 = {
+	name = "Farak"
+	dynasty = 2028
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106729 = {
+	name = "Igar"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106730 = {
+	name = "Veshin"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106731 = {
+	name = "Zamir"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106732 = {
+	name = "Khagan"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106733 = {
+	name = "Lashtor"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106734 = {
+	name = "Amir"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106735 = {
+	name = "Noratha"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106736 = {
+	name = "Farak"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106737 = {
+	name = "Beló"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106738 = {
+	name = "Quino"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106739 = {
+	name = "Veshin"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106740 = {
+	name = "Hagir"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106741 = {
+	name = "Igvand"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106742 = {
+	name = "Radom"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106743 = {
+	name = "Radom"
+	dynasty = 2009
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106744 = {
+	name = "Palov"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106745 = {
+	name = "Olhan"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106746 = {
+	name = "Haral"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106747 = {
+	name = "Vidir"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106748 = {
+	name = "Suyan"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106749 = {
+	name = "Quino"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106750 = {
+	name = "Revana"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106751 = {
+	name = "Viena"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106752 = {
+	name = "Revana"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106753 = {
+	name = "Liselle"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106754 = {
+	name = "Haryena"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106755 = {
+	name = "Viena"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106756 = {
+	name = "Ydia"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106757 = {
+	name = "Kalina"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106758 = {
+	name = "Idala"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106759 = {
+	name = "Myriam"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106760 = {
+	name = "Myriam"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106761 = {
+	name = "Liselle"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106762 = {
+	name = "Jualla"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106763 = {
+	name = "Jualla"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106764 = {
+	name = "Fatia"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106765 = {
+	name = "Viena"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106766 = {
+	name = "Volokia"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106767 = {
+	name = "Beyuni"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106768 = {
+	name = "Diash"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106769 = {
+	name = "Piana"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106770 = {
+	name = "Myriam"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106771 = {
+	name = "Amida"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106772 = {
+	name = "Beyuni"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106773 = {
+	name = "Qyena"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106774 = {
+	name = "Viena"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106775 = {
+	name = "Haryena"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106776 = {
+	name = "Sadara"
+	dynasty = 2013
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106777 = {
+	name = "Myriam"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106778 = {
+	name = "Satima"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106779 = {
+	name = "Liselle"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106780 = {
+	name = "Jualla"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106781 = {
+	name = "Ydia"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106782 = {
+	name = "Bathara"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106783 = {
+	name = "Beyuni"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106784 = {
+	name = "Piana"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106785 = {
+	name = "Viena"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106786 = {
+	name = "Elias"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106787 = {
+	name = "Kalina"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106788 = {
+	name = "Elias"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106789 = {
+	name = "Ziana"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106790 = {
+	name = "Jesana"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106791 = {
+	name = "Zema"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106792 = {
+	name = "Bathara"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106793 = {
+	name = "Volokia"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106794 = {
+	name = "Satima"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106795 = {
+	name = "Jesana"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106796 = {
+	name = "Bathara"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106797 = {
+	name = "Myriyam"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106798 = {
+	name = "Idala"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106799 = {
+	name = "Elias"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106800 = {
+	name = "Shangi"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106801 = {
+	name = "Mazoum"
+	dynasty = 2007
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106802 = {
+	name = "Reubin"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106803 = {
+	name = "Xirham"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106804 = {
+	name = "Im-berefel"
+	dynasty = 2019
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106805 = {
+	name = "Khagan"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106806 = {
+	name = "Vidir"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106807 = {
+	name = "Khagan"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106808 = {
+	name = "Danor"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106809 = {
+	name = "Oroga"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106810 = {
+	name = "Padir"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106811 = {
+	name = "Vashin"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106812 = {
+	name = "Reqmin"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106813 = {
+	name = "Beló"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106814 = {
+	name = "Qamak"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106815 = {
+	name = "Nazam"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106816 = {
+	name = "Makir"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106817 = {
+	name = "Reqmin"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106818 = {
+	name = "Garad"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106819 = {
+	name = "Makir"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106820 = {
+	name = "Jehan"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106821 = {
+	name = "Jehan"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106822 = {
+	name = "Mazoum"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106823 = {
+	name = "Ash"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106824 = {
+	name = "Reubin"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106825 = {
+	name = "Xirham"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106826 = {
+	name = "Lifem"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106827 = {
+	name = "Veshin"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106828 = {
+	name = "Beló"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106829 = {
+	name = "Xirham"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106830 = {
+	name = "Drach"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106831 = {
+	name = "Padir"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106832 = {
+	name = "Oroga"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106833 = {
+	name = "Ydor"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106834 = {
+	name = "Drach"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106835 = {
+	name = "Voloch"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106836 = {
+	name = "Nadir"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106837 = {
+	name = "Makir"
+	dynasty = 2032
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106838 = {
+	name = "Quino"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106839 = {
+	name = "Sanguis"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106840 = {
+	name = "Shangi"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106841 = {
+	name = "Veshin"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106842 = {
+	name = "Makir"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106843 = {
+	name = "Nazam"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106844 = {
+	name = "Jehan"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106845 = {
+	name = "Nadir"
+	dynasty = 2020
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106846 = {
+	name = "Lash"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106847 = {
+	name = "Nazam"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106848 = {
+	name = "Phegatan"
+	dynasty = 2014
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106849 = {
+	name = "Drach"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106850 = {
+	name = "Volocha"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106851 = {
+	name = "Nadia"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106852 = {
+	name = "Odia"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106853 = {
+	name = "Amida"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106854 = {
+	name = "Talya"
+	dynasty = 2006
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106855 = {
+	name = "Haryena"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106856 = {
+	name = "Nadia"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106857 = {
+	name = "Kalina"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106858 = {
+	name = "Nadia"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106859 = {
+	name = "Fatia"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106860 = {
+	name = "Nadia"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106861 = {
+	name = "Diash"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106862 = {
+	name = "Zema"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106863 = {
+	name = "Myriyam"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106864 = {
+	name = "Bathara"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106865 = {
+	name = "Nadia"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106866 = {
+	name = "Piana"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106867 = {
+	name = "Volokia"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106868 = {
+	name = "Jesana"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106869 = {
+	name = "Nadia"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106870 = {
+	name = "Zema"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106871 = {
+	name = "Sadara"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106872 = {
+	name = "Myriyam"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106873 = {
+	name = "Ydia"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106874 = {
+	name = "Viena"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106875 = {
+	name = "Idala"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106876 = {
+	name = "Bathara"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106877 = {
+	name = "Ziana"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106878 = {
+	name = "Uria"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106879 = {
+	name = "Lyshana"
+	dynasty = 2017
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106880 = {
+	name = "Piana"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106881 = {
+	name = "Ydia"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106882 = {
+	name = "Diash"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106883 = {
+	name = "Beyuni"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106884 = {
+	name = "Lyshana"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106885 = {
+	name = "Odia"
+	dynasty = 2027
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106886 = {
+	name = "Beyuni"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106887 = {
+	name = "Jualla"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106888 = {
+	name = "Volokia"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106889 = {
+	name = "Odia"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106890 = {
+	name = "Jesana"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106891 = {
+	name = "Liselle"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106892 = {
+	name = "Piana"
+	dynasty = 2016
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106893 = {
+	name = "Satima"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106894 = {
+	name = "Haryena"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106895 = {
+	name = "Myriyam"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106896 = {
+	name = "Myriam"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106897 = {
+	name = "Lyshana"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106898 = {
+	name = "Satima"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106899 = {
+	name = "Idala"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106900 = {
+	name = "Drach"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106901 = {
+	name = "Nadir"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106902 = {
+	name = "Iznogud"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106903 = {
+	name = "Xirham"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106904 = {
+	name = "Takhim"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106905 = {
+	name = "Reubin"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106906 = {
+	name = "Kalim"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106907 = {
+	name = "Igvand"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106908 = {
+	name = "Quino"
+	dynasty = 2006
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106909 = {
+	name = "Phegatan"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106910 = {
+	name = "Khagan"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106911 = {
+	name = "Zamir"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106912 = {
+	name = "Ash"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106913 = {
+	name = "Kheran"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106914 = {
+	name = "Olhan"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106915 = {
+	name = "Igar"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106916 = {
+	name = "Hagir"
+	dynasty = 2011
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106917 = {
+	name = "Palov"
+	dynasty = 2027
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106918 = {
+	name = "Palov"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106919 = {
+	name = "Haral"
+	dynasty = 2010
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106920 = {
+	name = "Vurgh"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106921 = {
+	name = "Im-berefel"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106922 = {
+	name = "Haral"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106923 = {
+	name = "Takhim"
+	dynasty = 2031
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106924 = {
+	name = "Phegatan"
+	dynasty = 2021
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106925 = {
+	name = "Vurgh"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106926 = {
+	name = "Reqmin"
+	dynasty = 2002
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106927 = {
+	name = "Myroga"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106928 = {
+	name = "Haral"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106929 = {
+	name = "Farak"
+	dynasty = 2012
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106930 = {
+	name = "Sekhar"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106931 = {
+	name = "Beló"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106932 = {
+	name = "Radom"
+	dynasty = 2008
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106933 = {
+	name = "Uelam"
+	dynasty = 2005
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106934 = {
+	name = "Mazoum"
+	dynasty = 2022
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106935 = {
+	name = "Zamir"
+	dynasty = 2025
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106936 = {
+	name = "Farak"
+	dynasty = 2015
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106937 = {
+	name = "Urugim"
+	dynasty = 2004
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106938 = {
+	name = "Oroga"
+	dynasty = 2016
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106939 = {
+	name = "Sekhar"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106940 = {
+	name = "Beló"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106941 = {
+	name = "Khagan"
+	dynasty = 2024
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106942 = {
+	name = "Havir"
+	dynasty = 2033
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106943 = {
+	name = "Zifem"
+	dynasty = 2029
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106944 = {
+	name = "Mazdok"
+	dynasty = 2030
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106945 = {
+	name = "Ghegellan"
+	dynasty = 2018
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106946 = {
+	name = "Myroga"
+	dynasty = 2013
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106947 = {
+	name = "Im-berefel"
+	dynasty = 2026
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106948 = {
+	name = "Reqmin"
+	dynasty = 2023
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106949 = {
+	name = "Nazam"
+	dynasty = 2001
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106950 = {
+	name = "Myriyam"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106951 = {
+	name = "Ziana"
+	dynasty = 2020
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106952 = {
+	name = "Volocha"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106953 = {
+	name = "Kalina"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106954 = {
+	name = "Satima"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106955 = {
+	name = "Liselle"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106956 = {
+	name = "Talya"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106957 = {
+	name = "Jesana"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106958 = {
+	name = "Satima"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106959 = {
+	name = "Beyuni"
+	dynasty = 2004
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106960 = {
+	name = "Bathara"
+	dynasty = 2007
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106961 = {
+	name = "Jualla"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106962 = {
+	name = "Kalina"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106963 = {
+	name = "Revana"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106964 = {
+	name = "Volocha"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106965 = {
+	name = "Fatia"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106966 = {
+	name = "Revana"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106967 = {
+	name = "Haryena"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106968 = {
+	name = "Bathara"
+	dynasty = 2030
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106969 = {
+	name = "Bathara"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106970 = {
+	name = "Myriyam"
+	dynasty = 2015
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106971 = {
+	name = "Lyshana"
+	dynasty = 2005
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106972 = {
+	name = "Beyuni"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106973 = {
+	name = "Elias"
+	dynasty = 2024
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106974 = {
+	name = "Liselle"
+	dynasty = 2011
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106975 = {
+	name = "Talya"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106976 = {
+	name = "Volocha"
+	dynasty = 2019
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106977 = {
+	name = "Ydia"
+	dynasty = 2026
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106978 = {
+	name = "Liselle"
+	dynasty = 2014
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106979 = {
+	name = "Guada"
+	dynasty = 2023
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106980 = {
+	name = "Volokia"
+	dynasty = 2033
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106981 = {
+	name = "Viena"
+	dynasty = 2032
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106982 = {
+	name = "Idala"
+	dynasty = 2003
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106983 = {
+	name = "Elias"
+	dynasty = 2028
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106984 = {
+	name = "Bathara"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106985 = {
+	name = "Zema"
+	dynasty = 2031
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106986 = {
+	name = "Uria"
+	dynasty = 2009
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106987 = {
+	name = "Odia"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106988 = {
+	name = "Myriyam"
+	dynasty = 2021
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106989 = {
+	name = "Diash"
+	dynasty = 2025
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106990 = {
+	name = "Talya"
+	dynasty = 2010
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106991 = {
+	name = "Myriam"
+	dynasty = 2022
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106992 = {
+	name = "Viena"
+	dynasty = 2012
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106993 = {
+	name = "Ziana"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106994 = {
+	name = "Liselle"
+	dynasty = 2002
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106995 = {
+	name = "Ydia"
+	dynasty = 2008
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106996 = {
+	name = "Bathara"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106997 = {
+	name = "Zema"
+	dynasty = 2001
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106998 = {
+	name = "Piana"
+	dynasty = 2018
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+106999 = {
+	name = "Sadara"
+	dynasty = 2029
+	female = yes
+
+	culture = "jargier"
+	religion = "sabrian_daak"
+
+	.1.1 = { birth = .1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

@@ -1,0 +1,24 @@
+# Cenes
+
+# County Title
+title = c_cenes
+
+# Settlements
+max_settlements = 3
+
+b_cenes_castle = castle
+b_cenes_city = city
+b_cenes_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_cenes_castle = ca_keep_1
+	b_cenes_castle = ca_wall_1
+	b_cenes_city = ct_town_1
+	b_cenes_city = ct_wall_1
+}

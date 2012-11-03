@@ -1,0 +1,24 @@
+# Kharlahûra
+
+# County Title
+title = c_kharlahura
+
+# Settlements
+max_settlements = 3
+
+b_kharlahura_castle = castle
+b_kharlahura_city = city
+b_kharlahura_temple = temple
+
+# Misc
+culture = bazirk
+religion = mahktah
+
+
+# History
+1000.1.1 = {
+	b_kharlahura_castle = ca_keep_1
+	b_kharlahura_castle = ca_wall_1
+	b_kharlahura_city = ct_town_1
+	b_kharlahura_city = ct_wall_1
+}

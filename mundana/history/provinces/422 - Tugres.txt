@@ -1,0 +1,24 @@
+# Tugres
+
+# County Title
+title = c_tugres
+
+# Settlements
+max_settlements = 3
+
+b_tugres_castle = castle
+b_tugres_city = city
+b_tugres_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_tugres_castle = ca_keep_1
+	b_tugres_castle = ca_wall_1
+	b_tugres_city = ct_town_1
+	b_tugres_city = ct_wall_1
+}

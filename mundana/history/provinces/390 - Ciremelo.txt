@@ -1,0 +1,24 @@
+# Ciremelo
+
+# County Title
+title = c_ciremelo
+
+# Settlements
+max_settlements = 3
+
+b_ciremelo_castle = castle
+b_ciremelo_city = city
+b_ciremelo_temple = temple
+
+# Misc
+culture = melorier
+religion = cirza
+
+
+# History
+1000.1.1 = {
+	b_ciremelo_castle = ca_keep_1
+	b_ciremelo_castle = ca_wall_1
+	b_ciremelo_city = ct_town_1
+	b_ciremelo_city = ct_wall_1
+}

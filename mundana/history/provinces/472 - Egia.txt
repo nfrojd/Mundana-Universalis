@@ -1,0 +1,24 @@
+# Egia
+
+# County Title
+title = c_egia
+
+# Settlements
+max_settlements = 3
+
+b_egia_castle = castle
+b_egia_city = city
+b_egia_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_egia_castle = ca_keep_1
+	b_egia_castle = ca_wall_1
+	b_egia_city = ct_town_1
+	b_egia_city = ct_wall_1
+}

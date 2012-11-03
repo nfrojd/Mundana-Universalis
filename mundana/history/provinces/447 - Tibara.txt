@@ -1,0 +1,24 @@
+# Tibara
+
+# County Title
+title = c_tibara
+
+# Settlements
+max_settlements = 3
+
+b_tibara_castle = castle
+b_tibara_city = city
+b_tibara_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_tibara_castle = ca_keep_1
+	b_tibara_castle = ca_wall_1
+	b_tibara_city = ct_town_1
+	b_tibara_city = ct_wall_1
+}

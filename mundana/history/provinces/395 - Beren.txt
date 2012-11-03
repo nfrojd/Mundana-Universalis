@@ -1,0 +1,24 @@
+# Beren
+
+# County Title
+title = c_beren
+
+# Settlements
+max_settlements = 3
+
+b_beren_castle = castle
+b_beren_city = city
+b_beren_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_beren_castle = ca_keep_1
+	b_beren_castle = ca_wall_1
+	b_beren_city = ct_town_1
+	b_beren_city = ct_wall_1
+}

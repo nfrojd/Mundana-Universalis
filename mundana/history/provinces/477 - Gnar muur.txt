@@ -1,0 +1,24 @@
+# Gnar-Muur
+
+# County Title
+title = c_gnar_muur
+
+# Settlements
+max_settlements = 3
+
+b_gnar_muur_castle = castle
+b_gnar_muur_city = city
+b_gnar_muur_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_gnar_muur_castle = ca_keep_1
+	b_gnar_muur_castle = ca_wall_1
+	b_gnar_muur_city = ct_town_1
+	b_gnar_muur_city = ct_wall_1
+}

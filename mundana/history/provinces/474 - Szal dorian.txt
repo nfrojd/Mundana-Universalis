@@ -1,0 +1,24 @@
+# Szal Dorian
+
+# County Title
+title = c_szal_dorian
+
+# Settlements
+max_settlements = 3
+
+b_szal_dorian_castle = castle
+b_szal_dorian_city = city
+b_szal_dorian_temple = temple
+
+# Misc
+culture = jargier
+religion = sabrian_daak
+
+
+# History
+1000.1.1 = {
+	b_szal_dorian_castle = ca_keep_1
+	b_szal_dorian_castle = ca_wall_1
+	b_szal_dorian_city = ct_town_1
+	b_szal_dorian_city = ct_wall_1
+}

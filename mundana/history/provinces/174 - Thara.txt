@@ -4,12 +4,15 @@
 title = c_thara
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 
 b_thara_castle = castle
 b_thara_city = city
 #b_thara_temple = temple
 #b_thara_castle_1 = castle
+b_thara_castle = castle
+b_thara_city = city
+b_thara_temple = temple
 
 # Misc
 culture = thalaskian
@@ -21,4 +24,8 @@ religion = antitheist
 	b_thara_castle = ca_keep_1
 	b_thara_castle = ca_wall_1
 	b_thara_city = ct_town_1
+	b_thara_castle = ca_keep_1
+	b_thara_castle = ca_wall_1
+	b_thara_city = ct_town_1
+	b_thara_city = ct_wall_1
 }
