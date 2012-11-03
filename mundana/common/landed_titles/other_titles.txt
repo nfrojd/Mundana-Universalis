@@ -8,14 +8,16 @@ k_kiaz = {
 	culture = ghor
 	
 	d_kiaz = {
-		color = { 4 253 179 }
-		color2 = { 5 218 192 }
+		color = { 79 206 249 }
+		color2 = { 66 132 244 }
 		
 		c_kiaz = {
-			color = { 41 137 153 }
-			color2 = { 3 210 135 }
+			color = { 111 178 252 }
+			color2 = { 89 129 231 }
 			
 			b_kiaz_castle = {}
+			b_kiaz_city = {}
+			b_kiaz_temple = {}
 		}
 	}
 }

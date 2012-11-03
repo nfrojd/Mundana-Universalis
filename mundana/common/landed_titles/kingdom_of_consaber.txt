@@ -19,12 +19,12 @@ e_consaber = {
 		sabrian_daak = 800
 
 		d_seredan = {
-			color = { 250 102 93 }
-			color2 = { 248 68 37 }
+			color = { 216 92 34 }
+			color2 = { 197 93 53 }
 			
 			c_dunreith = {
-				color = { 161 3 5 }
-				color2 = { 237 63 23 }
+				color = { 173 77 38 }
+				color2 = { 220 79 14 }
 				
 				b_dunreith_castle = {}
 				b_dunreith_st_faulk = {}
@@ -33,8 +33,8 @@ e_consaber = {
 				b_dunreith_city_1 = {}
 			}
 			c_skenetrip = {
-				color = { 173 58 125 }
-				color2 = { 241 35 47 }
+				color = { 165 62 49 }
+				color2 = { 244 101 93 }
 				
 				b_skenetrip_castle = {}
 				b_skenetrip_city = {}
@@ -42,8 +42,8 @@ e_consaber = {
 				b_skenetrip_castle_1 = {}
 			}
 			c_tene = {
-				color = { 230 7 47 }
-				color2 = { 174 0 95 }
+				color = { 150 0 94 }
+				color2 = { 217 94 114 }
 				
 				b_tene_castle = {}
 				b_tene_city = {}
@@ -52,23 +52,23 @@ e_consaber = {
 			}
 		}
 		d_rinya = {
-			color = { 241 48 24 }
-			color2 = { 156 73 59 }
+			color = { 172 52 19 }
+			color2 = { 191 109 72 }
 			
 			c_rinya = {
-				color = { 164 73 122 }
-				color2 = { 131 53 46 }
+				color = { 252 13 19 }
+				color2 = { 249 100 8 }
 				
 				b_rinya_temple = {}
 			}
 		}
 		d_firina = {
-			color = { 165 26 30 }
-			color2 = { 222 72 27 }
+			color = { 194 29 124 }
+			color2 = { 209 8 21 }
 			
 			c_firina = {
-				color = { 146 88 8 }
-				color2 = { 180 1 46 }
+				color = { 146 59 76 }
+				color2 = { 134 70 85 }
 				
 				b_firina_castle = {}
 				b_firina_city = {}
@@ -76,8 +76,8 @@ e_consaber = {
 				b_firina_castle_1 = {}
 			}
 			c_herika = {
-				color = { 175 53 42 }
-				color2 = { 144 24 24 }
+				color = { 224 7 106 }
+				color2 = { 198 2 42 }
 				
 				b_herika_castle = {}
 				b_herika_city = {}
@@ -85,8 +85,8 @@ e_consaber = {
 				b_herika_castle_1 = {}
 			}
 			c_mater = {
-				color = { 244 100 64 }
-				color2 = { 139 51 111 }
+				color = { 227 8 116 }
+				color2 = { 153 74 83 }
 				
 				b_mater_castle = {}
 				b_mater_city = {}
@@ -95,12 +95,12 @@ e_consaber = {
 			}
 		}
 		d_baton = {
-			color = { 184 61 112 }
-			color2 = { 234 8 5 }
+			color = { 243 64 86 }
+			color2 = { 240 33 94 }
 			
 			c_rimon = {
-				color = { 206 97 46 }
-				color2 = { 162 10 123 }
+				color = { 182 32 112 }
+				color2 = { 144 90 49 }
 				
 				b_rimon_castle = {}
 				b_rimon_city = {}
@@ -108,8 +108,8 @@ e_consaber = {
 				b_rimon_castle_1 = {}
 			}
 			c_dunbaton = {
-				color = { 157 28 105 }
-				color2 = { 246 91 110 }
+				color = { 218 72 43 }
+				color2 = { 248 37 69 }
 				
 				b_dunbaton_castle = {}
 				b_dunbaton_city = {}
@@ -117,8 +117,8 @@ e_consaber = {
 				b_dunbaton_castle_1 = {}
 			}
 			c_grikentulw = {
-				color = { 187 79 69 }
-				color2 = { 195 17 82 }
+				color = { 226 44 13 }
+				color2 = { 199 46 77 }
 				
 				b_grikentulw_castle = {}
 				b_grikentulw_city = {}
@@ -127,12 +127,12 @@ e_consaber = {
 			}
 		}
 		d_creten = {
-			color = { 164 48 116 }
-			color2 = { 138 89 28 }
+			color = { 204 22 38 }
+			color2 = { 141 65 64 }
 			
 			c_belos = {
-				color = { 233 59 85 }
-				color2 = { 253 121 120 }
+				color = { 146 43 81 }
+				color2 = { 135 1 27 }
 				
 				b_belos_castle = {}
 				b_belos_city = {}
@@ -140,8 +140,8 @@ e_consaber = {
 				b_belos_castle_1 = {}
 			}
 			c_kardor = {
-				color = { 186 65 4 }
-				color2 = { 240 71 118 }
+				color = { 155 47 82 }
+				color2 = { 206 40 108 }
 				
 				b_kardor_castle = {}
 				b_kardor_city = {}
@@ -149,8 +149,8 @@ e_consaber = {
 				b_kardor_castle_1 = {}
 			}
 			c_kalo = {
-				color = { 149 3 76 }
-				color2 = { 226 7 118 }
+				color = { 232 70 69 }
+				color2 = { 149 69 99 }
 				
 				b_kalo_castle = {}
 				b_kalo_castle_1 = {}
@@ -160,8 +160,8 @@ e_consaber = {
 				b_kalo_city_2 = {}
 			}
 			c_negel = {
-				color = { 140 54 73 }
-				color2 = { 171 45 24 }
+				color = { 213 80 108 }
+				color2 = { 191 114 11 }
 				
 				b_negel_castle = {}
 				b_negel_city = {}
@@ -169,8 +169,8 @@ e_consaber = {
 				b_negel_temple = {}
 			}
 			c_uriens = {
-				color = { 172 23 30 }
-				color2 = { 169 3 98 }
+				color = { 142 94 19 }
+				color2 = { 250 71 99 }
 				
 				b_uriens_castle = {}
 				b_uriens_city = {}
@@ -179,8 +179,8 @@ e_consaber = {
 				b_uriens_castle_1 = {}
 			}
 			c_jaimon = {
-				color = { 242 51 90 }
-				color2 = { 130 41 82 }
+				color = { 212 52 19 }
+				color2 = { 129 104 9 }
 				
 				b_jaimon_castle = {}
 				b_jaimon_city = {}
@@ -189,12 +189,12 @@ e_consaber = {
 			}
 		}
 		d_alni = {
-			color = { 163 24 69 }
-			color2 = { 134 5 12 }
+			color = { 250 51 76 }
+			color2 = { 158 15 13 }
 			
 			c_emnau = {
-				color = { 230 73 89 }
-				color2 = { 143 62 22 }
+				color = { 146 118 70 }
+				color2 = { 165 79 73 }
 				
 				b_emnau_castle = {}
 				b_emnau_city = {}
@@ -202,8 +202,8 @@ e_consaber = {
 				b_emnau_castle_1 = {}
 			}
 			c_aladene = {
-				color = { 224 54 83 }
-				color2 = { 231 116 127 }
+				color = { 165 80 39 }
+				color2 = { 133 45 79 }
 				
 				b_aladene_castle = {}
 				b_aladene_city = {}
@@ -211,8 +211,8 @@ e_consaber = {
 				b_aladene_castle_1 = {}
 			}
 			c_tesel = {
-				color = { 231 71 103 }
-				color2 = { 209 10 94 }
+				color = { 155 22 62 }
+				color2 = { 165 26 92 }
 				
 				b_tesel_castle = {}
 				b_tesel_city = {}
@@ -220,8 +220,8 @@ e_consaber = {
 				b_tesel_temple = {}
 			}
 			c_aliana = {
-				color = { 216 79 1 }
-				color2 = { 205 1 40 }
+				color = { 254 67 28 }
+				color2 = { 230 127 55 }
 				
 				b_aliana_castle = {}
 				b_aliana_city = {}
@@ -231,12 +231,12 @@ e_consaber = {
 			}
 		}
 		d_nantien = {
-			color = { 166 46 76 }
-			color2 = { 159 67 102 }
+			color = { 144 19 76 }
+			color2 = { 145 55 106 }
 			
 			c_silersham = {
-				color = { 143 1 12 }
-				color2 = { 253 23 124 }
+				color = { 185 51 28 }
+				color2 = { 171 127 5 }
 				
 				b_silersham_castle = {}
 				b_silersham_city = {}
@@ -244,8 +244,8 @@ e_consaber = {
 				b_silersham_castle_1 = {}
 			}
 			c_ebrean = {
-				color = { 169 21 126 }
-				color2 = { 215 68 114 }
+				color = { 223 50 69 }
+				color2 = { 187 53 72 }
 				
 				b_ebrean_castle = {}
 				b_ebrean_city = {}
@@ -253,8 +253,8 @@ e_consaber = {
 				b_ebrean_castle_1 = {}
 			}
 			c_welea = {
-				color = { 182 60 99 }
-				color2 = { 236 112 41 }
+				color = { 171 68 96 }
+				color2 = { 195 82 109 }
 				
 				b_welea_castle = {}
 				b_welea_city = {}
@@ -262,8 +262,8 @@ e_consaber = {
 				b_welea_castle_1 = {}
 			}
 			c_salston_tor = {
-				color = { 178 22 82 }
-				color2 = { 229 79 47 }
+				color = { 148 83 57 }
+				color2 = { 170 45 22 }
 				
 				b_salston_tor_castle = {}
 				b_salston_tor_city = {}
@@ -286,12 +286,12 @@ e_consaber = {
 		sabrian_daak = 800
 
 		d_turin = {
-			color = { 101 188 2 }
-			color2 = { 12 206 100 }
+			color = { 55 249 28 }
+			color2 = { 30 227 13 }
 			
 			c_korina = {
-				color = { 150 1 27 }
-				color2 = { 180 63 51 }
+				color = { 208 62 123 }
+				color2 = { 224 126 46 }
 				
 				b_korina_castle = {}
 				b_korina_city = {}
@@ -299,8 +299,8 @@ e_consaber = {
 				b_korina_castle_1 = {}
 			}
 			c_kiril = {
-				color = { 226 87 23 }
-				color2 = { 138 47 102 }
+				color = { 129 15 39 }
+				color2 = { 251 120 22 }
 				
 				b_kiril_castle = {}
 				b_kiril_city = {}
@@ -308,8 +308,8 @@ e_consaber = {
 				b_kiril_castle_1 = {}
 			}
 			c_turina = {
-				color = { 237 83 59 }
-				color2 = { 163 127 86 }
+				color = { 221 91 51 }
+				color2 = { 175 94 49 }
 				
 				b_turina_castle = {}
 				b_turina_city = {}
@@ -318,8 +318,8 @@ e_consaber = {
 				b_turina_castle_1 = {}
 			}
 			c_vimbern = {
-				color = { 220 68 99 }
-				color2 = { 221 81 120 }
+				color = { 253 69 52 }
+				color2 = { 191 26 44 }
 				
 				b_vimbern_castle = {}
 				b_vimbern_city = {}
@@ -327,8 +327,8 @@ e_consaber = {
 				b_vimbern_castle_1 = {}
 			}
 			c_tuirn = {
-				color = { 145 64 116 }
-				color2 = { 161 81 103 }
+				color = { 174 19 43 }
+				color2 = { 145 100 125 }
 				
 				b_tuirn_castle = {}
 				b_tuirn_city = {}
@@ -337,12 +337,12 @@ e_consaber = {
 			}
 		}
 		d_nol = {
-			color = { 66 152 54 }
-			color2 = { 76 169 74 }
+			color = { 64 153 65 }
+			color2 = { 77 239 18 }
 			
 			c_thia = {
-				color = { 221 79 11 }
-				color2 = { 198 41 43 }
+				color = { 241 2 18 }
+				color2 = { 249 93 60 }
 				
 				b_thia_castle = {}
 				b_thia_city = {}
@@ -350,8 +350,8 @@ e_consaber = {
 				b_thia_castle_1 = {}
 			}
 			c_fhix = {
-				color = { 239 55 89 }
-				color2 = { 193 120 19 }
+				color = { 239 41 30 }
+				color2 = { 235 92 124 }
 				
 				b_fhix_castle = {}
 				b_fhix_city = {}
@@ -359,8 +359,8 @@ e_consaber = {
 				b_fhix_castle_1 = {}
 			}
 			c_ghia = {
-				color = { 175 102 105 }
-				color2 = { 163 6 13 }
+				color = { 176 56 110 }
+				color2 = { 215 37 109 }
 				
 				b_ghia_castle = {}
 				b_ghia_city = {}
@@ -369,12 +369,12 @@ e_consaber = {
 			}
 		}
 		d_ebrin = {
-			color = { 114 252 68 }
-			color2 = { 101 145 67 }
+			color = { 56 189 112 }
+			color2 = { 3 230 114 }
 			
 			c_dunres = {
-				color = { 151 103 86 }
-				color2 = { 210 114 118 }
+				color = { 208 50 120 }
+				color2 = { 242 48 38 }
 				
 				b_dunres_castle = {}
 				b_dunres_city = {}
@@ -382,8 +382,8 @@ e_consaber = {
 				b_dunres_castle_1 = {}
 			}
 			c_fen = {
-				color = { 158 95 11 }
-				color2 = { 183 114 98 }
+				color = { 179 90 29 }
+				color2 = { 197 119 75 }
 				
 				b_fen_castle = {}
 				b_fen_city = {}
@@ -391,8 +391,8 @@ e_consaber = {
 				b_fen_castle_1 = {}
 			}
 			c_ehgine = {
-				color = { 176 32 94 }
-				color2 = { 225 3 83 }
+				color = { 135 124 79 }
+				color2 = { 170 64 26 }
 				
 				b_ehgine_castle = {}
 				b_ehgine_city = {}
@@ -400,8 +400,8 @@ e_consaber = {
 				b_ehgine_castle_1 = {}
 			}
 			c_salni = {
-				color = { 238 120 1 }
-				color2 = { 160 117 65 }
+				color = { 212 65 43 }
+				color2 = { 198 32 44 }
 				
 				b_salni_castle = {}
 				b_salni_city = {}
@@ -423,12 +423,12 @@ e_consaber = {
 		sabrian_daak = 800
 
 		d_vimna = {
-			color = { 131 32 35 }
-			color2 = { 216 1 63 }
+			color = { 242 67 90 }
+			color2 = { 174 11 120 }
 			
 			c_meredith = {
-				color = { 129 57 11 }
-				color2 = { 238 104 127 }
+				color = { 184 59 3 }
+				color2 = { 186 19 49 }
 				
 				b_meredith_castle = {}
 				b_meredith_city = {}
@@ -436,8 +436,8 @@ e_consaber = {
 				b_meredith_castle_1 = {}
 			}
 			c_iriant = {
-				color = { 238 49 34 }
-				color2 = { 238 0 94 }
+				color = { 244 19 71 }
+				color2 = { 197 110 104 }
 				
 				b_iriant_castle = {}
 				b_iriant_city = {}
@@ -445,8 +445,8 @@ e_consaber = {
 				b_iriant_castle_1 = {}
 			}
 			c_myndar = {
-				color = { 192 29 95 }
-				color2 = { 248 98 92 }
+				color = { 190 92 77 }
+				color2 = { 205 4 44 }
 				
 				b_myndar_castle = {}
 				b_myndar_city = {}
@@ -456,12 +456,12 @@ e_consaber = {
 			}
 		}
 		d_prowe = {
-			color = { 252 50 108 }
-			color2 = { 206 91 11 }
+			color = { 186 60 23 }
+			color2 = { 222 35 109 }
 			
 			c_varna = {
-				color = { 171 100 91 }
-				color2 = { 196 15 50 }
+				color = { 243 90 99 }
+				color2 = { 185 39 73 }
 				
 				b_varna_castle = {}
 				b_varna_city = {}
@@ -469,8 +469,8 @@ e_consaber = {
 				b_varna_castle_1 = {}
 			}
 			c_dann = {
-				color = { 168 49 16 }
-				color2 = { 172 18 19 }
+				color = { 185 17 103 }
+				color2 = { 201 39 39 }
 				
 				b_dann_castle = {}
 				b_dann_city = {}
@@ -478,8 +478,8 @@ e_consaber = {
 				b_dann_castle_1 = {}
 			}
 			c_drafe = {
-				color = { 211 24 38 }
-				color2 = { 208 13 52 }
+				color = { 249 83 29 }
+				color2 = { 163 23 90 }
 				
 				b_drafe_castle = {}
 				b_drafe_city = {}
@@ -488,20 +488,20 @@ e_consaber = {
 			}
 		}
 		d_tarna = {
-			color = { 154 22 87 }
-			color2 = { 130 51 100 }
+			color = { 231 116 66 }
+			color2 = { 251 47 51 }
 			
 			c_treigh = {
-				color = { 244 56 48 }
-				color2 = { 137 63 21 }
+				color = { 157 116 0 }
+				color2 = { 193 116 107 }
 				
 				b_treigh_castle = {}
 				b_treigh_city = {}
 				b_treigh_temple = {}
 			}
 			c_laerika = {
-				color = { 236 111 50 }
-				color2 = { 160 62 10 }
+				color = { 228 5 102 }
+				color2 = { 219 47 116 }
 				
 				b_laerika_castle = {}
 				b_laerika_city = {}
@@ -509,8 +509,8 @@ e_consaber = {
 				b_laerika_castle_1 = {}
 			}
 			c_grike = {
-				color = { 166 91 75 }
-				color2 = { 179 99 92 }
+				color = { 220 37 12 }
+				color2 = { 140 36 61 }
 				
 				b_grike_castle = {}
 				b_grike_city = {}
@@ -519,24 +519,24 @@ e_consaber = {
 			}
 		}
 		d_colm = {
-			color = { 17 236 179 }
-			color2 = { 89 154 208 }
+			color = { 79 148 156 }
+			color2 = { 71 162 181 }
 			
 			c_colm = {
-				color = { 179 116 82 }
-				color2 = { 130 31 87 }
+				color = { 251 3 102 }
+				color2 = { 149 121 10 }
 				
 				b_remezior_krack = {}
 				b_kholam_renk_ghor = {}
 			}
 		}
 		d_ramnesney = {
-			color = { 250 43 58 }
-			color2 = { 128 118 113 }
+			color = { 177 55 64 }
+			color2 = { 162 47 8 }
 			
 			c_ramnesney = {
-				color = { 223 11 116 }
-				color2 = { 135 82 22 }
+				color = { 154 113 88 }
+				color2 = { 178 123 88 }
 				
 				b_ramnesney_castle = {}
 				b_ramnesney_city = {}
@@ -545,8 +545,8 @@ e_consaber = {
 				b_ramnesney_city_1 = {}
 			}
 			c_negan = {
-				color = { 156 120 17 }
-				color2 = { 206 93 53 }
+				color = { 236 83 127 }
+				color2 = { 203 0 52 }
 				
 				b_negan_castle = {}
 				b_negan_city = {}
@@ -554,8 +554,8 @@ e_consaber = {
 				b_negan_castle_1 = {}
 			}
 			c_laer = {
-				color = { 157 89 86 }
-				color2 = { 140 126 60 }
+				color = { 191 34 28 }
+				color2 = { 208 118 64 }
 				
 				b_laer_castle = {}
 				b_laer_city = {}
@@ -563,8 +563,8 @@ e_consaber = {
 				b_laer_castle_1 = {}
 			}
 			c_wella = {
-				color = { 174 73 80 }
-				color2 = { 246 22 65 }
+				color = { 161 63 1 }
+				color2 = { 180 19 95 }
 				
 				b_wella_castle = {}
 				b_wella_city = {}
@@ -573,12 +573,12 @@ e_consaber = {
 			}
 		}
 		d_nensen = {
-			color = { 195 112 9 }
-			color2 = { 246 43 102 }
+			color = { 164 28 67 }
+			color2 = { 242 124 8 }
 			
 			c_bret = {
-				color = { 129 77 7 }
-				color2 = { 237 63 50 }
+				color = { 197 110 53 }
+				color2 = { 176 59 14 }
 				
 				b_bret_castle = {}
 				b_bret_city = {}
@@ -586,8 +586,8 @@ e_consaber = {
 				b_bret_castle_1 = {}
 			}
 			c_nann = {
-				color = { 197 5 33 }
-				color2 = { 140 43 23 }
+				color = { 153 51 122 }
+				color2 = { 175 107 45 }
 				
 				b_nann_castle = {}
 				b_nann_city = {}
@@ -595,8 +595,8 @@ e_consaber = {
 				b_nann_castle_1 = {}
 			}
 			c_nensema = {
-				color = { 181 77 126 }
-				color2 = { 176 94 99 }
+				color = { 197 16 41 }
+				color2 = { 216 32 19 }
 				
 				b_nensema_castle = {}
 				b_nensema_city = {}
@@ -606,12 +606,12 @@ e_consaber = {
 			}
 		}
 		d_rim = {
-			color = { 137 73 22 }
-			color2 = { 186 115 42 }
+			color = { 161 88 108 }
+			color2 = { 152 89 26 }
 			
 			c_marnoc = {
-				color = { 160 1 55 }
-				color2 = { 250 89 112 }
+				color = { 202 37 66 }
+				color2 = { 254 89 36 }
 				
 				b_marnoc_castle = {}
 				b_marnoc_city = {}
@@ -619,8 +619,8 @@ e_consaber = {
 				b_marnoc_castle_1 = {}
 			}
 			c_vormon = {
-				color = { 211 45 30 }
-				color2 = { 234 2 115 }
+				color = { 176 102 39 }
+				color2 = { 156 110 5 }
 				
 				b_vormon_castle = {}
 				b_vormon_city = {}
@@ -628,8 +628,8 @@ e_consaber = {
 				b_vormon_castle_1 = {}
 			}
 			c_alarik = {
-				color = { 207 33 77 }
-				color2 = { 254 5 12 }
+				color = { 202 50 60 }
+				color2 = { 186 3 47 }
 				
 				b_alarik_castle = {}
 				b_alarik_city = {}
@@ -637,8 +637,8 @@ e_consaber = {
 				b_alarik_castle_1 = {}
 			}
 			c_finvarik = {
-				color = { 215 111 126 }
-				color2 = { 141 14 57 }
+				color = { 171 73 38 }
+				color2 = { 215 73 99 }
 				
 				b_finvarik_castle = {}
 				b_finvarik_city = {}
@@ -660,12 +660,12 @@ e_consaber = {
 		sabrian_daak = 800
 
 		d_negin = {
-			color = { 223 29 70 }
-			color2 = { 143 122 108 }
+			color = { 175 29 15 }
+			color2 = { 219 64 122 }
 			
 			c_fene = {
-				color = { 218 116 58 }
-				color2 = { 140 54 121 }
+				color = { 147 102 86 }
+				color2 = { 129 93 103 }
 				
 				b_fene_castle = {}
 				b_fene_city = {}
@@ -673,8 +673,8 @@ e_consaber = {
 				b_fene_castle_1 = {}
 			}
 			c_saiwick = {
-				color = { 168 57 61 }
-				color2 = { 136 17 67 }
+				color = { 186 46 6 }
+				color2 = { 164 31 32 }
 				
 				b_saiwick_castle = {}
 				b_saiwick_city = {}
@@ -682,8 +682,8 @@ e_consaber = {
 				b_saiwick_castle_1 = {}
 			}
 			c_calo = {
-				color = { 128 90 3 }
-				color2 = { 199 108 101 }
+				color = { 229 94 6 }
+				color2 = { 148 8 66 }
 				
 				b_calo_castle = {}
 				b_calo_city = {}
@@ -691,8 +691,8 @@ e_consaber = {
 				b_calo_castle_1 = {}
 			}
 			c_nana = {
-				color = { 155 124 48 }
-				color2 = { 221 37 21 }
+				color = { 203 86 107 }
+				color2 = { 161 105 15 }
 				
 				b_nana_castle = {}
 				b_nana_city = {}
@@ -701,12 +701,12 @@ e_consaber = {
 			}
 		}
 		d_tresna = {
-			color = { 200 54 95 }
-			color2 = { 180 9 49 }
+			color = { 151 80 17 }
+			color2 = { 180 114 109 }
 			
 			c_serurik = {
-				color = { 218 62 113 }
-				color2 = { 197 64 24 }
+				color = { 243 122 58 }
+				color2 = { 211 88 24 }
 				
 				b_serurik_castle = {}
 				b_serurik_city = {}
@@ -714,8 +714,8 @@ e_consaber = {
 				b_serurik_castle_1 = {}
 			}
 			c_mela = {
-				color = { 190 64 81 }
-				color2 = { 236 124 44 }
+				color = { 133 106 93 }
+				color2 = { 156 71 115 }
 				
 				b_mela_castle = {}
 				b_mela_city = {}
@@ -723,8 +723,8 @@ e_consaber = {
 				b_mela_castle_1 = {}
 			}
 			c_negaidh = {
-				color = { 232 68 19 }
-				color2 = { 194 125 102 }
+				color = { 195 72 2 }
+				color2 = { 167 9 95 }
 				
 				b_negaidh_castle = {}
 				b_negaidh_city = {}
@@ -732,8 +732,8 @@ e_consaber = {
 				b_negaidh_castle_1 = {}
 			}
 			c_aganne = {
-				color = { 206 24 88 }
-				color2 = { 218 127 22 }
+				color = { 164 49 113 }
+				color2 = { 178 3 52 }
 				
 				b_aganne_castle = {}
 				b_aganne_city = {}
@@ -742,12 +742,12 @@ e_consaber = {
 			}
 		}
 		d_flarne = {
-			color = { 131 73 40 }
-			color2 = { 185 110 92 }
+			color = { 213 32 86 }
+			color2 = { 142 42 74 }
 			
 			c_faimon = {
-				color = { 220 3 100 }
-				color2 = { 193 33 15 }
+				color = { 137 115 40 }
+				color2 = { 227 44 51 }
 				
 				b_faimon_castle = {}
 				b_faimon_city = {}
@@ -755,8 +755,8 @@ e_consaber = {
 				b_faimon_castle_1 = {}
 			}
 			c_regant = {
-				color = { 170 87 94 }
-				color2 = { 164 100 19 }
+				color = { 162 79 29 }
+				color2 = { 165 17 56 }
 				
 				b_regant_castle = {}
 				b_regant_city = {}
@@ -764,8 +764,8 @@ e_consaber = {
 				b_regant_castle_1 = {}
 			}
 			c_mirnas = {
-				color = { 192 109 83 }
-				color2 = { 167 10 122 }
+				color = { 149 49 63 }
+				color2 = { 191 47 109 }
 				
 				b_mirnas_castle = {}
 				b_mirnas_city = {}
@@ -774,12 +774,12 @@ e_consaber = {
 			}
 		}
 		d_arsacke = {
-			color = { 235 109 19 }
-			color2 = { 145 21 55 }
+			color = { 151 24 41 }
+			color2 = { 150 111 76 }
 			
 			c_kirine = {
-				color = { 131 19 41 }
-				color2 = { 170 29 66 }
+				color = { 155 115 91 }
+				color2 = { 201 36 102 }
 				
 				b_kirine_castle = {}
 				b_kirine_city = {}
@@ -787,8 +787,8 @@ e_consaber = {
 				b_kirine_castle_1 = {}
 			}
 			c_ornia = {
-				color = { 219 97 61 }
-				color2 = { 141 15 101 }
+				color = { 130 124 105 }
+				color2 = { 232 27 112 }
 				
 				b_ornia_castle = {}
 				b_ornia_city = {}
@@ -796,8 +796,8 @@ e_consaber = {
 				b_ornia_castle_1 = {}
 			}
 			c_rebenn = {
-				color = { 248 6 8 }
-				color2 = { 195 71 95 }
+				color = { 224 124 15 }
+				color2 = { 132 80 33 }
 				
 				b_rebenn_castle = {}
 				b_rebenn_city = {}
@@ -806,12 +806,12 @@ e_consaber = {
 			}
 		}
 		d_alcheg = {
-			color = { 181 124 27 }
-			color2 = { 169 34 10 }
+			color = { 161 18 4 }
+			color2 = { 187 120 10 }
 			
 			c_alcheg = {
-				color = { 149 47 21 }
-				color2 = { 204 14 15 }
+				color = { 236 52 22 }
+				color2 = { 208 24 69 }
 				
 				b_alcheg_castle = {}
 				b_alcheg_city = {}
@@ -819,8 +819,8 @@ e_consaber = {
 				b_alcheg_castle_1 = {}
 			}
 			c_nelos = {
-				color = { 227 70 104 }
-				color2 = { 187 2 124 }
+				color = { 212 7 94 }
+				color2 = { 151 118 80 }
 				
 				b_nelos_castle = {}
 				b_nelos_city = {}
@@ -828,8 +828,8 @@ e_consaber = {
 				b_nelos_castle_1 = {}
 			}
 			c_ybersiel = {
-				color = { 128 112 22 }
-				color2 = { 192 7 34 }
+				color = { 191 29 30 }
+				color2 = { 201 9 28 }
 				
 				b_ybersiel_castle = {}
 				b_ybersiel_city = {}
@@ -838,12 +838,12 @@ e_consaber = {
 			}
 		}
 		d_laerm = {
-			color = { 133 49 39 }
-			color2 = { 197 118 34 }
+			color = { 220 107 102 }
+			color2 = { 153 123 70 }
 			
 			c_lareigh = {
-				color = { 197 8 94 }
-				color2 = { 236 4 67 }
+				color = { 178 74 27 }
+				color2 = { 215 117 120 }
 				
 				b_lareigh_castle = {}
 				b_lareigh_city = {}
@@ -851,8 +851,8 @@ e_consaber = {
 				b_lareigh_castle_1 = {}
 			}
 			c_deber = {
-				color = { 178 126 75 }
-				color2 = { 141 89 105 }
+				color = { 139 26 15 }
+				color2 = { 141 61 37 }
 				
 				b_deber_castle = {}
 				b_deber_city = {}
@@ -874,12 +874,12 @@ e_consaber = {
 		sabrian_daak = 900
 
 		d_felosi = {
-			color = { 220 1 91 }
-			color2 = { 183 43 0 }
+			color = { 247 18 61 }
+			color2 = { 222 71 100 }
 			
 			c_euter = {
-				color = { 149 122 50 }
-				color2 = { 162 97 100 }
+				color = { 151 57 20 }
+				color2 = { 140 110 84 }
 				
 				b_euter_castle = {}
 				b_euter_city = {}
@@ -887,8 +887,8 @@ e_consaber = {
 				b_euter_castle_1 = {}
 			}
 			c_fella = {
-				color = { 194 74 7 }
-				color2 = { 238 5 56 }
+				color = { 195 70 90 }
+				color2 = { 194 40 45 }
 				
 				b_fella_castle = {}
 				b_fella_city = {}
@@ -897,12 +897,12 @@ e_consaber = {
 			}
 		}
 		d_agant = {
-			color = { 249 101 72 }
-			color2 = { 149 113 52 }
+			color = { 221 13 9 }
+			color2 = { 166 93 98 }
 			
 			c_agant = {
-				color = { 154 40 75 }
-				color2 = { 242 100 48 }
+				color = { 243 0 115 }
+				color2 = { 183 35 7 }
 				
 				b_agant_castle = {}
 				b_agant_city = {}
@@ -910,8 +910,8 @@ e_consaber = {
 				b_agant_castle_1 = {}
 			}
 			c_kredant = {
-				color = { 154 13 45 }
-				color2 = { 253 67 47 }
+				color = { 224 123 94 }
+				color2 = { 149 44 67 }
 				
 				b_kredant_castle = {}
 				b_kredant_city = {}
@@ -919,8 +919,8 @@ e_consaber = {
 				b_kredant_castle_1 = {}
 			}
 			c_oldell = {
-				color = { 218 72 127 }
-				color2 = { 174 112 30 }
+				color = { 215 42 17 }
+				color2 = { 240 6 121 }
 				
 				b_oldell_castle = {}
 				b_oldell_city = {}
@@ -930,12 +930,12 @@ e_consaber = {
 			}
 		}
 		d_cralo = {
-			color = { 216 106 70 }
-			color2 = { 213 69 3 }
+			color = { 161 48 48 }
+			color2 = { 159 79 33 }
 			
 			c_orvina = {
-				color = { 142 78 25 }
-				color2 = { 216 100 19 }
+				color = { 221 85 81 }
+				color2 = { 225 51 23 }
 				
 				b_orvina_castle = {}
 				b_orvina_city = {}
@@ -943,8 +943,8 @@ e_consaber = {
 				b_orvina_castle_1 = {}
 			}
 			c_rebera = {
-				color = { 146 59 39 }
-				color2 = { 222 44 125 }
+				color = { 173 48 114 }
+				color2 = { 138 117 74 }
 				
 				b_rebera_castle = {}
 				b_rebera_city = {}
@@ -952,8 +952,8 @@ e_consaber = {
 				b_rebera_castle_1 = {}
 			}
 			c_picarel = {
-				color = { 214 76 69 }
-				color2 = { 230 102 14 }
+				color = { 183 117 93 }
+				color2 = { 197 24 14 }
 				
 				b_picarel_castle = {}
 				b_picarel_city = {}
@@ -961,8 +961,8 @@ e_consaber = {
 				b_picarel_castle_1 = {}
 			}
 			c_cralann = {
-				color = { 135 105 51 }
-				color2 = { 134 108 38 }
+				color = { 162 38 90 }
+				color2 = { 221 89 89 }
 				
 				b_cralann_castle = {}
 				b_cralann_city = {}
@@ -971,12 +971,12 @@ e_consaber = {
 			}
 		}
 		d_uter = {
-			color = { 215 52 58 }
-			color2 = { 171 14 119 }
+			color = { 167 57 99 }
+			color2 = { 249 120 97 }
 			
 			c_sema = {
-				color = { 251 64 125 }
-				color2 = { 250 23 15 }
+				color = { 222 118 91 }
+				color2 = { 162 63 66 }
 				
 				b_sema_temple = {}
 				b_sema_city = {}
@@ -984,8 +984,8 @@ e_consaber = {
 				b_sema_castle_1 = {}
 			}
 			c_ulw = {
-				color = { 228 38 79 }
-				color2 = { 132 14 116 }
+				color = { 192 2 114 }
+				color2 = { 201 13 90 }
 				
 				b_ulw_castle = {}
 				b_ulw_city = {}
@@ -993,8 +993,8 @@ e_consaber = {
 				b_ulw_castle_1 = {}
 			}
 			c_elara = {
-				color = { 169 33 5 }
-				color2 = { 242 50 67 }
+				color = { 151 79 84 }
+				color2 = { 216 100 49 }
 				
 				b_elara_castle = {}
 				b_elara_city = {}
@@ -1002,8 +1002,8 @@ e_consaber = {
 				b_elara_castle_1 = {}
 			}
 			c_turika = {
-				color = { 245 24 52 }
-				color2 = { 252 54 107 }
+				color = { 164 34 41 }
+				color2 = { 203 114 76 }
 				
 				b_turika_castle = {}
 				b_turika_city = {}
@@ -1012,12 +1012,12 @@ e_consaber = {
 			}
 		}
 		d_calnia = {
-			color = { 156 83 25 }
-			color2 = { 222 52 12 }
+			color = { 244 92 109 }
+			color2 = { 159 56 40 }
 			
 			c_sara = {
-				color = { 206 40 100 }
-				color2 = { 130 104 4 }
+				color = { 217 38 110 }
+				color2 = { 218 84 126 }
 				
 				b_sara_castle = {}
 				b_sara_city = {}
@@ -1025,8 +1025,8 @@ e_consaber = {
 				b_sara_castle_1 = {}
 			}
 			c_calnia = {
-				color = { 171 69 108 }
-				color2 = { 203 40 32 }
+				color = { 247 98 68 }
+				color2 = { 163 59 71 }
 				
 				b_calnia_castle = {}
 				b_calnia_city = {}
@@ -1036,8 +1036,8 @@ e_consaber = {
 				b_calnia_city_1 = {}
 			}
 			c_alchegel = {
-				color = { 234 78 18 }
-				color2 = { 203 18 25 }
+				color = { 145 82 75 }
+				color2 = { 175 56 94 }
 				
 				b_alchegel_castle = {}
 				b_alchegel_city = {}
@@ -1045,8 +1045,8 @@ e_consaber = {
 				b_alchegel_temple = {}
 			}
 			c_cresnarney = {
-				color = { 165 121 10 }
-				color2 = { 228 89 98 }
+				color = { 192 26 56 }
+				color2 = { 223 114 107 }
 				
 				b_cresnarney_castle = {}
 				b_cresnarney_city = {}
@@ -1054,8 +1054,8 @@ e_consaber = {
 				b_cresnarney_castle_1 = {}
 			}
 			c_negellense = {
-				color = { 142 107 2 }
-				color2 = { 181 69 49 }
+				color = { 131 125 34 }
+				color2 = { 239 26 98 }
 				
 				b_negellense_castle = {}
 				b_negellense_city = {}
@@ -1063,8 +1063,8 @@ e_consaber = {
 				b_negellense_castle_1 = {}
 			}
 			c_hesne = {
-				color = { 232 84 79 }
-				color2 = { 133 98 78 }
+				color = { 194 49 106 }
+				color2 = { 204 14 75 }
 				
 				b_hesne_castle = {}
 				b_hesne_city = {}
@@ -1073,12 +1073,12 @@ e_consaber = {
 			}
 		}
 		d_skywif = {
-			color = { 141 66 62 }
-			color2 = { 241 116 114 }
+			color = { 179 94 2 }
+			color2 = { 214 8 107 }
 			
 			c_irinn = {
-				color = { 214 62 81 }
-				color2 = { 163 90 67 }
+				color = { 253 14 102 }
+				color2 = { 252 43 2 }
 				
 				b_irinn_castle = {}
 				b_irinn_city = {}
@@ -1086,8 +1086,8 @@ e_consaber = {
 				b_irinn_temple = {}
 			}
 			c_fileigh = {
-				color = { 218 43 110 }
-				color2 = { 192 100 21 }
+				color = { 165 18 102 }
+				color2 = { 129 93 100 }
 				
 				b_fileigh_castle = {}
 				b_fileigh_city = {}
@@ -1095,8 +1095,8 @@ e_consaber = {
 				b_fileigh_castle_1 = {}
 			}
 			c_alantulw = {
-				color = { 200 123 56 }
-				color2 = { 206 63 15 }
+				color = { 161 38 20 }
+				color2 = { 240 100 97 }
 				
 				b_alantulw_castle = {}
 				b_alantulw_city = {}
@@ -1104,8 +1104,8 @@ e_consaber = {
 				b_alantulw_temple = {}
 			}
 			c_urekeny = {
-				color = { 213 117 70 }
-				color2 = { 206 63 27 }
+				color = { 202 113 113 }
+				color2 = { 228 51 38 }
 				
 				b_urekeny_castle = {}
 				b_urekeny_city = {}

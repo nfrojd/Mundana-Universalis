@@ -8,12 +8,12 @@ k_alarinn = {
 	culture = learam
 	
 	d_sydlanden = {
-		color = { 83 220 1 }
-		color2 = { 68 242 66 }
+		color = { 98 225 117 }
+		color2 = { 39 131 72 }
 		
 		c_sydlanden_3 = {
-			color = { 18 176 46 }
-			color2 = { 24 205 117 }
+			color = { 37 191 115 }
+			color2 = { 91 143 85 }
 			
 			b_sydlanden_3_castle = {}
 			b_sydlanden_3_city = {}
@@ -21,8 +21,8 @@ k_alarinn = {
 			b_sydlanden_3_castle_1 = {}
 		}
 		c_sydlanden_1 = {
-			color = { 107 178 97 }
-			color2 = { 104 251 34 }
+			color = { 6 232 97 }
+			color2 = { 72 171 15 }
 			
 			b_sydlanden_1_castle = {}
 			b_sydlanden_1_city = {}
@@ -30,8 +30,8 @@ k_alarinn = {
 			b_sydlanden_1_castle_1 = {}
 		}
 		c_tileinn = {
-			color = { 86 223 17 }
-			color2 = { 45 191 27 }
+			color = { 29 181 68 }
+			color2 = { 122 131 122 }
 			
 			b_tileinn_castle = {}
 			b_tileinn_city = {}
@@ -39,8 +39,8 @@ k_alarinn = {
 			b_tileinn_castle_1 = {}
 		}
 		c_nan_sela = {
-			color = { 114 235 2 }
-			color2 = { 47 206 102 }
+			color = { 85 227 65 }
+			color2 = { 63 148 81 }
 			
 			b_nan_sela_castle = {}
 			b_nan_sela_city = {}
@@ -49,12 +49,12 @@ k_alarinn = {
 		}
 	}
 	d_nordlanden = {
-		color = { 50 194 114 }
-		color2 = { 125 187 18 }
+		color = { 76 220 103 }
+		color2 = { 20 146 86 }
 		
 		c_niefinse = {
-			color = { 86 246 18 }
-			color2 = { 18 192 30 }
+			color = { 95 199 122 }
+			color2 = { 1 228 72 }
 			
 			b_niefinse_castle = {}
 			b_niefinse_city = {}
@@ -62,8 +62,8 @@ k_alarinn = {
 			b_niefinse_castle_1 = {}
 		}
 		c_chuana = {
-			color = { 75 203 118 }
-			color2 = { 71 135 0 }
+			color = { 113 193 14 }
+			color2 = { 28 138 80 }
 			
 			b_chuana_castle = {}
 			b_chuana_city = {}
@@ -71,8 +71,8 @@ k_alarinn = {
 			b_chuana_castle_1 = {}
 		}
 		c_mulaigh = {
-			color = { 97 150 24 }
-			color2 = { 110 133 95 }
+			color = { 59 223 117 }
+			color2 = { 115 222 74 }
 			
 			b_mulaigh_castle = {}
 			b_mulaigh_city = {}
@@ -80,8 +80,8 @@ k_alarinn = {
 			b_mulaigh_castle_1 = {}
 		}
 		c_daldrach = {
-			color = { 120 147 40 }
-			color2 = { 125 136 5 }
+			color = { 51 166 80 }
+			color2 = { 83 136 93 }
 			
 			b_daldrach_castle = {}
 			b_daldrach_city = {}
@@ -90,12 +90,12 @@ k_alarinn = {
 		}
 	}
 	d_vastlanden = {
-		color = { 26 243 29 }
-		color2 = { 68 201 43 }
+		color = { 32 159 45 }
+		color2 = { 31 229 120 }
 		
 		c_kentai_y = {
-			color = { 83 224 106 }
-			color2 = { 85 198 71 }
+			color = { 98 196 28 }
+			color2 = { 99 165 124 }
 			
 			b_kentai_y_castle = {}
 			b_kentai_y_city = {}
@@ -103,8 +103,8 @@ k_alarinn = {
 			b_kentai_y_castle_1 = {}
 		}
 		c_samaidh = {
-			color = { 14 178 127 }
-			color2 = { 55 168 71 }
+			color = { 42 157 26 }
+			color2 = { 109 187 72 }
 			
 			b_samaidh_castle = {}
 			b_samaidh_city = {}
@@ -112,8 +112,8 @@ k_alarinn = {
 			b_samaidh_castle_1 = {}
 		}
 		c_vastlanden = {
-			color = { 112 225 41 }
-			color2 = { 120 253 96 }
+			color = { 55 134 110 }
+			color2 = { 63 252 126 }
 			
 			b_vastlanden_castle = {}
 			b_vastlanden_city = {}
@@ -121,8 +121,8 @@ k_alarinn = {
 			b_vastlanden_castle_1 = {}
 		}
 		c_kinyen_sina = {
-			color = { 64 233 88 }
-			color2 = { 22 222 57 }
+			color = { 74 200 92 }
+			color2 = { 25 217 37 }
 			
 			b_kinyen_sina_castle = {}
 			b_kinyen_sina_city = {}
@@ -131,12 +131,12 @@ k_alarinn = {
 		}
 	}
 	d_hoglanden = {
-		color = { 60 247 116 }
-		color2 = { 26 227 45 }
+		color = { 39 194 95 }
+		color2 = { 99 208 41 }
 		
 		c_silarna = {
-			color = { 42 242 36 }
-			color2 = { 51 167 20 }
+			color = { 15 168 16 }
+			color2 = { 27 131 110 }
 			
 			b_silarna_castle = {}
 			b_silarna_city = {}
@@ -144,8 +144,8 @@ k_alarinn = {
 			b_silarna_castle_1 = {}
 		}
 		c_sianskogen = {
-			color = { 13 162 5 }
-			color2 = { 118 208 73 }
+			color = { 97 210 87 }
+			color2 = { 65 173 76 }
 			
 			b_sianskogen_castle = {}
 			b_sianskogen_city = {}
@@ -153,8 +153,8 @@ k_alarinn = {
 			b_sianskogen_castle_1 = {}
 		}
 		c_siana = {
-			color = { 66 209 66 }
-			color2 = { 67 171 56 }
+			color = { 86 184 51 }
+			color2 = { 27 207 66 }
 			
 			b_siana_castle = {}
 			b_siana_city = {}
@@ -162,8 +162,8 @@ k_alarinn = {
 			b_siana_castle_1 = {}
 		}
 		c_alaripasset = {
-			color = { 15 160 73 }
-			color2 = { 77 238 32 }
+			color = { 105 251 67 }
+			color2 = { 54 132 47 }
 			
 			b_alaripasset_castle = {}
 			b_alaripasset_city = {}

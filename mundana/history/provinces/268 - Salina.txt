@@ -4,9 +4,11 @@
 title = c_salina
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_salina_castle = castle
+b_salina_city = city
+b_salina_temple = temple
 
 # Misc
 culture = asharier
@@ -17,4 +19,6 @@ religion = samori
 1000.1.1 = {
 	b_salina_castle = ca_keep_1
 	b_salina_castle = ca_wall_1
+	b_salina_city = ct_town_1
+	b_salina_city = ct_wall_1
 }

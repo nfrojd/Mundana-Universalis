@@ -1,0 +1,21 @@
+k_kiaz = {
+	color = { 162 179 15 }
+	color2 = { 153 116 237 }
+	
+	capital = 312
+	
+	religion = vontar
+	culture = ghor
+	
+	d_kiaz = {
+		color = { 4 253 179 }
+		color2 = { 5 218 192 }
+		
+		c_kiaz = {
+			color = { 41 137 153 }
+			color2 = { 3 210 135 }
+			
+			b_kiaz_castle = {}
+		}
+	}
+}

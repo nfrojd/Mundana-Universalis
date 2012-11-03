@@ -4,9 +4,11 @@
 title = c_daan_hammal
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_daan_hammal_castle = castle
+b_daan_hammal_city = city
+b_daan_hammal_temple = temple
 
 # Misc
 culture = soldier
@@ -17,4 +19,6 @@ religion = samori
 1000.1.1 = {
 	b_daan_hammal_castle = ca_keep_1
 	b_daan_hammal_castle = ca_wall_1
+	b_daan_hammal_city = ct_town_1
+	b_daan_hammal_city = ct_wall_1
 }

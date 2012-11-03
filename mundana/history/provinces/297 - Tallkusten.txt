@@ -4,9 +4,11 @@
 title = c_tallkusten
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_tallkusten_castle = castle
+b_tallkusten_city = city
+b_tallkusten_temple = temple
 
 # Misc
 culture = soldier
@@ -17,4 +19,6 @@ religion = samori
 1000.1.1 = {
 	b_tallkusten_castle = ca_keep_1
 	b_tallkusten_castle = ca_wall_1
+	b_tallkusten_city = ct_town_1
+	b_tallkusten_city = ct_wall_1
 }

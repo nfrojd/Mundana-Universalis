@@ -1,0 +1,165 @@
+elven = {
+	graphical_culture = westerngfx
+
+	learam = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	pyar = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	thism = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	sanari = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	kiriya = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	henea = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Alean Belion Ceranidan Denalian Edarion Fialian Guderian Halarion Isanion Lunerian
+			Morollan Nomarian Oderen Renior Sineval Tearlan Uanir Virelan Ysanan
+		}
+		female_names = {
+			Avaliel Besiniel Ceranidel Deneliel Evinal Feleiel Gialari Hedaiel Ilian Letesse Mirya
+			Nyare Odesse Riana Siusad Tielesin Uliadi Vyssa Yviol
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

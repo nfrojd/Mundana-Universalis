@@ -1,24 +1,3 @@
-k_jarvskogen = {
-	color = { 95 102 235 }
-	color2 = { 172 240 141 }
-	
-	capital = 356
-	
-	religion = agnostic
-	culture = sanari
-	
-	d_jarvskogen = {
-		color = { 88 242 250 }
-		color2 = { 75 158 206 }
-		
-		c_jarvskogen = {
-			color = { 126 179 164 }
-			color2 = { 11 197 133 }
-			
-			b_jarvskogen_castle = {}
-		}
-	}
-}
 k_sunari = {
 	color = { 244 70 158 }
 	color2 = { 203 138 187 }
@@ -29,50 +8,64 @@ k_sunari = {
 	culture = sanari
 	
 	d_sunari = {
-		color = { 6 190 231 }
-		color2 = { 109 223 149 }
+		color = { 85 220 146 }
+		color2 = { 107 188 140 }
 		
 		c_sodra_sunari = {
-			color = { 107 218 197 }
-			color2 = { 38 183 225 }
+			color = { 106 187 186 }
+			color2 = { 104 214 128 }
 			
 			b_sodra_sunari_castle = {}
+			b_sodra_sunari_city = {}
+			b_sodra_sunari_temple = {}
 		}
 		c_halea = {
-			color = { 79 171 129 }
-			color2 = { 82 196 171 }
+			color = { 60 250 130 }
+			color2 = { 51 187 137 }
 			
 			b_halea_castle = {}
+			b_halea_city = {}
+			b_halea_temple = {}
 		}
 		c_sinai = {
-			color = { 14 200 160 }
-			color2 = { 59 158 215 }
+			color = { 43 214 204 }
+			color2 = { 45 214 252 }
 			
 			b_sinai_castle = {}
+			b_sinai_city = {}
+			b_sinai_temple = {}
 		}
 		c_ostra_sunari = {
-			color = { 99 213 159 }
-			color2 = { 74 253 138 }
+			color = { 49 217 250 }
+			color2 = { 60 144 157 }
 			
 			b_ostra_sunari_castle = {}
+			b_ostra_sunari_city = {}
+			b_ostra_sunari_temple = {}
 		}
 		c_vastra_sunari = {
-			color = { 65 200 152 }
-			color2 = { 5 156 154 }
+			color = { 66 141 160 }
+			color2 = { 63 237 180 }
 			
 			b_vastra_sunari_castle = {}
+			b_vastra_sunari_city = {}
+			b_vastra_sunari_temple = {}
 		}
 		c_norra_sunari = {
-			color = { 53 156 204 }
-			color2 = { 21 240 188 }
+			color = { 113 173 219 }
+			color2 = { 65 148 222 }
 			
 			b_norra_sunari_castle = {}
+			b_norra_sunari_city = {}
+			b_norra_sunari_temple = {}
 		}
 		c_emori = {
-			color = { 76 149 161 }
-			color2 = { 67 248 146 }
+			color = { 100 240 248 }
+			color2 = { 90 145 136 }
 			
 			b_emori_castle = {}
+			b_emori_city = {}
+			b_emori_temple = {}
 		}
 	}
 }

@@ -4,9 +4,11 @@
 title = c_haraziz_krack
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_haraziz_krack_castle = castle
+b_haraziz_krack_city = city
+b_haraziz_krack_temple = temple
 
 # Misc
 culture = caserier
@@ -17,4 +19,6 @@ religion = cirza
 1000.1.1 = {
 	b_haraziz_krack_castle = ca_keep_1
 	b_haraziz_krack_castle = ca_wall_1
+	b_haraziz_krack_city = ct_town_1
+	b_haraziz_krack_city = ct_wall_1
 }

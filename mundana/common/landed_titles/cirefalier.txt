@@ -8,78 +8,98 @@ k_caserion = {
 	culture = caserier
 	
 	d_rametzior_turak = {
-		color = { 84 166 192 }
-		color2 = { 81 176 206 }
+		color = { 55 153 138 }
+		color2 = { 126 155 246 }
 		
 		c_jhamalo_gedonia = {
-			color = { 5 150 234 }
-			color2 = { 113 169 147 }
+			color = { 125 140 199 }
+			color2 = { 13 228 222 }
 			
 			b_jhamalo_gedonia_castle = {}
+			b_jhamalo_gedonia_city = {}
+			b_jhamalo_gedonia_temple = {}
 		}
 		c_rametzior_turak = {
-			color = { 29 140 237 }
-			color2 = { 63 173 202 }
+			color = { 21 191 166 }
+			color2 = { 123 240 183 }
 			
 			b_rametzior_turak_castle = {}
+			b_rametzior_turak_city = {}
+			b_rametzior_turak_temple = {}
 		}
 		c_zaza = {
-			color = { 25 220 227 }
-			color2 = { 61 220 183 }
+			color = { 15 235 239 }
+			color2 = { 16 147 197 }
 			
 			b_zaza_castle = {}
+			b_zaza_city = {}
+			b_zaza_temple = {}
 		}
 		c_szaracon_tamatz = {
-			color = { 1 214 158 }
-			color2 = { 22 224 194 }
+			color = { 65 132 229 }
+			color2 = { 125 228 155 }
 			
 			b_szaracon_tamatz_castle = {}
+			b_szaracon_tamatz_city = {}
+			b_szaracon_tamatz_temple = {}
 		}
 	}
 	d_marek_pomian = {
-		color = { 48 243 164 }
-		color2 = { 111 168 201 }
+		color = { 83 219 132 }
+		color2 = { 89 216 211 }
 		
 		c_celturok_meloin = {
-			color = { 49 226 207 }
-			color2 = { 91 160 184 }
+			color = { 77 229 214 }
+			color2 = { 90 215 170 }
 			
 			b_celturok_meloin_castle = {}
+			b_celturok_meloin_city = {}
+			b_celturok_meloin_temple = {}
 		}
 		c_marek_pomian = {
-			color = { 9 200 188 }
-			color2 = { 94 228 237 }
+			color = { 74 213 171 }
+			color2 = { 60 205 150 }
 			
 			b_marek_pomian_castle = {}
+			b_marek_pomian_city = {}
+			b_marek_pomian_temple = {}
 		}
 		c_remzian_krack = {
-			color = { 69 188 176 }
-			color2 = { 59 128 210 }
+			color = { 65 223 251 }
+			color2 = { 28 151 230 }
 			
 			b_remzian_krack_castle = {}
+			b_remzian_krack_city = {}
+			b_remzian_krack_temple = {}
 		}
 	}
 	d_narzkar_falz = {
-		color = { 47 162 141 }
-		color2 = { 120 157 161 }
+		color = { 16 240 178 }
+		color2 = { 66 204 172 }
 		
 		c_zamm_daliz = {
-			color = { 31 214 253 }
-			color2 = { 98 132 219 }
+			color = { 27 221 181 }
+			color2 = { 76 207 219 }
 			
 			b_zamm_daliz_castle = {}
+			b_zamm_daliz_city = {}
+			b_zamm_daliz_temple = {}
 		}
 		c_narzkar_falz = {
-			color = { 71 167 144 }
-			color2 = { 122 152 223 }
+			color = { 98 215 211 }
+			color2 = { 37 213 218 }
 			
 			b_narzkar_falz_castle = {}
+			b_narzkar_falz_city = {}
+			b_narzkar_falz_temple = {}
 		}
 		c_haraziz_krack = {
-			color = { 45 232 186 }
-			color2 = { 89 233 198 }
+			color = { 42 136 202 }
+			color2 = { 36 191 184 }
 			
 			b_haraziz_krack_castle = {}
+			b_haraziz_krack_city = {}
+			b_haraziz_krack_temple = {}
 		}
 	}
 }

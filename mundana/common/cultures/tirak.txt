@@ -1,0 +1,87 @@
+tirak = {
+	graphical_culture = westerngfx
+	
+	marnakh = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Barakk Begakk Bomz Drugg Gathor Ghormz Gritzakk Harkk Hazakk Hraz Khomtakk Lathag
+			Maak Nehrimgag Ragimaz Rakkhaz Rhokkag Rukkaz Tazag Thaar Tomz Wagrikk Wegum Wezakk
+			Xakk Xogg Zatag Zethikk Zomakk Zuthzuth
+		}
+		female_names = {
+			Brakka Brikka Da EzkaFathama Fima Gorkka Haza Hirkkana Hokka Karkraza Lazua Loka Marazaka
+			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	bazirk = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Barakk Begakk Bomz Drugg Gathor Ghormz Gritzakk Harkk Hazakk Hraz Khomtakk Lathag
+			Maak Nehrimgag Ragimaz Rakkhaz Rhokkag Rukkaz Tazag Thaar Tomz Wagrikk Wegum Wezakk
+			Xakk Xogg Zatag Zethikk Zomakk Zuthzuth
+		}
+		female_names = {
+			Brakka Brikka Da EzkaFathama Fima Gorkka Haza Hirkkana Hokka Karkraza Lazua Loka Marazaka
+			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+	frakk = {
+		graphical_culture = englishgfx
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Barakk Begakk Bomz Drugg Gathor Ghormz Gritzakk Harkk Hazakk Hraz Khomtakk Lathag
+			Maak Nehrimgag Ragimaz Rakkhaz Rhokkag Rukkaz Tazag Thaar Tomz Wagrikk Wegum Wezakk
+			Xakk Xogg Zatag Zethikk Zomakk Zuthzuth
+		}
+		female_names = {
+			Brakka Brikka Da EzkaFathama Fima Gorkka Haza Hirkkana Hokka Karkraza Lazua Loka Marazaka
+			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
+		}
+
+		from_dynasty_prefix = "sìol "
+		
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

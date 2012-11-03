@@ -4,9 +4,11 @@
 title = c_valdus
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_valdus_castle = castle
+b_valdus_city = city
+b_valdus_temple = temple
 
 # Misc
 culture = drunokier
@@ -17,4 +19,6 @@ religion = samori
 1000.1.1 = {
 	b_valdus_castle = ca_keep_1
 	b_valdus_castle = ca_wall_1
+	b_valdus_city = ct_town_1
+	b_valdus_city = ct_wall_1
 }

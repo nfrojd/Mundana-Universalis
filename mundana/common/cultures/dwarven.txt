@@ -1,0 +1,115 @@
+dwarven = {
+	graphical_culture = westerngfx
+	
+	ghor = {
+		graphical_culture = norsegfx
+		
+		color = { 0.25 0.5 0.75 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	roghan = {
+		graphical_culture = norsegfx
+		
+		color = { 0.75 0.5 0.75 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	zolod = {
+		graphical_culture = norsegfx
+		
+		color = { 0.25 0.5 0.25 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 50
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+	
+	drezin = {
+		graphical_culture = norsegfx
+		
+		color = { 0.75 0.5 0.25 }
+
+		male_names = {
+			Borh Bzot Cesh Codher Dhirkh Drekh Farzim Fotz Ghesr Ghidh Hirzan Jem Jekh Kammer Khon
+			Kvorz Lirkh Liz Mikhaz Murh Narkh Nenk Parzim Pazer Rikh Rhurn Shuz Spez Thuzher
+			Tirzis Vikaz Vugh Zhammer Sihr
+		}
+		female_names = {
+			Thalez Unthar Roghan Marakh Khornan Vartakh Ramiz Unthar Zummer Thuman Gharan Mirun
+			Khunder Tyndar Verrat Menner Vihar Harzken
+		}
+
+		from_dynasty_prefix = "hus "
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 30
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 10
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+	}
+}

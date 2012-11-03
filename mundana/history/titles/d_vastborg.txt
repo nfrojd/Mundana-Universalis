@@ -2,5 +2,5 @@
 	liege="k_vastmark"
 }
 2950.1.1 = {
-	holder=102700
+	holder=105004
 }

@@ -4,9 +4,11 @@
 title = c_nelons_torp
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_nelons_torp_castle = castle
+b_nelons_torp_city = city
+b_nelons_torp_temple = temple
 
 # Misc
 culture = asharier
@@ -17,4 +19,6 @@ religion = samori
 1000.1.1 = {
 	b_nelons_torp_castle = ca_keep_1
 	b_nelons_torp_castle = ca_wall_1
+	b_nelons_torp_city = ct_town_1
+	b_nelons_torp_city = ct_wall_1
 }

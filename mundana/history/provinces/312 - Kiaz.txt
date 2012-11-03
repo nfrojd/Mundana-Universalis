@@ -4,9 +4,11 @@
 title = c_kiaz
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
 b_kiaz_castle = castle
+b_kiaz_city = city
+b_kiaz_temple = temple
 
 # Misc
 culture = ghor
@@ -17,4 +19,6 @@ religion = vontar
 1000.1.1 = {
 	b_kiaz_castle = ca_keep_1
 	b_kiaz_castle = ca_wall_1
+	b_kiaz_city = ct_town_1
+	b_kiaz_city = ct_wall_1
 }

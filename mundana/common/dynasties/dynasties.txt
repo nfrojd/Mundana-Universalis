@@ -115,3 +115,8 @@
 	name = "Thuman"
 	culture = ghor
 }
+
+5000 = {
+	name = "Tyldon"
+	culture = asharier
+}
