@@ -7583,7 +7583,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2956.1.1 = { add_spouse = 110701 }
@@ -7595,7 +7595,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7605,7 +7605,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2944.1.1 = { birth = 2944.1.1 }
 	2965.1.1 = { add_spouse = 110703 }
@@ -7617,7 +7617,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7627,7 +7627,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2946.1.1 = { birth = 2946.1.1 }
 	2960.1.1 = { add_spouse = 110705 }
@@ -7639,7 +7639,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2944.1.1 = { birth = 2944.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7649,7 +7649,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2937.1.1 = { birth = 2937.1.1 }
 	2949.1.1 = { add_spouse = 110707 }
@@ -7661,7 +7661,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7671,7 +7671,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2951.1.1 = { add_spouse = 110709 }
@@ -7683,7 +7683,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2935.1.1 = { birth = 2935.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7693,7 +7693,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2935.1.1 = { birth = 2935.1.1 }
 	2964.1.1 = { add_spouse = 110711 }
@@ -7705,7 +7705,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7715,7 +7715,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2943.1.1 = { birth = 2943.1.1 }
 	2956.1.1 = { add_spouse = 110713 }
@@ -7727,7 +7727,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7737,7 +7737,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2953.1.1 = { add_spouse = 110715 }
@@ -7749,7 +7749,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2937.1.1 = { birth = 2937.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7759,7 +7759,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2941.1.1 = { birth = 2941.1.1 }
 	2962.1.1 = { add_spouse = 110717 }
@@ -7771,7 +7771,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2946.1.1 = { birth = 2946.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7781,7 +7781,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2946.1.1 = { birth = 2946.1.1 }
 	2959.1.1 = { add_spouse = 110719 }
@@ -7793,7 +7793,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2943.1.1 = { birth = 2943.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7803,7 +7803,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2944.1.1 = { birth = 2944.1.1 }
 	2952.1.1 = { add_spouse = 110721 }
@@ -7815,7 +7815,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2936.1.1 = { birth = 2936.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7825,7 +7825,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2941.1.1 = { birth = 2941.1.1 }
 	2946.1.1 = { add_spouse = 110723 }
@@ -7837,7 +7837,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2930.1.1 = { birth = 2930.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7847,7 +7847,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2947.1.1 = { add_spouse = 110725 }
@@ -7859,7 +7859,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2931.1.1 = { birth = 2931.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7869,7 +7869,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2947.1.1 = { birth = 2947.1.1 }
 	2947.1.1 = { add_spouse = 110727 }
@@ -7881,7 +7881,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2931.1.1 = { birth = 2931.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7891,7 +7891,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2945.1.1 = { birth = 2945.1.1 }
 	2957.1.1 = { add_spouse = 110729 }
@@ -7903,7 +7903,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2941.1.1 = { birth = 2941.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7913,7 +7913,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2935.1.1 = { birth = 2935.1.1 }
 	2964.1.1 = { add_spouse = 110731 }
@@ -7925,7 +7925,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7935,7 +7935,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2950.1.1 = { add_spouse = 110733 }
@@ -7947,7 +7947,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2934.1.1 = { birth = 2934.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7957,7 +7957,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2946.1.1 = { birth = 2946.1.1 }
 	2957.1.1 = { add_spouse = 110735 }
@@ -7969,7 +7969,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2941.1.1 = { birth = 2941.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -7979,7 +7979,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2955.1.1 = { add_spouse = 110737 }
@@ -7991,7 +7991,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8001,7 +8001,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2945.1.1 = { birth = 2945.1.1 }
 	2956.1.1 = { add_spouse = 110739 }
@@ -8013,7 +8013,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8023,7 +8023,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2938.1.1 = { birth = 2938.1.1 }
 	2964.1.1 = { add_spouse = 110741 }
@@ -8035,7 +8035,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8045,7 +8045,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2947.1.1 = { birth = 2947.1.1 }
 	2956.1.1 = { add_spouse = 110743 }
@@ -8057,7 +8057,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8067,7 +8067,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2931.1.1 = { birth = 2931.1.1 }
 	2957.1.1 = { add_spouse = 110745 }
@@ -8079,7 +8079,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2941.1.1 = { birth = 2941.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8089,7 +8089,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2957.1.1 = { add_spouse = 110747 }
@@ -8101,7 +8101,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2941.1.1 = { birth = 2941.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8111,7 +8111,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2950.1.1 = { birth = 2950.1.1 }
 	2966.1.1 = { add_spouse = 110749 }
@@ -8123,7 +8123,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2950.1.1 = { birth = 2950.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8133,7 +8133,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2959.1.1 = { add_spouse = 110751 }
@@ -8145,7 +8145,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2943.1.1 = { birth = 2943.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8155,7 +8155,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2942.1.1 = { birth = 2942.1.1 }
 	2965.1.1 = { add_spouse = 110753 }
@@ -8167,7 +8167,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8177,7 +8177,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2949.1.1 = { add_spouse = 110755 }
@@ -8189,7 +8189,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8199,7 +8199,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2936.1.1 = { birth = 2936.1.1 }
 	2947.1.1 = { add_spouse = 110757 }
@@ -8211,7 +8211,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2931.1.1 = { birth = 2931.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8221,7 +8221,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2931.1.1 = { birth = 2931.1.1 }
 	2964.1.1 = { add_spouse = 110759 }
@@ -8233,7 +8233,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8243,7 +8243,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2936.1.1 = { birth = 2936.1.1 }
 	2951.1.1 = { add_spouse = 110761 }
@@ -8255,7 +8255,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2935.1.1 = { birth = 2935.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8265,7 +8265,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2964.1.1 = { add_spouse = 110763 }
@@ -8277,7 +8277,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8287,7 +8287,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2945.1.1 = { birth = 2945.1.1 }
 	2956.1.1 = { add_spouse = 110765 }
@@ -8299,7 +8299,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8309,7 +8309,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2950.1.1 = { birth = 2950.1.1 }
 	2958.1.1 = { add_spouse = 110767 }
@@ -8321,7 +8321,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2942.1.1 = { birth = 2942.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8331,7 +8331,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2949.1.1 = { add_spouse = 110769 }
@@ -8343,7 +8343,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8353,7 +8353,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2959.1.1 = { add_spouse = 110771 }
@@ -8365,7 +8365,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2943.1.1 = { birth = 2943.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8375,7 +8375,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2937.1.1 = { birth = 2937.1.1 }
 	2948.1.1 = { add_spouse = 110773 }
@@ -8387,7 +8387,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2932.1.1 = { birth = 2932.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8397,7 +8397,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2964.1.1 = { add_spouse = 110775 }
@@ -8409,7 +8409,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8419,7 +8419,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2946.1.1 = { birth = 2946.1.1 }
 	2949.1.1 = { add_spouse = 110777 }
@@ -8431,7 +8431,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8441,7 +8441,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2950.1.1 = { birth = 2950.1.1 }
 	2950.1.1 = { add_spouse = 110779 }
@@ -8453,7 +8453,7 @@
 	female = yes
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2934.1.1 = { birth = 2934.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8463,7 +8463,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2939.1.1 = { birth = 2939.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8473,7 +8473,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2945.1.1 = { birth = 2945.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8483,7 +8483,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8493,7 +8493,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2936.1.1 = { birth = 2936.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8503,7 +8503,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2942.1.1 = { birth = 2942.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8513,7 +8513,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2935.1.1 = { birth = 2935.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8523,7 +8523,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2932.1.1 = { birth = 2932.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8533,7 +8533,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2945.1.1 = { birth = 2945.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8543,7 +8543,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2932.1.1 = { birth = 2932.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8553,7 +8553,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2947.1.1 = { birth = 2947.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8563,7 +8563,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8573,7 +8573,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2945.1.1 = { birth = 2945.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8583,7 +8583,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8593,7 +8593,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2933.1.1 = { birth = 2933.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8603,7 +8603,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2946.1.1 = { birth = 2946.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8613,7 +8613,7 @@
 	dynasty = 94025
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2932.1.1 = { birth = 2932.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8623,7 +8623,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2938.1.1 = { birth = 2938.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8633,7 +8633,7 @@
 	dynasty = 94026
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2948.1.1 = { birth = 2948.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8643,7 +8643,7 @@
 	dynasty = 94027
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2943.1.1 = { birth = 2943.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
@@ -8653,7 +8653,7 @@
 	dynasty = 94024
 
 	culture = "drunokier"
-	religion = "jargian_daak"
+	religion = "drunok_daak"
 
 	2949.1.1 = { birth = 2949.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
