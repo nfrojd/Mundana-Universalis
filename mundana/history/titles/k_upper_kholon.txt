@@ -1,9 +1,11 @@
-1000.1.1 ={
+##### Custom start #####
+1000.1.1 = {
 	law = centralization_0
 	law = investiture_law_1
 	law = cognatic_succession
 	law = succ_gavelkind
 }
+##### Custom end #######
 2950.1.1 = {
-	holder=104002
+	holder=104017
 }

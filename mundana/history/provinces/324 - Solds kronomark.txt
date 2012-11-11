@@ -4,9 +4,10 @@
 title = c_solds_kronomark
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_solds_kronomark_castle = castle
+b_talon_renk_ghor = castle
 b_solds_kronomark_city = city
 b_solds_kronomark_temple = temple
 
@@ -19,6 +20,15 @@ religion = samori
 1000.1.1 = {
 	b_solds_kronomark_castle = ca_keep_1
 	b_solds_kronomark_castle = ca_wall_1
+	b_talon_renk_ghor = ca_dwarven_keep_1
+	b_talon_renk_ghor = ca_dwarven_keep_2
+	b_talon_renk_ghor = ca_dwarven_keep_3
+	b_talon_renk_ghor = ca_dwarven_keep_4
+	b_talon_renk_ghor = ca_wall_1
+	b_talon_renk_ghor = ca_wall_2
+	b_talon_renk_ghor = ca_wall_3
+	b_talon_renk_ghor = ca_wall_4
+	b_talon_renk_ghor = ca_wall_5
 	b_solds_kronomark_city = ct_town_1
 	b_solds_kronomark_city = ct_wall_1
 }

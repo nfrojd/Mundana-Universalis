@@ -1,13 +1,13 @@
 e_consaber = {
-	color = { 154 40 31 }
-	color2 = { 100 206 196 }
+	color = { 227 23 82 }
+	color2 = { 98 246 193 }
 	capital = 75
 	
 	religion = sabrian_daak
 	
 	k_uriens = {
-		color = { 219 100 19 }
-		color2 = { 99 222 223 }
+		color = { 154 40 31 }
+		color2 = { 100 206 196 }
 		capital = 88
 		
 		religion = sabrian_daak
@@ -241,8 +241,8 @@ e_consaber = {
 		}
 	}
 	k_turina = {
-		color = { 190 43 26 }
-		color2 = { 87 206 191 }
+		color = { 219 100 19 }
+		color2 = { 99 222 223 }
 		capital = 29
 		
 		religion = sabrian_daak
@@ -362,8 +362,8 @@ e_consaber = {
 		}
 	}
 	k_nensema = {
-		color = { 235 59 75 }
-		color2 = { 39 187 198 }
+		color = { 190 43 26 }
+		color2 = { 87 206 191 }
 		capital = 5
 		
 		religion = sabrian_daak
@@ -570,8 +570,8 @@ e_consaber = {
 		}
 	}
 	k_negaidh = {
-		color = { 183 44 5 }
-		color2 = { 96 242 189 }
+		color = { 235 59 75 }
+		color2 = { 39 187 198 }
 		capital = 42
 		
 		religion = sabrian_daak
@@ -758,8 +758,8 @@ e_consaber = {
 		}
 	}
 	k_calana = {
-		color = { 227 23 82 }
-		color2 = { 98 246 193 }
+		color = { 183 44 5 }
+		color2 = { 96 242 189 }
 		capital = 75
 		
 		religion = sabrian_daak

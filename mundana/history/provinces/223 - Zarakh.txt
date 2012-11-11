@@ -4,11 +4,9 @@
 title = c_zarakh
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_zarakh_castle = castle
-b_zarakh_city = city
-b_zarakh_temple = temple
 
 # Misc
 culture = roghan
@@ -17,8 +15,13 @@ religion = vontar
 
 # History
 1000.1.1 = {
-	b_zarakh_castle = ca_keep_1
+	b_zarakh_castle = ca_dwarven_keep_1
+	b_zarakh_castle = ca_dwarven_keep_2
+	b_zarakh_castle = ca_dwarven_keep_3
+	b_zarakh_castle = ca_dwarven_keep_4
 	b_zarakh_castle = ca_wall_1
-	b_zarakh_city = ct_town_1
-	b_zarakh_city = ct_wall_1
+	b_zarakh_castle = ca_wall_2
+	b_zarakh_castle = ca_wall_3
+	b_zarakh_castle = ca_wall_4
+	b_zarakh_castle = ca_wall_5
 }

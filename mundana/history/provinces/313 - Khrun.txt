@@ -4,11 +4,9 @@
 title = c_khrun
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_khrun_castle = castle
-b_khrun_city = city
-b_khrun_temple = temple
 
 # Misc
 culture = ghor
@@ -17,8 +15,13 @@ religion = vontar
 
 # History
 1000.1.1 = {
-	b_khrun_castle = ca_keep_1
+	b_khrun_castle = ca_dwarven_keep_1
+	b_khrun_castle = ca_dwarven_keep_2
+	b_khrun_castle = ca_dwarven_keep_3
+	b_khrun_castle = ca_dwarven_keep_4
 	b_khrun_castle = ca_wall_1
-	b_khrun_city = ct_town_1
-	b_khrun_city = ct_wall_1
+	b_khrun_castle = ca_wall_2
+	b_khrun_castle = ca_wall_3
+	b_khrun_castle = ca_wall_4
+	b_khrun_castle = ca_wall_5
 }

@@ -844,6 +844,7 @@ k_soldarn = {
 			color = { 72 123 156 }
 			color2 = { 199 154 117 }
 			b_solds_kronomark_castle = {}
+			b_talon_renk_ghor = {}
 			b_solds_kronomark_city = {}
 			b_solds_kronomark_temple = {}
 		}

@@ -20,5 +20,12 @@ religion = jargian_daak
 	b_daval_castle = ca_keep_1
 	b_daval_castle = ca_wall_1
 	b_daval_city = ct_town_1
+	b_daval_city = ct_town_2
+	b_daval_city = ct_town_3
+	b_daval_city = ct_town_4
+	b_daval_city = ct_town_5
+	b_daval_city = ct_town_6
 	b_daval_city = ct_wall_1
+	b_daval_city = ct_wall_2
+	b_daval_city = ct_wall_3
 }

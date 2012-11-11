@@ -1,14 +1,22 @@
-1000.1.1 ={
+1000.1.1 = {
+	liege="e_thalamur"
+}
+##### Custom start #####
+1000.1.1 = {
 	law = centralization_0
 	law = investiture_law_1
-	law = cognatic_succession
-	law = succ_feudal_elective
-	liege="e_thalamur"
+	law = true_cognatic_succession
+	law = succ_seniority
 }
 2950.1.1 = {
 	holder=100006
 }
 2960.5.15 = {
-	holder=102000
+	law = cognatic_succession
+	law = succ_feudal_elective
+}
+##### Custom end #######
+2960.5.15 = {
 	liege=0
+	holder=102000
 }

@@ -15,8 +15,6 @@ k_kiaz = {
 			color = { 130 226 152 }
 			color2 = { 213 96 161 }
 			b_kiaz_castle = {}
-			b_kiaz_city = {}
-			b_kiaz_temple = {}
 		}
 	}
 }

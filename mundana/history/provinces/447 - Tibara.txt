@@ -20,5 +20,11 @@ religion = jargian_daak
 	b_tibara_castle = ca_keep_1
 	b_tibara_castle = ca_wall_1
 	b_tibara_city = ct_town_1
+	b_tibara_city = ct_town_2
+	b_tibara_city = ct_town_3
+	b_tibara_city = ct_town_4
+	b_tibara_city = ct_town_5
 	b_tibara_city = ct_wall_1
+	b_tibara_city = ct_wall_2
+	b_tibara_city = ct_wall_3
 }

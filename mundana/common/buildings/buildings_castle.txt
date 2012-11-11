@@ -89,6 +89,7 @@ castle = {
 				culture_group = dwarven
 				culture = tokon
 				culture_group = elven
+#				culture_group = tirak
 			}
 		}
 		build_time = 1
@@ -116,6 +117,7 @@ castle = {
 				culture_group = dwarven
 				culture = tokon
 				culture_group = elven
+#				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_keep_1
@@ -144,6 +146,7 @@ castle = {
 				culture_group = dwarven
 				culture = tokon
 				culture_group = elven
+#				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_keep_2
@@ -172,6 +175,7 @@ castle = {
 				culture_group = dwarven
 				culture = tokon
 				culture_group = elven
+#				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_keep_3
@@ -200,6 +204,7 @@ castle = {
 				culture_group = dwarven
 				culture = tokon
 				culture_group = elven
+#				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_keep_4
@@ -228,6 +233,7 @@ castle = {
 				culture_group = dwarven
 				culture = tokon
 				culture_group = elven
+#				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_keep_5
@@ -388,6 +394,7 @@ castle = {
 			OR = {
 				culture = tokon
 				culture_group = elven
+				culture_group = tirak
 			}
 		}
 		build_time = 1
@@ -413,6 +420,7 @@ castle = {
 			OR = {
 				culture = tokon
 				culture_group = elven
+				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_camp_1
@@ -439,6 +447,7 @@ castle = {
 			OR = {
 				culture = tokon
 				culture_group = elven
+				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_camp_2
@@ -465,6 +474,7 @@ castle = {
 			OR = {
 				culture = tokon
 				culture_group = elven
+				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_camp_3
@@ -491,6 +501,7 @@ castle = {
 			OR = {
 				culture = tokon
 				culture_group = elven
+				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_camp_4
@@ -517,6 +528,7 @@ castle = {
 			OR = {
 				culture = tokon
 				culture_group = elven
+				culture_group = tirak
 			}
 		}
 		upgrades_from = ca_camp_5

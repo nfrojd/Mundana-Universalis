@@ -1,5 +1,8 @@
 1000.1.1 = {
-	liege=0
+	law = centralization_0
+	law = investiture_law_1
+	law = agnatic_succession
+	law = succ_feudal_elective
 }
 2950.1.1 = {
 	holder=110161

@@ -1,13 +1,13 @@
 e_thalamur = {
-	color = { 46 95 247 }
-	color2 = { 202 173 50 }
+	color = { 74 16 185 }
+	color2 = { 163 253 68 }
 	capital = 178
 	
 	religion = antitheist
 	
 	k_ara = {
-		color = { 74 16 185 }
-		color2 = { 163 253 68 }
+		color = { 49 9 186 }
+		color2 = { 246 172 97 }
 		capital = 159
 		
 		religion = antitheist
@@ -94,8 +94,8 @@ e_thalamur = {
 		}
 	}
 	k_colonan = {
-		color = { 49 9 186 }
-		color2 = { 246 172 97 }
+		color = { 41 99 179 }
+		color2 = { 194 207 73 }
 		capital = 143
 		
 		religion = antitheist
@@ -165,8 +165,8 @@ e_thalamur = {
 		}
 	}
 	k_sava = {
-		color = { 90 25 176 }
-		color2 = { 184 184 20 }
+		color = { 74 47 255 }
+		color2 = { 156 234 76 }
 		capital = 169
 		
 		religion = antitheist
@@ -269,8 +269,8 @@ e_thalamur = {
 		}
 	}
 	k_egor = {
-		color = { 41 99 179 }
-		color2 = { 194 207 73 }
+		color = { 60 102 196 }
+		color2 = { 173 181 5 }
 		capital = 205
 		
 		religion = antitheist
@@ -408,8 +408,8 @@ e_thalamur = {
 		}
 	}
 	k_pereine = {
-		color = { 72 57 250 }
-		color2 = { 244 198 95 }
+		color = { 90 25 176 }
+		color2 = { 184 184 20 }
 		capital = 153
 		
 		religion = antitheist
@@ -472,8 +472,8 @@ e_thalamur = {
 		}
 	}
 	k_ivani = {
-		color = { 39 82 167 }
-		color2 = { 218 234 0 }
+		color = { 88 26 174 }
+		color2 = { 232 230 79 }
 		capital = 144
 		
 		religion = antitheist
@@ -552,8 +552,8 @@ e_thalamur = {
 		}
 	}
 	k_taga = {
-		color = { 74 47 255 }
-		color2 = { 156 234 76 }
+		color = { 46 95 247 }
+		color2 = { 202 173 50 }
 		capital = 186
 		
 		religion = antitheist
@@ -649,8 +649,8 @@ e_thalamur = {
 		}
 	}
 	k_kovos = {
-		color = { 88 26 174 }
-		color2 = { 232 230 79 }
+		color = { 72 57 250 }
+		color2 = { 244 198 95 }
 		capital = 199
 		
 		religion = antitheist
@@ -766,8 +766,8 @@ e_thalamur = {
 		}
 	}
 	k_ifka = {
-		color = { 60 102 196 }
-		color2 = { 173 181 5 }
+		color = { 39 82 167 }
+		color2 = { 218 234 0 }
 		capital = 177
 		
 		religion = antitheist

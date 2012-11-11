@@ -15,8 +15,6 @@ k_khazim = {
 			color = { 132 188 59 }
 			color2 = { 106 111 162 }
 			b_khazim_castle = {}
-			b_khazim_city = {}
-			b_khazim_temple = {}
 		}
 	}
 }
@@ -35,8 +33,6 @@ k_mur = {
 			color = { 134 200 58 }
 			color2 = { 63 70 200 }
 			b_mur_castle = {}
-			b_mur_city = {}
-			b_mur_temple = {}
 		}
 	}
 }
@@ -55,8 +51,6 @@ k_zorlakh = {
 			color = { 135 148 119 }
 			color2 = { 132 90 125 }
 			b_zorlakh_castle = {}
-			b_zorlakh_city = {}
-			b_zorlakh_temple = {}
 		}
 	}
 }
@@ -111,8 +105,6 @@ k_zarakh = {
 			color = { 136 116 135 }
 			color2 = { 138 131 191 }
 			b_zarakh_castle = {}
-			b_zarakh_city = {}
-			b_zarakh_temple = {}
 		}
 	}
 }
@@ -131,8 +123,6 @@ k_tar_hir = {
 			color = { 170 187 63 }
 			color2 = { 119 130 131 }
 			b_tar_hir_castle = {}
-			b_tar_hir_city = {}
-			b_tar_hir_temple = {}
 		}
 	}
 }
@@ -169,8 +159,6 @@ k_kraalen = {
 			color = { 134 155 114 }
 			color2 = { 96 51 197 }
 			b_kraalen_castle = {}
-			b_kraalen_city = {}
-			b_kraalen_temple = {}
 		}
 	}
 }
@@ -209,8 +197,6 @@ k_khrun = {
 			color = { 184 115 135 }
 			color2 = { 63 63 174 }
 			b_khrun_castle = {}
-			b_khrun_city = {}
-			b_khrun_temple = {}
 		}
 	}
 }
