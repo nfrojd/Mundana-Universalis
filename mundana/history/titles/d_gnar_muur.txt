@@ -2,5 +2,5 @@
 	liege="k_tarkas"
 }
 2950.1.1 = {
-	holder=106103
+	holder=110066
 }

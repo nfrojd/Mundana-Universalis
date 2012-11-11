@@ -1,20 +1,19 @@
 k_kiaz = {
-	color = { 162 179 15 }
-	color2 = { 153 116 237 }
-	
+	color = { 116 215 108 }
+	color2 = { 195 41 158 }
 	capital = 312
 	
-	religion = vontar
-	culture = ghor
+	religion = mahktah
+	culture = frakk
 	
 	d_kiaz = {
-		color = { 123 212 213 }
-		color2 = { 41 205 156 }
+		color = { 93 136 124 }
+		color2 = { 127 59 105 }
+		capital = 312
 		
 		c_kiaz = {
-			color = { 67 164 232 }
-			color2 = { 62 128 204 }
-			
+			color = { 130 226 152 }
+			color2 = { 213 96 161 }
 			b_kiaz_castle = {}
 			b_kiaz_city = {}
 			b_kiaz_temple = {}
@@ -22,183 +21,163 @@ k_kiaz = {
 	}
 }
 k_tarkas = {
-	color = { 9 186 134 }
-	color2 = { 5 128 150 }
+	color = { 121 163 98 }
+	color2 = { 134 104 176 }
+	capital = 477
 	
 	d_gnar_muur = {
-		color = { 33 200 229 }
-		color2 = { 98 225 137 }
-		
+		color = { 109 168 141 }
+		color2 = { 142 36 171 }
 		c_alna = {
-			color = { 55 160 162 }
-			color2 = { 49 249 215 }
-			
+			color = { 127 160 100 }
+			color2 = { 162 75 114 }
 			b_alna_castle = {}
 			b_alna_city = {}
 			b_alna_temple = {}
 		}
 		c_gnar_muur = {
-			color = { 74 214 171 }
-			color2 = { 84 201 198 }
-			
+			color = { 110 159 80 }
+			color2 = { 147 59 140 }
 			b_gnar_muur_castle = {}
 			b_gnar_muur_city = {}
 			b_gnar_muur_temple = {}
 		}
 		c_malgoarhens = {
-			color = { 37 218 228 }
-			color2 = { 118 149 137 }
-			
+			color = { 45 222 175 }
+			color2 = { 191 56 126 }
 			b_malgoarhens_castle = {}
 			b_malgoarhens_city = {}
 			b_malgoarhens_temple = {}
 		}
+		c_rehava = {
+			color = { 211 98 165 }
+			color2 = { 8 170 93 }
+			b_rehava_castle = {}
+			b_rehava_city = {}
+			b_rehava_temple = {}
+		}
 	}
 }
 k_takalorr = {
-	color = { 77 187 203 }
-	color2 = { 20 209 191 }
+	color = { 134 194 159 }
+	color2 = { 206 81 134 }
+	capital = 370
 	
-	d_sodra_takalorr = {
-		color = { 17 171 165 }
-		color2 = { 56 179 224 }
-		
-		c_dom_thader = {
-			color = { 55 187 229 }
-			color2 = { 83 181 186 }
-			
-			b_dom_thader_castle = {}
-			b_dom_thader_city = {}
-			b_dom_thader_temple = {}
-		}
-		c_dom_frakk = {
-			color = { 25 150 163 }
-			color2 = { 65 144 159 }
-			
-			b_dom_frakk_castle = {}
-			b_dom_frakk_city = {}
-			b_dom_frakk_temple = {}
-		}
-		c_ezelarr = {
-			color = { 47 225 241 }
-			color2 = { 90 150 168 }
-			
-			b_ezelarr_castle = {}
-			b_ezelarr_city = {}
-			b_ezelarr_temple = {}
-		}
-		c_gurthura = {
-			color = { 50 174 192 }
-			color2 = { 94 143 159 }
-			
-			b_gurthura_castle = {}
-			b_gurthura_city = {}
-			b_gurthura_temple = {}
-		}
-	}
+	religion = mahktah
+	culture = bazirk
+	
 	d_uraz = {
-		color = { 59 136 159 }
-		color2 = { 57 142 175 }
-		
+		color = { 63 211 116 }
+		color2 = { 208 21 83 }
 		c_zelarr = {
-			color = { 111 165 190 }
-			color2 = { 122 138 155 }
-			
+			color = { 50 225 146 }
+			color2 = { 121 36 129 }
 			b_zelarr_castle = {}
 			b_zelarr_city = {}
 			b_zelarr_temple = {}
 		}
 		c_norra_uraz = {
-			color = { 40 171 215 }
-			color2 = { 94 204 133 }
-			
+			color = { 59 215 90 }
+			color2 = { 126 57 161 }
 			b_norra_uraz_castle = {}
 			b_norra_uraz_city = {}
 			b_norra_uraz_temple = {}
 		}
 		c_sodra_uraz = {
-			color = { 33 236 130 }
-			color2 = { 79 173 137 }
-			
+			color = { 67 165 104 }
+			color2 = { 176 51 81 }
 			b_sodra_uraz_castle = {}
 			b_sodra_uraz_city = {}
 			b_sodra_uraz_temple = {}
 		}
 	}
-	d_vastra_takalorr = {
-		color = { 82 188 166 }
-		color2 = { 48 132 164 }
-		
+	d_takalorr = {
+		color = { 107 181 173 }
+		color2 = { 160 73 77 }
+		c_dom_thader = {
+			color = { 57 193 127 }
+			color2 = { 154 83 128 }
+			b_dom_thader_castle = {}
+			b_dom_thader_city = {}
+			b_dom_thader_temple = {}
+		}
+		c_dom_thazyr = {
+			color = { 87 226 158 }
+			color2 = { 147 120 178 }
+			b_dom_thazyr_castle = {}
+			b_dom_thazyr_city = {}
+			b_dom_thazyr_temple = {}
+		}
 		c_dom_krotz = {
-			color = { 124 232 152 }
-			color2 = { 29 233 254 }
-			
+			color = { 40 235 142 }
+			color2 = { 135 68 167 }
 			b_dom_krotz_castle = {}
 			b_dom_krotz_city = {}
 			b_dom_krotz_temple = {}
 		}
+		c_dom_frakk = {
+			color = { 68 193 101 }
+			color2 = { 169 59 143 }
+			b_dom_frakk_castle = {}
+			b_dom_frakk_city = {}
+			b_dom_frakk_temple = {}
+		}
+		c_kharlahura = {
+			color = { 78 230 82 }
+			color2 = { 182 87 168 }
+			b_kharlahura_castle = {}
+			b_kharlahura_city = {}
+			b_kharlahura_temple = {}
+		}
+		c_ezelarr = {
+			color = { 58 150 160 }
+			color2 = { 154 115 91 }
+			b_ezelarr_castle = {}
+			b_ezelarr_city = {}
+			b_ezelarr_temple = {}
+		}
+		c_tiban = {
+			color = { 105 167 139 }
+			color2 = { 123 34 131 }
+			b_tiban_castle = {}
+			b_tiban_city = {}
+			b_tiban_temple = {}
+		}
 		c_dom_harzagu = {
-			color = { 43 141 209 }
-			color2 = { 116 133 195 }
-			
+			color = { 118 160 118 }
+			color2 = { 214 61 123 }
 			b_dom_harzagu_castle = {}
 			b_dom_harzagu_city = {}
 			b_dom_harzagu_temple = {}
 		}
+		c_gurthura = {
+			color = { 63 167 100 }
+			color2 = { 173 92 158 }
+			b_gurthura_castle = {}
+			b_gurthura_city = {}
+			b_gurthura_temple = {}
+		}
 		c_dom_ezaar = {
-			color = { 93 131 214 }
-			color2 = { 111 181 167 }
-			
+			color = { 70 204 136 }
+			color2 = { 175 96 137 }
 			b_dom_ezaar_castle = {}
 			b_dom_ezaar_city = {}
 			b_dom_ezaar_temple = {}
 		}
 	}
-	d_tibanbukten = {
-		color = { 50 173 198 }
-		color2 = { 102 153 205 }
-		
-		c_dom_thazyr = {
-			color = { 95 176 184 }
-			color2 = { 83 140 180 }
-			
-			b_dom_thazyr_castle = {}
-			b_dom_thazyr_city = {}
-			b_dom_thazyr_temple = {}
-		}
-		c_kharlahura = {
-			color = { 0 224 135 }
-			color2 = { 11 193 132 }
-			
-			b_kharlahura_castle = {}
-			b_kharlahura_city = {}
-			b_kharlahura_temple = {}
-		}
-		c_tiban = {
-			color = { 45 217 211 }
-			color2 = { 1 222 169 }
-			
-			b_tiban_castle = {}
-			b_tiban_city = {}
-			b_tiban_temple = {}
-		}
-	}
 	d_kalarr = {
-		color = { 82 142 183 }
-		color2 = { 11 141 177 }
-		
+		color = { 129 211 135 }
+		color2 = { 145 47 163 }
 		c_dom_kazer = {
-			color = { 10 150 229 }
-			color2 = { 46 230 187 }
-			
+			color = { 134 176 166 }
+			color2 = { 142 98 178 }
 			b_dom_kazer_castle = {}
 			b_dom_kazer_city = {}
 			b_dom_kazer_temple = {}
 		}
 		c_kalarr = {
-			color = { 98 248 172 }
-			color2 = { 97 169 180 }
-			
+			color = { 62 155 175 }
+			color2 = { 185 98 123 }
 			b_kalarr_castle = {}
 			b_kalarr_city = {}
 			b_kalarr_temple = {}

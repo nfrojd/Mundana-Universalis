@@ -1,7 +1,6 @@
 k_tokon = {
-	color = { 103 140 20 }
-	color2 = { 171 211 75 }
-	
+	color = { 58 247 117 }
+	color2 = { 148 102 193 }
 	capital = 101
 	
 	religion = dragon_cult
@@ -11,49 +10,43 @@ k_tokon = {
 		sabrian_daak = 500
 
 	d_debhean = {
-		color = { 85 165 15 }
-		color2 = { 65 201 13 }
-		
+		color = { 62 197 110 }
+		color2 = { 139 50 171 }
 		c_alantulw_2 = {
-			color = { 34 215 35 }
-			color2 = { 9 136 12 }
-			
+			color = { 101 223 133 }
+			color2 = { 149 68 132 }
 			b_alantulw_2_castle = {}
 			b_alantulw_2_city = {}
 			b_alantulw_2_temple = {}
 			b_alantulw_2_castle_1 = {}
 		}
 		c_feleidh = {
-			color = { 119 241 115 }
-			color2 = { 76 225 86 }
-			
+			color = { 129 223 83 }
+			color2 = { 215 95 117 }
 			b_feleidh_castle = {}
 			b_feleidh_city = {}
 			b_feleidh_temple = {}
 			b_feleidh_castle_1 = {}
 		}
 		c_inniutok = {
-			color = { 96 145 47 }
-			color2 = { 9 238 104 }
-			
+			color = { 108 172 73 }
+			color2 = { 192 15 142 }
 			b_inniutok_castle = {}
 			b_inniutok_city = {}
 			b_inniutok_temple = {}
 			b_inniutok_castle_1 = {}
 		}
 		c_debhean = {
-			color = { 42 250 49 }
-			color2 = { 119 167 109 }
-			
+			color = { 99 187 109 }
+			color2 = { 217 63 198 }
 			b_debhean_castle = {}
 			b_debhean_city = {}
 			b_debhean_temple = {}
 			b_debhean_castle_1 = {}
 		}
 		c_tir_nieri = {
-			color = { 100 231 31 }
-			color2 = { 106 152 40 }
-			
+			color = { 55 169 80 }
+			color2 = { 158 15 159 }
 			b_tir_nieri_castle = {}
 			b_tir_nieri_city = {}
 			b_tir_nieri_temple = {}
@@ -61,40 +54,35 @@ k_tokon = {
 		}
 	}
 	d_ailleidh = {
-		color = { 124 148 89 }
-		color2 = { 98 221 38 }
-		
+		color = { 103 217 87 }
+		color2 = { 167 92 211 }
 		c_sliabh = {
-			color = { 101 174 4 }
-			color2 = { 67 141 22 }
-			
+			color = { 91 165 69 }
+			color2 = { 189 8 159 }
 			b_sliabh_castle = {}
 			b_sliabh_city = {}
 			b_sliabh_temple = {}
 			b_sliabh_castle_1 = {}
 		}
 		c_feeves = {
-			color = { 109 236 19 }
-			color2 = { 125 248 32 }
-			
+			color = { 109 197 137 }
+			color2 = { 160 44 208 }
 			b_feeves_castle = {}
 			b_feeves_city = {}
 			b_feeves_temple = {}
 			b_feeves_castle_1 = {}
 		}
 		c_craigfaan = {
-			color = { 17 225 76 }
-			color2 = { 107 135 19 }
-			
+			color = { 85 225 69 }
+			color2 = { 145 3 142 }
 			b_craigfaan_castle = {}
 			b_craigfaan_city = {}
 			b_craigfaan_temple = {}
 			b_craigfaan_castle_1 = {}
 		}
 		c_ailleidh = {
-			color = { 113 143 95 }
-			color2 = { 76 191 4 }
-			
+			color = { 57 159 73 }
+			color2 = { 200 86 201 }
 			b_ailleidh_castle = {}
 			b_ailleidh_city = {}
 			b_ailleidh_temple = {}
@@ -102,22 +90,19 @@ k_tokon = {
 		}
 	}
 	d_intouk = {
-		color = { 24 161 16 }
-		color2 = { 90 235 115 }
-		
+		color = { 70 198 55 }
+		color2 = { 203 40 178 }
 		c_lewain = {
-			color = { 86 244 37 }
-			color2 = { 46 155 22 }
-			
+			color = { 119 237 94 }
+			color2 = { 159 96 175 }
 			b_lewain_castle = {}
 			b_lewain_city = {}
 			b_lewain_temple = {}
 			b_lewain_castle_1 = {}
 		}
 		c_intouk = {
-			color = { 0 136 68 }
-			color2 = { 15 192 81 }
-			
+			color = { 73 238 61 }
+			color2 = { 212 48 206 }
 			b_intouk_castle = {}
 			b_intouk_city = {}
 			b_intouk_temple = {}
@@ -125,27 +110,24 @@ k_tokon = {
 			b_intouk_castle_1 = {}
 		}
 		c_eirach = {
-			color = { 65 133 111 }
-			color2 = { 26 169 51 }
-			
+			color = { 89 163 103 }
+			color2 = { 130 3 139 }
 			b_eirach_castle = {}
 			b_eirach_city = {}
 			b_eirach_temple = {}
 			b_eirach_castle_1 = {}
 		}
 		c_rinntok = {
-			color = { 42 190 114 }
-			color2 = { 22 174 11 }
-			
+			color = { 64 193 99 }
+			color2 = { 169 70 123 }
 			b_rinntok_castle = {}
 			b_rinntok_city = {}
 			b_rinntok_temple = {}
 			b_rinntok_castle_1 = {}
 		}
 		c_owaidh = {
-			color = { 38 168 93 }
-			color2 = { 55 184 87 }
-			
+			color = { 75 178 40 }
+			color2 = { 177 98 195 }
 			b_owaidh_castle = {}
 			b_owaidh_city = {}
 			b_owaidh_temple = {}
@@ -153,49 +135,43 @@ k_tokon = {
 		}
 	}
 	d_nie = {
-		color = { 98 244 115 }
-		color2 = { 22 162 124 }
-		
+		color = { 134 180 135 }
+		color2 = { 140 39 131 }
 		c_pithain = {
-			color = { 48 182 67 }
-			color2 = { 22 143 53 }
-			
+			color = { 87 200 125 }
+			color2 = { 181 37 135 }
 			b_pithain_castle = {}
 			b_pithain_city = {}
 			b_pithain_temple = {}
 			b_pithain_castle_1 = {}
 		}
 		c_foradrach = {
-			color = { 123 212 15 }
-			color2 = { 58 244 61 }
-			
+			color = { 131 183 74 }
+			color2 = { 208 67 164 }
 			b_foradrach_castle = {}
 			b_foradrach_city = {}
 			b_foradrach_temple = {}
 			b_foradrach_castle_1 = {}
 		}
 		c_usiarach = {
-			color = { 26 178 105 }
-			color2 = { 15 175 16 }
-			
+			color = { 102 251 39 }
+			color2 = { 207 13 180 }
 			b_usiarach_castle = {}
 			b_usiarach_city = {}
 			b_usiarach_city_1 = {}
 			b_usiarach_temple = {}
 		}
 		c_tain = {
-			color = { 7 138 86 }
-			color2 = { 4 154 51 }
-			
+			color = { 101 230 63 }
+			color2 = { 123 30 209 }
 			b_tain_castle = {}
 			b_tain_city = {}
 			b_tain_temple = {}
 			b_tain_castle_1 = {}
 		}
 		c_ilaidh = {
-			color = { 52 225 1 }
-			color2 = { 43 232 20 }
-			
+			color = { 60 249 69 }
+			color2 = { 165 42 169 }
 			b_ilaidh_castle = {}
 			b_ilaidh_city = {}
 			b_ilaidh_temple = {}

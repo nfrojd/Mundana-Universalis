@@ -1,0 +1,1630 @@
+111000 = {
+	name = "Harkk"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2949.1.1 = { add_spouse = 111001 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111001 = {
+	name = "Noha"
+	dynasty = 91001
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111002 = {
+	name = "Tomz"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2965.1.1 = { add_spouse = 111003 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111003 = {
+	name = "Urzi"
+	dynasty = 91006
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111004 = {
+	name = "Zuthzuth"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2962.1.1 = { add_spouse = 111005 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111005 = {
+	name = "Hokka"
+	dynasty = 91003
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111006 = {
+	name = "Zomakk"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2949.1.1 = { add_spouse = 111007 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111007 = {
+	name = "Tagratah"
+	dynasty = 91006
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111008 = {
+	name = "Zomakk"
+	dynasty = 91006
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2963.1.1 = { add_spouse = 111009 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111009 = {
+	name = "Gorkka"
+	dynasty = 91001
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111010 = {
+	name = "Hraz"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2950.1.1 = { add_spouse = 111011 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111011 = {
+	name = "Gorkka"
+	dynasty = 91002
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111012 = {
+	name = "Tazag"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2959.1.1 = { add_spouse = 111013 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111013 = {
+	name = "Brakka"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111014 = {
+	name = "Xogg"
+	dynasty = 91006
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2948.1.1 = { add_spouse = 111015 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111015 = {
+	name = "Zekka"
+	dynasty = 91006
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111016 = {
+	name = "Zatag"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2949.1.1 = { add_spouse = 111017 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111017 = {
+	name = "Da"
+	dynasty = 91005
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111018 = {
+	name = "Tomz"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2952.1.1 = { add_spouse = 111019 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111019 = {
+	name = "Zekka"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111020 = {
+	name = "Tazag"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2948.1.1 = { add_spouse = 111021 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111021 = {
+	name = "Marazaka"
+	dynasty = 91005
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111022 = {
+	name = "Harkk"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2954.1.1 = { add_spouse = 111023 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111023 = {
+	name = "Torgug"
+	dynasty = 91001
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111024 = {
+	name = "Thaar"
+	dynasty = 91002
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2948.1.1 = { add_spouse = 111025 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111025 = {
+	name = "Pezaka"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2932.1.1 = { birth = 2932.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111026 = {
+	name = "Rakkhaz"
+	dynasty = 91001
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2949.1.1 = { add_spouse = 111027 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111027 = {
+	name = "Fima"
+	dynasty = 91003
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111028 = {
+	name = "Wegum"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2959.1.1 = { add_spouse = 111029 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111029 = {
+	name = "Lazua"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111030 = {
+	name = "Wagrikk"
+	dynasty = 91006
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2954.1.1 = { add_spouse = 111031 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111031 = {
+	name = "Zogga"
+	dynasty = 91002
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111032 = {
+	name = "Xogg"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2963.1.1 = { add_spouse = 111033 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111033 = {
+	name = "Hokka"
+	dynasty = 91006
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111034 = {
+	name = "Harkk"
+	dynasty = 91001
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2956.1.1 = { add_spouse = 111035 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111035 = {
+	name = "Urzi"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111036 = {
+	name = "Nehrimgag"
+	dynasty = 91001
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2946.1.1 = { add_spouse = 111037 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111037 = {
+	name = "Fima"
+	dynasty = 91003
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111038 = {
+	name = "Nehrimgag"
+	dynasty = 91001
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2947.1.1 = { add_spouse = 111039 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111039 = {
+	name = "Pezaka"
+	dynasty = 91006
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111040 = {
+	name = "Xogg"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2959.1.1 = { add_spouse = 111041 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111041 = {
+	name = "Fima"
+	dynasty = 91005
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111042 = {
+	name = "Tomz"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2964.1.1 = { add_spouse = 111043 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111043 = {
+	name = "Brakka"
+	dynasty = 91003
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111044 = {
+	name = "Harkk"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2952.1.1 = { add_spouse = 111045 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111045 = {
+	name = "Taki"
+	dynasty = 91002
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111046 = {
+	name = "Zatag"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2964.1.1 = { add_spouse = 111047 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111047 = {
+	name = "Brikka"
+	dynasty = 91004
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111048 = {
+	name = "Rukkaz"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2961.1.1 = { add_spouse = 111049 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111049 = {
+	name = "Marazaka"
+	dynasty = 91003
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111050 = {
+	name = "Xakk"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2960.1.1 = { add_spouse = 111051 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111051 = {
+	name = "Noha"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111052 = {
+	name = "Xogg"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2947.1.1 = { add_spouse = 111053 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111053 = {
+	name = "Urzi"
+	dynasty = 91001
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111054 = {
+	name = "Hazakk"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2961.1.1 = { add_spouse = 111055 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111055 = {
+	name = "Da"
+	dynasty = 91004
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111056 = {
+	name = "Zuthzuth"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2956.1.1 = { add_spouse = 111057 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111057 = {
+	name = "Marazaka"
+	dynasty = 91005
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111058 = {
+	name = "Maak"
+	dynasty = 91006
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2960.1.1 = { add_spouse = 111059 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111059 = {
+	name = "Loka"
+	dynasty = 91002
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111060 = {
+	name = "Wagrikk"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2953.1.1 = { add_spouse = 111061 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111061 = {
+	name = "Hirkkana"
+	dynasty = 91006
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111062 = {
+	name = "Rukkaz"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2950.1.1 = { add_spouse = 111063 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111063 = {
+	name = "Zogga"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111064 = {
+	name = "Zethikk"
+	dynasty = 91006
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2963.1.1 = { add_spouse = 111065 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111065 = {
+	name = "Pezaka"
+	dynasty = 91007
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111066 = {
+	name = "Wegum"
+	dynasty = 91002
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2952.1.1 = { add_spouse = 111067 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111067 = {
+	name = "Karkraza"
+	dynasty = 91000
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111068 = {
+	name = "Hazakk"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2961.1.1 = { add_spouse = 111069 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111069 = {
+	name = "Haza"
+	dynasty = 91007
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111070 = {
+	name = "Wegum"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2962.1.1 = { add_spouse = 111071 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111071 = {
+	name = "Hokka"
+	dynasty = 91005
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111072 = {
+	name = "Bomz"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2962.1.1 = { add_spouse = 111073 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111073 = {
+	name = "Noha"
+	dynasty = 91003
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111074 = {
+	name = "Xogg"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2964.1.1 = { add_spouse = 111075 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111075 = {
+	name = "Haza"
+	dynasty = 91002
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111076 = {
+	name = "Zuthzuth"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2955.1.1 = { add_spouse = 111077 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111077 = {
+	name = "Karkraza"
+	dynasty = 91004
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111078 = {
+	name = "Wezakk"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2961.1.1 = { add_spouse = 111079 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111079 = {
+	name = "Noha"
+	dynasty = 91007
+	female = yes
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111080 = {
+	name = "Harkk"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111081 = {
+	name = "Barakk"
+	dynasty = 91006
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111082 = {
+	name = "Zomakk"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111083 = {
+	name = "Khomtakk"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111084 = {
+	name = "Barakk"
+	dynasty = 91002
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111085 = {
+	name = "Lathag"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111086 = {
+	name = "Lathag"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111087 = {
+	name = "Hazakk"
+	dynasty = 91005
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111088 = {
+	name = "Tomz"
+	dynasty = 91001
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111089 = {
+	name = "Begakk"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111090 = {
+	name = "Zatag"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111091 = {
+	name = "Khomtakk"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111092 = {
+	name = "Bomz"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111093 = {
+	name = "Lathag"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111094 = {
+	name = "Wagrikk"
+	dynasty = 91001
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111095 = {
+	name = "Hazakk"
+	dynasty = 91003
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111096 = {
+	name = "Thaar"
+	dynasty = 91004
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111097 = {
+	name = "Harkk"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111098 = {
+	name = "Khomtakk"
+	dynasty = 91007
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111099 = {
+	name = "Nehrimgag"
+	dynasty = 91000
+
+	culture = "bazirk"
+	religion = "mahktah"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111100 = {
+	name = "Nomarian"
+	dynasty = 90002
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2963.1.1 = { add_spouse = 111101 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111101 = {
+	name = "Riana"
+	dynasty = 90003
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2947.1.1 = { birth = 2947.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111102 = {
+	name = "Tearlan"
+	dynasty = 90007
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2952.1.1 = { add_spouse = 111103 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111103 = {
+	name = "Gialari"
+	dynasty = 90001
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111104 = {
+	name = "Fialian"
+	dynasty = 90007
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2961.1.1 = { add_spouse = 111105 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111105 = {
+	name = "Mirya"
+	dynasty = 90007
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111106 = {
+	name = "Belion"
+	dynasty = 90005
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2956.1.1 = { add_spouse = 111107 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111107 = {
+	name = "Besiniel"
+	dynasty = 90007
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111108 = {
+	name = "Isanion"
+	dynasty = 90005
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2952.1.1 = { add_spouse = 111109 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111109 = {
+	name = "Letesse"
+	dynasty = 90006
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111110 = {
+	name = "Nomarian"
+	dynasty = 90007
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2934.1.1 = { birth = 2934.1.1 }
+	2958.1.1 = { add_spouse = 111111 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111111 = {
+	name = "Tielesin"
+	dynasty = 90003
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111112 = {
+	name = "Ysanan"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2954.1.1 = { add_spouse = 111113 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111113 = {
+	name = "Letesse"
+	dynasty = 90005
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111114 = {
+	name = "Isanion"
+	dynasty = 90001
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2961.1.1 = { add_spouse = 111115 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111115 = {
+	name = "Vyssa"
+	dynasty = 90004
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2945.1.1 = { birth = 2945.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111116 = {
+	name = "Belion"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2949.1.1 = { add_spouse = 111117 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111117 = {
+	name = "Nyare"
+	dynasty = 90002
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111118 = {
+	name = "Sineval"
+	dynasty = 90004
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2935.1.1 = { birth = 2935.1.1 }
+	2956.1.1 = { add_spouse = 111119 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111119 = {
+	name = "Deneliel"
+	dynasty = 90002
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111120 = {
+	name = "Fialian"
+	dynasty = 90004
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2965.1.1 = { add_spouse = 111121 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111121 = {
+	name = "Besiniel"
+	dynasty = 90005
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111122 = {
+	name = "Ceranidan"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2966.1.1 = { add_spouse = 111123 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111123 = {
+	name = "Odesse"
+	dynasty = 90002
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2950.1.1 = { birth = 2950.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111124 = {
+	name = "Ceranidan"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2931.1.1 = { birth = 2931.1.1 }
+	2957.1.1 = { add_spouse = 111125 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111125 = {
+	name = "Vyssa"
+	dynasty = 90006
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111126 = {
+	name = "Lunerian"
+	dynasty = 90002
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2964.1.1 = { add_spouse = 111127 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111127 = {
+	name = "Vyssa"
+	dynasty = 90003
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111128 = {
+	name = "Uanir"
+	dynasty = 90002
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2939.1.1 = { birth = 2939.1.1 }
+	2959.1.1 = { add_spouse = 111129 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111129 = {
+	name = "Besiniel"
+	dynasty = 90003
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2943.1.1 = { birth = 2943.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111130 = {
+	name = "Alean"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2949.1.1 = { add_spouse = 111131 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111131 = {
+	name = "Tielesin"
+	dynasty = 90003
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111132 = {
+	name = "Ceranidan"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2958.1.1 = { add_spouse = 111133 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111133 = {
+	name = "Ilian"
+	dynasty = 90007
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2942.1.1 = { birth = 2942.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111134 = {
+	name = "Virelan"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2946.1.1 = { add_spouse = 111135 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111135 = {
+	name = "Nyare"
+	dynasty = 90004
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111136 = {
+	name = "Edarion"
+	dynasty = 90005
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2960.1.1 = { add_spouse = 111137 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111137 = {
+	name = "Ilian"
+	dynasty = 90005
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2944.1.1 = { birth = 2944.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111138 = {
+	name = "Renior"
+	dynasty = 90007
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2930.1.1 = { birth = 2930.1.1 }
+	2965.1.1 = { add_spouse = 111139 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111139 = {
+	name = "Ilian"
+	dynasty = 90001
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111140 = {
+	name = "Morollan"
+	dynasty = 90002
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2948.1.1 = { birth = 2948.1.1 }
+	2957.1.1 = { add_spouse = 111141 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111141 = {
+	name = "Ceranidel"
+	dynasty = 90007
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2941.1.1 = { birth = 2941.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111142 = {
+	name = "Nomarian"
+	dynasty = 90006
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2949.1.1 = { birth = 2949.1.1 }
+	2949.1.1 = { add_spouse = 111143 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111143 = {
+	name = "Evinal"
+	dynasty = 90002
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2933.1.1 = { birth = 2933.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111144 = {
+	name = "Nomarian"
+	dynasty = 90002
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2936.1.1 = { birth = 2936.1.1 }
+	2954.1.1 = { add_spouse = 111145 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111145 = {
+	name = "Mirya"
+	dynasty = 90001
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2938.1.1 = { birth = 2938.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111146 = {
+	name = "Nomarian"
+	dynasty = 90001
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2962.1.1 = { add_spouse = 111147 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111147 = {
+	name = "Letesse"
+	dynasty = 90006
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2946.1.1 = { birth = 2946.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111148 = {
+	name = "Alean"
+	dynasty = 90001
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2953.1.1 = { add_spouse = 111149 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+111149 = {
+	name = "Yviol"
+	dynasty = 90004
+	female = yes
+
+	culture = "sanari"
+	religion = "agnostic"
+
+	2937.1.1 = { birth = 2937.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

@@ -2,5 +2,5 @@
 	liege="d_vasterbrygga"
 }
 2950.1.1 = {
-	holder=105038
+	holder=110480
 }

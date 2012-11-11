@@ -1,6 +1,6 @@
 1000.1.1 = {
-	liege="d_tibanbukten"
+	liege="d_takalorr"
 }
 2950.1.1 = {
-	holder=106391
+	holder=111091
 }

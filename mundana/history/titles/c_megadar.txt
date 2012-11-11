@@ -2,5 +2,5 @@
 	liege="d_targatia"
 }
 2950.1.1 = {
-	holder=105028
+	holder=110602
 }

@@ -12,7 +12,7 @@ b_kaplandet_temple = temple
 
 # Misc
 culture = damarier
-religion = sabrian_daak
+religion = jargian_daak
 
 
 # History

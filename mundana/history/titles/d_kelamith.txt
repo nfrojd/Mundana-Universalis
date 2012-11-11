@@ -2,5 +2,5 @@
 	liege="k_genrio"
 }
 2950.1.1 = {
-	holder=106351
+	holder=110177
 }

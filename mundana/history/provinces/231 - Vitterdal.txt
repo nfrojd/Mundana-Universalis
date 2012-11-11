@@ -12,7 +12,7 @@ b_vitterdal_temple = temple
 
 # Misc
 culture = asharier
-religion = samori
+religion = drunok_daak
 
 
 # History

@@ -1,0 +1,43 @@
+2000 = {
+	name = "Elisari"
+	culture = pyar
+}
+2001 = {
+	name = "Vimari"
+	culture = pyar
+}
+2100 = {
+	name = "Rudani"
+	culture = pyar
+}
+
+2200 = {
+	name = "Visha"
+	culture = sanari
+}
+2201 = {
+	name = "Ninarian"
+	culture = sanari
+}
+
+2700 = {
+	name = "Dah'touin"
+	culture = learam
+}
+2701 = {
+	name = "Kentai'y"
+	culture = learam
+}
+2702 = {
+	name = "Veísidh"
+	culture = learam
+}
+2703 = {
+	name = "Nan'sela"
+	culture = learam
+}
+2704 = {
+	name = "Silarna"
+	culture = learam
+}
+

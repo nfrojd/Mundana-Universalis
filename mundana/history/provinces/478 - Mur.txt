@@ -11,8 +11,8 @@ b_mur_city = city
 b_mur_temple = temple
 
 # Misc
-culture = jargier
-religion = sabrian_daak
+culture = ghor
+religion = vontar
 
 
 # History

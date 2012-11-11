@@ -4,6 +4,27 @@ daak = {
 	crusade_cb = crusade
 	playable = yes
 
+	jargian_daak = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		color = { 0.9 0.2 0.2 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = LIBERA
+		
+		god_names = {
+			DAAK
+		}
+		
+		investiture = no
+		priests_can_marry = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = yes
+		can_grant_claim = yes
+		can_call_crusade = yes
+	}
 	sabrian_daak = {
 		graphical_culture = westerngfx
 
@@ -25,25 +46,39 @@ daak = {
 		can_grant_claim = yes
 		can_call_crusade = yes
 	}
-	samori = {
+	drunok_daak = {
 		graphical_culture = westerngfx
 
-		icon = 1
-		color = { 0.9 0.4 0.4 }
-		
-		crusade_name = "CRUSADE"
-		scripture_name = LIBERA
-		
-		god_names = {
-			DAAK
-		}
-		
-		investiture = no
-		priests_can_marry = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_invasion_cb = yes
-		can_grant_claim = yes
-		can_call_crusade = yes
+		icon = 6
+		color = { 0.7 0.7 0.4 }
+		parent = jargian_daak
+	}
+	malgoarhit = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.7 0.7 0.4 }
+		parent = jargian_daak
+	}
+	antimonit = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.7 0.7 0.4 }
+		parent = jargian_daak
+	}
+	ayonsekten = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.7 0.7 0.4 }
+		parent = jargian_daak
+	}
+	glutharian = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.7 0.7 0.4 }
+		parent = jargian_daak
 	}
 }

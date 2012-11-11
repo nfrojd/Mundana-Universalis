@@ -1,98 +1,3 @@
-sabrian = {
-	graphical_culture = westerngfx
-
-	perenn = {
-		graphical_culture = englishgfx
-		
-		color = { 0.8 0.2 0.2 }
-		
-		male_names = {
-			Bundel Burwell Carnin Celin Creigh Dnegel Faradan Funsarat Heryn Jeneres
-			Jiemes Lestat Marak Neres Niles Nuskel Ocran Oftar Ofter Olden Patne Pelen
-			Pelt Picar Pien Piett Raken Reben Revan Reven Rumap Salden Tenas Tiamel
-			Torden Unter Varfer Yrwen Constantin Erefan Faran Ludich Heryn Nagor Tyrdal
-			Girhardt Ambrosin Carpodim Ysanar Mirien Frederick Una Walhelm
-		}
-		female_names = {
-			Alade Daria Edet Elsgita Gwendelli Helas Ilwe Inaly Indina Ivia Jaina Lasna
-			Less Lewellyn Linna Mara Melony Mira Narina Nelna Ryana Sala Tiana Ulli
-			Valla Vasla Welle Yrva Fiorina Shalya Rafalli
-		}
-
-#		from_dynasty_prefix = "dun "
-		
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 10
-		
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 10
-		mother_name_chance = 10
-
-		modifier = default_culture_modifier
-	}
-	
-	conrier = {
-		graphical_culture = englishgfx
-		
-		color = { 0.8 0.2 0.2 }
-		
-		male_names = {
-			Bundel Burwell Carnin Celin Creigh Dnegel Faradan Funsarat Heryn Jeneres
-			Jiemes Lestat Marak Neres Niles Nuskel Ocran Oftar Ofter Olden Patne Pelen
-			Pelt Picar Pien Piett Raken Reben Revan Reven Rumap Salden Tenas Tiamel
-			Torden Unter Varfer Yrwen Constantin Erefan Faran Ludich Heryn Nagor Tyrdal
-			Girhardt Ambrosin Carpodim Ysanar Mirien Frederick Una Walhelm
-		}
-		female_names = {
-			Alade Daria Edet Elsgita Gwendelli Helas Ilwe Inaly Indina Ivia Jaina Lasna
-			Less Lewellyn Linna Mara Melony Mira Narina Nelna Ryana Sala Tiana Ulli
-			Valla Vasla Welle Yrva Fiorina Shalya Rafalli
-		}
-
-#		from_dynasty_prefix = "dun "
-		
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 30
-		
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 20
-		mother_name_chance = 20
-
-		modifier = default_culture_modifier
-	}
-
-	tokon = {
-		graphical_culture = norsegfx
-		
-		color = { 0.25 0.5 0.25 }
-
-		male_names = {
-			Aidann Breadainn Cìaran Dùweigh Earlach Farrach Giereinn Idair
-			Lanfair Mùir Niei Ossain Pòl Ruigh Siadan Tùirigh Ùille Wydhei
-			Yrwainn
-		}
-		female_names = {
-			Ailis Brithain Cìdhain Dewain Eìra Fiona Gwendeilidh Helaìs
-			Inalaidh Lewelleinn Neillidh Pithainn Sìusaidh Tailinn Usiann
-			Yrfhaidh
-		}
-
-		from_dynasty_prefix = "sìol "
-		
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 10
-		father_name_chance = 0
-		
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 10
-		mother_name_chance = 0
-
-		modifier = default_culture_modifier
-	}
-}
-
 vanar = {
 	graphical_culture = westerngfx
 
@@ -113,7 +18,7 @@ vanar = {
 			Unn Violetta Yennara Zara
 		}
 
-#		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -143,7 +48,7 @@ vanar = {
 			Unn Violetta Yennara Zara
 		}
 
-#		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -173,7 +78,7 @@ vanar = {
 			Unn Violetta Yennara Zara
 		}
 
-#		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -203,7 +108,7 @@ vanar = {
 			Unn Violetta Yennara Zara
 		}
 
-#		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -229,7 +134,7 @@ vanar = {
 			Ariandra Damarella Dara Elektra Elysia Faranna Liora Nella Mortis Ovidia Tara Zandra
 		}
 
-#		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -260,7 +165,7 @@ vanar = {
 			Vitalia Xandra Xena Yrgama Zena Zavia
 		}
 
-#		from_dynasty_prefix = "dun "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10

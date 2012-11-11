@@ -1,68 +1,59 @@
 k_sunari = {
-	color = { 244 70 158 }
-	color2 = { 203 138 187 }
-	
+	color = { 75 221 11 }
+	color2 = { 224 3 242 }
 	capital = 361
 	
 	religion = agnostic
 	culture = sanari
 	
 	d_sunari = {
-		color = { 73 185 142 }
-		color2 = { 48 180 152 }
-		
+		color = { 55 193 21 }
+		color2 = { 249 37 190 }
 		c_sodra_sunari = {
-			color = { 38 185 134 }
-			color2 = { 90 141 180 }
-			
+			color = { 97 195 54 }
+			color2 = { 182 1 189 }
 			b_sodra_sunari_castle = {}
 			b_sodra_sunari_city = {}
 			b_sodra_sunari_temple = {}
 		}
 		c_halea = {
-			color = { 11 221 161 }
-			color2 = { 90 194 152 }
-			
+			color = { 56 205 0 }
+			color2 = { 207 95 177 }
 			b_halea_castle = {}
 			b_halea_city = {}
 			b_halea_temple = {}
 		}
 		c_sinai = {
-			color = { 9 146 141 }
-			color2 = { 124 147 171 }
-			
+			color = { 25 221 22 }
+			color2 = { 238 5 202 }
 			b_sinai_castle = {}
 			b_sinai_city = {}
 			b_sinai_temple = {}
 		}
 		c_ostra_sunari = {
-			color = { 61 131 164 }
-			color2 = { 92 182 243 }
-			
+			color = { 37 230 95 }
+			color2 = { 215 4 198 }
 			b_ostra_sunari_castle = {}
 			b_ostra_sunari_city = {}
 			b_ostra_sunari_temple = {}
 		}
 		c_vastra_sunari = {
-			color = { 61 186 252 }
-			color2 = { 70 219 140 }
-			
+			color = { 22 163 22 }
+			color2 = { 181 7 196 }
 			b_vastra_sunari_castle = {}
 			b_vastra_sunari_city = {}
 			b_vastra_sunari_temple = {}
 		}
 		c_norra_sunari = {
-			color = { 17 226 165 }
-			color2 = { 79 190 239 }
-			
+			color = { 71 204 6 }
+			color2 = { 237 88 228 }
 			b_norra_sunari_castle = {}
 			b_norra_sunari_city = {}
 			b_norra_sunari_temple = {}
 		}
 		c_emori = {
-			color = { 61 241 239 }
-			color2 = { 7 138 174 }
-			
+			color = { 37 154 62 }
+			color2 = { 253 96 233 }
 			b_emori_castle = {}
 			b_emori_city = {}
 			b_emori_temple = {}

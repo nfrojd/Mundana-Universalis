@@ -1,36 +1,186 @@
 # ID: 10_40XX
-# Kholam-renk-Ghor
-# Narekh-renk-Ghor
-# Kholon-renk-Ghor-Drezin
-# Kholon-renk-Roghan
-# Ikham-renk-Ghor
+# Kholam-Renk-Ghor
+# Narekh-Renk-Ghor
+# Kholon-Renk-Ghor-Drezin
+# Kholon-Renk-Roghan
+# Ikham-Renk-Ghor
 # Calni Shun-Azh (eller?)
 
 104000 = {
-	name = "Vihar" # Narekh-renk-Ghor
+	name = "Arghan" # Krhun-Renk-Roghan
 	dynasty = 4000
-	female = yes
 
-	culture = "ghor"
+	culture = "roghan"
 	religion = "vontar"
 
-	2930.1.1 = { birth = 2940.1.1 }
+	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 104001 = {
-	name = "Khrun" # Kholon-renk-Ghor-Drezin
+	name = "Ashik" #
 	dynasty = 4001
 
 	culture = "drezin"
 	religion = "vontar"
 
-#	2815.1.1 = { birth = 2815.1.1 }
-	2930.1.1 = { birth = 2940.1.1 }
+	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
 104002 = {
-	name = "Thunnakh" # Kholon-renk-Roghan
+	name = "Demirkh" # 
 	dynasty = 4002
+
+	culture = "roghan"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104003 = {
+	name = "Genar" # Khazim-Renk-Ghor
+	dynasty = 4003
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104004 = {
+	name = "Hymer" # Hemmer-Renk-Drezin
+	dynasty = 4004
+
+	culture = "drezin"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104005 = {
+	name = "Irghan" # Kholam-Renk-Ghor
+	dynasty = 4005
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104006 = {
+	name = "Khammer" #
+	dynasty = 4006
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104007 = {
+	name = "Kharzim" #
+	dynasty = 4006
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104008 = {
+	name = "Khrun" # Kholon-Renk-Ghor-Drezin
+	dynasty = 4005
+
+	culture = "drezin"
+	religion = "vontar"
+
+	2930.1.1 = { birth = 2940.1.1 } # 150 år
+	2999.1.1 = { death = 2999.1.1 }
+}
+104009 = {
+	name = "Khemir" #
+	dynasty = 4009
+
+	culture = "zolod"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104010 = {
+	name = "Lamark" # Kragh-Renk-Drezin
+	dynasty = 4001
+
+	culture = "drezin"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104011 = {
+	name = "Lyrakh" # Zolod-Renk-Elall
+	dynasty = 4011
+
+	culture = "zolod"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104012 = {
+	name = "Mernol" # Zarakh-Renk-Roghan
+	dynasty = 4012
+
+	culture = "roghan"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104013 = {
+	name = "Miarn" # Zorlakh-Renk-Roghan
+	dynasty = 4013
+	female = yes
+
+	culture = "roghan"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104014 = {
+	name = "Midar" # Drezin-Renk-Drezin
+	dynasty = 4001
+
+	culture = "drezin"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104015 = {
+	name = "Ninor" # Mur-Renk-Ghor
+	dynasty = 4015
+	female = yes
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104016 = {
+	name = "Rahven" # Talon-Renk-Ghor
+	dynasty = 4016
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104017 = {
+	name = "Thunnakh" # Kholon-Renk-Roghan
+	dynasty = 4017
 	female = yes
 
 	culture = "roghan"
@@ -39,14 +189,84 @@
 	2930.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
 }
-104003 = {
-	name = "Ulsher" # Ikham-renk-Ghor
-	dynasty = 4003
+104018 = {
+	name = "Torgar" # Rahls-Unbahr
+	dynasty = 4018
+
+	culture = "zolod"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104019 = {
+	name = "Tzamakh" # Kraalen-Renk-Roghan
+	dynasty = 4019
+
+	culture = "roghan"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104020 = {
+	name = "Ulsher" # Ikham-Renk-Ghor
+	dynasty = 4016
 
 	culture = "ghor"
 	religion = "vontar"
 
-#	2700.1.1 = { birth = 2700.1.1 }
-	2930.1.1 = { birth = 2940.1.1 }
+	2940.1.1 = { birth = 2940.1.1 }
 	2999.1.1 = { death = 2999.1.1 }
+}
+104021 = {
+	name = "Umer" # Merekh-Renk-Roghan
+	dynasty = 4021
+
+	culture = "roghan"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104022 = {
+	name = "Vihar" # Narekh-Renk-Ghor
+	dynasty = 4022
+	female = yes
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104023 = {
+	name = "Zimis" # Tar-Hir-Renk-Ghor
+	dynasty = 4023
+
+	culture = "ghor"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104024 = {
+	name = "Zurtahn" # Camard
+	dynasty = 4011
+
+	culture = "zolod"
+	religion = "vontar"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}
+104025 = {
+	name = "Khezim" # ex-Kholon-Renk-Ghor-Drezin
+	dynasty = 4005
+
+	culture = "drezin"
+	religion = "vontar"
+
+	2900.1.1 = { birth = 2900.1.1 }
+	2960.1.1 = { death = 2960.1.1 }
 }

@@ -402,3 +402,58 @@
 	name = "Tremor"
 	culture = perenn
 }
+
+
+2400 = {
+	name = "Leath-Shùile"
+	culture = tokon
+}
+2401 = {
+	name = "Thriv-Shùile"
+	culture = tokon
+}
+2402 = {
+	name = "Cem-shòrn"
+	culture = tokon
+}
+2403 = {
+	name = "Chuana"
+	culture = tokon
+}
+2404 = {
+	name = "Laphraidh"
+	culture = tokon
+}
+2405 = {
+	name = "Líusadh"
+	culture = tokon
+}
+2406 = {
+	name = "Neillí"
+	culture = tokon
+}
+2407 = {
+	name = "Roth"
+	culture = tokon
+}
+2408 = {
+	name = "Dillige"
+	culture = tokon
+}
+2409 = {
+	name = "Feeves"
+	culture = tokon
+}
+2410 = {
+	name = "Craigfáan"
+	culture = tokon
+}
+2411 = {
+	name = "Belfrage"
+	culture = tokon
+}
+2412 = {
+	name = "Mùlaigh"
+	culture = tokon
+}
+

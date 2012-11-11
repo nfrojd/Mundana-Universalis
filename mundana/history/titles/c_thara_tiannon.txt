@@ -1,0 +1,6 @@
+1000.1.1 = {
+	liege="d_thara_tiannon"
+}
+2950.1.1 = {
+	holder=110030
+}

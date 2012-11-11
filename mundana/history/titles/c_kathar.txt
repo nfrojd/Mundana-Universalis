@@ -2,5 +2,5 @@
 	liege="d_katharsis"
 }
 2950.1.1 = {
-	holder=105046
+	holder=110492
 }

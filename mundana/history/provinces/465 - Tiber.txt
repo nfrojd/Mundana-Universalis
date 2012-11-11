@@ -12,7 +12,7 @@ b_tiber_temple = temple
 
 # Misc
 culture = jargier
-religion = sabrian_daak
+religion = jargian_daak
 
 
 # History

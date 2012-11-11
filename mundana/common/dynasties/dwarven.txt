@@ -1,0 +1,76 @@
+4000 = {
+	name = "Thalez"
+	culture = roghan
+}
+4001 = {
+	name = "Unthar"
+	culture = drezin
+}
+4002 = {
+	name = "Demirkh" # Fake
+	culture = roghan
+}
+4003 = {
+	name = "Marakh"
+	culture = ghor
+}
+4004 = {
+	name = "Khornan"
+	culture = drezin
+}
+4005 = {
+	name = "Vartakh"
+	culture = ghor
+}
+4006 = {
+	name = "Kharzim" # Fake
+	culture = ghor
+}
+4009 = {
+	name = "Ramiz"
+	culture = zolod
+}
+4011 = {
+	name = "Menner"
+	culture = zolod
+}
+4012 = {
+	name = "Khiar"
+	culture = roghan
+}
+4013 = {
+	name = "Khuern"
+	culture = roghan
+}
+4015 = {
+	name = "Zummer"
+	culture = ghor
+}
+4016 = {
+	name = "Thuman"
+	culture = ghor
+}
+4017 = {
+	name = "Gharan"
+	culture = roghan
+}
+4018 = {
+	name = "Mirun"
+	culture = zolod
+}
+4019 = {
+	name = "Khunder"
+	culture = roghan
+}
+4021 = {
+	name = "Tyndar"
+	culture = roghan
+}
+4022 = {
+	name = "Vihar" # Fake
+	culture = ghor
+}
+4023 = {
+	name = "Verrat"
+	culture = ghor
+}

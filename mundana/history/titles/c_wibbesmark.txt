@@ -2,5 +2,6 @@
 	liege="d_borons_angar"
 }
 2950.1.1 = {
-	holder=105016
+	liege="d_ostmark"
+	holder=110440
 }

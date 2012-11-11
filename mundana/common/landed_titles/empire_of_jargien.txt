@@ -1,69 +1,63 @@
 e_jargien = {
-	color = { 229 27 23 }
-	color2 = { 214 123 231 }
+	color = { 226 34 208 }
+	color2 = { 59 181 39 }
+	capital = 413
 	
-	capital = 137
-	
-	religion = sabrian_daak
-	culture = jargier
+	religion = jargian_daak
 	
 	k_genrio = {
-		color = { 116 235 254 }
-		color2 = { 57 148 158 }
+		color = { 154 103 214 }
+		color2 = { 62 163 69 }
+		capital = 491
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_chan = {
-			color = { 5 178 239 }
-			color2 = { 110 199 250 }
-			
+			color = { 211 61 182 }
+			color2 = { 94 202 4 }
 			c_kuman = {
-				color = { 77 220 149 }
-				color2 = { 15 231 176 }
-				
+				color = { 204 81 224 }
+				color2 = { 7 219 81 }
 				b_kuman_castle = {}
 				b_kuman_city = {}
 				b_kuman_temple = {}
 			}
 			c_chan = {
-				color = { 13 243 200 }
-				color2 = { 25 251 146 }
-				
+				color = { 240 32 247 }
+				color2 = { 65 203 20 }
 				b_chan_castle = {}
 				b_chan_city = {}
 				b_chan_temple = {}
 			}
 			c_xanto = {
-				color = { 20 157 168 }
-				color2 = { 90 222 218 }
-				
+				color = { 187 37 174 }
+				color2 = { 73 143 72 }
 				b_xanto_castle = {}
 				b_xanto_city = {}
 				b_xanto_temple = {}
 			}
 		}
 		d_kelamith = {
-			color = { 68 221 190 }
-			color2 = { 69 143 220 }
-			
+			color = { 236 72 178 }
+			color2 = { 10 139 32 }
 			c_itesa = {
-				color = { 55 235 188 }
-				color2 = { 118 200 151 }
-				
+				color = { 207 26 181 }
+				color2 = { 12 230 4 }
 				b_itesa_castle = {}
 				b_itesa_city = {}
 				b_itesa_temple = {}
 			}
 			c_achiman = {
-				color = { 85 234 181 }
-				color2 = { 92 216 211 }
-				
+				color = { 187 95 160 }
+				color2 = { 31 143 86 }
 				b_achiman_castle = {}
 				b_achiman_city = {}
 				b_achiman_temple = {}
 			}
 			c_kelamith = {
-				color = { 100 254 241 }
-				color2 = { 22 142 176 }
-				
+				color = { 178 44 163 }
+				color2 = { 95 190 17 }
 				b_kelamith_castle = {}
 				b_kelamith_city = {}
 				b_kelamith_temple = {}
@@ -71,25 +65,26 @@ e_jargien = {
 		}
 	}
 	k_mihrit = {
-		color = { 99 208 185 }
-		color2 = { 96 146 135 }
+		color = { 234 72 170 }
+		color2 = { 85 166 78 }
+		capital = 487
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_mihrit = {
-			color = { 78 146 134 }
-			color2 = { 115 217 218 }
-			
+			color = { 179 53 161 }
+			color2 = { 55 174 7 }
 			c_davos = {
-				color = { 9 161 220 }
-				color2 = { 84 177 186 }
-				
+				color = { 243 36 182 }
+				color2 = { 81 219 98 }
 				b_davos_castle = {}
 				b_davos_city = {}
 				b_davos_temple = {}
 			}
 			c_corsis = {
-				color = { 71 172 137 }
-				color2 = { 36 201 181 }
-				
+				color = { 168 120 244 }
+				color2 = { 2 231 66 }
 				b_corsis_castle = {}
 				b_corsis_city = {}
 				b_corsis_temple = {}
@@ -97,59 +92,55 @@ e_jargien = {
 		}
 	}
 	k_okrana = {
-		color = { 21 151 241 }
-		color2 = { 39 213 167 }
+		color = { 233 96 203 }
+		color2 = { 37 206 37 }
+		capital = 482
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_absalon = {
-			color = { 33 223 185 }
-			color2 = { 57 227 164 }
-			
+			color = { 200 21 166 }
+			color2 = { 91 230 73 }
 			c_absalon = {
-				color = { 63 229 131 }
-				color2 = { 33 143 208 }
-				
+				color = { 188 46 230 }
+				color2 = { 93 164 84 }
 				b_absalon_castle = {}
 				b_absalon_city = {}
 				b_absalon_temple = {}
 			}
 		}
 		d_kebes = {
-			color = { 118 168 231 }
-			color2 = { 62 252 243 }
-			
+			color = { 158 53 217 }
+			color2 = { 42 144 5 }
 			c_talgon = {
-				color = { 127 143 203 }
-				color2 = { 57 154 134 }
-				
+				color = { 219 78 216 }
+				color2 = { 72 190 40 }
 				b_talgon_castle = {}
 				b_talgon_city = {}
 				b_talgon_temple = {}
 			}
 			c_altarios = {
-				color = { 40 158 131 }
-				color2 = { 124 174 219 }
-				
+				color = { 177 54 175 }
+				color2 = { 33 178 41 }
 				b_altarios_castle = {}
 				b_altarios_city = {}
 				b_altarios_temple = {}
 			}
 		}
 		d_jarum = {
-			color = { 89 225 227 }
-			color2 = { 118 141 216 }
-			
+			color = { 248 50 190 }
+			color2 = { 9 194 52 }
 			c_alamis = {
-				color = { 101 182 243 }
-				color2 = { 9 219 218 }
-				
+				color = { 171 118 160 }
+				color2 = { 19 209 6 }
 				b_alamis_castle = {}
 				b_alamis_city = {}
 				b_alamis_temple = {}
 			}
 			c_jarum = {
-				color = { 109 192 170 }
-				color2 = { 92 160 230 }
-				
+				color = { 165 88 214 }
+				color2 = { 12 212 99 }
 				b_jarum_castle = {}
 				b_jarum_city = {}
 				b_jarum_temple = {}
@@ -157,178 +148,158 @@ e_jargien = {
 		}
 	}
 	k_merun = {
-		color = { 88 165 240 }
-		color2 = { 91 179 233 }
+		color = { 181 46 251 }
+		color2 = { 8 167 79 }
+		capital = 429
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_erat = {
-			color = { 118 215 209 }
-			color2 = { 52 178 245 }
-			
+			color = { 213 32 213 }
+			color2 = { 5 220 26 }
 			c_turimand = {
-				color = { 74 242 254 }
-				color2 = { 108 166 177 }
-				
+				color = { 234 69 239 }
+				color2 = { 61 210 81 }
 				b_turimand_castle = {}
 				b_turimand_city = {}
 				b_turimand_temple = {}
 			}
 			c_erat = {
-				color = { 41 165 157 }
-				color2 = { 93 159 198 }
-				
+				color = { 242 61 190 }
+				color2 = { 58 137 18 }
 				b_erat_castle = {}
 				b_erat_city = {}
 				b_erat_temple = {}
 			}
 			c_yorasini = {
-				color = { 38 162 198 }
-				color2 = { 58 204 193 }
-				
+				color = { 155 96 203 }
+				color2 = { 68 145 101 }
 				b_yorasini_castle = {}
 				b_yorasini_city = {}
 				b_yorasini_temple = {}
 			}
 		}
 		d_saramon = {
-			color = { 96 190 136 }
-			color2 = { 24 172 223 }
-			
+			color = { 178 59 163 }
+			color2 = { 51 222 67 }
 			c_tugres = {
-				color = { 65 226 152 }
-				color2 = { 9 195 235 }
-				
+				color = { 218 60 236 }
+				color2 = { 5 192 43 }
 				b_tugres_castle = {}
 				b_tugres_city = {}
 				b_tugres_temple = {}
 			}
 			c_tartan = {
-				color = { 30 199 155 }
-				color2 = { 98 246 232 }
-				
+				color = { 220 81 213 }
+				color2 = { 17 149 99 }
 				b_tartan_castle = {}
 				b_tartan_city = {}
 				b_tartan_temple = {}
 			}
 			c_carik = {
-				color = { 51 225 206 }
-				color2 = { 121 158 211 }
-				
+				color = { 157 84 188 }
+				color2 = { 42 157 54 }
 				b_carik_castle = {}
 				b_carik_city = {}
 				b_carik_temple = {}
 			}
 		}
 		d_athor = {
-			color = { 69 224 157 }
-			color2 = { 108 226 133 }
-			
+			color = { 232 66 166 }
+			color2 = { 102 222 46 }
 			c_athor = {
-				color = { 58 230 162 }
-				color2 = { 125 141 181 }
-				
+				color = { 252 121 167 }
+				color2 = { 72 228 84 }
 				b_athor_castle = {}
 				b_athor_city = {}
 				b_athor_temple = {}
 			}
 			c_aiaon = {
-				color = { 49 155 138 }
-				color2 = { 122 237 198 }
-				
+				color = { 234 22 227 }
+				color2 = { 57 211 29 }
 				b_aiaon_castle = {}
 				b_aiaon_city = {}
 				b_aiaon_temple = {}
 			}
 			c_erafalan = {
-				color = { 105 177 136 }
-				color2 = { 115 142 253 }
-				
+				color = { 243 33 251 }
+				color2 = { 72 205 83 }
 				b_erafalan_castle = {}
 				b_erafalan_city = {}
 				b_erafalan_temple = {}
 			}
 		}
 		d_coloarkan = {
-			color = { 17 191 254 }
-			color2 = { 69 207 139 }
-			
+			color = { 164 73 226 }
+			color2 = { 23 145 70 }
 			c_periman = {
-				color = { 65 215 215 }
-				color2 = { 90 235 199 }
-				
+				color = { 154 72 253 }
+				color2 = { 94 195 53 }
 				b_periman_castle = {}
 				b_periman_city = {}
 				b_periman_temple = {}
 			}
 			c_oiris = {
-				color = { 8 193 204 }
-				color2 = { 122 134 191 }
-				
+				color = { 168 90 162 }
+				color2 = { 91 182 88 }
 				b_oiris_castle = {}
 				b_oiris_city = {}
 				b_oiris_temple = {}
 			}
 			c_coloarkan = {
-				color = { 50 128 171 }
-				color2 = { 3 224 190 }
-				
+				color = { 160 51 225 }
+				color2 = { 64 145 6 }
 				b_coloarkan_castle = {}
 				b_coloarkan_city = {}
 				b_coloarkan_temple = {}
 			}
 		}
 		d_hamath = {
-			color = { 119 184 203 }
-			color2 = { 82 176 196 }
-			
+			color = { 248 75 167 }
+			color2 = { 63 229 64 }
 			c_hamath = {
-				color = { 117 199 193 }
-				color2 = { 88 231 253 }
-				
+				color = { 207 112 244 }
+				color2 = { 43 145 95 }
 				b_hamath_castle = {}
 				b_hamath_city = {}
 				b_hamath_temple = {}
 			}
 			c_leo = {
-				color = { 107 242 175 }
-				color2 = { 83 205 241 }
-				
+				color = { 232 109 182 }
+				color2 = { 58 226 33 }
 				b_leo_castle = {}
 				b_leo_city = {}
 				b_leo_temple = {}
 			}
 			c_primala = {
-				color = { 120 193 202 }
-				color2 = { 8 213 233 }
-				
+				color = { 224 61 229 }
+				color2 = { 30 175 89 }
 				b_primala_castle = {}
 				b_primala_city = {}
 				b_primala_temple = {}
 			}
 		}
 		d_ralborion = {
-			color = { 74 231 251 }
-			color2 = { 81 224 162 }
-			
+			color = { 253 52 158 }
+			color2 = { 91 173 21 }
 			c_gila = {
-				color = { 95 205 194 }
-				color2 = { 13 175 216 }
-				
+				color = { 186 89 163 }
+				color2 = { 65 162 100 }
 				b_gila_castle = {}
 				b_gila_city = {}
 				b_gila_temple = {}
 			}
 			c_rher = {
-				color = { 0 211 214 }
-				color2 = { 49 181 179 }
-				
+				color = { 246 25 161 }
+				color2 = { 96 207 5 }
 				b_rher_castle = {}
 				b_rher_city = {}
 				b_rher_temple = {}
 			}
 			c_ralborion = {
-				color = { 15 135 140 }
-				color2 = { 114 224 241 }
-				
+				color = { 185 80 179 }
+				color2 = { 60 229 43 }
 				b_ralborion_castle = {}
 				b_ralborion_city = {}
 				b_ralborion_temple = {}
@@ -336,54 +307,51 @@ e_jargien = {
 		}
 	}
 	k_maulio = {
-		color = { 87 229 131 }
-		color2 = { 115 209 213 }
+		color = { 244 78 238 }
+		color2 = { 97 154 35 }
+		capital = 440
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_randarro = {
-			color = { 103 249 240 }
-			color2 = { 17 228 129 }
-			
+			color = { 245 98 169 }
+			color2 = { 39 145 86 }
 			c_randarro = {
-				color = { 73 180 224 }
-				color2 = { 127 215 137 }
-				
+				color = { 211 23 221 }
+				color2 = { 41 218 69 }
 				b_randarro_castle = {}
 				b_randarro_city = {}
 				b_randarro_temple = {}
 			}
 			c_azoni = {
-				color = { 55 242 168 }
-				color2 = { 61 176 242 }
-				
+				color = { 179 121 235 }
+				color2 = { 17 211 18 }
 				b_azoni_castle = {}
 				b_azoni_city = {}
 				b_azoni_temple = {}
 			}
 		}
 		d_irian = {
-			color = { 17 247 137 }
-			color2 = { 71 179 223 }
-			
+			color = { 157 37 230 }
+			color2 = { 66 231 57 }
 			c_giana = {
-				color = { 104 209 159 }
-				color2 = { 74 202 148 }
-				
+				color = { 218 82 211 }
+				color2 = { 50 138 1 }
 				b_giana_castle = {}
 				b_giana_city = {}
 				b_giana_temple = {}
 			}
 			c_irian = {
-				color = { 24 187 247 }
-				color2 = { 22 185 153 }
-				
+				color = { 194 121 245 }
+				color2 = { 49 220 20 }
 				b_irian_castle = {}
 				b_irian_city = {}
 				b_irian_temple = {}
 			}
 			c_sor = {
-				color = { 22 182 195 }
-				color2 = { 75 149 192 }
-				
+				color = { 236 103 212 }
+				color2 = { 70 143 71 }
 				b_sor_castle = {}
 				b_sor_city = {}
 				b_sor_temple = {}
@@ -391,41 +359,40 @@ e_jargien = {
 		}
 	}
 	k_daval = {
-		color = { 108 203 199 }
-		color2 = { 91 212 222 }
+		color = { 207 81 229 }
+		color2 = { 97 219 99 }
+		capital = 416
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_daval = {
-			color = { 72 177 243 }
-			color2 = { 37 238 207 }
-			
+			color = { 203 47 198 }
+			color2 = { 18 224 80 }
 			c_arconos = {
-				color = { 70 195 203 }
-				color2 = { 69 244 237 }
-				
+				color = { 209 111 237 }
+				color2 = { 87 211 48 }
 				b_arconos_castle = {}
 				b_arconos_city = {}
 				b_arconos_temple = {}
 			}
 			c_acoti = {
-				color = { 23 247 158 }
-				color2 = { 78 215 180 }
-				
+				color = { 246 39 252 }
+				color2 = { 39 204 20 }
 				b_acoti_castle = {}
 				b_acoti_city = {}
 				b_acoti_temple = {}
 			}
 			c_arc = {
-				color = { 4 165 165 }
-				color2 = { 47 246 200 }
-				
+				color = { 241 51 205 }
+				color2 = { 61 197 45 }
 				b_arc_castle = {}
 				b_arc_city = {}
 				b_arc_temple = {}
 			}
 			c_daval = {
-				color = { 126 203 253 }
-				color2 = { 99 177 241 }
-				
+				color = { 213 94 193 }
+				color2 = { 64 229 83 }
 				b_daval_castle = {}
 				b_daval_city = {}
 				b_daval_temple = {}
@@ -433,199 +400,169 @@ e_jargien = {
 		}
 	}
 	k_lemira = {
-		color = { 101 194 190 }
-		color2 = { 40 186 154 }
+		color = { 204 55 174 }
+		color2 = { 39 203 14 }
+		capital = 409
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_megara = {
-			color = { 9 163 162 }
-			color2 = { 92 162 179 }
-			
+			color = { 160 40 179 }
+			color2 = { 30 187 73 }
 			c_perineus = {
-				color = { 80 132 169 }
-				color2 = { 24 229 233 }
-				
+				color = { 168 31 181 }
+				color2 = { 98 165 23 }
 				b_perineus_castle = {}
 				b_perineus_city = {}
 				b_perineus_temple = {}
 			}
 			c_megara = {
-				color = { 117 221 153 }
-				color2 = { 65 186 170 }
-				
+				color = { 244 64 178 }
+				color2 = { 16 179 101 }
 				b_megara_castle = {}
 				b_megara_city = {}
 				b_megara_temple = {}
 			}
 			c_anarios = {
-				color = { 90 181 208 }
-				color2 = { 43 241 173 }
-				
+				color = { 188 91 158 }
+				color2 = { 25 204 1 }
 				b_anarios_castle = {}
 				b_anarios_city = {}
 				b_anarios_temple = {}
 			}
 		}
 		d_juko = {
-			color = { 18 200 132 }
-			color2 = { 70 225 146 }
-			
+			color = { 231 79 230 }
+			color2 = { 33 163 10 }
 			c_jukon = {
-				color = { 23 178 141 }
-				color2 = { 53 165 140 }
-				
+				color = { 216 113 195 }
+				color2 = { 8 217 57 }
 				b_jukon_castle = {}
 				b_jukon_city = {}
 				b_jukon_temple = {}
 			}
 			c_vira = {
-				color = { 59 206 227 }
-				color2 = { 57 154 247 }
-				
+				color = { 225 51 224 }
+				color2 = { 52 178 20 }
 				b_vira_castle = {}
 				b_vira_city = {}
 				b_vira_temple = {}
 			}
 			c_calus = {
-				color = { 97 212 251 }
-				color2 = { 90 146 188 }
-				
+				color = { 198 22 241 }
+				color2 = { 92 157 61 }
 				b_calus_castle = {}
 				b_calus_city = {}
 				b_calus_temple = {}
 			}
 		}
 		d_lemirion = {
-			color = { 23 167 218 }
-			color2 = { 9 206 141 }
-			
+			color = { 208 47 164 }
+			color2 = { 83 136 44 }
 			c_lemirion = {
-				color = { 91 192 226 }
-				color2 = { 87 166 187 }
-				
+				color = { 254 50 255 }
+				color2 = { 31 143 36 }
 				b_lemirion_castle = {}
 				b_lemirion_city = {}
 				b_lemirion_temple = {}
 			}
 			c_dram = {
-				color = { 112 144 203 }
-				color2 = { 45 189 160 }
-				
+				color = { 193 20 174 }
+				color2 = { 71 200 80 }
 				b_dram_castle = {}
 				b_dram_city = {}
 				b_dram_temple = {}
 			}
 		}
 		d_berenholt = {
-			color = { 14 241 178 }
-			color2 = { 114 218 232 }
-			
+			color = { 189 85 232 }
+			color2 = { 67 166 12 }
 			c_beren = {
-				color = { 54 140 160 }
-				color2 = { 114 187 216 }
-				
+				color = { 194 107 163 }
+				color2 = { 84 164 9 }
 				b_beren_castle = {}
 				b_beren_city = {}
 				b_beren_temple = {}
 			}
-			c_rehava = {
-				color = { 83 135 234 }
-				color2 = { 100 151 250 }
-				
-				b_rehava_castle = {}
-				b_rehava_city = {}
-				b_rehava_temple = {}
-			}
 			c_raal = {
-				color = { 22 221 221 }
-				color2 = { 114 236 143 }
-				
+				color = { 164 97 191 }
+				color2 = { 50 166 79 }
 				b_raal_castle = {}
 				b_raal_city = {}
 				b_raal_temple = {}
 			}
 		}
 		d_lagath = {
-			color = { 107 198 171 }
-			color2 = { 61 130 217 }
-			
+			color = { 184 39 200 }
+			color2 = { 94 142 32 }
 			c_agadir = {
-				color = { 49 158 153 }
-				color2 = { 92 252 222 }
-				
+				color = { 189 110 225 }
+				color2 = { 45 207 10 }
 				b_agadir_castle = {}
 				b_agadir_city = {}
 				b_agadir_temple = {}
 			}
 			c_lagath = {
-				color = { 74 142 225 }
-				color2 = { 14 131 215 }
-				
+				color = { 238 118 206 }
+				color2 = { 65 222 21 }
 				b_lagath_castle = {}
 				b_lagath_city = {}
 				b_lagath_temple = {}
 			}
 			c_obscenitanes = {
-				color = { 93 245 188 }
-				color2 = { 59 194 128 }
-				
+				color = { 198 42 198 }
+				color2 = { 32 212 13 }
 				b_obscenitanes_castle = {}
 				b_obscenitanes_city = {}
 				b_obscenitanes_temple = {}
 			}
 		}
 		d_emperosa = {
-			color = { 98 196 151 }
-			color2 = { 98 209 215 }
-			
+			color = { 180 35 208 }
+			color2 = { 88 191 63 }
 			c_amra = {
-				color = { 97 166 136 }
-				color2 = { 67 237 183 }
-				
+				color = { 202 26 186 }
+				color2 = { 85 234 10 }
 				b_amra_castle = {}
 				b_amra_city = {}
 				b_amra_temple = {}
 			}
 			c_maazen = {
-				color = { 107 219 243 }
-				color2 = { 22 188 213 }
-				
+				color = { 165 67 234 }
+				color2 = { 36 209 9 }
 				b_maazen_castle = {}
 				b_maazen_city = {}
 				b_maazen_temple = {}
 			}
 			c_cadarenes = {
-				color = { 48 194 206 }
-				color2 = { 103 243 186 }
-				
+				color = { 160 27 223 }
+				color2 = { 29 195 36 }
 				b_cadarenes_castle = {}
 				b_cadarenes_city = {}
 				b_cadarenes_temple = {}
 			}
 		}
 		d_morus = {
-			color = { 91 151 179 }
-			color2 = { 79 149 212 }
-			
+			color = { 163 89 177 }
+			color2 = { 61 208 98 }
 			c_cenes = {
-				color = { 126 155 253 }
-				color2 = { 5 131 223 }
-				
+				color = { 197 112 235 }
+				color2 = { 8 227 84 }
 				b_cenes_castle = {}
 				b_cenes_city = {}
 				b_cenes_temple = {}
 			}
 			c_corell = {
-				color = { 17 160 195 }
-				color2 = { 71 157 144 }
-				
+				color = { 186 33 181 }
+				color2 = { 92 171 93 }
 				b_corell_castle = {}
 				b_corell_city = {}
 				b_corell_temple = {}
 			}
 			c_morus = {
-				color = { 36 143 147 }
-				color2 = { 10 239 253 }
-				
+				color = { 253 23 223 }
+				color2 = { 71 221 55 }
 				b_morus_castle = {}
 				b_morus_city = {}
 				b_morus_temple = {}
@@ -633,196 +570,177 @@ e_jargien = {
 		}
 	}
 	k_jargien = {
-		color = { 89 131 208 }
-		color2 = { 27 152 181 }
+		color = { 155 66 219 }
+		color2 = { 33 163 1 }
+		capital = 467
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_jerome = {
-			color = { 9 166 156 }
-			color2 = { 13 174 179 }
-			
-			c_savias = {
-				color = { 52 217 209 }
-				color2 = { 70 156 198 }
-				
-				b_savias_castle = {}
-				b_savias_city = {}
-				b_savias_temple = {}
-			}
+			color = { 218 64 254 }
+			color2 = { 96 218 93 }
 			c_falano = {
-				color = { 75 164 143 }
-				color2 = { 40 143 206 }
-				
+				color = { 234 46 184 }
+				color2 = { 96 233 86 }
 				b_falano_castle = {}
 				b_falano_city = {}
 				b_falano_temple = {}
 			}
 		}
 		d_rono = {
-			color = { 40 218 196 }
-			color2 = { 32 160 177 }
-			
+			color = { 172 72 161 }
+			color2 = { 23 157 60 }
 			c_taman_har = {
-				color = { 65 136 223 }
-				color2 = { 126 217 187 }
-				
+				color = { 252 106 192 }
+				color2 = { 5 157 22 }
 				b_taman_har_castle = {}
 				b_taman_har_city = {}
 				b_taman_har_temple = {}
 			}
 		}
 		d_lativa = {
-			color = { 77 187 147 }
-			color2 = { 72 203 131 }
-			
+			color = { 175 92 245 }
+			color2 = { 10 203 64 }
 			c_doralom = {
-				color = { 93 178 164 }
-				color2 = { 35 144 248 }
-				
+				color = { 202 68 187 }
+				color2 = { 91 141 9 }
 				b_doralom_castle = {}
 				b_doralom_city = {}
 				b_doralom_temple = {}
 			}
 			c_lamur = {
-				color = { 5 251 182 }
-				color2 = { 93 157 166 }
-				
+				color = { 205 28 237 }
+				color2 = { 65 198 35 }
 				b_lamur_castle = {}
 				b_lamur_city = {}
 				b_lamur_temple = {}
 			}
 		}
 		d_daro = {
-			color = { 58 209 212 }
-			color2 = { 85 162 223 }
-			
+			color = { 215 59 168 }
+			color2 = { 93 144 63 }
 			c_bolos = {
-				color = { 32 217 143 }
-				color2 = { 79 128 187 }
-				
+				color = { 212 114 249 }
+				color2 = { 38 180 92 }
 				b_bolos_castle = {}
 				b_bolos_city = {}
 				b_bolos_temple = {}
 			}
 			c_khoi = {
-				color = { 22 135 142 }
-				color2 = { 52 131 249 }
-				
+				color = { 195 91 156 }
+				color2 = { 72 165 99 }
 				b_khoi_castle = {}
 				b_khoi_city = {}
 				b_khoi_temple = {}
 			}
 			c_variso = {
-				color = { 120 166 198 }
-				color2 = { 57 157 137 }
-				
+				color = { 193 99 214 }
+				color2 = { 65 216 73 }
 				b_variso_castle = {}
 				b_variso_city = {}
 				b_variso_temple = {}
 			}
 		}
+		d_savias = {
+			color = { 215 70 216 }
+			color2 = { 93 203 81 }
+			c_savias = {
+				color = { 200 94 250 }
+				color2 = { 43 167 18 }
+				b_savias_castle = {}
+				b_savias_city = {}
+				b_savias_temple = {}
+			}
+		}
 		d_liboria = {
-			color = { 79 157 221 }
-			color2 = { 23 242 131 }
-			
+			color = { 245 23 243 }
+			color2 = { 30 173 45 }
 			c_rithera = {
-				color = { 5 223 175 }
-				color2 = { 111 214 201 }
-				
+				color = { 238 95 172 }
+				color2 = { 5 229 6 }
 				b_rithera_castle = {}
 				b_rithera_city = {}
 				b_rithera_temple = {}
 			}
 			c_tiber = {
-				color = { 86 244 245 }
-				color2 = { 53 186 150 }
-				
+				color = { 185 76 253 }
+				color2 = { 71 208 13 }
 				b_tiber_castle = {}
 				b_tiber_city = {}
 				b_tiber_temple = {}
 			}
 			c_orno = {
-				color = { 6 220 217 }
-				color2 = { 50 212 151 }
-				
+				color = { 227 49 187 }
+				color2 = { 39 229 19 }
 				b_orno_castle = {}
 				b_orno_city = {}
 				b_orno_temple = {}
 			}
 		}
 		d_keraat = {
-			color = { 27 136 129 }
-			color2 = { 67 142 145 }
-			
+			color = { 175 30 232 }
+			color2 = { 50 230 91 }
 			c_acheronus = {
-				color = { 19 245 162 }
-				color2 = { 77 177 224 }
-				
+				color = { 248 94 207 }
+				color2 = { 77 164 82 }
 				b_acheronus_castle = {}
 				b_acheronus_city = {}
 				b_acheronus_temple = {}
 			}
 			c_pelu_ka_omo = {
-				color = { 52 139 135 }
-				color2 = { 13 135 236 }
-				
+				color = { 197 109 234 }
+				color2 = { 6 153 22 }
 				b_pelu_ka_omo_castle = {}
 				b_pelu_ka_omo_city = {}
 				b_pelu_ka_omo_temple = {}
 			}
 		}
 		d_charino = {
-			color = { 35 154 155 }
-			color2 = { 22 162 179 }
-			
+			color = { 174 99 225 }
+			color2 = { 90 184 89 }
 			c_sabesta = {
-				color = { 94 199 160 }
-				color2 = { 44 223 213 }
-				
+				color = { 155 103 231 }
+				color2 = { 22 173 88 }
 				b_sabesta_castle = {}
 				b_sabesta_city = {}
 				b_sabesta_temple = {}
 			}
 			c_trios = {
-				color = { 75 188 177 }
-				color2 = { 2 183 128 }
-				
+				color = { 181 50 219 }
+				color2 = { 74 205 62 }
 				b_trios_castle = {}
 				b_trios_city = {}
 				b_trios_temple = {}
 			}
 			c_chora = {
-				color = { 70 152 231 }
-				color2 = { 10 183 245 }
-				
+				color = { 176 113 171 }
+				color2 = { 17 180 35 }
 				b_chora_castle = {}
 				b_chora_city = {}
 				b_chora_temple = {}
 			}
 		}
 		d_salan = {
-			color = { 97 173 137 }
-			color2 = { 82 254 220 }
-			
+			color = { 192 72 194 }
+			color2 = { 29 222 40 }
 			c_salan = {
-				color = { 4 237 169 }
-				color2 = { 66 134 190 }
-				
+				color = { 254 84 228 }
+				color2 = { 93 145 34 }
 				b_salan_castle = {}
 				b_salan_city = {}
 				b_salan_temple = {}
 			}
 			c_egia = {
-				color = { 7 243 242 }
-				color2 = { 2 249 181 }
-				
+				color = { 179 92 239 }
+				color2 = { 56 164 32 }
 				b_egia_castle = {}
 				b_egia_city = {}
 				b_egia_temple = {}
 			}
 			c_szal_dorian = {
-				color = { 96 239 141 }
-				color2 = { 82 241 141 }
-				
+				color = { 200 55 226 }
+				color2 = { 10 144 82 }
 				b_szal_dorian_castle = {}
 				b_szal_dorian_city = {}
 				b_szal_dorian_temple = {}
@@ -830,54 +748,51 @@ e_jargien = {
 		}
 	}
 	k_sardan = {
-		color = { 35 176 247 }
-		color2 = { 27 185 154 }
+		color = { 229 106 207 }
+		color2 = { 35 156 90 }
+		capital = 445
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_quarran = {
-			color = { 27 211 207 }
-			color2 = { 111 224 209 }
-			
+			color = { 220 21 210 }
+			color2 = { 12 180 73 }
 			c_nizam = {
-				color = { 22 214 217 }
-				color2 = { 56 252 197 }
-				
+				color = { 211 28 214 }
+				color2 = { 10 212 54 }
 				b_nizam_castle = {}
 				b_nizam_city = {}
 				b_nizam_temple = {}
 			}
 			c_arkiz = {
-				color = { 44 162 245 }
-				color2 = { 51 203 217 }
-				
+				color = { 199 59 162 }
+				color2 = { 1 205 54 }
 				b_arkiz_castle = {}
 				b_arkiz_city = {}
 				b_arkiz_temple = {}
 			}
 			c_quarran = {
-				color = { 63 225 138 }
-				color2 = { 108 215 187 }
-				
+				color = { 244 105 230 }
+				color2 = { 84 141 39 }
 				b_quarran_castle = {}
 				b_quarran_city = {}
 				b_quarran_temple = {}
 			}
 		}
 		d_arbido = {
-			color = { 38 219 237 }
-			color2 = { 9 207 253 }
-			
+			color = { 175 111 213 }
+			color2 = { 66 234 19 }
 			c_arbido = {
-				color = { 71 223 202 }
-				color2 = { 77 254 168 }
-				
+				color = { 207 89 217 }
+				color2 = { 89 226 56 }
 				b_arbido_castle = {}
 				b_arbido_city = {}
 				b_arbido_temple = {}
 			}
 			c_tarmond = {
-				color = { 119 238 164 }
-				color2 = { 71 191 142 }
-				
+				color = { 240 47 197 }
+				color2 = { 19 218 82 }
 				b_tarmond_castle = {}
 				b_tarmond_city = {}
 				b_tarmond_temple = {}
@@ -885,75 +800,69 @@ e_jargien = {
 		}
 	}
 	k_rankun = {
-		color = { 0 224 216 }
-		color2 = { 66 152 244 }
+		color = { 223 116 195 }
+		color2 = { 26 228 57 }
+		capital = 451
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_urath = {
-			color = { 103 252 151 }
-			color2 = { 61 225 146 }
-			
+			color = { 158 66 228 }
+			color2 = { 44 204 7 }
 			c_urath = {
-				color = { 79 180 129 }
-				color2 = { 31 209 241 }
-				
+				color = { 174 92 225 }
+				color2 = { 90 148 73 }
 				b_urath_castle = {}
 				b_urath_city = {}
 				b_urath_temple = {}
 			}
 			c_selenens = {
-				color = { 8 245 240 }
-				color2 = { 84 229 138 }
-				
+				color = { 211 34 209 }
+				color2 = { 93 188 36 }
 				b_selenens_castle = {}
 				b_selenens_city = {}
 				b_selenens_temple = {}
 			}
 		}
 		d_ghalenthu = {
-			color = { 117 196 222 }
-			color2 = { 41 204 226 }
-			
+			color = { 216 33 240 }
+			color2 = { 87 201 50 }
 			c_lakhasia = {
-				color = { 97 206 150 }
-				color2 = { 1 222 251 }
-				
+				color = { 180 55 212 }
+				color2 = { 93 219 67 }
 				b_lakhasia_castle = {}
 				b_lakhasia_city = {}
 				b_lakhasia_temple = {}
 			}
 			c_ghalenthu = {
-				color = { 109 236 211 }
-				color2 = { 91 201 143 }
-				
+				color = { 161 115 219 }
+				color2 = { 100 162 83 }
 				b_ghalenthu_castle = {}
 				b_ghalenthu_city = {}
 				b_ghalenthu_temple = {}
 			}
 		}
 		d_binkh = {
-			color = { 19 147 138 }
-			color2 = { 95 129 140 }
-			
+			color = { 255 58 222 }
+			color2 = { 44 159 76 }
 			c_sarason = {
-				color = { 113 190 175 }
-				color2 = { 84 183 165 }
-				
+				color = { 215 36 236 }
+				color2 = { 90 138 43 }
 				b_sarason_castle = {}
 				b_sarason_city = {}
 				b_sarason_temple = {}
 			}
 			c_larason = {
-				color = { 98 231 145 }
-				color2 = { 48 147 175 }
-				
+				color = { 211 113 223 }
+				color2 = { 24 163 86 }
 				b_larason_castle = {}
 				b_larason_city = {}
 				b_larason_temple = {}
 			}
 			c_binkh = {
-				color = { 78 157 203 }
-				color2 = { 78 233 212 }
-				
+				color = { 163 58 216 }
+				color2 = { 34 234 80 }
 				b_binkh_castle = {}
 				b_binkh_city = {}
 				b_binkh_temple = {}
@@ -961,25 +870,26 @@ e_jargien = {
 		}
 	}
 	k_tibara = {
-		color = { 22 147 188 }
-		color2 = { 31 145 156 }
+		color = { 170 26 183 }
+		color2 = { 29 172 37 }
+		capital = 447
+		
+		religion = jargian_daak
+		culture = jargier
 		
 		d_tibara = {
-			color = { 74 205 208 }
-			color2 = { 112 165 207 }
-			
+			color = { 187 25 195 }
+			color2 = { 94 169 10 }
 			c_monastos = {
-				color = { 120 218 204 }
-				color2 = { 18 190 221 }
-				
+				color = { 217 34 176 }
+				color2 = { 52 176 91 }
 				b_monastos_castle = {}
 				b_monastos_city = {}
 				b_monastos_temple = {}
 			}
 			c_tibara = {
-				color = { 6 217 188 }
-				color2 = { 38 205 136 }
-				
+				color = { 153 106 242 }
+				color2 = { 38 232 79 }
 				b_tibara_castle = {}
 				b_tibara_city = {}
 				b_tibara_temple = {}

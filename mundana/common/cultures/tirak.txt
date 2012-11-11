@@ -16,7 +16,7 @@ tirak = {
 			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
 		}
 
-		from_dynasty_prefix = "sìol "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -44,7 +44,7 @@ tirak = {
 			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
 		}
 
-		from_dynasty_prefix = "sìol "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10
@@ -72,7 +72,7 @@ tirak = {
 			Noha Pezaka Rukka Tagratah Taki Torgug Urzi Zekka Zogga
 		}
 
-		from_dynasty_prefix = "sìol "
+		from_dynasty_prefix = "of "
 		
 		pat_grf_name_chance = 20
 		mat_grf_name_chance = 10

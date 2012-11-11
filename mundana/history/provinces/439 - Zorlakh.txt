@@ -11,8 +11,8 @@ b_zorlakh_city = city
 b_zorlakh_temple = temple
 
 # Misc
-culture = jargier
-religion = sabrian_daak
+culture = roghan
+religion = vontar
 
 
 # History

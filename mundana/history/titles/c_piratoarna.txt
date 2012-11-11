@@ -1,6 +1,7 @@
 1000.1.1 = {
-	liege="d_hammarnaset"
+	liege="d_vakto"
 }
 2950.1.1 = {
-	holder=105027
+	liege="d_takalorr"
+	holder=111010
 }

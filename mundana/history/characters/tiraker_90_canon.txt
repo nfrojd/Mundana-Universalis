@@ -1,0 +1,13 @@
+# ID: 10_90XX
+
+109000 = {
+	name = "Mahka" # Kiaz
+	dynasty = 9000
+	female = yes
+
+	culture = "frakk"
+	religion = "mahktah"
+
+	2940.1.1 = { birth = 2940.1.1 }
+	2999.1.1 = { death = 2999.1.1 }
+}

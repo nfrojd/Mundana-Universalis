@@ -2,5 +2,6 @@
 	liege="d_jhamalo_tamatz"
 }
 2950.1.1 = {
-	holder=105033
+	liege="d_borons_angar"
+	holder=110402
 }

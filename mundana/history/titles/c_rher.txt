@@ -2,5 +2,5 @@
 	liege="d_ralborion"
 }
 2950.1.1 = {
-	holder=106998
+	holder=110000
 }

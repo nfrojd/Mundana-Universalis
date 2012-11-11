@@ -2,5 +2,5 @@
 	liege="d_krylomar"
 }
 2950.1.1 = {
-	holder=105030
+	holder=110672
 }

@@ -2,5 +2,5 @@
 	liege="d_tuzan_rim"
 }
 2950.1.1 = {
-	holder=105018
+	holder=110315
 }

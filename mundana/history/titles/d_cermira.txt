@@ -1,6 +1,6 @@
 1000.1.1 = {
-	liege="k_asharien"
+	liege="k_cermira"
 }
 2950.1.1 = {
-	holder=105048
+	holder=110308
 }

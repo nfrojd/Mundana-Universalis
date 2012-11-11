@@ -12,6 +12,7 @@ k_ara;Ara;;;;;;;;;;;;;x
 k_asharien;Asharien;;;;;;;;;;;;;x
 k_calana;Calana;;;;;;;;;;;;;x
 k_caserion;Caserion;;;;;;;;;;;;;x
+k_cermira;Cermira;;;;;;;;;;;;;
 k_colonan;Colonan;;;;;;;;;;;;;x
 k_damarien;Damarien;;;;;;;;;;;;;x
 k_drunok;Drunok;;;;;;;;;;;;;x
@@ -57,6 +58,8 @@ k_tarkas;Tarkas;;;;;;;;;;;;;x
 k_okrana;Okrana;;;;;;;;;;;;;x
 k_mihrit;Mihrit;;;;;;;;;;;;;x
 k_genrio;Genrio;;;;;;;;;;;;;x
+k_mur;Mur;;;;;;;;;;;;;x
+k_zorlakh;Zorlakh;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 d_abin_thukor;Abin-Thukor;;;;;;;;;;;;;x
 d_adaluth;Adaluth;;;;;;;;;;;;;x
@@ -172,9 +175,7 @@ d_vastlanden;Västlanden;;;;;;;;;;;;;x
 d_victaron;Victaron;;;;;;;;;;;;;x
 d_vimna;Vimna;;;;;;;;;;;;;x
 d_zarakh;Zarakh;;;;;;;;;;;;;x
-d_vastra_takalorr;Västra Takalorr;;;;;;;;;;;;;x
-d_tibanbukten;Tibanbukten;;;;;;;;;;;;;x
-d_sodra_takalorr;Södra Takalorr;;;;;;;;;;;;;x
+d_takalorr;Takalorr;;;;;;;;;;;;;x
 d_uraz;Uraz;;;;;;;;;;;;;x
 d_kalarr;Kalarr;;;;;;;;;;;;;x
 d_rimcoz;Rimcoz;;;;;;;;;;;;;x
@@ -220,6 +221,8 @@ d_kebes;Kebes;;;;;;;;;;;;;x
 d_mihrit;Mihrit;;;;;;;;;;;;;x
 d_kelamith;Kelamith;;;;;;;;;;;;;x
 d_chan;Chan;;;;;;;;;;;;;x
+d_vakto;Vaktö;;;;;;;;;;;;;x
+d_savias;Savias;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x
 c_abin_ramadh;Abin-Ramadh;;;;;;;;;;;;;x
 c_abin_thukor;Abin-Thukor;;;;;;;;;;;;;x
@@ -658,7 +661,7 @@ c_athor;Athor;;;;;;;;;;;;;x
 c_rher;Rher;;;;;;;;;;;;;x
 c_sor;Sor;;;;;;;;;;;;;x
 c_kaith;Kaith;;;;;;;;;;;;;x
-c_thara;Thara;;;;;;;;;;;;;x
+c_thara_tiannon;Thara-Tiannon;;;;;;;;;;;;;x
 c_zorlakh;Zorlakh;;;;;;;;;;;;;x
 c_irian;Irian;;;;;;;;;;;;;x
 c_giana;Giana;;;;;;;;;;;;;x

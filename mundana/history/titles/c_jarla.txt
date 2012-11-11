@@ -2,5 +2,5 @@
 	liege="d_jarla"
 }
 2950.1.1 = {
-	holder=105006
+	holder=110380
 }

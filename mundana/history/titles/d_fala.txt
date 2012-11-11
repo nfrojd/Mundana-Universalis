@@ -2,5 +2,5 @@
 	liege="k_asharien"
 }
 2950.1.1 = {
-	holder=105013
+	holder=110305
 }

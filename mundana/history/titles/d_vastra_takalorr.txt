@@ -2,5 +2,5 @@
 	liege="k_takalorr"
 }
 2950.1.1 = {
-	holder=106640
+	holder=111003
 }

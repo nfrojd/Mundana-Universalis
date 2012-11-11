@@ -2,5 +2,5 @@
 	liege="d_rimcoz"
 }
 2950.1.1 = {
-	holder=106270
+	holder=110274
 }

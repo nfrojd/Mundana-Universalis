@@ -1,4 +1,4 @@
-1000.1.1 ={
+1000.1.1 = {
 	law = centralization_0
 	law = investiture_law_1
 	law = cognatic_succession

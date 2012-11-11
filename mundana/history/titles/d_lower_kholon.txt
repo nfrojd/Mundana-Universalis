@@ -2,5 +2,5 @@
 	liege="k_lower_kholon"
 }
 2950.1.1 = {
-	holder=104001
+	holder=104008
 }

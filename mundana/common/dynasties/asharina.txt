@@ -1,0 +1,576 @@
+96000 = {
+	name = "da Silva"
+	culture = jargier
+}
+96001 = {
+	name = "Arcadis"
+	culture = jargier
+}
+96002 = {
+	name = "Botaneiates"
+	culture = jargier
+}
+96003 = {
+	name = "Donato"
+	culture = jargier
+}
+96004 = {
+	name = "Ducas"
+	culture = jargier
+}
+96005 = {
+	name = "Fortunatis"
+	culture = jargier
+}
+96006 = {
+	name = "Hymeris"
+	culture = jargier
+}
+96007 = {
+	name = "Jahanet"
+	culture = jargier
+}
+96008 = {
+	name = "de Jehor"
+	culture = jargier
+}
+96009 = {
+	name = "Katullis"
+	culture = jargier
+}
+96010 = {
+	name = "Lascaris"
+	culture = jargier
+}
+96011 = {
+	name = "Lemire"
+	culture = jargier
+}
+96012 = {
+	name = "Lomaro"
+	culture = jargier
+}
+96013 = {
+	name = "Marcian"
+	culture = jargier
+}
+96014 = {
+	name = "Papas"
+	culture = jargier
+}
+96015 = {
+	name = "Quintillis"
+	culture = jargier
+}
+96016 = {
+	name = "Randarian"
+	culture = jargier
+}
+96017 = {
+	name = "Regelius"
+	culture = jargier
+}
+96018 = {
+	name = "Salvianis"
+	culture = jargier
+}
+96019 = {
+	name = "Silvanian"
+	culture = jargier
+}
+96020 = {
+	name = "Tiberian"
+	culture = jargier
+}
+96021 = {
+	name = "Ulixis"
+	culture = jargier
+}
+96022 = {
+	name = "Vestoris"
+	culture = jargier
+}
+96023 = {
+	name = "Victorinas"
+	culture = jargier
+}
+96024 = {
+	name = "Zeno"
+	culture = jargier
+}
+96025 = {
+	name = "Aquilas"
+	culture = jargier
+}
+96026 = {
+	name = "Argentis"
+	culture = jargier
+}
+96027 = {
+	name = "Bonoso"
+	culture = jargier
+}
+96028 = {
+	name = "Girom"
+	culture = jargier
+}
+96029 = {
+	name = "Londstrim"
+	culture = jargier
+}
+96030 = {
+	name = "Messalis"
+	culture = jargier
+}
+96031 = {
+	name = "Ostorianas"
+	culture = jargier
+}
+96032 = {
+	name = "Plebeius"
+	culture = jargier
+}
+90000 = {
+	name = "Ana"
+	culture = sanari
+}
+90001 = {
+	name = "Elisari"
+	culture = sanari
+}
+90002 = {
+	name = "Nentari"
+	culture = sanari
+}
+90003 = {
+	name = "Esterani"
+	culture = sanari
+}
+90004 = {
+	name = "Viluri"
+	culture = sanari
+}
+90005 = {
+	name = "Turalian"
+	culture = sanari
+}
+90006 = {
+	name = "Esterial"
+	culture = sanari
+}
+90007 = {
+	name = "Visha"
+	culture = sanari
+}
+91000 = {
+	name = "Mahko"
+	culture = tirak
+}
+91001 = {
+	name = "Obamha"
+	culture = tirak
+}
+91002 = {
+	name = "Wekzi"
+	culture = tirak
+}
+91003 = {
+	name = "Ragar"
+	culture = tirak
+}
+91004 = {
+	name = "Wezi"
+	culture = tirak
+}
+91005 = {
+	name = "Frikk"
+	culture = tirak
+}
+91006 = {
+	name = "Reza"
+	culture = tirak
+}
+91007 = {
+	name = "Xoro"
+	culture = tirak
+}
+92000 = {
+	name = "Balozin"
+	culture = melorier
+}
+92001 = {
+	name = "Carrazelio"
+	culture = melorier
+}
+92002 = {
+	name = "Carumzil"
+	culture = melorier
+}
+92003 = {
+	name = "Cazion"
+	culture = melorier
+}
+92004 = {
+	name = "Cirzekel"
+	culture = melorier
+}
+92005 = {
+	name = "Davorz"
+	culture = melorier
+}
+92006 = {
+	name = "Derzum"
+	culture = melorier
+}
+92007 = {
+	name = "Dverkaz"
+	culture = melorier
+}
+92008 = {
+	name = "Felzelior"
+	culture = melorier
+}
+92009 = {
+	name = "Hzarn"
+	culture = melorier
+}
+92010 = {
+	name = "Jhemkor"
+	culture = melorier
+}
+92011 = {
+	name = "Jhezem"
+	culture = melorier
+}
+92012 = {
+	name = "Jhimec"
+	culture = melorier
+}
+92013 = {
+	name = "Kecon"
+	culture = melorier
+}
+92014 = {
+	name = "Lamzdon"
+	culture = melorier
+}
+92015 = {
+	name = "Levelioz"
+	culture = melorier
+}
+92016 = {
+	name = "Lozcarda"
+	culture = melorier
+}
+92017 = {
+	name = "Manziir"
+	culture = melorier
+}
+92018 = {
+	name = "Mazdrac"
+	culture = melorier
+}
+92019 = {
+	name = "Melzior"
+	culture = melorier
+}
+92020 = {
+	name = "Pornaz"
+	culture = melorier
+}
+92021 = {
+	name = "Rezrek"
+	culture = melorier
+}
+92022 = {
+	name = "Tanazeva"
+	culture = melorier
+}
+92023 = {
+	name = "Temiranz"
+	culture = melorier
+}
+92024 = {
+	name = "Terrenbaz"
+	culture = melorier
+}
+92025 = {
+	name = "Tzez"
+	culture = melorier
+}
+92026 = {
+	name = "Tzon"
+	culture = melorier
+}
+92027 = {
+	name = "Tzorcelan"
+	culture = melorier
+}
+92028 = {
+	name = "Tzorum"
+	culture = melorier
+}
+92029 = {
+	name = "Ulmazac"
+	culture = melorier
+}
+92030 = {
+	name = "Velezior"
+	culture = melorier
+}
+92031 = {
+	name = "Velzic"
+	culture = melorier
+}
+92032 = {
+	name = "Veneliz"
+	culture = melorier
+}
+92033 = {
+	name = "Virzkis"
+	culture = melorier
+}
+92034 = {
+	name = "Vizin"
+	culture = melorier
+}
+92035 = {
+	name = "Ymtez"
+	culture = melorier
+}
+92036 = {
+	name = "Zargon"
+	culture = melorier
+}
+92037 = {
+	name = "Zormelac"
+	culture = melorier
+}
+92038 = {
+	name = "Ghazarim"
+	culture = melorier
+}
+92039 = {
+	name = "Vrazam"
+	culture = melorier
+}
+92040 = {
+	name = "Ezir"
+	culture = melorier
+}
+92041 = {
+	name = "Daanziir"
+	culture = melorier
+}
+92042 = {
+	name = "Nizrim"
+	culture = melorier
+}
+92043 = {
+	name = "Nahiz"
+	culture = melorier
+}
+92044 = {
+	name = "Cirecelan"
+	culture = melorier
+}
+92045 = {
+	name = "Szara"
+	culture = melorier
+}
+92046 = {
+	name = "Zarcara"
+	culture = melorier
+}
+92047 = {
+	name = "Latzaissa"
+	culture = melorier
+}
+92048 = {
+	name = "Zim"
+	culture = melorier
+}
+92049 = {
+	name = "Zammcela"
+	culture = melorier
+}
+93000 = {
+	name = "Tyldon"
+	culture = asharier
+}
+93001 = {
+	name = "Silverfjäder"
+	culture = asharier
+}
+93002 = {
+	name = "Nada"
+	culture = asharier
+}
+93003 = {
+	name = "Lim'alan"
+	culture = asharier
+}
+93004 = {
+	name = "Missla"
+	culture = asharier
+}
+93005 = {
+	name = "Felkes"
+	culture = asharier
+}
+93006 = {
+	name = "Marsac"
+	culture = asharier
+}
+93007 = {
+	name = "Morgan"
+	culture = asharier
+}
+93008 = {
+	name = "Remians"
+	culture = asharier
+}
+93009 = {
+	name = "Våghalsen"
+	culture = asharier
+}
+93010 = {
+	name = "Thekol"
+	culture = asharier
+}
+93011 = {
+	name = "Ockerman"
+	culture = asharier
+}
+93012 = {
+	name = "Solfjäder"
+	culture = asharier
+}
+94000 = {
+	name = "Leijon"
+	culture = soldier
+}
+94001 = {
+	name = "Silversparre"
+	culture = soldier
+}
+94002 = {
+	name = "Solstjärna"
+	culture = soldier
+}
+94003 = {
+	name = "Wackt"
+	culture = soldier
+}
+94004 = {
+	name = "Två lansar"
+	culture = soldier
+}
+94005 = {
+	name = "Sol och måne"
+	culture = soldier
+}
+94006 = {
+	name = "Spegelsköld"
+	culture = soldier
+}
+94007 = {
+	name = "Slottsbyggare"
+	culture = soldier
+}
+94008 = {
+	name = "Bonde"
+	culture = soldier
+}
+94009 = {
+	name = "Spjutmakare"
+	culture = soldier
+}
+94010 = {
+	name = "Lysande"
+	culture = soldier
+}
+94011 = {
+	name = "Vasse"
+	culture = soldier
+}
+94012 = {
+	name = "Lärde"
+	culture = soldier
+}
+94013 = {
+	name = "Krumme"
+	culture = soldier
+}
+94014 = {
+	name = "Svärdsman"
+	culture = soldier
+}
+94015 = {
+	name = "Blå"
+	culture = soldier
+}
+94016 = {
+	name = "Xerim"
+	culture = vastmarkare
+}
+94017 = {
+	name = "Persal"
+	culture = vastmarkare
+}
+94018 = {
+	name = "Bebel"
+	culture = vastmarkare
+}
+94019 = {
+	name = "Rekim"
+	culture = vastmarkare
+}
+94020 = {
+	name = "Renok"
+	culture = vastmarkare
+}
+94021 = {
+	name = "Raak"
+	culture = vastmarkare
+}
+94022 = {
+	name = "Enid"
+	culture = vastmarkare
+}
+94023 = {
+	name = "av Vita klippans springa"
+	culture = vastmarkare
+}
+94024 = {
+	name = "Gahallan"
+	culture = drunokier
+}
+94025 = {
+	name = "Palinaro"
+	culture = drunokier
+}
+94026 = {
+	name = "Dordaros"
+	culture = drunokier
+}
+94027 = {
+	name = "Arlon"
+	culture = drunokier
+}
+94028 = {
+	name = "Vitfjäder"
+	culture = damarier
+}
+94029 = {
+	name = "Van Culnar"
+	culture = damarier
+}
+94030 = {
+	name = "Van Duncarck"
+	culture = damarier
+}
+94031 = {
+	name = "Targus"
+	culture = damarier
+}

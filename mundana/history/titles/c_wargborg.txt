@@ -2,5 +2,5 @@
 	liege="d_jhamalo_tamatz"
 }
 2950.1.1 = {
-	holder=105033
+	holder=110468
 }
