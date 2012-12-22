@@ -5,5 +5,5 @@
 	law = succ_feudal_elective
 }
 2950.1.1 = {
-	holder=110161
+	holder=110162
 }

@@ -26,6 +26,8 @@ k_tarkas = {
 	d_gnar_muur = {
 		color = { 109 168 141 }
 		color2 = { 142 36 171 }
+		capital = 477
+		
 		c_alna = {
 			color = { 127 160 100 }
 			color2 = { 162 75 114 }
@@ -67,6 +69,8 @@ k_takalorr = {
 	d_uraz = {
 		color = { 63 211 116 }
 		color2 = { 208 21 83 }
+		capital = 377
+		
 		c_zelarr = {
 			color = { 50 225 146 }
 			color2 = { 121 36 129 }
@@ -92,6 +96,8 @@ k_takalorr = {
 	d_takalorr = {
 		color = { 107 181 173 }
 		color2 = { 160 73 77 }
+		capital = 370
+		
 		c_dom_thader = {
 			color = { 57 193 127 }
 			color2 = { 154 83 128 }
@@ -166,6 +172,8 @@ k_takalorr = {
 	d_kalarr = {
 		color = { 129 211 135 }
 		color2 = { 145 47 163 }
+		capital = 379
+		
 		c_dom_kazer = {
 			color = { 134 176 166 }
 			color2 = { 142 98 178 }

@@ -2,5 +2,5 @@
 	liege="d_borons_angar"
 }
 2950.1.1 = {
-	holder=110401
+	holder=110402
 }

@@ -2,5 +2,5 @@
 	liege="d_coloarkan"
 }
 2950.1.1 = {
-	holder=110187
+	holder=110188
 }

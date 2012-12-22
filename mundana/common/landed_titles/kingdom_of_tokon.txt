@@ -12,6 +12,8 @@ k_tokon = {
 	d_debhean = {
 		color = { 62 197 110 }
 		color2 = { 139 50 171 }
+		capital = 109
+		
 		c_alantulw_2 = {
 			color = { 101 223 133 }
 			color2 = { 149 68 132 }
@@ -56,6 +58,8 @@ k_tokon = {
 	d_ailleidh = {
 		color = { 103 217 87 }
 		color2 = { 167 92 211 }
+		capital = 113
+		
 		c_sliabh = {
 			color = { 91 165 69 }
 			color2 = { 189 8 159 }
@@ -92,6 +96,8 @@ k_tokon = {
 	d_intouk = {
 		color = { 70 198 55 }
 		color2 = { 203 40 178 }
+		capital = 101
+		
 		c_lewain = {
 			color = { 119 237 94 }
 			color2 = { 159 96 175 }
@@ -137,6 +143,8 @@ k_tokon = {
 	d_nie = {
 		color = { 134 180 135 }
 		color2 = { 140 39 131 }
+		capital = 118
+		
 		c_pithain = {
 			color = { 87 200 125 }
 			color2 = { 181 37 135 }

@@ -9,6 +9,8 @@ k_sunari = {
 	d_sunari = {
 		color = { 55 193 21 }
 		color2 = { 249 37 190 }
+		capital = 361
+		
 		c_sodra_sunari = {
 			color = { 97 195 54 }
 			color2 = { 182 1 189 }

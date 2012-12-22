@@ -9,6 +9,8 @@ k_asharien = {
 	d_asha = {
 		color = { 53 161 128 }
 		color2 = { 143 113 87 }
+		capital = 270
+		
 		c_dunvik = {
 			color = { 82 184 169 }
 			color2 = { 185 133 92 }
@@ -34,6 +36,8 @@ k_asharien = {
 	d_nimto = {
 		color = { 44 157 137 }
 		color2 = { 148 42 73 }
+		capital = 266
+		
 		c_miletta = {
 			color = { 121 158 194 }
 			color2 = { 188 81 137 }
@@ -59,6 +63,8 @@ k_asharien = {
 	d_rahls_unbahr = {
 		color = { 74 131 151 }
 		color2 = { 158 125 123 }
+		capital = 259
+		
 		c_morelis = {
 			color = { 48 197 117 }
 			color2 = { 182 109 129 }
@@ -91,6 +97,8 @@ k_asharien = {
 	d_chadarian = {
 		color = { 41 191 122 }
 		color2 = { 160 90 111 }
+		capital = 287
+		
 		c_haledon = {
 			color = { 106 123 177 }
 			color2 = { 191 53 137 }
@@ -151,6 +159,8 @@ k_asharien = {
 	d_nada = {
 		color = { 77 213 169 }
 		color2 = { 163 120 125 }
+		capital = 262
+		
 		c_chelos = {
 			color = { 49 195 217 }
 			color2 = { 147 87 121 }
@@ -176,6 +186,8 @@ k_asharien = {
 	d_daggbacken = {
 		color = { 103 137 203 }
 		color2 = { 211 101 59 }
+		capital = 251
+		
 		c_avantinen = {
 			color = { 40 132 138 }
 			color2 = { 189 38 103 }
@@ -201,6 +213,8 @@ k_asharien = {
 	d_fala = {
 		color = { 77 124 171 }
 		color2 = { 179 41 106 }
+		capital = 279
+		
 		c_fala = {
 			color = { 86 205 191 }
 			color2 = { 157 100 112 }
@@ -233,6 +247,8 @@ k_asharien = {
 	d_jarla = {
 		color = { 91 201 148 }
 		color2 = { 204 88 88 }
+		capital = 254
+		
 		c_foran_rim = {
 			color = { 42 119 175 }
 			color2 = { 211 116 82 }
@@ -258,6 +274,8 @@ k_asharien = {
 	d_tuzan_rim = {
 		color = { 68 196 167 }
 		color2 = { 168 73 104 }
+		capital = 271
+		
 		c_tyldon = {
 			color = { 63 163 147 }
 			color2 = { 213 99 52 }
@@ -276,6 +294,8 @@ k_asharien = {
 	d_lim_alan = {
 		color = { 125 146 123 }
 		color2 = { 140 77 83 }
+		capital = 261
+		
 		c_nannlond = {
 			color = { 115 158 209 }
 			color2 = { 162 124 59 }
@@ -294,6 +314,8 @@ k_asharien = {
 	d_camard = {
 		color = { 55 128 119 }
 		color2 = { 182 90 129 }
+		capital = 275
+		
 		c_passelon = {
 			color = { 91 204 151 }
 			color2 = { 202 85 78 }
@@ -342,7 +364,7 @@ k_damarien = {
 	d_vakto = {
 		color = { 155 178 99 }
 		color2 = { 75 67 101 }
-		capital = 339
+		capital = 340
 		
 		c_piratoarna = {
 			color = { 173 180 91 }
@@ -389,7 +411,7 @@ k_damarien = {
 	d_deogotha = {
 		color = { 171 176 104 }
 		color2 = { 35 33 182 }
-		capital = 350
+		capital = 349
 		
 		c_carzimar = {
 			color = { 255 252 72 }
@@ -875,6 +897,8 @@ k_drunok = {
 	d_val_pavane = {
 		color = { 183 63 73 }
 		color2 = { 66 194 190 }
+		capital = 236
+		
 		c_durum = {
 			color = { 134 42 113 }
 			color2 = { 75 167 146 }
@@ -907,6 +931,8 @@ k_drunok = {
 	d_valo = {
 		color = { 124 101 106 }
 		color2 = { 117 157 168 }
+		capital = 240
+		
 		c_val_ordos = {
 			color = { 143 134 128 }
 			color2 = { 52 152 188 }
@@ -939,6 +965,8 @@ k_drunok = {
 	d_kintikla = {
 		color = { 193 49 45 }
 		color2 = { 45 202 204 }
+		capital = 247
+		
 		c_dimveden = {
 			color = { 181 64 91 }
 			color2 = { 88 162 177 }
@@ -971,6 +999,8 @@ k_drunok = {
 	d_pavara = {
 		color = { 199 122 137 }
 		color2 = { 57 130 127 }
+		capital = 238
+		
 		c_ramdors_fallna_marker = {
 			color = { 177 120 91 }
 			color2 = { 91 130 120 }
@@ -996,6 +1026,8 @@ k_drunok = {
 	d_thara_tiannon = {
 		color = { 182 104 64 }
 		color2 = { 93 134 115 }
+		capital = 438
+		
 		c_kaith = {
 			color = { 127 63 62 }
 			color2 = { 81 182 137 }
@@ -1118,6 +1150,8 @@ k_cermira = {
 	d_cermira = {
 		color = { 117 150 165 }
 		color2 = { 174 91 115 }
+		capital = 230
+		
 		c_mitheras_kullar = {
 			color = { 69 205 183 }
 			color2 = { 115 102 72 }

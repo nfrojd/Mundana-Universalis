@@ -22,9 +22,3 @@ religion = sabrian_daak
 	b_rubis_castle = ca_wall_1
 	b_rubis_city = ct_town_1
 }
-
-##### Custom start #####
-2961.4.20 = {
-	capital = b_rubis_city
-}
-##### Custom end #######

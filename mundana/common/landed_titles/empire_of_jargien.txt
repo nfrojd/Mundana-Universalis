@@ -16,6 +16,8 @@ e_jargien = {
 		d_chan = {
 			color = { 211 61 182 }
 			color2 = { 94 202 4 }
+			capital = 491
+			
 			c_kuman = {
 				color = { 204 81 224 }
 				color2 = { 7 219 81 }
@@ -41,6 +43,8 @@ e_jargien = {
 		d_kelamith = {
 			color = { 236 72 178 }
 			color2 = { 10 139 32 }
+			capital = 489
+			
 			c_itesa = {
 				color = { 207 26 181 }
 				color2 = { 12 230 4 }
@@ -75,6 +79,8 @@ e_jargien = {
 		d_mihrit = {
 			color = { 179 53 161 }
 			color2 = { 55 174 7 }
+			capital = 487
+			
 			c_davos = {
 				color = { 243 36 182 }
 				color2 = { 81 219 98 }
@@ -102,6 +108,8 @@ e_jargien = {
 		d_absalon = {
 			color = { 200 21 166 }
 			color2 = { 91 230 73 }
+			capital = 481
+			
 			c_absalon = {
 				color = { 188 46 230 }
 				color2 = { 93 164 84 }
@@ -113,6 +121,8 @@ e_jargien = {
 		d_kebes = {
 			color = { 158 53 217 }
 			color2 = { 42 144 5 }
+			capital = 484
+			
 			c_talgon = {
 				color = { 219 78 216 }
 				color2 = { 72 190 40 }
@@ -131,6 +141,8 @@ e_jargien = {
 		d_jarum = {
 			color = { 248 50 190 }
 			color2 = { 9 194 52 }
+			capital = 482
+			
 			c_alamis = {
 				color = { 171 118 160 }
 				color2 = { 19 209 6 }
@@ -158,6 +170,8 @@ e_jargien = {
 		d_erat = {
 			color = { 213 32 213 }
 			color2 = { 5 220 26 }
+			capital = 429
+			
 			c_turimand = {
 				color = { 234 69 239 }
 				color2 = { 61 210 81 }
@@ -183,6 +197,8 @@ e_jargien = {
 		d_saramon = {
 			color = { 178 59 163 }
 			color2 = { 51 222 67 }
+			capital = 423
+			
 			c_tugres = {
 				color = { 218 60 236 }
 				color2 = { 5 192 43 }
@@ -208,6 +224,8 @@ e_jargien = {
 		d_athor = {
 			color = { 232 66 166 }
 			color2 = { 102 222 46 }
+			capital = 434
+			
 			c_athor = {
 				color = { 252 121 167 }
 				color2 = { 72 228 84 }
@@ -233,6 +251,8 @@ e_jargien = {
 		d_coloarkan = {
 			color = { 164 73 226 }
 			color2 = { 23 145 70 }
+			capital = 419
+			
 			c_periman = {
 				color = { 154 72 253 }
 				color2 = { 94 195 53 }
@@ -258,6 +278,8 @@ e_jargien = {
 		d_hamath = {
 			color = { 248 75 167 }
 			color2 = { 63 229 64 }
+			capital = 421
+			
 			c_hamath = {
 				color = { 207 112 244 }
 				color2 = { 43 145 95 }
@@ -283,6 +305,8 @@ e_jargien = {
 		d_ralborion = {
 			color = { 253 52 158 }
 			color2 = { 91 173 21 }
+			capital = 427
+			
 			c_gila = {
 				color = { 186 89 163 }
 				color2 = { 65 162 100 }
@@ -317,6 +341,8 @@ e_jargien = {
 		d_randarro = {
 			color = { 245 98 169 }
 			color2 = { 39 145 86 }
+			capital = 443
+			
 			c_randarro = {
 				color = { 211 23 221 }
 				color2 = { 41 218 69 }
@@ -335,6 +361,8 @@ e_jargien = {
 		d_irian = {
 			color = { 157 37 230 }
 			color2 = { 66 231 57 }
+			capital = 440
+			
 			c_giana = {
 				color = { 218 82 211 }
 				color2 = { 50 138 1 }
@@ -369,6 +397,8 @@ e_jargien = {
 		d_daval = {
 			color = { 203 47 198 }
 			color2 = { 18 224 80 }
+			capital = 416
+			
 			c_arconos = {
 				color = { 209 111 237 }
 				color2 = { 87 211 48 }
@@ -410,6 +440,8 @@ e_jargien = {
 		d_megara = {
 			color = { 160 40 179 }
 			color2 = { 30 187 73 }
+			capital = 407
+			
 			c_perineus = {
 				color = { 168 31 181 }
 				color2 = { 98 165 23 }
@@ -435,6 +467,8 @@ e_jargien = {
 		d_juko = {
 			color = { 231 79 230 }
 			color2 = { 33 163 10 }
+			capital = 403
+			
 			c_jukon = {
 				color = { 216 113 195 }
 				color2 = { 8 217 57 }
@@ -460,6 +494,8 @@ e_jargien = {
 		d_lemirion = {
 			color = { 208 47 164 }
 			color2 = { 83 136 44 }
+			capital = 394
+			
 			c_lemirion = {
 				color = { 254 50 255 }
 				color2 = { 31 143 36 }
@@ -478,6 +514,8 @@ e_jargien = {
 		d_berenholt = {
 			color = { 189 85 232 }
 			color2 = { 67 166 12 }
+			capital = 396
+			
 			c_beren = {
 				color = { 194 107 163 }
 				color2 = { 84 164 9 }
@@ -496,6 +534,8 @@ e_jargien = {
 		d_lagath = {
 			color = { 184 39 200 }
 			color2 = { 94 142 32 }
+			capital = 409
+			
 			c_agadir = {
 				color = { 189 110 225 }
 				color2 = { 45 207 10 }
@@ -521,6 +561,8 @@ e_jargien = {
 		d_emperosa = {
 			color = { 180 35 208 }
 			color2 = { 88 191 63 }
+			capital = 401
+			
 			c_amra = {
 				color = { 202 26 186 }
 				color2 = { 85 234 10 }
@@ -546,6 +588,8 @@ e_jargien = {
 		d_morus = {
 			color = { 163 89 177 }
 			color2 = { 61 208 98 }
+			capital = 412
+			
 			c_cenes = {
 				color = { 197 112 235 }
 				color2 = { 8 227 84 }
@@ -580,6 +624,8 @@ e_jargien = {
 		d_jerome = {
 			color = { 218 64 254 }
 			color2 = { 96 218 93 }
+			capital = 475
+			
 			c_falano = {
 				color = { 234 46 184 }
 				color2 = { 96 233 86 }
@@ -591,6 +637,8 @@ e_jargien = {
 		d_rono = {
 			color = { 172 72 161 }
 			color2 = { 23 157 60 }
+			capital = 468
+			
 			c_taman_har = {
 				color = { 252 106 192 }
 				color2 = { 5 157 22 }
@@ -602,6 +650,8 @@ e_jargien = {
 		d_lativa = {
 			color = { 175 92 245 }
 			color2 = { 10 203 64 }
+			capital = 464
+			
 			c_doralom = {
 				color = { 202 68 187 }
 				color2 = { 91 141 9 }
@@ -620,6 +670,8 @@ e_jargien = {
 		d_daro = {
 			color = { 215 59 168 }
 			color2 = { 93 144 63 }
+			capital = 459
+			
 			c_bolos = {
 				color = { 212 114 249 }
 				color2 = { 38 180 92 }
@@ -645,6 +697,8 @@ e_jargien = {
 		d_savias = {
 			color = { 215 70 216 }
 			color2 = { 93 203 81 }
+			capital = 480
+			
 			c_savias = {
 				color = { 200 94 250 }
 				color2 = { 43 167 18 }
@@ -656,6 +710,8 @@ e_jargien = {
 		d_liboria = {
 			color = { 245 23 243 }
 			color2 = { 30 173 45 }
+			capital = 467
+			
 			c_rithera = {
 				color = { 238 95 172 }
 				color2 = { 5 229 6 }
@@ -681,6 +737,8 @@ e_jargien = {
 		d_keraat = {
 			color = { 175 30 232 }
 			color2 = { 50 230 91 }
+			capital = 461
+			
 			c_acheronus = {
 				color = { 248 94 207 }
 				color2 = { 77 164 82 }
@@ -699,6 +757,8 @@ e_jargien = {
 		d_charino = {
 			color = { 174 99 225 }
 			color2 = { 90 184 89 }
+			capital = 469
+			
 			c_sabesta = {
 				color = { 155 103 231 }
 				color2 = { 22 173 88 }
@@ -724,6 +784,8 @@ e_jargien = {
 		d_salan = {
 			color = { 192 72 194 }
 			color2 = { 29 222 40 }
+			capital = 473
+			
 			c_salan = {
 				color = { 254 84 228 }
 				color2 = { 93 145 34 }
@@ -758,6 +820,8 @@ e_jargien = {
 		d_quarran = {
 			color = { 220 21 210 }
 			color2 = { 12 180 73 }
+			capital = 450
+			
 			c_nizam = {
 				color = { 211 28 214 }
 				color2 = { 10 212 54 }
@@ -783,6 +847,8 @@ e_jargien = {
 		d_arbido = {
 			color = { 175 111 213 }
 			color2 = { 66 234 19 }
+			capital = 445
+			
 			c_arbido = {
 				color = { 207 89 217 }
 				color2 = { 89 226 56 }
@@ -810,6 +876,8 @@ e_jargien = {
 		d_urath = {
 			color = { 158 66 228 }
 			color2 = { 44 204 7 }
+			capital = 457
+			
 			c_urath = {
 				color = { 174 92 225 }
 				color2 = { 90 148 73 }
@@ -828,6 +896,8 @@ e_jargien = {
 		d_ghalenthu = {
 			color = { 216 33 240 }
 			color2 = { 87 201 50 }
+			capital = 455
+			
 			c_lakhasia = {
 				color = { 180 55 212 }
 				color2 = { 93 219 67 }
@@ -846,6 +916,8 @@ e_jargien = {
 		d_binkh = {
 			color = { 255 58 222 }
 			color2 = { 44 159 76 }
+			capital = 451
+			
 			c_sarason = {
 				color = { 215 36 236 }
 				color2 = { 90 138 43 }
@@ -880,6 +952,8 @@ e_jargien = {
 		d_tibara = {
 			color = { 187 25 195 }
 			color2 = { 94 169 10 }
+			capital = 447
+			
 			c_monastos = {
 				color = { 217 34 176 }
 				color2 = { 52 176 91 }

@@ -2,5 +2,5 @@
 	liege="k_drunok"
 }
 2950.1.1 = {
-	holder=110733
+	holder=110734
 }

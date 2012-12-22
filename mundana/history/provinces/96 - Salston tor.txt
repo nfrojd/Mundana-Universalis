@@ -6,7 +6,7 @@ title = c_salston_tor
 # Settlements
 max_settlements = 5
 
-b_salston_tor_castle = castle
+b_salston_tor_castle = temple
 b_salston_tor_city = city
 b_salston_tor_castle_1 = castle
 b_salston_tor_city_1 = castle

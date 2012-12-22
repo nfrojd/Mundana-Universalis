@@ -3,5 +3,5 @@
 }
 2950.1.1 = {
 	liege="d_hadarlons_skogar"
-	holder=110439
+	holder=110440
 }

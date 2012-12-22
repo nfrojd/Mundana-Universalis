@@ -22,9 +22,3 @@ religion = sabrian_daak
 	b_victaron_castle = ca_wall_1
 	b_victaron_city = ct_town_1
 }
-
-##### Custom start #####
-2961.4.20 = {
-	capital = b_victaron_city
-}
-##### Custom end #######

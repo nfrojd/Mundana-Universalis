@@ -5,287 +5,287 @@
 	law = succ_feudal_elective
 }
 1456.1.1 = {
-	holder=101500
+	holder=101100
 }
 1504.1.1 = {
-	holder=101501
+	holder=101101
 }
 1533.1.1 = {
-	holder=101502
+	holder=101102
 }
 1547.1.1 = {
-	holder=101503
+	holder=101103
 }
 1548.1.1 = {
-	holder=101502
+	holder=101102
 }
 1554.1.1 = {
-	holder=101503
+	holder=101103
 }
 1557.1.1 = {
-	holder=101504
+	holder=101104
 }
 1583.1.1 = {
-	holder=101505
+	holder=101105
 }
 1594.1.1 = {
 	holder=0
 }
 1597.1.1 = {
-	holder=101506
+	holder=101106
 }
 1604.1.1 = {
-	holder=101507
+	holder=101107
 }
 1613.1.1 = {
-	holder=101508
+	holder=101108
 }
 1635.1.1 = {
-	holder=101509
+	holder=101109
 }
 1657.1.1 = {
-	holder=101510
+	holder=101110
 }
 1660.1.1 = {
-	holder=101511
+	holder=101111
 }
 1661.1.1 = {
-	holder=101510
+	holder=101110
 }
 1668.1.1 = {
-	holder=101512
+	holder=101112
 }
 1669.1.1 = {
-	holder=101513
+	holder=101113
 }
 1689.1.1 = {
-	holder=101514
+	holder=101114
 }
 1705.1.1 = {
-	holder=101515
+	holder=101115
 }
 1719.1.1 = {
-	holder=101516
+	holder=101116
 }
 1736.1.1 = {
-	holder=101517
+	holder=101117
 }
 1747.1.1 = {
-	holder=101518
+	holder=101118
 }
 1755.1.1 = {
 	holder=0
 }
 1756.1.1 = {
-	holder=101519
+	holder=101119
 	law = succ_primogeniture
 }
 1765.1.1 = {
-	holder=101520
+	holder=101120
 }
 1799.1.1 = {
-	holder=101521
+	holder=101121
 }
 1826.1.1 = {
-	holder=101522
+	holder=101122
 }
 1848.1.1 = {
-	holder=101523
+	holder=101123
 }
 1856.1.1 = {
-	holder=101524
+	holder=101124
 }
 1900.1.1 = {
-	holder=101525
+	holder=101125
 }
 1906.1.1 = {
-	holder=101526
+	holder=101126
 }
 1906.1.1 = {
-	holder=101527
+	holder=101127
 }
 1911.1.1 = {
-	holder=101528
+	holder=101128
 }
 1934.1.1 = {
 	holder=0
 }
 1935.1.1 = {
-	holder=101529
+	holder=101129
 }
 1946.1.1 = {
-	holder=101530
+	holder=101130
 }
 1999.1.1 = {
-	holder=101531
+	holder=101131
 }
 2045.1.1 = {
-	holder=101532
+	holder=101132
 }
 2059.1.1 = {
-	holder=101533
+	holder=101133
 }
 2063.1.1 = {
-	holder=101534
+	holder=101134
 }
 2094.1.1 = {
-	holder=101535
+	holder=101135
 }
 2137.1.1 = {
-	holder=101536
+	holder=101136
 }
 2164.1.1 = {
-	holder=101537
+	holder=101137
 }
 2176.1.1 = {
-	holder=101538
+	holder=101138
 }
 2187.1.1 = {
-	holder=101539
+	holder=101139
 }
 2205.1.1 = {
-	holder=101540
+	holder=101140
 }
 2212.1.1 = {
-	holder=101541
+	holder=101141
 }
 2221.1.1 = {
-	holder=101542
+	holder=101142
 }
 2246.1.1 = {
-	holder=101543
+	holder=101143
 }
 2261.1.1 = {
-	holder=101544
+	holder=101144
 }
 2265.1.1 = {
-	holder=101545
+	holder=101145
 }
 2266.1.1 = {
-	holder=101546
+	holder=101146
 }
 2289.1.1 = {
-	holder=101547
+	holder=101147
 }
 2291.1.1 = {
-	holder=101548
+	holder=101148
 }
 2302.1.1 = {
-	holder=101549
+	holder=101149
 }
 2327.1.1 = {
-	holder=101550
+	holder=101150
 }
 2365.1.1 = {
-	holder=101551
+	holder=101151
 }
 2398.1.1 = {
-	holder=101552
+	holder=101152
 }
 2404.1.1 = {
-	holder=101553
+	holder=101153
 }
 2408.1.1 = {
-	holder=101554
+	holder=101154
 }
 2457.1.1 = {
-	holder=101555
+	holder=101155
 }
 2465.1.1 = {
-	holder=101556
+	holder=101156
 }
 2497.1.1 = {
-	holder=101557
+	holder=101157
 }
 2521.1.1 = {
-	holder=101558
+	holder=101158
 }
 2521.1.1 = {
-	holder=101559
+	holder=101159
 }
 2536.1.1 = {
-	holder=101560
+	holder=101160
 }
 2555.1.1 = {
-	holder=101561
+	holder=101161
 }
 2576.1.1 = {
-	holder=101562
+	holder=101162
 }
 2580.1.1 = {
-	holder=101563
+	holder=101163
 }
 2594.1.1 = {
-	holder=101564
+	holder=101164
 }
 2595.1.1 = {
-	holder=101565
+	holder=101165
 }
 2604.1.1 = {
 	holder=0
 }
 2607.1.1 = {
-	holder=101566
+	holder=101166
 }
 2615.1.1 = {
-	holder=101567
+	holder=101167
 }
 2632.1.1 = {
-	holder=101568
+	holder=101168
 }
 2635.1.1 = {
-	holder=101569
+	holder=101169
 }
 2657.1.1 = {
-	holder=101570
+	holder=101170
 }
 2685.1.1 = {
-	holder=101571
+	holder=101171
 }
 2714.1.1 = {
-	holder=101572
+	holder=101172
 }
 2735.1.1 = {
-	holder=101573
+	holder=101173
 }
 2755.1.1 = {
-	holder=101574
+	holder=101174
 }
 2761.1.1 = {
-	holder=101575
+	holder=101175
 }
 2785.1.1 = {
-	holder=101576
+	holder=101176
 }
 2797.1.1 = {
-	holder=101577
+	holder=101177
 }
 2804.1.1 = {
-	holder=101578
+	holder=101178
 }
 2804.1.1 = {
-	holder=101579
+	holder=101179
 }
 2827.1.1 = {
-	holder=101580
+	holder=101180
 }
 2840.1.1 = {
-	holder=101581
+	holder=101181
 }
 2844.1.1 = {
-	holder=101582
+	holder=101182
 }
 2876.1.1 = {
-	holder=101583
+	holder=101183
 }
 2890.1.1 = {
-	holder=101584
+	holder=101184
 }
 2903.1.1 = {
-	holder=101585
+	holder=101185
 }
 2945.1.1 = {
-	holder=101586
+	holder=101186
 }
 2951.1.1 = {
 	holder=101000

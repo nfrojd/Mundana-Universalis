@@ -2,5 +2,5 @@
 	liege="k_sunari"
 }
 2950.1.1 = {
-	holder=111139
+	holder=111140
 }

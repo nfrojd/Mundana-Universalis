@@ -2,5 +2,5 @@
 	liege="k_lemira"
 }
 2950.1.1 = {
-	holder=110067
+	holder=110068
 }

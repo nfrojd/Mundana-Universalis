@@ -9,6 +9,8 @@ k_caserion = {
 	d_rametzior_turak = {
 		color = { 105 215 76 }
 		color2 = { 170 114 119 }
+		capital = 219
+		
 		c_jhamalo_gedonia = {
 			color = { 117 148 136 }
 			color2 = { 122 120 187 }
@@ -41,6 +43,8 @@ k_caserion = {
 	d_marek_pomian = {
 		color = { 133 134 78 }
 		color2 = { 157 59 153 }
+		capital = 225
+		
 		c_celturok_meloin = {
 			color = { 134 126 55 }
 			color2 = { 189 89 120 }
@@ -66,6 +70,8 @@ k_caserion = {
 	d_narzkar_falz = {
 		color = { 85 131 107 }
 		color2 = { 145 63 135 }
+		capital = 216
+		
 		c_zamm_daliz = {
 			color = { 96 212 74 }
 			color2 = { 180 63 127 }
@@ -100,6 +106,8 @@ k_melorion = {
 	d_vambolien = {
 		color = { 49 157 89 }
 		color2 = { 216 104 119 }
+		capital = 390
+		
 		c_ciremelo = {
 			color = { 137 137 78 }
 			color2 = { 194 59 161 }
@@ -146,6 +154,8 @@ k_melorion = {
 	d_rimcoz = {
 		color = { 51 122 51 }
 		color2 = { 142 112 210 }
+		capital = 382
+		
 		c_minarin = {
 			color = { 118 149 48 }
 			color2 = { 191 136 122 }
@@ -178,6 +188,8 @@ k_melorion = {
 	d_dazava = {
 		color = { 139 204 102 }
 		color2 = { 180 96 155 }
+		capital = 386
+		
 		c_zhirim_mian = {
 			color = { 116 134 59 }
 			color2 = { 115 52 198 }

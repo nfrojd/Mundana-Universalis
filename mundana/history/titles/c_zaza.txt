@@ -2,5 +2,5 @@
 	liege="d_rametzior_turak"
 }
 2950.1.1 = {
-	holder=110245
+	holder=110246
 }

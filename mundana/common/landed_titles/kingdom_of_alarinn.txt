@@ -9,6 +9,8 @@ k_alarinn = {
 	d_sydlanden = {
 		color = { 125 232 120 }
 		color2 = { 150 8 140 }
+		capital = 135
+		
 		c_sydlanden_3 = {
 			color = { 68 177 54 }
 			color2 = { 196 32 209 }
@@ -45,6 +47,8 @@ k_alarinn = {
 	d_nordlanden = {
 		color = { 89 205 83 }
 		color2 = { 210 14 177 }
+		capital = 123
+		
 		c_niefinse = {
 			color = { 68 243 96 }
 			color2 = { 127 80 121 }
@@ -81,6 +85,8 @@ k_alarinn = {
 	d_vastlanden = {
 		color = { 109 246 123 }
 		color2 = { 137 28 204 }
+		capital = 126
+		
 		c_kentai_y = {
 			color = { 58 242 70 }
 			color2 = { 184 4 116 }
@@ -117,6 +123,8 @@ k_alarinn = {
 	d_hoglanden = {
 		color = { 83 221 125 }
 		color2 = { 193 38 122 }
+		capital = 128
+		
 		c_silarna = {
 			color = { 120 240 78 }
 			color2 = { 203 55 121 }

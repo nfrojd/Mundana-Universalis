@@ -2,5 +2,5 @@
 	liege="k_melorion"
 }
 2950.1.1 = {
-	holder=110261
+	holder=110262
 }

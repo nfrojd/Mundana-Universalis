@@ -2,5 +2,5 @@
 	liege="k_daval"
 }
 2950.1.1 = {
-	holder=110161
+	holder=110162
 }

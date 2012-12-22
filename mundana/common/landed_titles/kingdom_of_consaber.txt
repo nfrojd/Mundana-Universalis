@@ -19,6 +19,8 @@ e_consaber = {
 		d_seredan = {
 			color = { 236 75 57 }
 			color2 = { 93 212 182 }
+			capital = 100
+			
 			c_dunreith = {
 				color = { 212 81 67 }
 				color2 = { 79 237 165 }
@@ -48,6 +50,8 @@ e_consaber = {
 		d_rinya = {
 			color = { 198 37 97 }
 			color2 = { 5 154 242 }
+			capital = 93
+			
 			c_rinya = {
 				color = { 154 5 18 }
 				color2 = { 2 253 169 }
@@ -57,6 +61,8 @@ e_consaber = {
 		d_firina = {
 			color = { 237 56 48 }
 			color2 = { 31 219 179 }
+			capital = 90
+			
 			c_firina = {
 				color = { 196 25 7 }
 				color2 = { 97 251 212 }
@@ -85,6 +91,8 @@ e_consaber = {
 		d_baton = {
 			color = { 225 27 83 }
 			color2 = { 49 195 247 }
+			capital = 83
+			
 			c_rimon = {
 				color = { 233 91 86 }
 				color2 = { 95 188 159 }
@@ -113,6 +121,8 @@ e_consaber = {
 		d_creten = {
 			color = { 229 70 95 }
 			color2 = { 39 164 162 }
+			capital = 88
+			
 			c_belos = {
 				color = { 189 1 50 }
 				color2 = { 56 253 187 }
@@ -168,6 +178,8 @@ e_consaber = {
 		d_alni = {
 			color = { 199 16 59 }
 			color2 = { 63 202 190 }
+			capital = 79
+			
 			c_emnau = {
 				color = { 205 56 87 }
 				color2 = { 69 198 211 }
@@ -205,6 +217,8 @@ e_consaber = {
 		d_nantien = {
 			color = { 221 27 66 }
 			color2 = { 44 176 172 }
+			capital = 96
+			
 			c_silersham = {
 				color = { 188 66 15 }
 				color2 = { 8 167 247 }
@@ -254,6 +268,8 @@ e_consaber = {
 		d_turin = {
 			color = { 222 56 73 }
 			color2 = { 52 252 197 }
+			capital = 29
+			
 			c_korina = {
 				color = { 221 27 29 }
 				color2 = { 26 184 189 }
@@ -299,6 +315,8 @@ e_consaber = {
 		d_nol = {
 			color = { 202 62 35 }
 			color2 = { 1 210 204 }
+			capital = 24
+			
 			c_thia = {
 				color = { 222 72 88 }
 				color2 = { 46 224 243 }
@@ -327,6 +345,8 @@ e_consaber = {
 		d_ebrin = {
 			color = { 207 64 20 }
 			color2 = { 44 188 183 }
+			capital = 33
+			
 			c_dunres = {
 				color = { 218 43 30 }
 				color2 = { 22 164 252 }
@@ -375,6 +395,8 @@ e_consaber = {
 		d_vimna = {
 			color = { 209 83 11 }
 			color2 = { 71 208 159 }
+			capital = 14
+			
 			c_meredith = {
 				color = { 242 37 16 }
 				color2 = { 96 194 212 }
@@ -404,6 +426,8 @@ e_consaber = {
 		d_prowe = {
 			color = { 239 73 89 }
 			color2 = { 11 177 166 }
+			capital = 3
+			
 			c_varna = {
 				color = { 170 35 29 }
 				color2 = { 15 201 182 }
@@ -432,6 +456,8 @@ e_consaber = {
 		d_tarna = {
 			color = { 249 18 44 }
 			color2 = { 24 247 236 }
+			capital = 15
+			
 			c_treigh = {
 				color = { 166 13 39 }
 				color2 = { 38 200 254 }
@@ -459,6 +485,8 @@ e_consaber = {
 		d_colm = {
 			color = { 222 10 3 }
 			color2 = { 13 169 184 }
+			capital = 1
+			
 			c_colm = {
 				color = { 157 12 9 }
 				color2 = { 27 184 227 }
@@ -469,6 +497,8 @@ e_consaber = {
 		d_ramnesney = {
 			color = { 232 51 20 }
 			color2 = { 67 177 198 }
+			capital = 20
+			
 			c_ramnesney = {
 				color = { 180 13 36 }
 				color2 = { 83 202 187 }
@@ -506,6 +536,8 @@ e_consaber = {
 		d_nensen = {
 			color = { 187 75 71 }
 			color2 = { 88 236 192 }
+			capital = 5
+			
 			c_bret = {
 				color = { 220 12 78 }
 				color2 = { 62 243 186 }
@@ -535,6 +567,8 @@ e_consaber = {
 		d_rim = {
 			color = { 216 30 97 }
 			color2 = { 90 237 226 }
+			capital = 9
+			
 			c_marnoc = {
 				color = { 205 99 82 }
 				color2 = { 21 175 160 }
@@ -583,6 +617,8 @@ e_consaber = {
 		d_negin = {
 			color = { 192 91 39 }
 			color2 = { 66 248 235 }
+			capital = 47
+			
 			c_fene = {
 				color = { 230 12 18 }
 				color2 = { 59 196 172 }
@@ -619,6 +655,8 @@ e_consaber = {
 		d_tresna = {
 			color = { 188 57 93 }
 			color2 = { 43 219 235 }
+			capital = 42
+			
 			c_serurik = {
 				color = { 157 85 59 }
 				color2 = { 42 229 208 }
@@ -655,6 +693,8 @@ e_consaber = {
 		d_flarne = {
 			color = { 170 64 64 }
 			color2 = { 75 185 216 }
+			capital = 37
+			
 			c_faimon = {
 				color = { 175 47 34 }
 				color2 = { 83 238 224 }
@@ -683,6 +723,8 @@ e_consaber = {
 		d_arsacke = {
 			color = { 220 86 99 }
 			color2 = { 29 249 227 }
+			capital = 35
+			
 			c_kirine = {
 				color = { 241 4 94 }
 				color2 = { 4 193 170 }
@@ -711,6 +753,8 @@ e_consaber = {
 		d_alcheg = {
 			color = { 204 97 3 }
 			color2 = { 7 162 241 }
+			capital = 52
+			
 			c_alcheg = {
 				color = { 203 29 32 }
 				color2 = { 60 199 242 }
@@ -739,6 +783,8 @@ e_consaber = {
 		d_laerm = {
 			color = { 168 38 33 }
 			color2 = { 64 169 230 }
+			capital = 48
+			
 			c_lareigh = {
 				color = { 198 39 76 }
 				color2 = { 18 170 166 }
@@ -771,6 +817,8 @@ e_consaber = {
 		d_felosi = {
 			color = { 213 101 75 }
 			color2 = { 37 155 197 }
+			capital = 54
+			
 			c_euter = {
 				color = { 216 59 63 }
 				color2 = { 49 242 246 }
@@ -791,6 +839,8 @@ e_consaber = {
 		d_agant = {
 			color = { 243 68 30 }
 			color2 = { 44 243 215 }
+			capital = 64
+			
 			c_agant = {
 				color = { 201 55 76 }
 				color2 = { 38 155 186 }
@@ -820,6 +870,8 @@ e_consaber = {
 		d_cralo = {
 			color = { 217 23 99 }
 			color2 = { 35 181 186 }
+			capital = 61
+			
 			c_orvina = {
 				color = { 249 62 47 }
 				color2 = { 57 176 241 }
@@ -856,12 +908,14 @@ e_consaber = {
 		d_uter = {
 			color = { 217 2 88 }
 			color2 = { 94 204 211 }
+			capital = 68
+			
 			c_sema = {
 				color = { 207 25 54 }
 				color2 = { 2 194 206 }
-				b_sema_temple = {}
-				b_sema_city = {}
 				b_sema_castle = {}
+				b_sema_city = {}
+				b_sema_temple = {}
 				b_sema_castle_1 = {}
 			}
 			c_ulw = {
@@ -892,6 +946,8 @@ e_consaber = {
 		d_calnia = {
 			color = { 224 95 73 }
 			color2 = { 9 208 214 }
+			capital = 75
+			
 			c_sara = {
 				color = { 246 20 49 }
 				color2 = { 87 231 163 }
@@ -946,6 +1002,8 @@ e_consaber = {
 		d_skywif = {
 			color = { 215 9 101 }
 			color2 = { 58 236 167 }
+			capital = 56
+			
 			c_irinn = {
 				color = { 197 89 61 }
 				color2 = { 81 208 191 }

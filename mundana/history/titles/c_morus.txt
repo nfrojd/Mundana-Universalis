@@ -2,5 +2,5 @@
 	liege="d_morus"
 }
 2950.1.1 = {
-	holder=110005
+	holder=110006
 }

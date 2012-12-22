@@ -29,6 +29,8 @@ k_mur = {
 	d_mur = {
 		color = { 120 141 131 }
 		color2 = { 74 132 145 }
+		capital = 478
+		
 		c_mur = {
 			color = { 134 200 58 }
 			color2 = { 63 70 200 }
@@ -47,6 +49,8 @@ k_zorlakh = {
 	d_zorlakh = {
 		color = { 194 130 48 }
 		color2 = { 79 49 159 }
+		capital = 439
+		
 		c_zorlakh = {
 			color = { 135 148 119 }
 			color2 = { 132 90 125 }
@@ -65,6 +69,8 @@ k_upper_kholon = {
 	d_upper_kholon = {
 		color = { 152 186 53 }
 		color2 = { 74 116 127 }
+		capital = 137
+		
 		c_upper_kholon = {
 			color = { 208 195 86 }
 			color2 = { 62 138 151 }
@@ -83,6 +89,8 @@ k_narekh = {
 	d_narekh = {
 		color = { 217 154 86 }
 		color2 = { 125 42 172 }
+		capital = 70
+		
 		c_narec = {
 			color = { 205 133 97 }
 			color2 = { 131 114 171 }
@@ -101,6 +109,8 @@ k_zarakh = {
 	d_zarakh = {
 		color = { 200 134 116 }
 		color2 = { 42 69 171 }
+		capital = 223
+		
 		c_zarakh = {
 			color = { 136 116 135 }
 			color2 = { 138 131 191 }
@@ -119,6 +129,8 @@ k_tar_hir = {
 	d_tar_hir = {
 		color = { 149 168 67 }
 		color2 = { 58 138 178 }
+		capital = 245
+		
 		c_tar_hir = {
 			color = { 170 187 63 }
 			color2 = { 119 130 131 }
@@ -137,6 +149,8 @@ k_lower_kholon = {
 	d_lower_kholon = {
 		color = { 174 188 86 }
 		color2 = { 109 129 118 }
+		capital = 136
+		
 		c_lower_kholon = {
 			color = { 214 161 103 }
 			color2 = { 75 50 186 }
@@ -155,6 +169,8 @@ k_kraalen = {
 	d_kraalen = {
 		color = { 152 177 105 }
 		color2 = { 122 126 135 }
+		capital = 244
+		
 		c_kraalen = {
 			color = { 134 155 114 }
 			color2 = { 96 51 197 }
@@ -173,6 +189,8 @@ k_ikham = {
 	d_ikham = {
 		color = { 196 169 48 }
 		color2 = { 134 128 182 }
+		capital = 185
+		
 		c_ikham = {
 			color = { 170 167 89 }
 			color2 = { 70 91 186 }

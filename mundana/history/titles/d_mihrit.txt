@@ -2,5 +2,5 @@
 	liege="k_mihrit"
 }
 2950.1.1 = {
-	holder=110151
+	holder=110152
 }

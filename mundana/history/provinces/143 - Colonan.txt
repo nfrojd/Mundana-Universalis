@@ -36,9 +36,3 @@ religion = sabrian_daak
 	b_colonan_city = ct_port_3
 	b_colonan_city = ct_port_4
 }
-
-##### Custom start #####
-2961.4.20 = {
-	capital = b_colonan_city
-}
-##### Custom end #######
